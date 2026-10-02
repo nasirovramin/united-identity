@@ -6,7 +6,8 @@ const SOURCES=[
 ];
 const FILTERS=["identity","visual communication","branding","brand identity","visual identity"];
 const STRONG=["identity system","brand system","brand design","rebrand","rebranding","brand refresh","brand world"];
-const MAX_SEND=12;\n// Redeploy marker: web crawler + filtered identity scan active.
+const MAX_SEND=12;
+// Redeploy marker: web crawler + filtered identity scan active.
 
 export default {
  async fetch(req,env){
@@ -14,7 +15,9 @@ export default {
   if(p==="/scan") return out(await scan(env));
   if(p==="/linkedin-test") return out(await linkedinTest(env));
   if(p==="/health") return out({ok:true,module:"web-page crawler",filters:FILTERS,sources:SOURCES.map(x=>x.name)});
-  return new Response("United Identity işləyir ✅\nVeb modul aktivdir.\nFiltrlər: Identity / Visual Communication / Branding / Brand Identity");
+  return new Response("United Identity işləyir ✅
+Veb modul aktivdir.
+Filtrlər: Identity / Visual Communication / Branding / Brand Identity");
  },
  async scheduled(c,env,ctx){ctx.waitUntil(scan(env))}
 };
@@ -84,7 +87,14 @@ function pick(s,r){const m=s.match(r);return m?dec(m[1]):""}
 function dec(s=""){return s.replace(/&amp;/gi,"&").replace(/&quot;/gi,'"').replace(/&#39;|&apos;/gi,"'").replace(/&lt;/gi,"<").replace(/&gt;/gi,">").replace(/&nbsp;/gi," ").replace(/&#(\d+);/g,(_,n)=>String.fromCharCode(+n))}
 function clean(s=""){return dec(String(s)).replace(/<[^>]+>/g," ").replace(/\s+/g," ").trim()}
 async function telegram(env,x){
- const t="🟨 <b>"+esc(cut(x.title,220))+"</b>\n\n"+(x.desc?esc(cut(x.desc,520))+"\n\n":"")+"🌐 <b>Mənbə:</b> "+esc(x.source)+"\n🔗 <a href=\""+esc(x.url)+"\">Materialı aç</a>\n\n#Branding #BrandIdentity #VisualIdentity #VisualCommunication";
+ const t="🟨 <b>"+esc(cut(x.title,220))+"</b>
+
+"+(x.desc?esc(cut(x.desc,520))+"
+
+":"")+"🌐 <b>Mənbə:</b> "+esc(x.source)+"
+🔗 <a href=\""+esc(x.url)+"\">Materialı aç</a>
+
+#Branding #BrandIdentity #VisualIdentity #VisualCommunication";
  const r=await fetch("https://api.telegram.org/bot"+env.TELEGRAM_BOT_TOKEN+"/sendMessage",{method:"POST",headers:{"content-type":"application/json"},body:JSON.stringify({chat_id:env.TELEGRAM_CHAT_ID,text:t,parse_mode:"HTML",disable_web_page_preview:false})});
  const d=await r.json(); if(!d.ok) throw Error("Telegram "+JSON.stringify(d));
 }
@@ -99,7 +109,12 @@ function out(x){return new Response(JSON.stringify(x,null,2),{headers:{"content-
 async function linkedinTest(env){
  const key="test:linkedin:wildling-papa-tom";
  if(await env.IDENTITY_KV.get(key)) return {ok:true,alreadySent:true};
- const text="<b>Wildling Schorle — Brand Identity</b>\n\nWildling Almaniyanın cənubundan olan alkoqolsuz meyvə içkisidir. PAPA TOM Identity Studio brend üçün təbiəti romantik göstərmək əvəzinə daha xam, atmosferik və qüsurları gizlətməyən vizual dil yaradıb. Narıncı rəng, fotoqrafiya və orqanik W işarəsi bütün identity sistemini birləşdirir.\n\n<b>Agentlik:</b> PAPA TOM Identity Studio\n<b>Mənbə:</b> Outstanding Branding — LinkedIn";
+ const text="<b>Wildling Schorle — Brand Identity</b>
+
+Wildling Almaniyanın cənubundan olan alkoqolsuz meyvə içkisidir. PAPA TOM Identity Studio brend üçün təbiəti romantik göstərmək əvəzinə daha xam, atmosferik və qüsurları gizlətməyən vizual dil yaradıb. Narıncı rəng, fotoqrafiya və orqanik W işarəsi bütün identity sistemini birləşdirir.
+
+<b>Agentlik:</b> PAPA TOM Identity Studio
+<b>Mənbə:</b> Outstanding Branding — LinkedIn";
  const sourceUrl="https://www.linkedin.com/company/0utstanding-branding/posts/?feedView=all";
  const r=await fetch("https://api.telegram.org/bot"+env.TELEGRAM_BOT_TOKEN+"/sendMessage",{method:"POST",headers:{"content-type":"application/json"},body:JSON.stringify({chat_id:env.TELEGRAM_CHAT_ID,text,parse_mode:"HTML",link_preview_options:{url:sourceUrl,is_disabled:false,prefer_large_media:true}})});
  const d=await r.json(); if(!d.ok) throw Error("Telegram "+JSON.stringify(d));
