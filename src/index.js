@@ -6,7 +6,7 @@ const SOURCES=[
 ];
 const FILTERS=["identity","visual communication","branding","brand identity","visual identity"];
 const STRONG=["identity system","brand system","brand design","rebrand","rebranding","brand refresh","brand world"];
-const MAX_SEND=12;
+const MAX_SEND=12;\n// Redeploy marker: web crawler + filtered identity scan active.
 
 export default {
  async fetch(req,env){
