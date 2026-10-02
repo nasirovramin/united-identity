@@ -107,12 +107,13 @@ function out(x){return new Response(JSON.stringify(x,null,2),{headers:{"content-
 async function linkedinTest(env){
  const key="test:linkedin:wildling-papa-tom";
  if(await env.IDENTITY_KV.get(key)) return {ok:true,alreadySent:true};
- const text="<b>Wildling Schorle — Brand Identity</b>
-
-Wildling Almaniyanın cənubundan olan alkoqolsuz meyvə içkisidir. PAPA TOM Identity Studio brend üçün təbiəti romantik göstərmək əvəzinə daha xam, atmosferik və qüsurları gizlətməyən vizual dil yaradıb. Narıncı rəng, fotoqrafiya və orqanik W işarəsi bütün identity sistemini birləşdirir.
-
-<b>Agentlik:</b> PAPA TOM Identity Studio
-<b>Mənbə:</b> Outstanding Branding — LinkedIn";
+ const lines=[
+  "<b>Wildling Schorle — Brand Identity</b>",
+  "Wildling Almaniyanın cənubundan olan alkoqolsuz meyvə içkisidir. PAPA TOM Identity Studio brend üçün təbiəti romantik göstərmək əvəzinə daha xam, atmosferik və qüsurları gizlətməyən vizual dil yaradıb. Narıncı rəng, fotoqrafiya və orqanik W işarəsi bütün identity sistemini birləşdirir.",
+  "<b>Agentlik:</b> PAPA TOM Identity Studio",
+  "<b>Mənbə:</b> Outstanding Branding — LinkedIn"
+ ];
+ const text=lines.join("\\n\\n");
  const sourceUrl="https://www.linkedin.com/company/0utstanding-branding/posts/?feedView=all";
  const r=await fetch("https://api.telegram.org/bot"+env.TELEGRAM_BOT_TOKEN+"/sendMessage",{method:"POST",headers:{"content-type":"application/json"},body:JSON.stringify({chat_id:env.TELEGRAM_CHAT_ID,text,parse_mode:"HTML",link_preview_options:{url:sourceUrl,is_disabled:false,prefer_large_media:true}})});
  const d=await r.json(); if(!d.ok) throw Error("Telegram "+JSON.stringify(d));
