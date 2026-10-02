@@ -15,9 +15,7 @@ export default {
   if(p==="/scan") return out(await scan(env));
   if(p==="/linkedin-test") return out(await linkedinTest(env));
   if(p==="/health") return out({ok:true,module:"web-page crawler",filters:FILTERS,sources:SOURCES.map(x=>x.name)});
-  return new Response("United Identity işləyir ✅
-Veb modul aktivdir.
-Filtrlər: Identity / Visual Communication / Branding / Brand Identity");
+  return new Response("United Identity işləyir ✅\\nVeb modul aktivdir.\\nFiltrlər: Identity / Visual Communication / Branding / Brand Identity");
  },
  async scheduled(c,env,ctx){ctx.waitUntil(scan(env))}
 };
