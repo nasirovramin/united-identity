@@ -12,6 +12,7 @@ export default {
  async fetch(req,env){
   const p=new URL(req.url).pathname;
   if(p==="/scan") return out(await scan(env));
+  if(p==="/linkedin-test") return out(await linkedinTest(env));
   if(p==="/health") return out({ok:true,module:"web-page crawler",filters:FILTERS,sources:SOURCES.map(x=>x.name)});
   return new Response("United Identity işləyir ✅\nVeb modul aktivdir.\nFiltrlər: Identity / Visual Communication / Branding / Brand Identity");
  },
@@ -93,3 +94,15 @@ async function hash(s){const b=await crypto.subtle.digest("SHA-256",new TextEnco
 function need(e){const a=[];if(!e.TELEGRAM_BOT_TOKEN)a.push("TELEGRAM_BOT_TOKEN");if(!e.TELEGRAM_CHAT_ID)a.push("TELEGRAM_CHAT_ID");if(!e.IDENTITY_KV)a.push("IDENTITY_KV");if(a.length)throw Error("Missing: "+a.join(", "))}
 function msg(e){return e instanceof Error?e.message:String(e)}
 function out(x){return new Response(JSON.stringify(x,null,2),{headers:{"content-type":"application/json;charset=UTF-8"}})}
+
+
+async function linkedinTest(env){
+ const key="test:linkedin:wildling-papa-tom";
+ if(await env.IDENTITY_KV.get(key)) return {ok:true,alreadySent:true};
+ const text="<b>Wildling Schorle — Brand Identity</b>\n\nWildling Almaniyanın cənubundan olan alkoqolsuz meyvə içkisidir. PAPA TOM Identity Studio brend üçün təbiəti romantik göstərmək əvəzinə daha xam, atmosferik və qüsurları gizlətməyən vizual dil yaradıb. Narıncı rəng, fotoqrafiya və orqanik W işarəsi bütün identity sistemini birləşdirir.\n\n<b>Agentlik:</b> PAPA TOM Identity Studio\n<b>Mənbə:</b> Outstanding Branding — LinkedIn";
+ const sourceUrl="https://www.linkedin.com/company/0utstanding-branding/posts/?feedView=all";
+ const r=await fetch("https://api.telegram.org/bot"+env.TELEGRAM_BOT_TOKEN+"/sendMessage",{method:"POST",headers:{"content-type":"application/json"},body:JSON.stringify({chat_id:env.TELEGRAM_CHAT_ID,text,parse_mode:"HTML",link_preview_options:{url:sourceUrl,is_disabled:false,prefer_large_media:true}})});
+ const d=await r.json(); if(!d.ok) throw Error("Telegram "+JSON.stringify(d));
+ await env.IDENTITY_KV.put(key,new Date().toISOString());
+ return {ok:true,sent:true,message_id:d.result.message_id};
+}
