@@ -1,0 +1,1 @@
+{"$schema":"node_modules/wrangler/config-schema.json","name":"united-identity","main":"src/index.js","compatibility_date":"2026-10-02","kv_namespaces":[{"binding":"IDENTITY_KV","id":"3f6e852d0beb4c1b836ac751c18eb222"}]}
