@@ -85,14 +85,14 @@ function pick(s,r){const m=s.match(r);return m?dec(m[1]):""}
 function dec(s=""){return s.replace(/&amp;/gi,"&").replace(/&quot;/gi,'"').replace(/&#39;|&apos;/gi,"'").replace(/&lt;/gi,"<").replace(/&gt;/gi,">").replace(/&nbsp;/gi," ").replace(/&#(\d+);/g,(_,n)=>String.fromCharCode(+n))}
 function clean(s=""){return dec(String(s)).replace(/<[^>]+>/g," ").replace(/\s+/g," ").trim()}
 async function telegram(env,x){
- const t="🟨 <b>"+esc(cut(x.title,220))+"</b>
-
-"+(x.desc?esc(cut(x.desc,520))+"
-
-":"")+"🌐 <b>Mənbə:</b> "+esc(x.source)+"
-🔗 <a href=\""+esc(x.url)+"\">Materialı aç</a>
-
-#Branding #BrandIdentity #VisualIdentity #VisualCommunication";
+ const parts=[
+  "🟨 <b>"+esc(cut(x.title,220))+"</b>",
+  x.desc?esc(cut(x.desc,520)):"",
+  "🌐 <b>Mənbə:</b> "+esc(x.source),
+  "🔗 <a href=\""+esc(x.url)+"\">Materialı aç</a>",
+  "#Branding #BrandIdentity #VisualIdentity #VisualCommunication"
+ ].filter(Boolean);
+ const t=parts.join("\\n\\n");
  const r=await fetch("https://api.telegram.org/bot"+env.TELEGRAM_BOT_TOKEN+"/sendMessage",{method:"POST",headers:{"content-type":"application/json"},body:JSON.stringify({chat_id:env.TELEGRAM_CHAT_ID,text:t,parse_mode:"HTML",disable_web_page_preview:false})});
  const d=await r.json(); if(!d.ok) throw Error("Telegram "+JSON.stringify(d));
 }
