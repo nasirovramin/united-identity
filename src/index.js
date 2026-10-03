@@ -329,7 +329,7 @@ async function telegram(env,x){
   "🎬 <b>"+esc(cut(title,220))+"</b>",
   ...parts.map(p=>esc(cut(p,420))),
   x.agency?"<b>Agentlik:</b> "+esc(x.agency):"",
-  x.projectDate?"<b>Yaranma tarixi:</b> "+esc(x.projectDate):"",
+  x.projectDate?"<b>"+esc(x.projectDateLabel||"Yaranma tarixi")+":</b> "+esc(x.projectDate):"",
   "#visualidentity",
   bottom
  ].filter(Boolean).join("\n\n");
@@ -646,6 +646,7 @@ function extractDeterministicCredits(html,articleText){
 
 async function extractProjectMeta(env,{title,sourceName,published,articleText,html}){
  const deterministic=extractDeterministicCredits(html,articleText);
+ const articleDate=formatProjectDate(published);
  const prompt=
   "Aşağıdakı layihə materialından yalnız DƏQİQ görünən məlumatı çıxar. Heç nə təxmin etmə və uydurma. "+
   "1) Layihəni yaradan agentlik/studio/dizayn komandası. Yalnız xüsusi ad qaytar (məsələn, 'Nomad Studio'). Cümlə fraqmenti qaytarma. Xəbər saytını agentlik kimi yazma. "+
@@ -657,6 +658,7 @@ async function extractProjectMeta(env,{title,sourceName,published,articleText,ht
  const out=await aiText(env,prompt);
  let agency=deterministic.agency||"";
  let projectDate=deterministic.projectDate||"";
+ let projectDateLabel=projectDate?"Yaranma tarixi":"";
  if(out){
   try{
    const j=JSON.parse(out.replace(/^```json\s*/i,"").replace(/```$/,"").trim());
@@ -664,10 +666,17 @@ async function extractProjectMeta(env,{title,sourceName,published,articleText,ht
     const a=clean(j.agency).replace(/[“”"'.,;:]+$/g,"").trim();
     if(a && a.length<=90 && !/^(has been|have been|was|were|is|are|been|enlisted|commissioned|to bring|to create|to develop)/i.test(a)) agency=a;
    }
-   if(!projectDate&&j&&typeof j.project_date==="string") projectDate=formatProjectDate(j.project_date);
+   if(!projectDate&&j&&typeof j.project_date==="string"){
+    const d=formatProjectDate(j.project_date);
+    if(d){ projectDate=d; projectDateLabel="Yaranma tarixi"; }
+   }
   }catch{}
  }
- return {agency,projectDate};
+ if(!projectDate && articleDate){
+  projectDate=articleDate;
+  projectDateLabel="Məqalə tarixi";
+ }
+ return {agency,projectDate,projectDateLabel};
 }
 
 async function getTelegraphToken(env){
@@ -685,13 +694,13 @@ async function getTelegraphToken(env){
  return token;
 }
 
-async function createTelegraphPage(env,{title,translatedText,images,sourceUrl,sourceName,agency,projectDate}){
+async function createTelegraphPage(env,{title,translatedText,images,sourceUrl,sourceName,agency,projectDate,projectDateLabel}){
  const token=await getTelegraphToken(env);
  const paragraphs=translatedText.split(/\n\s*\n/).map(clean).filter(Boolean);
  const imgs=dedupeImageUrls((images||[]).filter(u=>/^https?:\/\//i.test(u)));
  const nodes=[];
  if(agency) nodes.push({tag:"p",children:[{tag:"strong",children:["Agentlik: "]},agency]});
- if(projectDate) nodes.push({tag:"p",children:[{tag:"strong",children:["Yaranma tarixi: "]},projectDate]});
+ if(projectDate) nodes.push({tag:"p",children:[{tag:"strong",children:[(projectDateLabel||"Yaranma tarixi")+": "]},projectDate]});
  if(agency||projectDate) nodes.push({tag:"hr"});
 
  // Article-style layout: text and visuals alternate naturally.
@@ -770,11 +779,12 @@ async function prepareProject(env,html,m,url,source){
     sourceUrl:url,
     sourceName:source,
     agency:projectMeta.agency,
-    projectDate:projectMeta.projectDate
+    projectDate:projectMeta.projectDate,
+    projectDateLabel:projectMeta.projectDateLabel
    });
   }catch(e){
    telegraphUrl="";
   }
  }
- return {...m,titleAz,desc:normalizeIdentityTerms(descAz),url,source,telegraphUrl,agency:projectMeta.agency,projectDate:projectMeta.projectDate};
+ return {...m,titleAz,desc:normalizeIdentityTerms(descAz),url,source,telegraphUrl,agency:projectMeta.agency,projectDate:projectMeta.projectDate,projectDateLabel:projectMeta.projectDateLabel};
 }
