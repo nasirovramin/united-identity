@@ -6,7 +6,7 @@ const SOURCES=[
 ];
 const FILTERS=["identity","visual communication","branding","brand identity","visual identity","айдентика","фирменный стиль","визуальная идентичность","визуальная айдентика","брендинг","ребрендинг","бренд-система","система бренда","визуальная система","визуальная коммуникация","визуальные коммуникации","бренд-дизайн","редизайн бренда","фирменная айдентика"];
 const STRONG=["identity system","brand system","brand design","rebrand","rebranding","brand refresh","brand world"];
-const REJECT_PATHS=["/insights","/news","/about","/contact","/jobs","/careers","/features","/articles","/archive","/category","/categories","/tag","/tags","/work/","/projects/"];
+const REJECT_PATHS=["/insights","/news","/about","/contact","/jobs","/careers","/features","/archive","/category","/categories","/tag","/tags","/work/","/projects/","/media/identity","/media/graphic-design","/media/branding","/media/typography"];
 const REJECT_TITLES=["insights","news","about","contact","jobs","careers","features","articles","archive","work","projects","branding"];
 const MAX_SEND=12;
 // Redeploy marker: web crawler + filtered identity scan active.
@@ -62,9 +62,12 @@ function isGenericPage(url,text=""){
   const u=new URL(url);
   const p=u.pathname.toLowerCase().replace(/\/+$/,"");
   if(REJECT_PATHS.some(x=>p===x.replace(/\/+$/,"")||p.startsWith(x))) return true;
+  const seg=p.split("/").filter(Boolean);
+  if(seg.length<=2 && /^(media|topic|topics|category|categories|tag|tags|work|projects)$/i.test(seg[0]||"")) return true;
  }catch{}
  const t=clean(text).toLowerCase();
- return REJECT_TITLES.some(x=>t===x||t===x+" | it's nice that"||t===x+" - creative boom");
+ return REJECT_TITLES.some(x=>t===x||t===x+" | it's nice that"||t===x+" - creative boom")||
+   /^(identity|graphic design|branding|typography)\s*(\||-|$)/i.test(t);
 }
 function isProjectLike(m,a,body){
  const head=clean((a.text||"")+" "+(m.title||"")+" "+(m.desc||"")).toLowerCase();
@@ -120,7 +123,7 @@ function tag(h,key){
         pick(h,new RegExp('<meta[^>]*content=["\\\']([^"\\\']*)["\\\'][^>]*(?:property|name)=["\\\']'+esc+'["\\\']','i'));
 }
 function pick(s,r){const m=s.match(r);return m?dec(m[1]):""}
-function dec(s=""){return s.replace(/&amp;/gi,"&").replace(/&quot;/gi,'"').replace(/&#39;|&apos;/gi,"'").replace(/&lt;/gi,"<").replace(/&gt;/gi,">").replace(/&nbsp;/gi," ").replace(/&#(\d+);/g,(_,n)=>String.fromCharCode(+n))}
+function dec(s=""){return s.replace(/&amp;/gi,"&").replace(/&quot;/gi,'"').replace(/&#39;|&apos;/gi,"'").replace(/&lt;/gi,"<").replace(/&gt;/gi,">").replace(/&nbsp;/gi," ").replace(/&#x([0-9a-f]+);/gi,(_,n)=>String.fromCodePoint(parseInt(n,16))).replace(/&#(\d+);/g,(_,n)=>String.fromCodePoint(+n))}
 function clean(s=""){return dec(String(s)).replace(/<[^>]+>/g," ").replace(/\s+/g," ").trim()}
 async function telegram(env,x){
  const title=cleanTitle(x.title||"Identity layihəsi");
