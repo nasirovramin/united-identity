@@ -95,7 +95,23 @@ function links(h,base,host){
 function meta(h,fallback){
  const title=tag(h,"og:title")||tag(h,"twitter:title")||pick(h,/<title[^>]*>([\s\S]*?)<\/title>/i)||fallback;
  const desc=tag(h,"og:description")||tag(h,"description")||tag(h,"twitter:description")||"";
- return {title:clean(title),desc:clean(desc)};
+ const image=tag(h,"og:image")||tag(h,"twitter:image")||"";
+ const images=[image,...extractImages(h,fallback)].filter(Boolean);
+ return {title:clean(title),desc:clean(desc),image,images:[...new Set(images)].slice(0,10)};
+}
+function extractImages(h,base){
+ const out=[];
+ const re=/<img\b[^>]*(?:src|data-src)=["']([^"']+)["'][^>]*>/gi; let m;
+ while((m=re.exec(h))){
+  try{
+   const u=new URL(dec(m[1]),base);
+   if(!/^https?:$/i.test(u.protocol)) continue;
+   const s=u.toString();
+   if(/logo|icon|avatar|sprite|favicon/i.test(s)) continue;
+   out.push(s);
+  }catch{}
+ }
+ return out;
 }
 function tag(h,key){
  const esc=key.replace(/[.*+?^$()|[\]\\]/g,"\\$&");
@@ -106,16 +122,40 @@ function pick(s,r){const m=s.match(r);return m?dec(m[1]):""}
 function dec(s=""){return s.replace(/&amp;/gi,"&").replace(/&quot;/gi,'"').replace(/&#39;|&apos;/gi,"'").replace(/&lt;/gi,"<").replace(/&gt;/gi,">").replace(/&nbsp;/gi," ").replace(/&#(\d+);/g,(_,n)=>String.fromCharCode(+n))}
 function clean(s=""){return dec(String(s)).replace(/<[^>]+>/g," ").replace(/\s+/g," ").trim()}
 async function telegram(env,x){
- const parts=[
-  "🟨 <b>"+esc(cut(x.title,220))+"</b>",
-  x.desc?esc(cut(x.desc,520)):"",
-  "🌐 <b>Mənbə:</b> "+esc(x.source),
-  "🔗 <a href=\""+esc(x.url)+"\">Materialı aç</a>",
-  "#Branding #BrandIdentity #VisualIdentity #VisualCommunication"
- ].filter(Boolean);
- const t=parts.join("\\n\\n");
- const r=await fetch("https://api.telegram.org/bot"+env.TELEGRAM_BOT_TOKEN+"/sendMessage",{method:"POST",headers:{"content-type":"application/json"},body:JSON.stringify({chat_id:env.TELEGRAM_CHAT_ID,text:t,parse_mode:"HTML",disable_web_page_preview:false})});
+ const title=cleanTitle(x.title||"Identity layihəsi");
+ const desc=clean(x.desc||"Vizual kimlik layihəsi.");
+ const parts=splitParagraphs(desc,2);
+ const sourceLink='<a href="'+esc(x.url)+'">Mənbə: '+esc(x.source)+'</a>';
+ const detailsLink='<a href="'+esc(x.url)+'">Ətraflı</a>';
+ const caption=[
+  "🎬 <b>"+esc(cut(title,220))+"</b>",
+  ...parts.map(p=>esc(cut(p,420))),
+  x.agency?"<b>Agentlik:</b> "+esc(x.agency):"",
+  "#visualidentity",
+  detailsLink+"     "+sourceLink
+ ].filter(Boolean).join("\n\n");
+
+ const imgs=(x.images||[]).filter(u=>/^https?:\/\//i.test(u)).slice(0,10);
+ if(imgs.length){
+  const media=imgs.map((u,i)=>i===0?{type:"photo",media:u,caption,parse_mode:"HTML"}:{type:"photo",media:u});
+  const r=await fetch("https://api.telegram.org/bot"+env.TELEGRAM_BOT_TOKEN+"/sendMediaGroup",{method:"POST",headers:{"content-type":"application/json"},body:JSON.stringify({chat_id:env.TELEGRAM_CHAT_ID,media})});
+  const d=await r.json();
+  if(d.ok) return d.result;
+ }
+ const r=await fetch("https://api.telegram.org/bot"+env.TELEGRAM_BOT_TOKEN+"/sendMessage",{method:"POST",headers:{"content-type":"application/json"},body:JSON.stringify({chat_id:env.TELEGRAM_CHAT_ID,text:caption,parse_mode:"HTML",disable_web_page_preview:true})});
  const d=await r.json(); if(!d.ok) throw Error("Telegram "+JSON.stringify(d));
+ return d.result;
+}
+function cleanTitle(s=""){
+ return clean(s).replace(/\s*\|\s*It&#x27;s Nice That$/i,"").replace(/\s*\|\s*It's Nice That$/i,"").trim();
+}
+function splitParagraphs(s="",n=2){
+ s=clean(s);
+ if(!s) return [];
+ const sentences=s.match(/[^.!?]+[.!?]?/g)||[s];
+ if(sentences.length<=1) return [s];
+ const mid=Math.ceil(sentences.length/2);
+ return [sentences.slice(0,mid).join(" ").trim(),sentences.slice(mid).join(" ").trim()].filter(Boolean).slice(0,n);
 }
 function esc(s=""){return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;")}
 function cut(s,n){s=clean(s);return s.length<=n?s:s.slice(0,n-1).trim()+"…"}
@@ -160,16 +200,10 @@ async function realTest(env){
      const fingerprint=clean(m.title).toLowerCase().replace(/[^a-z0-9а-яё]+/gi," ").trim();
      const key="project:"+await hash(fingerprint||a.url);
      if(await env.IDENTITY_KV.get(key)) continue;
-     const text=[
-       "🎨 <b>"+esc(cut(m.title,220))+"</b>",
-       esc(cut(m.desc||"Vizual kimlik və brend sistemi üzrə seçilmiş layihə.",500)),
-       "<b>Mənbə:</b> <a href=\""+esc(a.url)+"\">"+esc(s.name)+"</a>",
-       "#VisualIdentity"
-     ].join("\n\n");
-     const r=await fetch("https://api.telegram.org/bot"+env.TELEGRAM_BOT_TOKEN+"/sendMessage",{method:"POST",headers:{"content-type":"application/json"},body:JSON.stringify({chat_id:env.TELEGRAM_CHAT_ID,text,parse_mode:"HTML",disable_web_page_preview:false})});
-     const d=await r.json(); if(!d.ok) throw Error("Telegram "+JSON.stringify(d));
+     const result=await telegram(env,{...m,url:a.url,source:s.name});
      await env.IDENTITY_KV.put(key,JSON.stringify({title:m.title,url:a.url,source:s.name,sentAt:new Date().toISOString()}));
-     return {ok:true,sent:true,source:s.name,title:m.title,url:a.url,message_id:d.result.message_id};
+     const message_id=Array.isArray(result)&&result[0]?result[0].message_id:result.message_id;
+     return {ok:true,sent:true,source:s.name,title:m.title,url:a.url,message_id};
     }catch(e){errors.push(s.name+" candidate: "+msg(e))}
    }
   }catch(e){errors.push(s.name+": "+msg(e))}
