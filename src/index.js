@@ -17,6 +17,10 @@ export default {
   const p=new URL(req.url).pathname;
   if(p==="/scan") return out(await scan(env));
   if(p==="/health") return out({ok:true,module:"web-page crawler",filters:FILTERS,sources:SOURCES.map(x=>x.name)});
+  if(p==="/diagnostics"){
+   const raw=await env.IDENTITY_KV.get("diag:last-scan");
+   return out(raw?JSON.parse(raw):{ok:false,reason:"No scan diagnostics yet"});
+  }
   return new Response("United Identity production rejimində işləyir ✅\\nAvtomatik paylaşım aktivdir.");
  },
  async scheduled(c,env,ctx){ctx.waitUntil(scan(env))}
@@ -24,37 +28,129 @@ export default {
 
 async function scan(env){
  need(env);
- const st={ok:true,sources:0,candidates:0,matched:0,sent:0,duplicates:0,errors:[]}, all=[];
+ const st={
+  ok:true,
+  startedAt:new Date().toISOString(),
+  sourcesTotal:SOURCES.length,
+  sourcesVisited:0,
+  candidates:0,
+  matched:0,
+  sent:0,
+  duplicates:0,
+  skippedGeneric:0,
+  skippedNoIdentity:0,
+  skippedFetchLimit:0,
+  errors:[],
+  perSource:[]
+ };
+
+ const sourceBatches=[];
  for(const s of SOURCES){
+  const srcStat={source:s.name,homeOk:false,links:0,eligible:0,checked:0,matched:0,sent:0,duplicates:0,errors:[]};
   try{
-   const h=await get(s.url); st.sources++;
-   for(const a of links(h,s.url,s.host).slice(0,60)){
-    if(match(a.text+" "+a.url)) all.push({...a,source:s.name});
-   }
-  }catch(e){st.errors.push(s.name+": "+msg(e))}
+   const h=await get(s.url);
+   st.sourcesVisited++;
+   srcStat.homeOk=true;
+   let arr=links(h,s.url,s.host)
+    .map(a=>({...a,source:s.name,score:candidateScore(a)}))
+    .filter(a=>{
+      if(isGenericPage(a.url,a.text)){st.skippedGeneric++;return false}
+      return true;
+    })
+    .sort((a,b)=>b.score-a.score);
+   srcStat.links=arr.length;
+   srcStat.eligible=arr.length;
+   sourceBatches.push({source:s,candidates:arr,stat:srcStat});
+  }catch(e){
+   srcStat.errors.push(msg(e));
+   st.errors.push(s.name+": "+msg(e));
+   sourceBatches.push({source:s,candidates:[],stat:srcStat});
+  }
+  st.perSource.push(srcStat);
  }
- const uniq=[...new Map(all.map(x=>[x.url,x])).values()]
-  .filter(a=>!isGenericPage(a.url,a.text))
-  .map(a=>({...a,score:candidateScore(a)}))
-  .sort((a,b)=>b.score-a.score);
- st.candidates=uniq.length;
+
+ st.candidates=sourceBatches.reduce((n,b)=>n+b.candidates.length,0);
+
+ // Round-robin: check one candidate from every source before taking a second from any source.
  let pageFetches=0;
- for(const a of uniq.slice(0,MAX_PAGE_FETCHES_PER_RUN)){
-  if(st.sent>=MAX_SEND||pageFetches>=MAX_PAGE_FETCHES_PER_RUN) break;
-  pageFetches++;
-  try{
-   const k="seen:"+await hash(a.url);
-   if(await env.IDENTITY_KV.get(k)){st.duplicates++;continue}
-   const h=await get(a.url), m=meta(h,a.url);
-   const body=clean(h.replace(/<script\b[\s\S]*?<\/script>/gi," ").replace(/<style\b[\s\S]*?<\/style>/gi," ").replace(/<[^>]+>/g," ")).slice(0,15000);
-   if(!match(m.title+" "+m.desc+" "+body)) continue;
-   st.matched++;
-   const prepared=await prepareProject(env,h,m,a.url,a.source);
-   await telegram(env,prepared);
-   await env.IDENTITY_KV.put(k,JSON.stringify({postId:prepared.postId,url:a.url,source:a.source,sentAt:new Date().toISOString()}));
-   st.sent++;
-  }catch(e){st.errors.push(a.url+": "+msg(e))}
+ let round=0;
+ const maxRounds=8;
+ while(st.sent<MAX_SEND && pageFetches<MAX_PAGE_FETCHES_PER_RUN && round<maxRounds){
+  let progressed=false;
+
+  for(const batch of sourceBatches){
+   if(st.sent>=MAX_SEND || pageFetches>=MAX_PAGE_FETCHES_PER_RUN) break;
+
+   const a=batch.candidates[round];
+   if(!a) continue;
+   progressed=true;
+   pageFetches++;
+   batch.stat.checked++;
+
+   try{
+    const k="seen:"+await hash(a.url);
+    if(await env.IDENTITY_KV.get(k)){
+     st.duplicates++;
+     batch.stat.duplicates++;
+     continue;
+    }
+
+    const h=await get(a.url), m=meta(h,a.url);
+    if(isGenericPage(a.url,m.title)){
+     st.skippedGeneric++;
+     continue;
+    }
+
+    const body=clean(
+     h.replace(/<script\b[\s\S]*?<\/script>/gi," ")
+      .replace(/<style\b[\s\S]*?<\/style>/gi," ")
+      .replace(/<[^>]+>/g," ")
+    ).slice(0,20000);
+
+    if(!isProjectLike(m,a,body)){
+     st.skippedNoIdentity++;
+     continue;
+    }
+
+    st.matched++;
+    batch.stat.matched++;
+    const prepared=await prepareProject(env,h,m,a.url,a.source);
+    await telegram(env,prepared);
+    await env.IDENTITY_KV.put(
+      k,
+      JSON.stringify({
+       postId:prepared.postId,
+       title:m.title,
+       url:a.url,
+       source:a.source,
+       sentAt:new Date().toISOString()
+      })
+    );
+    st.sent++;
+    batch.stat.sent++;
+
+   }catch(e){
+    const err=a.url+": "+msg(e);
+    batch.stat.errors.push(err);
+    st.errors.push(err);
+   }
+  }
+
+  if(!progressed) break;
+  round++;
  }
+
+ if(pageFetches>=MAX_PAGE_FETCHES_PER_RUN && st.sent<MAX_SEND){
+  st.skippedFetchLimit=1;
+ }
+
+ st.finishedAt=new Date().toISOString();
+
+ // Save only one compact diagnostic snapshot per scan.
+ try{
+  await env.IDENTITY_KV.put("diag:last-scan",JSON.stringify(st));
+ }catch(e){}
+
  return st;
 }
 
