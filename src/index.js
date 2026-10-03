@@ -45,7 +45,12 @@ async function scan(env){
  };
 
  const sourceBatches=[];
- for(const s of SOURCES){
+ // Rotate the starting source every hour so one source cannot dominate when MAX_SEND=1.
+ const now=new Date();
+ const rotationIndex=(Math.floor(now.getTime()/3600000))%SOURCES.length;
+ const rotatedSources=[...SOURCES.slice(rotationIndex),...SOURCES.slice(0,rotationIndex)];
+ st.rotationStart=rotatedSources[0]?rotatedSources[0].name:"";
+ for(const s of rotatedSources){
   const srcStat={source:s.name,homeOk:false,links:0,eligible:0,checked:0,matched:0,sent:0,duplicates:0,errors:[]};
   try{
    const h=await get(s.url);
@@ -145,6 +150,9 @@ async function scan(env){
  }
 
  st.finishedAt=new Date().toISOString();
+ st.sourceDistribution=st.perSource
+  .filter(x=>x.sent>0)
+  .map(x=>({source:x.source,sent:x.sent}));
 
  // Save only one compact diagnostic snapshot per scan.
  try{
