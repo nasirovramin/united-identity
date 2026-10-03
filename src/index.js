@@ -112,12 +112,111 @@ function links(h,base,host){
  return r;
 }
 function meta(h,fallback){
- const title=tag(h,"og:title")||tag(h,"twitter:title")||pick(h,/<title[^>]*>([\s\S]*?)<\/title>/i)||fallback;
- const desc=tag(h,"og:description")||tag(h,"description")||tag(h,"twitter:description")||"";
- const image=tag(h,"og:image")||tag(h,"twitter:image")||"";
- const images=[image,...extractProjectImages(h,fallback)].filter(Boolean);
- return {title:clean(title),desc:clean(desc),image,images:[...new Set(images)].slice(0,60)};
+ const jsonld=extractJsonLd(h);
+ const title=
+  tag(h,"og:title")||
+  tag(h,"twitter:title")||
+  jsonld.headline||
+  jsonld.name||
+  pick(h,/<title[^>]*>([\s\S]*?)<\/title>/i)||
+  fallback;
+ const desc=
+  tag(h,"og:description")||
+  tag(h,"description")||
+  tag(h,"twitter:description")||
+  jsonld.description||
+  "";
+ const image=
+  tag(h,"og:image")||
+  tag(h,"twitter:image")||
+  jsonld.image||
+  "";
+ const images=[image,...jsonld.images,...extractProjectImages(h,fallback)].filter(Boolean);
+ const published=
+  tag(h,"article:published_time")||
+  tag(h,"datePublished")||
+  jsonld.datePublished||
+  pick(h,/<time[^>]*datetime=["']([^"']+)["']/i)||
+  "";
+ const modified=
+  tag(h,"article:modified_time")||
+  jsonld.dateModified||
+  "";
+ const author=jsonld.author||"";
+ return {
+  title:clean(title),
+  desc:clean(desc),
+  image,
+  images:dedupeImageUrls(images),
+  published:clean(published),
+  modified:clean(modified),
+  author:clean(author)
+ };
 }
+
+function extractJsonLd(h){
+ const out={headline:"",name:"",description:"",datePublished:"",dateModified:"",author:"",image:"",images:[]};
+ const re=/<script[^>]*type=["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/gi; let m;
+ const items=[];
+ while((m=re.exec(h))){
+  try{
+   const parsed=JSON.parse(m[1].trim());
+   if(Array.isArray(parsed)) items.push(...parsed);
+   else if(parsed&&Array.isArray(parsed["@graph"])) items.push(...parsed["@graph"]);
+   else if(parsed) items.push(parsed);
+  }catch{}
+ }
+ const pickText=v=>{
+  if(!v) return "";
+  if(typeof v==="string") return v;
+  if(Array.isArray(v)) return v.map(pickText).filter(Boolean).join(", ");
+  if(typeof v==="object") return v.name||v.headline||v.url||"";
+  return "";
+ };
+ const imageVals=[];
+ for(const x of items){
+  if(!x||typeof x!=="object") continue;
+  const type=String(x["@type"]||"").toLowerCase();
+  const useful=/article|newsarticle|blogposting|creativework|project|webpage/.test(type);
+  if(!useful && !out.headline && !out.name) continue;
+  out.headline ||= pickText(x.headline);
+  out.name ||= pickText(x.name);
+  out.description ||= pickText(x.description);
+  out.datePublished ||= pickText(x.datePublished);
+  out.dateModified ||= pickText(x.dateModified);
+  out.author ||= pickText(x.author||x.creator);
+  const iv=x.image||x.thumbnailUrl||x.primaryImageOfPage;
+  const vals=Array.isArray(iv)?iv:[iv];
+  for(const v of vals){
+   if(typeof v==="string") imageVals.push(v);
+   else if(v&&typeof v==="object"){
+    if(v.url) imageVals.push(v.url);
+    if(v.contentUrl) imageVals.push(v.contentUrl);
+   }
+  }
+ }
+ out.images=imageVals;
+ out.image=imageVals[0]||"";
+ return out;
+}
+
+function dedupeImageUrls(list){
+ const seen=new Set(), out=[];
+ for(const raw of list){
+  if(!raw) continue;
+  try{
+   const u=new URL(dec(raw));
+   if(!/^https?:$/i.test(u.protocol)) continue;
+   const key=(u.hostname+u.pathname)
+    .replace(/[-_](?:\d{2,4})x(?:\d{2,4})(?=\.[a-z0-9]+$)/i,"")
+    .replace(/\/cdn-cgi\/image\/[^/]+\//i,"/");
+   if(seen.has(key)) continue;
+   seen.add(key); out.push(u.toString());
+  }catch{}
+ }
+ return out;
+}
+
 function extractProjectImages(h,base){
  let scope=String(h||"")
   .replace(/<script\b[\s\S]*?<\/script>/gi," ")
@@ -194,7 +293,15 @@ function extractProjectImages(h,base){
    if(!seen.has(s)){seen.add(s);cleanOut.push(s)}
   }
  }
- return cleanOut;
+ // CSS background-image URLs used by some portfolio/case-study sites.
+ const bgRe=/background(?:-image)?\s*:\s*url\((["']?)([^"')]+)\1\)/gi;
+ while((m=bgRe.exec(scope))) add(m[2],"background-image");
+
+ // Direct image links inside the article.
+ const aRe=/<a\b[^>]*href=["']([^"']+\.(?:jpe?g|png|webp|avif)(?:\?[^"']*)?)["'][^>]*>/gi;
+ while((m=aRe.exec(scope))) add(m[1],"linked project image");
+
+ return dedupeImageUrls(cleanOut);
 }
 function tag(h,key){
  const esc=key.replace(/[.*+?^$()|[\]\\]/g,"\\$&");
@@ -328,21 +435,56 @@ async function realTest(env){
 }
 
 
-function extractArticleParagraphs(html){
- const cleaned=String(html)
+function articleScope(html){
+ let scope=String(html||"")
   .replace(/<script\b[\s\S]*?<\/script>/gi," ")
   .replace(/<style\b[\s\S]*?<\/style>/gi," ")
   .replace(/<nav\b[\s\S]*?<\/nav>/gi," ")
-  .replace(/<footer\b[\s\S]*?<\/footer>/gi," ");
- const out=[];
- const re=/<p\b[^>]*>([\s\S]*?)<\/p>/gi; let m;
- while((m=re.exec(cleaned))){
-  const t=clean(m[1].replace(/<br\s*\/?\s*>/gi,"\n").replace(/<[^>]+>/g," "));
-  if(t.length<45) continue;
-  if(/cookie|privacy|newsletter|subscribe|sign up|advertis|all rights reserved/i.test(t)) continue;
-  out.push(t);
+  .replace(/<footer\b[\s\S]*?<\/footer>/gi," ")
+  .replace(/<aside\b[\s\S]*?<\/aside>/gi," ");
+ const article=scope.match(/<article\b[^>]*>[\s\S]*?<\/article>/i);
+ const main=scope.match(/<main\b[^>]*>[\s\S]*?<\/main>/i);
+ scope=(article&&article[0])||(main&&main[0])||scope;
+ return scope;
+}
+
+function extractArticleBlocks(html){
+ const scope=articleScope(html);
+ const blocks=[];
+ const re=/<(h1|h2|h3|p|li|blockquote|figcaption)\b[^>]*>([\s\S]*?)<\/\1>/gi; let m;
+ while((m=re.exec(scope))){
+  const tagName=m[1].toLowerCase();
+  const t=clean(
+   m[2]
+    .replace(/<br\s*\/?\s*>/gi,"\n")
+    .replace(/<[^>]+>/g," ")
+  );
+  if(!t) continue;
+  if(t.length<12 && !/^h[1-3]$/.test(tagName)) continue;
+  if(/cookie|privacy|newsletter|subscribe|sign up|advertis|all rights reserved|share this|related articles|more from/i.test(t)) continue;
+  blocks.push({type:tagName,text:t});
  }
- return [...new Set(out)];
+ const seen=new Set(), out=[];
+ for(const b of blocks){
+  const key=b.type+"|"+b.text;
+  if(seen.has(key)) continue;
+  seen.add(key); out.push(b);
+ }
+ return out;
+}
+
+function extractArticleParagraphs(html){
+ return extractArticleBlocks(html)
+  .filter(b=>["p","li","blockquote"].includes(b.type))
+  .map(b=>b.text);
+}
+
+function articleTextForAI(blocks){
+ return blocks.map(b=>{
+  if(/^h[1-3]$/.test(b.type)) return "\n"+b.text+"\n";
+  if(b.type==="li") return "• "+b.text;
+  return b.text;
+ }).join("\n\n").trim();
 }
 
 function hasCaseStudy(paragraphs){
@@ -444,26 +586,58 @@ function formatProjectDate(raw=""){
  return "";
 }
 
-async function extractProjectMeta(env,{title,sourceName,published,articleText}){
- const fallbackDate=formatProjectDate(published);
- const prompt=
-  "Mənbə mətnindən yalnız dəqiq görünən məlumatı çıxar. Heç nə təxmin etmə və uydurma. "+
-  "Layihəni yaradan agentlik/studio/dizayn komandası varsa adını qaytar. "+
-  "Layihənin yaranma/yayımlanma tarixi açıq göstərilibsə YYYY-MM-DD formatında qaytar. "+
-  "Xəbər saytının adını agentlik kimi yazma. Əmin deyilsənsə null yaz. "+
-  'Yalnız bu JSON formatını qaytar: {"agency":null,"date":null}.\n\n'+
-  "Başlıq: "+title+"\nMənbə: "+sourceName+"\nMətn:\n"+articleText.slice(0,7000);
- const out=await aiText(env,prompt);
+function extractDeterministicCredits(html,articleText){
+ const text=clean(articleText||"");
+ const agencyPatterns=[
+  /(?:agency|studio|design studio|branding agency|creative agency|design agency|designed by|branding by|identity by|visual identity by|created by|creative partner)\s*[:–—-]?\s*([A-ZÀ-ÖØ-ÝА-ЯЁ][^\n|•]{1,90})/i,
+  /(?:agentlik|studiya|dizayn studiyası|tərəfindən hazırlanıb|yaradıb)\s*[:–—-]?\s*([^\n|•]{2,90})/i,
+  /(?:агентство|студия|дизайн-студия|айдентика от|брендинг от)\s*[:–—-]?\s*([^\n|•]{2,90})/i
+ ];
  let agency="";
- let date=fallbackDate;
+ for(const re of agencyPatterns){
+  const m=text.match(re);
+  if(m){
+   agency=clean(m[1]).replace(/[.;,]+$/,"");
+   if(agency.length>1&&agency.length<100) break;
+  }
+ }
+ const datePatterns=[
+  /(?:project date|launch date|launched|created|completed|year)\s*[:–—-]?\s*((?:19|20)\d{2}(?:[-\/.]\d{1,2}(?:[-\/.]\d{1,2})?)?)/i,
+  /(?:yaranma tarixi|layihə tarixi|yaradılıb)\s*[:–—-]?\s*([0-3]?\d[.\/-][01]?\d[.\/-](?:19|20)\d{2}|(?:19|20)\d{2})/i,
+  /(?:дата проекта|год проекта|создано|запущено)\s*[:–—-]?\s*([0-3]?\d[.\/-][01]?\d[.\/-](?:19|20)\d{2}|(?:19|20)\d{2})/i
+ ];
+ let projectDate="";
+ for(const re of datePatterns){
+  const m=text.match(re);
+  if(m){
+   projectDate=formatProjectDate(m[1]);
+   if(projectDate) break;
+  }
+ }
+ return {agency,projectDate};
+}
+
+async function extractProjectMeta(env,{title,sourceName,published,articleText,html}){
+ const deterministic=extractDeterministicCredits(html,articleText);
+ const prompt=
+  "Aşağıdakı layihə materialından yalnız DƏQİQ görünən məlumatı çıxar. Heç nə təxmin etmə və uydurma. "+
+  "1) Layihəni yaradan agentlik/studio/dizayn komandası. Xəbər saytını agentlik kimi yazma. "+
+  "2) Layihənin öz yaranma/launch/completion tarixi. Məqalənin yayımlanma tarixini layihənin yaranma tarixi kimi qəbul etmə. "+
+  "Əmin deyilsənsə null yaz. "+
+  'Yalnız JSON qaytar: {"agency":null,"project_date":null}.\n\n'+
+  "Başlıq: "+title+"\nMənbə saytı: "+sourceName+"\nMəqalənin yayımlanma tarixi (yalnız məlumat üçün): "+(published||"")+
+  "\n\nMəqalə:\n"+articleText.slice(0,12000);
+ const out=await aiText(env,prompt);
+ let agency=deterministic.agency||"";
+ let projectDate=deterministic.projectDate||"";
  if(out){
   try{
    const j=JSON.parse(out.replace(/^```json\s*/i,"").replace(/```$/,"").trim());
-   if(j&&typeof j.agency==="string") agency=clean(j.agency);
-   if(j&&typeof j.date==="string") date=formatProjectDate(j.date)||date;
-  }catch(e){}
+   if(!agency&&j&&typeof j.agency==="string") agency=clean(j.agency);
+   if(!projectDate&&j&&typeof j.project_date==="string") projectDate=formatProjectDate(j.project_date);
+  }catch{}
  }
- return {agency,projectDate:date};
+ return {agency,projectDate};
 }
 
 async function getTelegraphToken(env){
@@ -484,7 +658,7 @@ async function getTelegraphToken(env){
 async function createTelegraphPage(env,{title,translatedText,images,sourceUrl,sourceName,agency,projectDate}){
  const token=await getTelegraphToken(env);
  const paragraphs=translatedText.split(/\n\s*\n/).map(clean).filter(Boolean);
- const imgs=(images||[]).filter(u=>/^https?:\/\//i.test(u)).slice(0,60);
+ const imgs=dedupeImageUrls((images||[]).filter(u=>/^https?:\/\//i.test(u)));
  const nodes=[];
  if(agency) nodes.push({tag:"p",children:[{tag:"strong",children:["Agentlik: "]},agency]});
  if(projectDate) nodes.push({tag:"p",children:[{tag:"strong",children:["Yaranma tarixi: "]},projectDate]});
@@ -517,16 +691,16 @@ async function createTelegraphPage(env,{title,translatedText,images,sourceUrl,so
 
  let content=JSON.stringify(nodes);
  if(new TextEncoder().encode(content).length>63000){
-  const reduced=[];
-  let keptImages=0;
-  for(const n of nodes){
-   if(n.tag==="figure"){
-    if(keptImages>=24) continue;
-    keptImages++;
-   }
-   reduced.push(n);
+  // Telegraph has a content-size limit. Keep the full text first, then as many project images as fit.
+  const essential=nodes.filter(n=>n.tag!=="figure");
+  const figures=nodes.filter(n=>n.tag==="figure");
+  const fitted=[...essential];
+  for(const fig of figures){
+   const test=JSON.stringify([...fitted,fig]);
+   if(new TextEncoder().encode(test).length>63000) break;
+   fitted.push(fig);
   }
-  content=JSON.stringify(reduced);
+  content=JSON.stringify(fitted);
  }
 
  const body=new URLSearchParams({
@@ -543,15 +717,17 @@ async function createTelegraphPage(env,{title,translatedText,images,sourceUrl,so
 }
 
 async function prepareProject(env,html,m,url,source){
- const paragraphs=extractArticleParagraphs(html);
- const articleText=paragraphs.join("\n\n");
+ const blocks=extractArticleBlocks(html);
+ const paragraphs=blocks.filter(b=>["p","li","blockquote"].includes(b.type)).map(b=>b.text);
+ const articleText=articleTextForAI(blocks);
  const titleAz=await makeAzTitle(env,m.title);
  const descAz=await makeAzSummary(env,titleAz,m.desc,articleText);
  const projectMeta=await extractProjectMeta(env,{
   title:m.title,
   sourceName:source,
   published:m.published||"",
-  articleText
+  articleText,
+  html
  });
  let telegraphUrl="";
  if(hasCaseStudy(paragraphs)){
