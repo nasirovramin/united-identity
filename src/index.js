@@ -8,7 +8,7 @@ const FILTERS=["identity","visual communication","branding","brand identity","vi
 const STRONG=["identity system","brand system","brand design","rebrand","rebranding","brand refresh","brand world"];
 const REJECT_PATHS=["/insights","/news","/about","/contact","/jobs","/careers","/features","/archive","/category","/categories","/tag","/tags","/work/","/projects/","/media/identity","/media/graphic-design","/media/branding","/media/typography"];
 const REJECT_TITLES=["insights","news","about","contact","jobs","careers","features","articles","archive","work","projects","branding"];
-const MAX_SEND=12;
+const MAX_SEND=1;
 const MAX_PAGE_FETCHES_PER_RUN=20;
 // Redeploy marker: web crawler + filtered identity scan active.
 
@@ -16,10 +16,8 @@ export default {
  async fetch(req,env){
   const p=new URL(req.url).pathname;
   if(p==="/scan") return out(await scan(env));
-  if(p==="/linkedin-test") return out(await linkedinTest(env));
-  if(p==="/real-test") return out(await realTest(env,new URL(req.url).searchParams.get("force")==="1"));
   if(p==="/health") return out({ok:true,module:"web-page crawler",filters:FILTERS,sources:SOURCES.map(x=>x.name)});
-  return new Response("United Identity işləyir ✅\\nVeb modul aktivdir.\\nFiltrlər: Identity / Visual Communication / Branding / Brand Identity");
+  return new Response("United Identity production rejimində işləyir ✅\\nAvtomatik paylaşım aktivdir.");
  },
  async scheduled(c,env,ctx){ctx.waitUntil(scan(env))}
 };
