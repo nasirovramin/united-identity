@@ -270,7 +270,7 @@ function extractArticleParagraphs(html){
   if(/cookie|privacy|newsletter|subscribe|sign up|advertis|all rights reserved/i.test(t)) continue;
   out.push(t);
  }
- return [...new Set(out)].slice(0,80);
+ return [...new Set(out)];
 }
 
 function hasCaseStudy(paragraphs){
@@ -331,10 +331,10 @@ async function translateFullCaseStudy(env,paragraphs){
  }
  if(cur) chunks.push(cur);
  const translated=[];
- for(const chunk of chunks.slice(0,8)){
+ for(const chunk of chunks){
   const prompt=
-   "Aşağıdakı case study mətnini Azərbaycan dilinə TAM tərcümə et. Məzmunu qısaltma, "+
-   "heç bir abzası atlama və heç bir fakt əlavə etmə. Brand, studio, agency və xüsusi adları saxla. "+
+   "Aşağıdakı case study mətnini Azərbaycan dilinə TAM tərcümə et. Orijinal mətndən HEÇ NƏ SİLMƏ və HEÇ NƏ QISALTMA. "+
+   "Bütün cümlələri və bütün abzasları saxla; heç bir fakt əlavə etmə. Brand, studio, agency və xüsusi adları saxla. "+
    "Cümlələri sadə və aydın Azərbaycan dilində qur; çətin elmi və akademik ifadələrdən qaç. "+
    "Dizayn və marketinq terminlərini başa düşülən formada ver. Abzas sırasını qoru və yalnız Azərbaycan dilində tərcüməni qaytar.\n\n"+chunk;
   const t=await aiText(env,prompt);
