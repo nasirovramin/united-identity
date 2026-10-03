@@ -9,6 +9,7 @@ const STRONG=["identity system","brand system","brand design","rebrand","rebrand
 const REJECT_PATHS=["/insights","/news","/about","/contact","/jobs","/careers","/features","/archive","/category","/categories","/tag","/tags","/work/","/projects/","/media/identity","/media/graphic-design","/media/branding","/media/typography"];
 const REJECT_TITLES=["insights","news","about","contact","jobs","careers","features","articles","archive","work","projects","branding"];
 const MAX_SEND=12;
+const MAX_PAGE_FETCHES_PER_RUN=20;
 // Redeploy marker: web crawler + filtered identity scan active.
 
 export default {
@@ -34,9 +35,15 @@ async function scan(env){
    }
   }catch(e){st.errors.push(s.name+": "+msg(e))}
  }
- const uniq=[...new Map(all.map(x=>[x.url,x])).values()]; st.candidates=uniq.length;
- for(const a of uniq.slice(0,45)){
-  if(st.sent>=MAX_SEND) break;
+ const uniq=[...new Map(all.map(x=>[x.url,x])).values()]
+  .filter(a=>!isGenericPage(a.url,a.text))
+  .map(a=>({...a,score:candidateScore(a)}))
+  .sort((a,b)=>b.score-a.score);
+ st.candidates=uniq.length;
+ let pageFetches=0;
+ for(const a of uniq.slice(0,MAX_PAGE_FETCHES_PER_RUN)){
+  if(st.sent>=MAX_SEND||pageFetches>=MAX_PAGE_FETCHES_PER_RUN) break;
+  pageFetches++;
   try{
    const k="seen:"+await hash(a.url);
    if(await env.IDENTITY_KV.get(k)){st.duplicates++;continue}
@@ -68,6 +75,14 @@ function isGenericPage(url,text=""){
  const t=clean(text).toLowerCase();
  return REJECT_TITLES.some(x=>t===x||t===x+" | it's nice that"||t===x+" - creative boom")||
    /^(identity|graphic design|branding|typography)\s*(\||-|$)/i.test(t);
+}
+function candidateScore(a){
+ const t=clean((a.text||"")+" "+(a.url||"")).toLowerCase();
+ let score=0;
+ for(const x of STRONG) if(t.includes(x)) score+=4;
+ for(const x of FILTERS) if(t.includes(x)) score+=2;
+ if(/case|project|identity|brand|rebrand|visual|design/i.test(t)) score+=1;
+ return score;
 }
 function isProjectLike(m,a,body){
  const head=clean((a.text||"")+" "+(m.title||"")+" "+(m.desc||"")).toLowerCase();
@@ -206,11 +221,19 @@ async function linkedinTest(env){
 async function realTest(env){
  need(env);
  const errors=[];
+ let pageFetches=0;
  for(const s of SOURCES){
   try{
    const home=await get(s.url);
-   const candidates=links(home,s.url,s.host).slice(0,100);
+   let candidates=links(home,s.url,s.host)
+    .filter(a=>!isGenericPage(a.url,a.text))
+    .map(a=>({...a,score:candidateScore(a)}))
+    .sort((a,b)=>b.score-a.score);
+   const strong=candidates.filter(a=>a.score>0);
+   candidates=(strong.length?strong:candidates).slice(0,8);
    for(const a of candidates){
+    if(pageFetches>=MAX_PAGE_FETCHES_PER_RUN) break;
+    pageFetches++;
     try{
      if(isGenericPage(a.url,a.text)) continue;
      const h=await get(a.url), m=meta(h,a.url);
