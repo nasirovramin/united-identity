@@ -140,9 +140,16 @@ function tag(h,key){
 function pick(s,r){const m=s.match(r);return m?dec(m[1]):""}
 function dec(s=""){return s.replace(/&amp;/gi,"&").replace(/&quot;/gi,'"').replace(/&#39;|&apos;/gi,"'").replace(/&lt;/gi,"<").replace(/&gt;/gi,">").replace(/&nbsp;/gi," ").replace(/&#x([0-9a-f]+);/gi,(_,n)=>String.fromCodePoint(parseInt(n,16))).replace(/&#(\d+);/g,(_,n)=>String.fromCodePoint(+n))}
 function clean(s=""){return dec(String(s)).replace(/<[^>]+>/g," ").replace(/\s+/g," ").trim()}
+function normalizeIdentityTerms(s=""){
+ return String(s)
+  .replace(/\bbrand\s+identity\b/gi,"Vizual kimlik")
+  .replace(/\bvisual\s+identity\b/gi,"Vizual kimlik")
+  .replace(/\bidentiklik\b/gi,"Vizual kimlik")
+  .replace(/\bайдентика\b/gi,"Vizual kimlik");
+}
 async function telegram(env,x){
- const title=cleanTitle(x.title||"Identity layihəsi");
- const desc=clean(x.desc||"Vizual kimlik layihəsi.");
+ const title=normalizeIdentityTerms(cleanTitle(x.titleAz||x.title||"Vizual kimlik layihəsi"));
+ const desc=normalizeIdentityTerms(clean(x.desc||"Vizual kimlik layihəsi."));
  const parts=splitParagraphs(desc,2);
  const sourceLink='<a href="'+esc(x.url)+'">Mənbə: '+esc(x.source)+'</a>';
  const detailsLink=x.telegraphUrl?'<a href="'+esc(x.telegraphUrl)+'">Ətraflı</a>':"";
@@ -310,15 +317,28 @@ function cleanAI(r){
  return "";
 }
 
+async function makeAzTitle(env,title){
+ const source=cleanTitle(title||"");
+ if(!source) return "Vizual kimlik layihəsi";
+ const prompt=
+  "Aşağıdakı başlığı Azərbaycan dilində təbii, aydın və qısa POST BAŞLIĞI kimi yaz. "+
+  "Sözbəsöz və ağır tərcümə etmə, amma mənanı dəyişmə və fakt əlavə etmə. "+
+  "Xüsusi adları olduğu kimi saxla. 'brand identity', 'visual identity', 'identiklik' və 'Айдентика' ifadələrini həmişə 'Vizual kimlik' kimi yaz. "+
+  "Yalnız hazır Azərbaycan dilində başlığı qaytar.\n\nBaşlıq: "+source;
+ const ai=await aiText(env,prompt);
+ return normalizeIdentityTerms(cleanTitle(ai||source));
+}
+
 async function makeAzSummary(env,title,desc,articleText){
  const source=(desc||articleText||"").slice(0,3500);
  const prompt=
-  "Bu brand/visual identity layihəsi üçün Telegram postuna Azərbaycan dilində 2 qısa abzas yaz. "+
+  "Bu Vizual kimlik layihəsi üçün Telegram postuna Azərbaycan dilində 2 qısa abzas yaz. "+
   "Məzmunun əsas mənasını və vacib detalları saxla, həddən artıq qısaltma. Fakt uydurma. "+
   "Cümlələr sadə, aydın və təbii olsun; çətin elmi və akademik dil işlətmə. "+
+  "'brand identity', 'visual identity', 'identiklik' və 'Айдентика' ifadələrini həmişə 'Vizual kimlik' kimi yaz. "+
   "Başlığı təkrarlama. Yalnız Azərbaycan dilində post mətnini qaytar.\n\nBaşlıq: "+title+"\n\nMənbə mətni: "+source;
  const ai=await aiText(env,prompt);
- return ai||clean(desc||"Vizual kimlik layihəsi.");
+ return normalizeIdentityTerms(ai||clean(desc||"Vizual kimlik layihəsi."));
 }
 
 async function translateFullCaseStudy(env,paragraphs){
@@ -336,9 +356,10 @@ async function translateFullCaseStudy(env,paragraphs){
    "Aşağıdakı case study mətnini Azərbaycan dilinə TAM tərcümə et. Orijinal mətndən HEÇ NƏ SİLMƏ və HEÇ NƏ QISALTMA. "+
    "Bütün cümlələri və bütün abzasları saxla; heç bir fakt əlavə etmə. Brand, studio, agency və xüsusi adları saxla. "+
    "Cümlələri sadə və aydın Azərbaycan dilində qur; çətin elmi və akademik ifadələrdən qaç. "+
-   "Dizayn və marketinq terminlərini başa düşülən formada ver. Abzas sırasını qoru və yalnız Azərbaycan dilində tərcüməni qaytar.\n\n"+chunk;
+   "Dizayn və marketinq terminlərini başa düşülən formada ver. 'brand identity', 'visual identity', 'identiklik' və 'Айдентика' ifadələrini həmişə 'Vizual kimlik' kimi yaz. "+
+   "Abzas sırasını qoru və yalnız Azərbaycan dilində tərcüməni qaytar.\n\n"+chunk;
   const t=await aiText(env,prompt);
-  translated.push(t||chunk);
+  translated.push(normalizeIdentityTerms(t||chunk));
  }
  return translated.join("\n\n");
 }
@@ -419,13 +440,14 @@ async function createTelegraphPage(env,{title,translatedText,images,sourceUrl,so
 async function prepareProject(env,html,m,url,source){
  const paragraphs=extractArticleParagraphs(html);
  const articleText=paragraphs.join("\n\n");
- const descAz=await makeAzSummary(env,m.title,m.desc,articleText);
+ const titleAz=await makeAzTitle(env,m.title);
+ const descAz=await makeAzSummary(env,titleAz,m.desc,articleText);
  let telegraphUrl="";
  if(hasCaseStudy(paragraphs)){
   try{
    const translatedText=await translateFullCaseStudy(env,paragraphs);
    telegraphUrl=await createTelegraphPage(env,{
-    title:m.title,
+    title:titleAz,
     translatedText,
     images:m.images||[],
     sourceUrl:url,
@@ -435,5 +457,5 @@ async function prepareProject(env,html,m,url,source){
    telegraphUrl="";
   }
  }
- return {...m,desc:descAz,url,source,telegraphUrl};
+ return {...m,titleAz,desc:normalizeIdentityTerms(descAz),url,source,telegraphUrl};
 }
