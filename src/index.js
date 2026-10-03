@@ -330,6 +330,7 @@ async function telegram(env,x){
   ...parts.map(p=>esc(cut(p,420))),
   x.agency?"<b>Agentlik:</b> "+esc(x.agency):"",
   x.projectDate?"<b>"+esc(x.projectDateLabel||"Yaranma tarixi")+":</b> "+esc(x.projectDate):"",
+  x.postId?"<b>ID:</b> "+esc(x.postId):"",
   "#visualidentity",
   bottom
  ].filter(Boolean).join("\n\n");
