@@ -588,23 +588,50 @@ function formatProjectDate(raw=""){
 
 function extractDeterministicCredits(html,articleText){
  const text=clean(articleText||"");
- const agencyPatterns=[
-  /(?:agency|studio|design studio|branding agency|creative agency|design agency|designed by|branding by|identity by|visual identity by|created by|creative partner)\s*[:–—-]?\s*([A-ZÀ-ÖØ-ÝА-ЯЁ][^\n|•]{1,90})/i,
-  /(?:agentlik|studiya|dizayn studiyası|tərəfindən hazırlanıb|yaradıb)\s*[:–—-]?\s*([^\n|•]{2,90})/i,
-  /(?:агентство|студия|дизайн-студия|айдентика от|брендинг от)\s*[:–—-]?\s*([^\n|•]{2,90})/i
+ const candidates=[];
+
+ const addAgency=v=>{
+  const a=clean(v||"")
+   .replace(/^the\s+/i,"")
+   .replace(/[“”"'.,;:]+$/g,"")
+   .trim();
+  if(!a||a.length<2||a.length>90) return;
+  if(/^(has been|have been|was|were|is|are|been|enlisted|commissioned|brought|tasked|appointed|selected|chosen|to bring|to create|to develop)/i.test(a)) return;
+  if(/\b(It'?s Nice That|Creative Boom|World Brand Design Society|The Brand Identity)\b/i.test(a)) return;
+  candidates.push(a);
+ };
+
+ const patterns=[
+  /\b([A-Z][A-Za-z0-9&.'’+\- ]{1,70}\b(?:Studio|Studios|Design|Agency|Collective|Partners|Branding))\s+(?:has|have|was|were|is|are)\s+(?:been\s+)?(?:enlisted|commissioned|appointed|brought in|tasked|selected|chosen)\b/i,
+  /\b(?:designed|created|developed|crafted|built|rebranded|branding|identity)\s+(?:by|with|in collaboration with)\s+([A-Z][A-Za-z0-9&.'’+\- ]{1,80})/i,
+  /\b(?:agency|studio|design studio|branding agency|creative agency|design agency)\s*[:–—-]\s*([A-Z][^\n|•]{1,80})/i,
+  /\b(?:agentlik|studiya|dizayn studiyası)\s*[:–—-]\s*([^\n|•]{2,80})/i,
+  /\b(?:агентство|студия|дизайн-студия)\s*[:–—-]\s*([^\n|•]{2,80})/i
  ];
- let agency="";
- for(const re of agencyPatterns){
+ for(const re of patterns){
   const m=text.match(re);
-  if(m){
-   agency=clean(m[1]).replace(/[.;,]+$/,"");
-   if(agency.length>1&&agency.length<100) break;
-  }
+  if(m) addAgency(m[1]);
  }
+
+ // Extra pattern for sentences such as "The new look has been devised by Nomad".
+ const devised=text.match(/\b(?:devised|made|produced|developed|created)\s+by\s+([A-Z][A-Za-z0-9&.'’+\- ]{1,80})/i);
+ if(devised) addAgency(devised[1]);
+
+ let agency="";
+ if(candidates.length){
+  // Prefer studio/agency-looking names, then shortest clean candidate.
+  candidates.sort((a,b)=>{
+   const as=/\b(Studio|Studios|Design|Agency|Collective|Partners|Branding)\b/i.test(a)?0:1;
+   const bs=/\b(Studio|Studios|Design|Agency|Collective|Partners|Branding)\b/i.test(b)?0:1;
+   return as-bs || a.length-b.length;
+  });
+  agency=candidates[0];
+ }
+
  const datePatterns=[
-  /(?:project date|launch date|launched|created|completed|year)\s*[:–—-]?\s*((?:19|20)\d{2}(?:[-\/.]\d{1,2}(?:[-\/.]\d{1,2})?)?)/i,
-  /(?:yaranma tarixi|layihə tarixi|yaradılıb)\s*[:–—-]?\s*([0-3]?\d[.\/-][01]?\d[.\/-](?:19|20)\d{2}|(?:19|20)\d{2})/i,
-  /(?:дата проекта|год проекта|создано|запущено)\s*[:–—-]?\s*([0-3]?\d[.\/-][01]?\d[.\/-](?:19|20)\d{2}|(?:19|20)\d{2})/i
+  /(?:project date|launch date|launched|unveiled|released|introduced|created|completed)\s*(?:on|:|–|—|-)?\s*([0-3]?\d\s+[A-Za-z]+\s+(?:19|20)\d{2}|[A-Za-z]+\s+[0-3]?\d,?\s+(?:19|20)\d{2}|(?:19|20)\d{2}[-\/.]\d{1,2}[-\/.]\d{1,2})/i,
+  /(?:yaranma tarixi|layihə tarixi|təqdim edildi|istifadəyə verildi)\s*[:–—-]?\s*([0-3]?\d[.\/-][01]?\d[.\/-](?:19|20)\d{2})/i,
+  /(?:дата проекта|запущено|представлено)\s*[:–—-]?\s*([0-3]?\d[.\/-][01]?\d[.\/-](?:19|20)\d{2})/i
  ];
  let projectDate="";
  for(const re of datePatterns){
@@ -621,7 +648,7 @@ async function extractProjectMeta(env,{title,sourceName,published,articleText,ht
  const deterministic=extractDeterministicCredits(html,articleText);
  const prompt=
   "Aşağıdakı layihə materialından yalnız DƏQİQ görünən məlumatı çıxar. Heç nə təxmin etmə və uydurma. "+
-  "1) Layihəni yaradan agentlik/studio/dizayn komandası. Xəbər saytını agentlik kimi yazma. "+
+  "1) Layihəni yaradan agentlik/studio/dizayn komandası. Yalnız xüsusi ad qaytar (məsələn, 'Nomad Studio'). Cümlə fraqmenti qaytarma. Xəbər saytını agentlik kimi yazma. "+
   "2) Layihənin öz yaranma/launch/completion tarixi. Məqalənin yayımlanma tarixini layihənin yaranma tarixi kimi qəbul etmə. "+
   "Əmin deyilsənsə null yaz. "+
   'Yalnız JSON qaytar: {"agency":null,"project_date":null}.\n\n'+
@@ -633,7 +660,10 @@ async function extractProjectMeta(env,{title,sourceName,published,articleText,ht
  if(out){
   try{
    const j=JSON.parse(out.replace(/^```json\s*/i,"").replace(/```$/,"").trim());
-   if(!agency&&j&&typeof j.agency==="string") agency=clean(j.agency);
+   if(!agency&&j&&typeof j.agency==="string"){
+    const a=clean(j.agency).replace(/[“”"'.,;:]+$/g,"").trim();
+    if(a && a.length<=90 && !/^(has been|have been|was|were|is|are|been|enlisted|commissioned|to bring|to create|to develop)/i.test(a)) agency=a;
+   }
    if(!projectDate&&j&&typeof j.project_date==="string") projectDate=formatProjectDate(j.project_date);
   }catch{}
  }
