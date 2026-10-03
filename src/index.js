@@ -431,6 +431,9 @@ async function telegram(env,x){
 
  const imgs=(x.images||[]).filter(u=>/^https?:\/\//i.test(u)).slice(0,10);
 
+ // Never publish image-less posts.
+ if(!imgs.length) throw Error("No usable project image found");
+
  // Case study / Telegraph exists: Telegram post must have one project image.
  if(x.telegraphUrl){
   for(const photo of imgs){
@@ -438,23 +441,22 @@ async function telegram(env,x){
    const d=await r.json();
    if(d.ok) return d.result;
   }
-  // Only fall back to text if every project image URL fails at Telegram.
-  const r=await fetch("https://api.telegram.org/bot"+env.TELEGRAM_BOT_TOKEN+"/sendMessage",{method:"POST",headers:{"content-type":"application/json"},body:JSON.stringify({chat_id:env.TELEGRAM_CHAT_ID,text:caption,parse_mode:"HTML",disable_web_page_preview:true})});
-  const d=await r.json(); if(!d.ok) throw Error("Telegram "+JSON.stringify(d));
-  return d.result;
+  throw Error("All project images failed in Telegram");
  }
 
- // No case study: publish available project visuals as an album, no Details link.
- if(imgs.length){
-  const media=imgs.map((u,i)=>i===0?{type:"photo",media:u,caption,parse_mode:"HTML"}:{type:"photo",media:u});
-  const r=await fetch("https://api.telegram.org/bot"+env.TELEGRAM_BOT_TOKEN+"/sendMediaGroup",{method:"POST",headers:{"content-type":"application/json"},body:JSON.stringify({chat_id:env.TELEGRAM_CHAT_ID,media})});
-  const d=await r.json();
-  if(d.ok) return d.result;
- }
+ // No case study: publish project visuals as an album, no Details link.
+ const media=imgs.map((u,i)=>i===0?{type:"photo",media:u,caption,parse_mode:"HTML"}:{type:"photo",media:u});
+ const r=await fetch("https://api.telegram.org/bot"+env.TELEGRAM_BOT_TOKEN+"/sendMediaGroup",{method:"POST",headers:{"content-type":"application/json"},body:JSON.stringify({chat_id:env.TELEGRAM_CHAT_ID,media})});
+ const d=await r.json();
+ if(d.ok) return d.result;
 
- const r=await fetch("https://api.telegram.org/bot"+env.TELEGRAM_BOT_TOKEN+"/sendMessage",{method:"POST",headers:{"content-type":"application/json"},body:JSON.stringify({chat_id:env.TELEGRAM_CHAT_ID,text:caption,parse_mode:"HTML",disable_web_page_preview:true})});
- const d=await r.json(); if(!d.ok) throw Error("Telegram "+JSON.stringify(d));
- return d.result;
+ // If album fails, try one-by-one and publish the first working image.
+ for(const photo of imgs){
+  const rr=await fetch("https://api.telegram.org/bot"+env.TELEGRAM_BOT_TOKEN+"/sendPhoto",{method:"POST",headers:{"content-type":"application/json"},body:JSON.stringify({chat_id:env.TELEGRAM_CHAT_ID,photo,caption,parse_mode:"HTML"})});
+  const dd=await rr.json();
+  if(dd.ok) return dd.result;
+ }
+ throw Error("No usable project image could be sent to Telegram");
 }
 function cleanTitle(s=""){
  return clean(s).replace(/\s*\|\s*It&#x27;s Nice That$/i,"").replace(/\s*\|\s*It's Nice That$/i,"").trim();
