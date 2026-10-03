@@ -431,13 +431,14 @@ async function telegram(env,x){
 
  const imgs=(x.images||[]).filter(u=>/^https?:\/\//i.test(u)).slice(0,10);
 
- // Case study / Telegraph exists: only one main image in Telegram.
+ // Case study / Telegraph exists: Telegram post must have one project image.
  if(x.telegraphUrl){
-  if(imgs.length){
-   const r=await fetch("https://api.telegram.org/bot"+env.TELEGRAM_BOT_TOKEN+"/sendPhoto",{method:"POST",headers:{"content-type":"application/json"},body:JSON.stringify({chat_id:env.TELEGRAM_CHAT_ID,photo:imgs[0],caption,parse_mode:"HTML"})});
+  for(const photo of imgs){
+   const r=await fetch("https://api.telegram.org/bot"+env.TELEGRAM_BOT_TOKEN+"/sendPhoto",{method:"POST",headers:{"content-type":"application/json"},body:JSON.stringify({chat_id:env.TELEGRAM_CHAT_ID,photo,caption,parse_mode:"HTML"})});
    const d=await r.json();
    if(d.ok) return d.result;
   }
+  // Only fall back to text if every project image URL fails at Telegram.
   const r=await fetch("https://api.telegram.org/bot"+env.TELEGRAM_BOT_TOKEN+"/sendMessage",{method:"POST",headers:{"content-type":"application/json"},body:JSON.stringify({chat_id:env.TELEGRAM_CHAT_ID,text:caption,parse_mode:"HTML",disable_web_page_preview:true})});
   const d=await r.json(); if(!d.ok) throw Error("Telegram "+JSON.stringify(d));
   return d.result;
