@@ -608,6 +608,8 @@ function extractAgencyCandidatesFromHtml(html){
  while((m=sentenceRe.exec(plain))) add(m[1]);
  const creditRe=/(?:Design|Branding|Identity|Visual Identity|Art Direction|Creative Direction)\s*[:–—-]\s*([A-Z][A-Za-z0-9&.\x27’+\- ]{1,90})/gi;
  while((m=creditRe.exec(plain))) add(m[1]);
+ const studioNameRe=/\b([A-Z][A-Za-z0-9&.\x27’+\- ]{0,60}\s+(?:Studio|Studios|Design|Agency|Collective|Partners|Branding))\b/g;
+ while((m=studioNameRe.exec(plain))) add(m[1]);
  const byRe=/(?:designed|created|developed|crafted|rebranded|devised|produced)\s+by\s+([A-Z][A-Za-z0-9&.\x27’+\- ]{1,90})/gi;
  while((m=byRe.exec(plain))) add(m[1]);
  return [...new Set(found)];
@@ -698,7 +700,10 @@ async function extractProjectMeta(env,{title,sourceName,published,articleText,ht
    const j=JSON.parse(out.replace(/^```json\s*/i,"").replace(/```$/,"").trim());
    if(!agency&&j&&typeof j.agency==="string"){
     const a=clean(j.agency).replace(/[“”"'.,;:]+$/g,"").trim();
-    if(a && a.length<=90 && !/^(has been|have been|was|were|is|are|been|enlisted|commissioned|to bring|to create|to develop)/i.test(a)) agency=a;
+    const sentenceLike=/\b(has been|have been|was|were|is|are|been|enlisted|commissioned|to bring|to create|to develop|resulting in|fans|women-first|something unique|ownable)\b/i.test(a);
+    const exactHtml=htmlCandidates.find(x=>x.toLowerCase()===a.toLowerCase());
+    if(exactHtml) agency=exactHtml;
+    else if(a && a.length<=70 && !sentenceLike && a.split(/\s+/).length<=6) agency=a;
    }
    if(!projectDate&&j&&typeof j.project_date==="string"){
     const d=formatProjectDate(j.project_date);
@@ -709,6 +714,10 @@ async function extractProjectMeta(env,{title,sourceName,published,articleText,ht
  if(!projectDate && articleDate){
   projectDate=articleDate;
   projectDateLabel="Məqalə tarixi";
+ }
+ if((!agency || /\b(has been|have been|resulting in|fans|women-first|something unique|ownable)\b/i.test(agency)) && htmlCandidates.length){
+  const ranked=[...htmlCandidates].sort((a,b)=>scoreAgencyCandidate(b,articleText)-scoreAgencyCandidate(a,articleText) || a.length-b.length);
+  agency=ranked[0]||agency;
  }
  return {agency,projectDate,projectDateLabel};
 }
