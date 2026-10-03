@@ -4,7 +4,7 @@ const SOURCES=[
 {name:"World Brand Design Society",url:"https://worldbranddesign.com/",host:"worldbranddesign.com"},
 {name:"The Brand Identity",url:"https://the-brandidentity.com/",host:"the-brandidentity.com"}
 ];
-const FILTERS=["identity","visual communication","branding","brand identity","visual identity"];
+const FILTERS=["identity","visual communication","branding","brand identity","visual identity","айдентика","фирменный стиль","визуальная идентичность","визуальная айдентика","брендинг","ребрендинг","бренд-система","система бренда","визуальная система","визуальная коммуникация","визуальные коммуникации","бренд-дизайн","редизайн бренда","фирменная айдентика"];
 const STRONG=["identity system","brand system","brand design","rebrand","rebranding","brand refresh","brand world"];
 const MAX_SEND=12;
 // Redeploy marker: web crawler + filtered identity scan active.
@@ -14,6 +14,7 @@ export default {
   const p=new URL(req.url).pathname;
   if(p==="/scan") return out(await scan(env));
   if(p==="/linkedin-test") return out(await linkedinTest(env));
+  if(p==="/real-test") return out(await realTest(env));
   if(p==="/health") return out({ok:true,module:"web-page crawler",filters:FILTERS,sources:SOURCES.map(x=>x.name)});
   return new Response("United Identity işləyir ✅\\nVeb modul aktivdir.\\nFiltrlər: Identity / Visual Communication / Branding / Brand Identity");
  },
@@ -119,4 +120,37 @@ async function linkedinTest(env){
  const d=await r.json(); if(!d.ok) throw Error("Telegram "+JSON.stringify(d));
  await env.IDENTITY_KV.put(key,new Date().toISOString());
  return {ok:true,sent:true,message_id:d.result.message_id};
+}
+
+
+async function realTest(env){
+ need(env);
+ const errors=[];
+ for(const s of SOURCES){
+  try{
+   const home=await get(s.url);
+   const candidates=links(home,s.url,s.host).slice(0,100);
+   for(const a of candidates){
+    try{
+     const h=await get(a.url), m=meta(h,a.url);
+     const body=clean(h.replace(/<script\b[\s\S]*?<\/script>/gi," ").replace(/<style\b[\s\S]*?<\/style>/gi," ").replace(/<[^>]+>/g," ")).slice(0,20000);
+     if(!match(a.text+" "+m.title+" "+m.desc+" "+body)) continue;
+     const fingerprint=clean(m.title).toLowerCase().replace(/[^a-z0-9а-яё]+/gi," ").trim();
+     const key="project:"+await hash(fingerprint||a.url);
+     if(await env.IDENTITY_KV.get(key)) continue;
+     const text=[
+       "🎨 <b>"+esc(cut(m.title,220))+"</b>",
+       esc(cut(m.desc||"Vizual kimlik və brend sistemi üzrə seçilmiş layihə.",500)),
+       "<b>Mənbə:</b> <a href=\""+esc(a.url)+"\">"+esc(s.name)+"</a>",
+       "#VisualIdentity"
+     ].join("\n\n");
+     const r=await fetch("https://api.telegram.org/bot"+env.TELEGRAM_BOT_TOKEN+"/sendMessage",{method:"POST",headers:{"content-type":"application/json"},body:JSON.stringify({chat_id:env.TELEGRAM_CHAT_ID,text,parse_mode:"HTML",disable_web_page_preview:false})});
+     const d=await r.json(); if(!d.ok) throw Error("Telegram "+JSON.stringify(d));
+     await env.IDENTITY_KV.put(key,JSON.stringify({title:m.title,url:a.url,source:s.name,sentAt:new Date().toISOString()}));
+     return {ok:true,sent:true,source:s.name,title:m.title,url:a.url,message_id:d.result.message_id};
+    }catch(e){errors.push(s.name+" candidate: "+msg(e))}
+   }
+  }catch(e){errors.push(s.name+": "+msg(e))}
+ }
+ return {ok:false,sent:false,reason:"No unseen Identity candidate found",errors:errors.slice(0,10)};
 }
