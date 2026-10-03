@@ -6,6 +6,8 @@ const SOURCES=[
 ];
 const FILTERS=["identity","visual communication","branding","brand identity","visual identity","айдентика","фирменный стиль","визуальная идентичность","визуальная айдентика","брендинг","ребрендинг","бренд-система","система бренда","визуальная система","визуальная коммуникация","визуальные коммуникации","бренд-дизайн","редизайн бренда","фирменная айдентика"];
 const STRONG=["identity system","brand system","brand design","rebrand","rebranding","brand refresh","brand world"];
+const REJECT_PATHS=["/insights","/news","/about","/contact","/jobs","/careers","/features","/articles","/archive","/category","/categories","/tag","/tags","/work/","/projects/"];
+const REJECT_TITLES=["insights","news","about","contact","jobs","careers","features","articles","archive","work","projects","branding"];
 const MAX_SEND=12;
 // Redeploy marker: web crawler + filtered identity scan active.
 
@@ -53,6 +55,24 @@ async function scan(env){
 function match(s){
  const t=clean(s).toLowerCase();
  return FILTERS.some(x=>t.includes(x))||STRONG.some(x=>t.includes(x));
+}
+function isGenericPage(url,text=""){
+ try{
+  const u=new URL(url);
+  const p=u.pathname.toLowerCase().replace(/\/+$/,"");
+  if(REJECT_PATHS.some(x=>p===x.replace(/\/+$/,"")||p.startsWith(x))) return true;
+ }catch{}
+ const t=clean(text).toLowerCase();
+ return REJECT_TITLES.some(x=>t===x||t===x+" | it's nice that"||t===x+" - creative boom");
+}
+function isProjectLike(m,a,body){
+ const head=clean((a.text||"")+" "+(m.title||"")+" "+(m.desc||"")).toLowerCase();
+ const strong=STRONG.some(x=>head.includes(x))||FILTERS.some(x=>head.includes(x));
+ if(!strong) return false;
+ const title=clean(m.title||"").toLowerCase();
+ if(!title||title.length<5||REJECT_TITLES.includes(title)) return false;
+ if(/^(insights|news|about|contact|jobs|careers|features|articles|archive|work|projects|branding)(\s|$)/i.test(title)) return false;
+ return true;
 }
 async function get(url){
  const r=await fetch(url,{headers:{"User-Agent":"Mozilla/5.0 (compatible; UnitedIdentityBot/1.0)","Accept":"text/html,application/xhtml+xml"},redirect:"follow"});
@@ -132,9 +152,11 @@ async function realTest(env){
    const candidates=links(home,s.url,s.host).slice(0,100);
    for(const a of candidates){
     try{
+     if(isGenericPage(a.url,a.text)) continue;
      const h=await get(a.url), m=meta(h,a.url);
+     if(isGenericPage(a.url,m.title)) continue;
      const body=clean(h.replace(/<script\b[\s\S]*?<\/script>/gi," ").replace(/<style\b[\s\S]*?<\/style>/gi," ").replace(/<[^>]+>/g," ")).slice(0,20000);
-     if(!match(a.text+" "+m.title+" "+m.desc+" "+body)) continue;
+     if(!isProjectLike(m,a,body)) continue;
      const fingerprint=clean(m.title).toLowerCase().replace(/[^a-z0-9а-яё]+/gi," ").trim();
      const key="project:"+await hash(fingerprint||a.url);
      if(await env.IDENTITY_KV.get(key)) continue;
