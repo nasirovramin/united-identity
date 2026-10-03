@@ -17,7 +17,7 @@ export default {
   const p=new URL(req.url).pathname;
   if(p==="/scan") return out(await scan(env));
   if(p==="/linkedin-test") return out(await linkedinTest(env));
-  if(p==="/real-test") return out(await realTest(env));
+  if(p==="/real-test") return out(await realTest(env,new URL(req.url).searchParams.get("force")==="1"));
   if(p==="/health") return out({ok:true,module:"web-page crawler",filters:FILTERS,sources:SOURCES.map(x=>x.name)});
   return new Response("United Identity işləyir ✅\\nVeb modul aktivdir.\\nFiltrlər: Identity / Visual Communication / Branding / Brand Identity");
  },
@@ -402,7 +402,7 @@ async function linkedinTest(env){
 }
 
 
-async function realTest(env){
+async function realTest(env,force=false){
  need(env);
  const errors=[];
  let pageFetches=0;
@@ -426,10 +426,10 @@ async function realTest(env){
      if(!isProjectLike(m,a,body)) continue;
      const fingerprint=clean(m.title).toLowerCase().replace(/[^a-z0-9а-яё]+/gi," ").trim();
      const key="project:"+await hash(fingerprint||a.url);
-     if(await env.IDENTITY_KV.get(key)) continue;
+     if(!force && await env.IDENTITY_KV.get(key)) continue;
      const prepared=await prepareProject(env,h,m,a.url,s.name);
      const result=await telegram(env,prepared);
-     await env.IDENTITY_KV.put(key,JSON.stringify({postId:prepared.postId,title:m.title,url:a.url,source:s.name,sentAt:new Date().toISOString()}));
+     if(!force) await env.IDENTITY_KV.put(key,JSON.stringify({postId:prepared.postId,title:m.title,url:a.url,source:s.name,sentAt:new Date().toISOString()}));
      const message_id=Array.isArray(result)&&result[0]?result[0].message_id:result.message_id;
      return {ok:true,sent:true,source:s.name,title:m.title,url:a.url,message_id};
     }catch(e){errors.push(s.name+" candidate: "+msg(e))}
