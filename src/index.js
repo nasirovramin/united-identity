@@ -53,7 +53,7 @@ async function scan(env){
    st.matched++;
    const prepared=await prepareProject(env,h,m,a.url,a.source);
    await telegram(env,prepared);
-   await env.IDENTITY_KV.put(k,new Date().toISOString());
+   await env.IDENTITY_KV.put(k,JSON.stringify({postId:prepared.postId,url:a.url,source:a.source,sentAt:new Date().toISOString()}));
    st.sent++;
   }catch(e){st.errors.push(a.url+": "+msg(e))}
  }
@@ -374,6 +374,10 @@ function splitParagraphs(s="",n=2){
 function esc(s=""){return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;")}
 function cut(s,n){s=clean(s);return s.length<=n?s:s.slice(0,n-1).trim()+"…"}
 async function hash(s){const b=await crypto.subtle.digest("SHA-256",new TextEncoder().encode(s));return [...new Uint8Array(b)].map(x=>x.toString(16).padStart(2,"0")).join("")}
+async function makePostId(url,title=""){
+ const h=await hash((url||"")+"|"+cleanTitle(title||""));
+ return "UID-"+h.slice(0,10).toUpperCase();
+}
 function need(e){const a=[];if(!e.TELEGRAM_BOT_TOKEN)a.push("TELEGRAM_BOT_TOKEN");if(!e.TELEGRAM_CHAT_ID)a.push("TELEGRAM_CHAT_ID");if(!e.IDENTITY_KV)a.push("IDENTITY_KV");if(a.length)throw Error("Missing: "+a.join(", "))}
 function msg(e){return e instanceof Error?e.message:String(e)}
 function out(x){return new Response(JSON.stringify(x,null,2),{headers:{"content-type":"application/json;charset=UTF-8"}})}
@@ -424,7 +428,7 @@ async function realTest(env){
      if(await env.IDENTITY_KV.get(key)) continue;
      const prepared=await prepareProject(env,h,m,a.url,s.name);
      const result=await telegram(env,prepared);
-     await env.IDENTITY_KV.put(key,JSON.stringify({title:m.title,url:a.url,source:s.name,sentAt:new Date().toISOString()}));
+     await env.IDENTITY_KV.put(key,JSON.stringify({postId:prepared.postId,title:m.title,url:a.url,source:s.name,sentAt:new Date().toISOString()}));
      const message_id=Array.isArray(result)&&result[0]?result[0].message_id:result.message_id;
      return {ok:true,sent:true,source:s.name,title:m.title,url:a.url,message_id};
     }catch(e){errors.push(s.name+" candidate: "+msg(e))}
@@ -786,6 +790,7 @@ async function createTelegraphPage(env,{title,translatedText,images,sourceUrl,so
 }
 
 async function prepareProject(env,html,m,url,source){
+ const postId=await makePostId(url,m.title||"");
  const blocks=extractArticleBlocks(html);
  const paragraphs=blocks.filter(b=>["p","li","blockquote"].includes(b.type)).map(b=>b.text);
  const articleText=articleTextForAI(blocks);
@@ -816,5 +821,5 @@ async function prepareProject(env,html,m,url,source){
    telegraphUrl="";
   }
  }
- return {...m,titleAz,desc:normalizeIdentityTerms(descAz),url,source,telegraphUrl,agency:projectMeta.agency,projectDate:projectMeta.projectDate,projectDateLabel:projectMeta.projectDateLabel};
+ return {...m,postId,titleAz,desc:normalizeIdentityTerms(descAz),url,source,telegraphUrl,agency:projectMeta.agency,projectDate:projectMeta.projectDate,projectDateLabel:projectMeta.projectDateLabel};
 }
