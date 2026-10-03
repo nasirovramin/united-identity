@@ -36,4 +36,4 @@ jobs:
       - name: Send channel test
         if: contains(github.event.head_commit.message, '[send-test]')
         run: |
-          curl --fail --show-error --silent "https://united-identity.nasirovramin.workers.dev/real-test"
+          curl --fail --show-error --silent "https://united-identity.nasirovramin.workers.dev/real-test?force=1"
