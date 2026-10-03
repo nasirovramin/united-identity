@@ -544,9 +544,10 @@ async function makeAzTitle(env,title){
 async function makeAzSummary(env,title,desc,articleText){
  const source=(desc||articleText||"").slice(0,3500);
  const prompt=
-  "Bu Vizual kimlik layihəsi üçün Telegram postuna Azərbaycan dilində 2 qısa abzas yaz. "+
-  "Məzmunun əsas mənasını və vacib detalları saxla, həddən artıq qısaltma. Fakt uydurma. "+
-  "Cümlələr sadə, aydın və təbii olsun; çətin elmi və akademik dil işlətmə. "+
+  "Bu Vizual kimlik layihəsi üçün Telegram postuna Azərbaycan dilində 2 aydın abzas yaz. "+
+  "Oxuyan adam layihənin nə üçün yaradıldığını, nə dəyişdiyini və əsas vizual yanaşmanı rahat başa düşsün. "+
+  "Məzmunun əsas mənasını və vacib detalları saxla, fakt uydurma. "+
+  "Qısa və gündəlik cümlələr qur. Ağır, dolaşıq, akademik və sözbəsöz tərcümədən qaç. "+
   "'brand identity', 'visual identity', 'identiklik' və 'Айдентика' ifadələrini həmişə 'Vizual kimlik' kimi yaz. "+
   "Başlığı təkrarlama. Yalnız Azərbaycan dilində post mətnini qaytar.\n\nBaşlıq: "+title+"\n\nMənbə mətni: "+source;
  const ai=await aiText(env,prompt);
@@ -565,11 +566,13 @@ async function translateFullCaseStudy(env,paragraphs){
  const translated=[];
  for(const chunk of chunks){
   const prompt=
-   "Aşağıdakı case study mətnini Azərbaycan dilinə TAM tərcümə et. Orijinal mətndən HEÇ NƏ SİLMƏ və HEÇ NƏ QISALTMA. "+
-   "Bütün cümlələri və bütün abzasları saxla; heç bir fakt əlavə etmə. Brand, studio, agency və xüsusi adları saxla. "+
-   "Cümlələri sadə və aydın Azərbaycan dilində qur; çətin elmi və akademik ifadələrdən qaç. "+
-   "Dizayn və marketinq terminlərini başa düşülən formada ver. 'brand identity', 'visual identity', 'identiklik' və 'Айдентика' ifadələrini həmişə 'Vizual kimlik' kimi yaz. "+
-   "Abzas sırasını qoru və yalnız Azərbaycan dilində tərcüməni qaytar.\n\n"+chunk;
+   "Aşağıdakı case study mətnini Azərbaycan dilinə TAM çevir. Orijinaldan HEÇ NƏ SİLMƏ, HEÇ NƏ QISALTMA və heç bir fakt əlavə etmə. "+
+   "Bütün cümlələri, bütün abzasları və bütün detalları saxla. Brand, studio, agency və xüsusi adları olduğu kimi saxla. "+
+   "Amma dili sözbəsöz çevirmə: hər cümləni Azərbaycan dilində sadə, təbii və başa düşülən formada qur. "+
+   "Uzun və dolaşıq cümlələri mənanı itirmədən 2-3 qısa cümləyə bölmək olar. "+
+   "Metafora və çətin ifadə varsa, mənasını aydın Azərbaycan dili ilə ver. "+
+   "Dizayn və marketinq terminlərini başa düşülən formada yaz. 'brand identity', 'visual identity', 'identiklik' və 'Айдентика' ifadələrini həmişə 'Vizual kimlik' kimi yaz. "+
+   "Abzas sırasını qoru və yalnız Azərbaycan dilində tam mətn qaytar.\n\n"+chunk;
   const t=await aiText(env,prompt);
   translated.push(normalizeIdentityTerms(t||chunk));
  }
@@ -695,10 +698,32 @@ function extractDeterministicCredits(html,articleText,title=""){
  return {agency,projectDate};
 }
 
+function extractArticleDate(html,published=""){
+ const direct=formatProjectDate(published);
+ if(direct) return direct;
+
+ const scope=articleScope(html);
+ const text=clean(scope);
+ const patterns=[
+  /\b(?:Date|Published|Posted|Publication date)\s*[:–—-]?\s*([0-3]?\d\s+[A-Za-z]+\s+(?:19|20)\d{2})/i,
+  /\b(?:Date|Published|Posted|Publication date)\s*[:–—-]?\s*([A-Za-z]+\s+[0-3]?\d,?\s+(?:19|20)\d{2})/i,
+  /\b(?:Date|Published|Posted|Publication date)\s*[:–—-]?\s*((?:19|20)\d{2}[-\/.]\d{1,2}[-\/.]\d{1,2})/i
+ ];
+ for(const re of patterns){
+  const m=text.match(re);
+  if(m){
+   const d=formatProjectDate(m[1]);
+   if(d) return d;
+  }
+ }
+ const time=pick(scope,/<time[^>]*datetime=["']([^"']+)["']/i);
+ return formatProjectDate(time);
+}
+
 async function extractProjectMeta(env,{title,sourceName,published,articleText,html}){
  const deterministic=extractDeterministicCredits(html,articleText,title);
  const htmlCandidates=extractAgencyCandidatesFromHtml(html,title);
- const articleDate=formatProjectDate(published);
+ const articleDate=extractArticleDate(html,published);
  const prompt=
   "Aşağıdakı layihə materialından yalnız DƏQİQ görünən məlumatı çıxar. Heç nə təxmin etmə və uydurma. "+
   "1) Layihəni yaradan agentlik/studio/dizayn komandası. Yalnız xüsusi ad qaytar (məsələn, 'Nomad Studio'). Cümlə fraqmenti qaytarma. Xəbər saytını agentlik kimi yazma. "+
@@ -754,14 +779,15 @@ async function getTelegraphToken(env){
  return token;
 }
 
-async function createTelegraphPage(env,{title,translatedText,images,sourceUrl,sourceName,agency,projectDate,projectDateLabel}){
+async function createTelegraphPage(env,{title,translatedText,images,sourceUrl,sourceName,agency,projectDate,projectDateLabel,postId}){
  const token=await getTelegraphToken(env);
  const paragraphs=translatedText.split(/\n\s*\n/).map(clean).filter(Boolean);
  const imgs=dedupeImageUrls((images||[]).filter(u=>/^https?:\/\//i.test(u)));
  const nodes=[];
+ if(postId) nodes.push({tag:"p",children:[{tag:"strong",children:["ID: "]},postId]});
  if(agency) nodes.push({tag:"p",children:[{tag:"strong",children:["Agentlik: "]},agency]});
  if(projectDate) nodes.push({tag:"p",children:[{tag:"strong",children:[(projectDateLabel||"Yaranma tarixi")+": "]},projectDate]});
- if(agency||projectDate) nodes.push({tag:"hr"});
+ if(postId||agency||projectDate) nodes.push({tag:"hr"});
 
  // Article-style layout: text and visuals alternate naturally.
  let imageIndex=0;
@@ -841,7 +867,8 @@ async function prepareProject(env,html,m,url,source){
     sourceName:source,
     agency:projectMeta.agency,
     projectDate:projectMeta.projectDate,
-    projectDateLabel:projectMeta.projectDateLabel
+    projectDateLabel:projectMeta.projectDateLabel,
+    postId
    });
   }catch(e){
    telegraphUrl="";
