@@ -115,22 +115,86 @@ function meta(h,fallback){
  const title=tag(h,"og:title")||tag(h,"twitter:title")||pick(h,/<title[^>]*>([\s\S]*?)<\/title>/i)||fallback;
  const desc=tag(h,"og:description")||tag(h,"description")||tag(h,"twitter:description")||"";
  const image=tag(h,"og:image")||tag(h,"twitter:image")||"";
- const images=[image,...extractImages(h,fallback)].filter(Boolean);
- return {title:clean(title),desc:clean(desc),image,images:[...new Set(images)].slice(0,10)};
+ const images=[image,...extractProjectImages(h,fallback)].filter(Boolean);
+ return {title:clean(title),desc:clean(desc),image,images:[...new Set(images)].slice(0,60)};
 }
-function extractImages(h,base){
+function extractProjectImages(h,base){
+ let scope=String(h||"")
+  .replace(/<script\b[\s\S]*?<\/script>/gi," ")
+  .replace(/<style\b[\s\S]*?<\/style>/gi," ")
+  .replace(/<nav\b[\s\S]*?<\/nav>/gi," ")
+  .replace(/<footer\b[\s\S]*?<\/footer>/gi," ")
+  .replace(/<aside\b[\s\S]*?<\/aside>/gi," ");
+
+ // Prefer the actual article/main area so UI icons, related cards and promos are not collected.
+ const article=scope.match(/<article\b[^>]*>[\s\S]*?<\/article>/i);
+ const main=scope.match(/<main\b[^>]*>[\s\S]*?<\/main>/i);
+ scope=(article&&article[0])||(main&&main[0])||scope;
+
+ // Cut common related-content/footer blocks that may still live inside <article>.
+ const stop=scope.search(/(?:The Latest|Share Article|Further Info|About the Author|Related Articles|More from)/i);
+ if(stop>0) scope=scope.slice(0,stop);
+
  const out=[];
- const re=/<img\b[^>]*(?:src|data-src)=["']([^"']+)["'][^>]*>/gi; let m;
- while((m=re.exec(h))){
+ const add=(raw,tag="")=>{
+  if(!raw) return;
+  let val=dec(raw).trim();
+  // srcset: pick the largest listed candidate.
+  if(/\s+\d+(?:w|x)(?:\s*,|$)/i.test(val)||val.includes(",")){
+   const parts=val.split(",").map(x=>x.trim()).filter(Boolean);
+   let best="",score=-1;
+   for(const part of parts){
+    const mm=part.match(/^(\S+)\s+(\d+(?:\.\d+)?)(w|x)$/i);
+    if(mm){
+     const sc=parseFloat(mm[2])*(mm[3].toLowerCase()==="x"?10000:1);
+     if(sc>score){score=sc;best=mm[1]}
+    }else if(!best) best=part.split(/\s+/)[0];
+   }
+   val=best||val.split(",").pop().trim().split(/\s+/)[0];
+  }
   try{
-   const u=new URL(dec(m[1]),base);
-   if(!/^https?:$/i.test(u.protocol)) continue;
+   const u=new URL(val,base);
+   if(!/^https?:$/i.test(u.protocol)) return;
    const s=u.toString();
-   if(/logo|icon|avatar|sprite|favicon/i.test(s)) continue;
+   if(/(?:logo|favicon|avatar|sprite|icon|emoji|tracking|pixel|analytics|cookie|consent|accessibility|toolbar|newsletter|subscribe|advert|adserver|nicer[-_ ]?tuesdays)/i.test(s+" "+tag)) return;
+   if(/\.svg(?:\?|$)/i.test(s)) return;
+   // Reject explicitly tiny HTML images; project images often have no dimensions at all.
+   const wm=tag.match(/\bwidth=["']?(\d+)/i), hm=tag.match(/\bheight=["']?(\d+)/i);
+   if(wm&&hm&&(+wm[1]<220||+hm[1]<160)) return;
    out.push(s);
   }catch{}
+ };
+
+ const imgRe=/<img\b[^>]*>/gi; let m;
+ while((m=imgRe.exec(scope))){
+  const tag=m[0];
+  const attrs=["data-srcset","srcset","data-lazy-src","data-original","data-src","src"];
+  for(const a of attrs){
+   const mm=tag.match(new RegExp("\\b"+a+"=[\"']([^\"']+)[\"']","i"));
+   if(mm){add(mm[1],tag); break;}
+  }
  }
- return out;
+ // Some sites keep responsive image URLs only on <source>.
+ const sourceRe=/<source\b[^>]*>/gi;
+ while((m=sourceRe.exec(scope))){
+  const tag=m[0];
+  const mm=tag.match(/\b(?:data-srcset|srcset)=["']([^"']+)["']/i);
+  if(mm) add(mm[1],tag);
+ }
+
+ // Dedupe common resized variants by path, preferring the first/largest candidate encountered.
+ const seen=new Set(), cleanOut=[];
+ for(const s of out){
+  try{
+   const u=new URL(s);
+   const key=(u.hostname+u.pathname).replace(/[-_](?:\d{2,4})x(?:\d{2,4})(?=\.[a-z]+$)/i,"");
+   if(seen.has(key)) continue;
+   seen.add(key); cleanOut.push(s);
+  }catch{
+   if(!seen.has(s)){seen.add(s);cleanOut.push(s)}
+  }
+ }
+ return cleanOut;
 }
 function tag(h,key){
  const esc=key.replace(/[.*+?^$()|[\]\\]/g,"\\$&");
@@ -382,7 +446,7 @@ async function getTelegraphToken(env){
 async function createTelegraphPage(env,{title,translatedText,images,sourceUrl,sourceName}){
  const token=await getTelegraphToken(env);
  const paragraphs=translatedText.split(/\n\s*\n/).map(clean).filter(Boolean);
- const imgs=(images||[]).filter(u=>/^https?:\/\//i.test(u)).slice(0,20);
+ const imgs=(images||[]).filter(u=>/^https?:\/\//i.test(u)).slice(0,60);
  const nodes=[];
 
  // Article-style layout: text and visuals alternate naturally.
@@ -416,7 +480,7 @@ async function createTelegraphPage(env,{title,translatedText,images,sourceUrl,so
   let keptImages=0;
   for(const n of nodes){
    if(n.tag==="figure"){
-    if(keptImages>=8) continue;
+    if(keptImages>=24) continue;
     keptImages++;
    }
    reduced.push(n);
