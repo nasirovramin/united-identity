@@ -508,7 +508,7 @@ async function aiText(env,prompt){
   try{
    const r=await env.AI.run(model,{
     messages:[
-     {role:"system",content:"Sən Azərbaycan dilində peşəkar dizayn redaktorusan. Mətni təbii, sadə və aydın Azərbaycan dilində yaz. Məzmunu və faktları qoru. Çətin akademik və elmi cümlələrdən qaç. Brand, studio, agency, layihə və xüsusi adları olduğu kimi saxla."},
+     {role:"system",content:"Sən Azərbaycan dilində peşəkar dizayn redaktorusan. Əvvəl mətnin mənasını başa düş, sonra Azərbaycan dilində yenidən ifadə et. Sözbəsöz tərcümə etmə. Cümlələr təbii, sadə, qısa və məntiqli olsun. Oxucu nə baş verdiyini ilk oxunuşda anlamalıdır. Məzmunu və faktları qoru. Brand, studio, agency, layihə və xüsusi adları olduğu kimi saxla."},
      {role:"user",content:prompt}
     ],
     max_tokens:2200,
@@ -542,12 +542,14 @@ async function makeAzTitle(env,title){
 }
 
 async function makeAzSummary(env,title,desc,articleText){
- const source=(desc||articleText||"").slice(0,3500);
+ const source=(clean(desc)+"\n\n"+clean(articleText)).trim().slice(0,9000);
  const prompt=
-  "Bu Vizual kimlik layihəsi üçün Telegram postuna Azərbaycan dilində 2 aydın abzas yaz. "+
-  "Oxuyan adam layihənin nə üçün yaradıldığını, nə dəyişdiyini və əsas vizual yanaşmanı rahat başa düşsün. "+
-  "Məzmunun əsas mənasını və vacib detalları saxla, fakt uydurma. "+
-  "Qısa və gündəlik cümlələr qur. Ağır, dolaşıq, akademik və sözbəsöz tərcümədən qaç. "+
+  "Bu Vizual kimlik layihəsi üçün Azərbaycan dilində 2 qısa və ÇOX AYDIN abzas yaz. "+
+  "Birinci abzasda de: layihə kim üçündür və niyə yaradılıb. "+
+  "İkinci abzasda de: dizaynda nə edilib, hansı əsas vizual ideya və yanaşma istifadə olunub. "+
+  "Mətnə baxan adam layihəni bir oxunuşda başa düşməlidir. Fakt uydurma. "+
+  "Sözbəsöz tərcümə etmə. İngilis cümlə quruluşunu Azərbaycan dilinə daşımadan təbii danışıq dilində yaz. "+
+  "Mücərrəd və dolaşıq ifadələri konkret mənaya çevir. "+
   "'brand identity', 'visual identity', 'identiklik' və 'Айдентика' ifadələrini həmişə 'Vizual kimlik' kimi yaz. "+
   "Başlığı təkrarlama. Yalnız Azərbaycan dilində post mətnini qaytar.\n\nBaşlıq: "+title+"\n\nMənbə mətni: "+source;
  const ai=await aiText(env,prompt);
@@ -633,13 +635,24 @@ function extractAgencyCandidatesFromHtml(html,title=""){
  return [...new Set(found)];
 }
 
+function agencyEvidenceSnippets(articleText=""){
+ const text=clean(articleText);
+ const sentences=text.match(/[^.!?]+[.!?]?/g)||[];
+ return sentences
+  .filter(s=>/\b(studio|agency|design studio|branding agency|creative agency|designed by|created by|developed by|commissioned|enlisted|appointed|teamed up with|teams up with|collaboration|worked with)\b/i.test(s))
+  .slice(0,30);
+}
+
 function scoreAgencyCandidate(name,articleText=""){
  const n=clean(name);
  const t=clean(articleText);
  let score=0;
- if(/\b(Studio|Studios|Design|Agency|Collective|Partners|Branding)\b/i.test(n)) score+=6;
+ if(/https?:\/\/|www\.|\.(com|co\.uk|net|org|io)\b/i.test(n)) score-=20;
+ if(/\b(Studio|Studios|Design|Agency|Collective|Partners|Branding)\b/i.test(n)) score+=8;
  if(/^(Studio|Studios|Design|Agency)\b/i.test(n)) score+=4;
- if(t.toLowerCase().includes(n.toLowerCase())) score+=2;
+ if(t.toLowerCase().includes(n.toLowerCase())) score+=3;
+ const ev=agencyEvidenceSnippets(t).join(" ");
+ if(ev.toLowerCase().includes(n.toLowerCase())) score+=5;
  if(n.split(/\s+/).length<=4) score+=1;
  return score;
 }
@@ -724,15 +737,20 @@ async function extractProjectMeta(env,{title,sourceName,published,articleText,ht
  const deterministic=extractDeterministicCredits(html,articleText,title);
  const htmlCandidates=extractAgencyCandidatesFromHtml(html,title);
  const articleDate=extractArticleDate(html,published);
+ const evidence=agencyEvidenceSnippets(articleText);
  const prompt=
   "Aşağıdakı layihə materialından yalnız DƏQİQ görünən məlumatı çıxar. Heç nə təxmin etmə və uydurma. "+
-  "1) Layihəni yaradan agentlik/studio/dizayn komandası. Yalnız xüsusi ad qaytar (məsələn, 'Nomad Studio'). Cümlə fraqmenti qaytarma. Xəbər saytını agentlik kimi yazma. "+
-  "2) Layihənin öz yaranma/launch/completion tarixi. Məqalənin yayımlanma tarixini layihənin yaranma tarixi kimi qəbul etmə. "+
-  "Əmin deyilsənsə null yaz. "+
+  "Agentlik üçün yalnız məqalədə görünən real studio/agency adını seç. Domeni və URL-ni agentlik adı kimi yazma. "+
+  "Əgər mətn 'Studio Templo', 'Templo Studio' və ya sadəcə 'Templo' deyirsə, görünən düzgün xüsusi adı qaytar. "+
+  "Cümlə fraqmenti, feil hissəsi və ya xəbər saytının adını qaytarma. "+
+  "Layihənin öz yaranma/launch/completion tarixi varsa onu qaytar; yoxdursa null. "+
   'Yalnız JSON qaytar: {"agency":null,"project_date":null}.\n\n'+
-  "Başlıq: "+title+"\nMənbə saytı: "+sourceName+"\nMəqalənin yayımlanma tarixi (yalnız məlumat üçün): "+(published||"")+
-  "\nHTML-dən tapılmış agentlik/studio namizədləri: "+JSON.stringify(htmlCandidates)+
-  "\n\nMəqalə:\n"+articleText.slice(0,12000);
+  "Başlıq: "+title+
+  "\nMənbə saytı: "+sourceName+
+  "\nMəqalənin yayımlanma tarixi (yalnız məlumat üçün): "+(published||"")+
+  "\nAgentlik üçün güclü kontekst cümlələri: "+JSON.stringify(evidence)+
+  "\nHTML-dən tapılmış namizədlər: "+JSON.stringify(htmlCandidates)+
+  "\n\nMəqalə:\n"+articleText.slice(0,16000);
  const out=await aiText(env,prompt);
  let agency=deterministic.agency||"";
  let projectDate=deterministic.projectDate||"";
@@ -741,11 +759,13 @@ async function extractProjectMeta(env,{title,sourceName,published,articleText,ht
   try{
    const j=JSON.parse(out.replace(/^```json\s*/i,"").replace(/```$/,"").trim());
    if(!agency&&j&&typeof j.agency==="string"){
-    const a=clean(j.agency).replace(/[“”"'.,;:]+$/g,"").trim();
+    let a=clean(j.agency).replace(/[“”"'.,;:]+$/g,"").trim();
+    a=a.replace(/^https?:\/\//i,"").replace(/^www\./i,"").replace(/\.(com|co\.uk|net|org|io).*$/i,"").trim();
     const sentenceLike=/\b(has been|have been|was|were|is|are|been|enlisted|commissioned|to bring|to create|to develop|resulting in|fans|women-first|something unique|ownable)\b/i.test(a);
+    const visible=articleText.toLowerCase().includes(a.toLowerCase());
     const exactHtml=htmlCandidates.find(x=>x.toLowerCase()===a.toLowerCase());
     if(exactHtml) agency=exactHtml;
-    else if(a && a.length<=70 && !sentenceLike && a.split(/\s+/).length<=6) agency=a;
+    else if(a && a.length<=70 && !sentenceLike && a.split(/\s+/).length<=6 && visible) agency=a;
    }
    if(!projectDate&&j&&typeof j.project_date==="string"){
     const d=formatProjectDate(j.project_date);
@@ -757,8 +777,10 @@ async function extractProjectMeta(env,{title,sourceName,published,articleText,ht
   projectDate=articleDate;
   projectDateLabel="Məqalə tarixi";
  }
- if((!agency || /\b(has been|have been|resulting in|fans|women-first|something unique|ownable)\b/i.test(agency)) && htmlCandidates.length){
-  const ranked=[...htmlCandidates].sort((a,b)=>scoreAgencyCandidate(b,articleText)-scoreAgencyCandidate(a,articleText) || a.length-b.length);
+ if((!agency || /\b(has been|have been|resulting in|fans|women-first|something unique|ownable)\b/i.test(agency) || /\.(com|co\.uk|net|org|io)\b/i.test(agency)) && htmlCandidates.length){
+  const ranked=[...htmlCandidates]
+   .filter(a=>!/https?:\/\/|www\.|\.(com|co\.uk|net|org|io)\b/i.test(a))
+   .sort((a,b)=>scoreAgencyCandidate(b,articleText)-scoreAgencyCandidate(a,articleText) || a.length-b.length);
   agency=ranked[0]||agency;
  }
  return {agency,projectDate,projectDateLabel};
