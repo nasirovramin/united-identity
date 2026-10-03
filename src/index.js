@@ -280,19 +280,26 @@ function hasCaseStudy(paragraphs){
 
 async function aiText(env,prompt){
  if(!env.AI) return "";
- try{
-  const r=await env.AI.run("@cf/google/gemma-4-26b-a4b-it",{
-   messages:[
-    {role:"system",content:"You are a precise Azerbaijani design editor. Preserve names, brands, agencies and design terminology. Use clear natural Azerbaijani, not academic language."},
-    {role:"user",content:prompt}
-   ],
-   max_tokens:1800,
-   temperature:0.2
-  });
-  return cleanAI(r);
- }catch(e){
-  return "";
+ const models=[
+  "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+  "@cf/meta/llama-3.1-8b-instruct-fast",
+  "@cf/google/gemma-3-12b-it"
+ ];
+ for(const model of models){
+  try{
+   const r=await env.AI.run(model,{
+    messages:[
+     {role:"system",content:"Sən Azərbaycan dilində peşəkar dizayn redaktorusan. Mətni təbii, sadə və aydın Azərbaycan dilində yaz. Məzmunu və faktları qoru. Çətin akademik və elmi cümlələrdən qaç. Brand, studio, agency, layihə və xüsusi adları olduğu kimi saxla."},
+     {role:"user",content:prompt}
+    ],
+    max_tokens:2200,
+    temperature:0.15
+   });
+   const out=cleanAI(r);
+   if(out && out.length>20) return out;
+  }catch(e){}
  }
+ return "";
 }
 function cleanAI(r){
  if(!r) return "";
@@ -307,8 +314,9 @@ async function makeAzSummary(env,title,desc,articleText){
  const source=(desc||articleText||"").slice(0,3500);
  const prompt=
   "Bu brand/visual identity layihəsi üçün Telegram postuna Azərbaycan dilində 2 qısa abzas yaz. "+
-  "Hər abzas maksimum 2 cümlə olsun. Fakt uydurma. Sadə, peşəkar dil istifadə et. "+
-  "Başlığı təkrarlama. Yalnız post mətnini qaytar.\n\nBaşlıq: "+title+"\n\nMənbə mətni: "+source;
+  "Məzmunun əsas mənasını və vacib detalları saxla, həddən artıq qısaltma. Fakt uydurma. "+
+  "Cümlələr sadə, aydın və təbii olsun; çətin elmi və akademik dil işlətmə. "+
+  "Başlığı təkrarlama. Yalnız Azərbaycan dilində post mətnini qaytar.\n\nBaşlıq: "+title+"\n\nMənbə mətni: "+source;
  const ai=await aiText(env,prompt);
  return ai||clean(desc||"Vizual kimlik layihəsi.");
 }
@@ -325,9 +333,10 @@ async function translateFullCaseStudy(env,paragraphs){
  const translated=[];
  for(const chunk of chunks.slice(0,8)){
   const prompt=
-   "Aşağıdakı case study mətnini Azərbaycan dilinə TAM tərcümə et. Heç nə ixtisar etmə, "+
-   "heç bir fakt əlavə etmə. Brand, studio, agency və xüsusi adları saxla. "+
-   "Dizayn və marketinq terminlərini aydın dildə ver. Abzasları qoruyub yalnız tərcüməni qaytar.\n\n"+chunk;
+   "Aşağıdakı case study mətnini Azərbaycan dilinə TAM tərcümə et. Məzmunu qısaltma, "+
+   "heç bir abzası atlama və heç bir fakt əlavə etmə. Brand, studio, agency və xüsusi adları saxla. "+
+   "Cümlələri sadə və aydın Azərbaycan dilində qur; çətin elmi və akademik ifadələrdən qaç. "+
+   "Dizayn və marketinq terminlərini başa düşülən formada ver. Abzas sırasını qoru və yalnız Azərbaycan dilində tərcüməni qaytar.\n\n"+chunk;
   const t=await aiText(env,prompt);
   translated.push(t||chunk);
  }
@@ -351,26 +360,49 @@ async function getTelegraphToken(env){
 
 async function createTelegraphPage(env,{title,translatedText,images,sourceUrl,sourceName}){
  const token=await getTelegraphToken(env);
+ const paragraphs=translatedText.split(/\n\s*\n/).map(clean).filter(Boolean);
+ const imgs=(images||[]).filter(u=>/^https?:\/\//i.test(u)).slice(0,20);
  const nodes=[];
- for(const p of translatedText.split(/\n\s*\n/).map(clean).filter(Boolean)){
-  nodes.push({tag:"p",children:[p]});
+
+ // Article-style layout: text and visuals alternate naturally.
+ let imageIndex=0;
+ for(let i=0;i<paragraphs.length;i++){
+  nodes.push({tag:"p",children:[paragraphs[i]]});
+  const shouldInsert=
+   imgs.length>0 &&
+   imageIndex<imgs.length &&
+   (i===0 || (i+1)%2===0);
+  if(shouldInsert){
+   nodes.push({tag:"figure",children:[
+    {tag:"img",attrs:{src:imgs[imageIndex++]}}
+   ]});
+  }
  }
- for(const img of (images||[]).filter(u=>/^https?:\/\//i.test(u)).slice(0,20)){
+ while(imageIndex<imgs.length){
   nodes.push({tag:"figure",children:[
-   {tag:"img",attrs:{src:img}},
+   {tag:"img",attrs:{src:imgs[imageIndex++]}}
   ]});
  }
+
  nodes.push({tag:"hr"});
  nodes.push({tag:"p",children:[
   {tag:"a",attrs:{href:sourceUrl},children:["Mənbə: "+sourceName]}
  ]});
+
  let content=JSON.stringify(nodes);
  if(new TextEncoder().encode(content).length>63000){
-  const reduced=nodes.filter(n=>n.tag!=="figure").concat(
-   (images||[]).filter(u=>/^https?:\/\//i.test(u)).slice(0,8).map(img=>({tag:"img",attrs:{src:img}}))
-  );
+  const reduced=[];
+  let keptImages=0;
+  for(const n of nodes){
+   if(n.tag==="figure"){
+    if(keptImages>=8) continue;
+    keptImages++;
+   }
+   reduced.push(n);
+  }
   content=JSON.stringify(reduced);
  }
+
  const body=new URLSearchParams({
   access_token:token,
   title:cut(cleanTitle(title),250),
