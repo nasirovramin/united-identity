@@ -586,9 +586,41 @@ function formatProjectDate(raw=""){
  return "";
 }
 
+function extractAgencyCandidatesFromHtml(html){
+ const scope=articleScope(html);
+ const plain=clean(scope);
+ const found=[];
+ const add=v=>{
+  const a=clean(v||"").replace(/^the\s+/i,"").replace(/[“”\x22\x27.,;:]+$/g,"").trim();
+  if(!a||a.length<2||a.length>100) return;
+  if(/^(has been|have been|was|were|is|are|been|enlisted|commissioned|appointed|selected|chosen|to bring|to create|to develop)$/i.test(a)) return;
+  if(/\b(It\x27s Nice That|Creative Boom|World Brand Design Society|The Brand Identity)\b/i.test(a)) return;
+  found.push(a);
+ };
+ let m;
+ const labelRe=/(?:Agency|Studio|Design Studio|Branding Agency|Creative Agency|Design Agency|Agentlik|Studiya|Агентство|Студия)\s*[:–—-]\s*([^<\n]{2,100})/gi;
+ while((m=labelRe.exec(scope))) add(m[1]);
+ const sentenceRe=/\b([A-Z][A-Za-z0-9&.\x27’+\- ]{1,80}\b(?:Studio|Studios|Design|Agency|Collective|Partners|Branding))\s+(?:has|have|was|were|is|are)\s+(?:been\s+)?(?:enlisted|commissioned|appointed|selected|chosen|tasked|brought in)\b/gi;
+ while((m=sentenceRe.exec(plain))) add(m[1]);
+ const creditRe=/(?:Design|Branding|Identity|Visual Identity|Art Direction|Creative Direction)\s*[:–—-]\s*([A-Z][A-Za-z0-9&.\x27’+\- ]{1,90})/gi;
+ while((m=creditRe.exec(plain))) add(m[1]);
+ const byRe=/(?:designed|created|developed|crafted|rebranded|devised|produced)\s+by\s+([A-Z][A-Za-z0-9&.\x27’+\- ]{1,90})/gi;
+ while((m=byRe.exec(plain))) add(m[1]);
+ return [...new Set(found)];
+}
+
+function scoreAgencyCandidate(name,articleText=""){
+ const n=clean(name);
+ const t=clean(articleText);
+ let score=0;
+ if(/\b(Studio|Studios|Design|Agency|Collective|Partners|Branding)\b/i.test(n)) score+=6;
+ if(t.toLowerCase().includes(n.toLowerCase())) score+=2;
+ if(n.split(/\s+/).length<=4) score+=1;
+ return score;
+}
 function extractDeterministicCredits(html,articleText){
  const text=clean(articleText||"");
- const candidates=[];
+ const candidates=extractAgencyCandidatesFromHtml(html);
 
  const addAgency=v=>{
   const a=clean(v||"")
@@ -619,13 +651,9 @@ function extractDeterministicCredits(html,articleText){
 
  let agency="";
  if(candidates.length){
-  // Prefer studio/agency-looking names, then shortest clean candidate.
-  candidates.sort((a,b)=>{
-   const as=/\b(Studio|Studios|Design|Agency|Collective|Partners|Branding)\b/i.test(a)?0:1;
-   const bs=/\b(Studio|Studios|Design|Agency|Collective|Partners|Branding)\b/i.test(b)?0:1;
-   return as-bs || a.length-b.length;
-  });
-  agency=candidates[0];
+  const uniq=[...new Set(candidates)];
+  uniq.sort((a,b)=>scoreAgencyCandidate(b,text)-scoreAgencyCandidate(a,text) || a.length-b.length);
+  agency=uniq[0];
  }
 
  const datePatterns=[
@@ -646,6 +674,7 @@ function extractDeterministicCredits(html,articleText){
 
 async function extractProjectMeta(env,{title,sourceName,published,articleText,html}){
  const deterministic=extractDeterministicCredits(html,articleText);
+ const htmlCandidates=extractAgencyCandidatesFromHtml(html);
  const articleDate=formatProjectDate(published);
  const prompt=
   "Aşağıdakı layihə materialından yalnız DƏQİQ görünən məlumatı çıxar. Heç nə təxmin etmə və uydurma. "+
@@ -654,6 +683,7 @@ async function extractProjectMeta(env,{title,sourceName,published,articleText,ht
   "Əmin deyilsənsə null yaz. "+
   'Yalnız JSON qaytar: {"agency":null,"project_date":null}.\n\n'+
   "Başlıq: "+title+"\nMənbə saytı: "+sourceName+"\nMəqalənin yayımlanma tarixi (yalnız məlumat üçün): "+(published||"")+
+  "\nHTML-dən tapılmış agentlik/studio namizədləri: "+JSON.stringify(htmlCandidates)+
   "\n\nMəqalə:\n"+articleText.slice(0,12000);
  const out=await aiText(env,prompt);
  let agency=deterministic.agency||"";
