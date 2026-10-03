@@ -126,13 +126,14 @@ async function telegram(env,x){
  const desc=clean(x.desc||"Vizual kimlik layihəsi.");
  const parts=splitParagraphs(desc,2);
  const sourceLink='<a href="'+esc(x.url)+'">Mənbə: '+esc(x.source)+'</a>';
- const detailsLink='<a href="'+esc(x.url)+'">Ətraflı</a>';
+ const detailsLink=x.telegraphUrl?'<a href="'+esc(x.telegraphUrl)+'">Ətraflı</a>':"";
+ const bottom=[detailsLink,sourceLink].filter(Boolean).join("     ");
  const caption=[
   "🎬 <b>"+esc(cut(title,220))+"</b>",
   ...parts.map(p=>esc(cut(p,420))),
   x.agency?"<b>Agentlik:</b> "+esc(x.agency):"",
   "#visualidentity",
-  detailsLink+"     "+sourceLink
+  bottom
  ].filter(Boolean).join("\n\n");
 
  const imgs=(x.images||[]).filter(u=>/^https?:\/\//i.test(u)).slice(0,10);
