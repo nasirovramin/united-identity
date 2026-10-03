@@ -222,6 +222,7 @@ async function telegram(env,x){
   "🎬 <b>"+esc(cut(title,220))+"</b>",
   ...parts.map(p=>esc(cut(p,420))),
   x.agency?"<b>Agentlik:</b> "+esc(x.agency):"",
+  x.projectDate?"<b>Yaranma tarixi:</b> "+esc(x.projectDate):"",
   "#visualidentity",
   bottom
  ].filter(Boolean).join("\n\n");
@@ -428,6 +429,43 @@ async function translateFullCaseStudy(env,paragraphs){
  return translated.join("\n\n");
 }
 
+
+function formatProjectDate(raw=""){
+ const s=clean(raw);
+ if(!s) return "";
+ const d=new Date(s);
+ if(!Number.isNaN(d.getTime())){
+  const dd=String(d.getUTCDate()).padStart(2,"0");
+  const mm=String(d.getUTCMonth()+1).padStart(2,"0");
+  return dd+"."+mm+"."+d.getUTCFullYear();
+ }
+ const m=s.match(/\b(\d{1,2})[.\/-](\d{1,2})[.\/-](\d{4})\b/);
+ if(m) return String(m[1]).padStart(2,"0")+"."+String(m[2]).padStart(2,"0")+"."+m[3];
+ return "";
+}
+
+async function extractProjectMeta(env,{title,sourceName,published,articleText}){
+ const fallbackDate=formatProjectDate(published);
+ const prompt=
+  "Mənbə mətnindən yalnız dəqiq görünən məlumatı çıxar. Heç nə təxmin etmə və uydurma. "+
+  "Layihəni yaradan agentlik/studio/dizayn komandası varsa adını qaytar. "+
+  "Layihənin yaranma/yayımlanma tarixi açıq göstərilibsə YYYY-MM-DD formatında qaytar. "+
+  "Xəbər saytının adını agentlik kimi yazma. Əmin deyilsənsə null yaz. "+
+  'Yalnız bu JSON formatını qaytar: {"agency":null,"date":null}.\n\n'+
+  "Başlıq: "+title+"\nMənbə: "+sourceName+"\nMətn:\n"+articleText.slice(0,7000);
+ const out=await aiText(env,prompt);
+ let agency="";
+ let date=fallbackDate;
+ if(out){
+  try{
+   const j=JSON.parse(out.replace(/^```json\s*/i,"").replace(/```$/,"").trim());
+   if(j&&typeof j.agency==="string") agency=clean(j.agency);
+   if(j&&typeof j.date==="string") date=formatProjectDate(j.date)||date;
+  }catch(e){}
+ }
+ return {agency,projectDate:date};
+}
+
 async function getTelegraphToken(env){
  let token=await env.IDENTITY_KV.get("telegraph:access_token");
  if(token) return token;
@@ -443,11 +481,14 @@ async function getTelegraphToken(env){
  return token;
 }
 
-async function createTelegraphPage(env,{title,translatedText,images,sourceUrl,sourceName}){
+async function createTelegraphPage(env,{title,translatedText,images,sourceUrl,sourceName,agency,projectDate}){
  const token=await getTelegraphToken(env);
  const paragraphs=translatedText.split(/\n\s*\n/).map(clean).filter(Boolean);
  const imgs=(images||[]).filter(u=>/^https?:\/\//i.test(u)).slice(0,60);
  const nodes=[];
+ if(agency) nodes.push({tag:"p",children:[{tag:"strong",children:["Agentlik: "]},agency]});
+ if(projectDate) nodes.push({tag:"p",children:[{tag:"strong",children:["Yaranma tarixi: "]},projectDate]});
+ if(agency||projectDate) nodes.push({tag:"hr"});
 
  // Article-style layout: text and visuals alternate naturally.
  let imageIndex=0;
@@ -506,6 +547,12 @@ async function prepareProject(env,html,m,url,source){
  const articleText=paragraphs.join("\n\n");
  const titleAz=await makeAzTitle(env,m.title);
  const descAz=await makeAzSummary(env,titleAz,m.desc,articleText);
+ const projectMeta=await extractProjectMeta(env,{
+  title:m.title,
+  sourceName:source,
+  published:m.published||"",
+  articleText
+ });
  let telegraphUrl="";
  if(hasCaseStudy(paragraphs)){
   try{
@@ -515,11 +562,13 @@ async function prepareProject(env,html,m,url,source){
     translatedText,
     images:m.images||[],
     sourceUrl:url,
-    sourceName:source
+    sourceName:source,
+    agency:projectMeta.agency,
+    projectDate:projectMeta.projectDate
    });
   }catch(e){
    telegraphUrl="";
   }
  }
- return {...m,titleAz,desc:normalizeIdentityTerms(descAz),url,source,telegraphUrl};
+ return {...m,titleAz,desc:normalizeIdentityTerms(descAz),url,source,telegraphUrl,agency:projectMeta.agency,projectDate:projectMeta.projectDate};
 }
