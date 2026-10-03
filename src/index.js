@@ -137,12 +137,27 @@ async function telegram(env,x){
  ].filter(Boolean).join("\n\n");
 
  const imgs=(x.images||[]).filter(u=>/^https?:\/\//i.test(u)).slice(0,10);
+
+ // Case study / Telegraph exists: only one main image in Telegram.
+ if(x.telegraphUrl){
+  if(imgs.length){
+   const r=await fetch("https://api.telegram.org/bot"+env.TELEGRAM_BOT_TOKEN+"/sendPhoto",{method:"POST",headers:{"content-type":"application/json"},body:JSON.stringify({chat_id:env.TELEGRAM_CHAT_ID,photo:imgs[0],caption,parse_mode:"HTML"})});
+   const d=await r.json();
+   if(d.ok) return d.result;
+  }
+  const r=await fetch("https://api.telegram.org/bot"+env.TELEGRAM_BOT_TOKEN+"/sendMessage",{method:"POST",headers:{"content-type":"application/json"},body:JSON.stringify({chat_id:env.TELEGRAM_CHAT_ID,text:caption,parse_mode:"HTML",disable_web_page_preview:true})});
+  const d=await r.json(); if(!d.ok) throw Error("Telegram "+JSON.stringify(d));
+  return d.result;
+ }
+
+ // No case study: publish available project visuals as an album, no Details link.
  if(imgs.length){
   const media=imgs.map((u,i)=>i===0?{type:"photo",media:u,caption,parse_mode:"HTML"}:{type:"photo",media:u});
   const r=await fetch("https://api.telegram.org/bot"+env.TELEGRAM_BOT_TOKEN+"/sendMediaGroup",{method:"POST",headers:{"content-type":"application/json"},body:JSON.stringify({chat_id:env.TELEGRAM_CHAT_ID,media})});
   const d=await r.json();
   if(d.ok) return d.result;
  }
+
  const r=await fetch("https://api.telegram.org/bot"+env.TELEGRAM_BOT_TOKEN+"/sendMessage",{method:"POST",headers:{"content-type":"application/json"},body:JSON.stringify({chat_id:env.TELEGRAM_CHAT_ID,text:caption,parse_mode:"HTML",disable_web_page_preview:true})});
  const d=await r.json(); if(!d.ok) throw Error("Telegram "+JSON.stringify(d));
  return d.result;
