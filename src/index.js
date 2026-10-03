@@ -590,28 +590,42 @@ function formatProjectDate(raw=""){
  return "";
 }
 
-function extractAgencyCandidatesFromHtml(html){
+function extractAgencyCandidatesFromHtml(html,title=""){
  const scope=articleScope(html);
  const plain=clean(scope);
+ const combined=clean((title||"")+"\n"+plain);
  const found=[];
+
  const add=v=>{
-  const a=clean(v||"").replace(/^the\s+/i,"").replace(/[“”\x22\x27.,;:]+$/g,"").trim();
-  if(!a||a.length<2||a.length>100) return;
+  const a=clean(v||"")
+   .replace(/^the\s+/i,"")
+   .replace(/[“”"'.,;:]+$/g,"")
+   .trim();
+  if(!a||a.length<2||a.length>90) return;
+  if(/https?:\/\/|www\.|\.com\b|\/articles\//i.test(a)) return;
   if(/^(has been|have been|was|were|is|are|been|enlisted|commissioned|appointed|selected|chosen|to bring|to create|to develop)$/i.test(a)) return;
-  if(/\b(It\x27s Nice That|Creative Boom|World Brand Design Society|The Brand Identity)\b/i.test(a)) return;
+  if(/\b(It'?s Nice That|Creative Boom|World Brand Design Society|The Brand Identity)\b/i.test(a)) return;
   found.push(a);
  };
+
  let m;
- const labelRe=/(?:Agency|Studio|Design Studio|Branding Agency|Creative Agency|Design Agency|Agentlik|Studiya|Агентство|Студия)\s*[:–—-]\s*([^<\n]{2,100})/gi;
- while((m=labelRe.exec(scope))) add(m[1]);
- const sentenceRe=/\b([A-Z][A-Za-z0-9&.\x27’+\- ]{1,80}\b(?:Studio|Studios|Design|Agency|Collective|Partners|Branding))\s+(?:has|have|was|were|is|are)\s+(?:been\s+)?(?:enlisted|commissioned|appointed|selected|chosen|tasked|brought in)\b/gi;
- while((m=sentenceRe.exec(plain))) add(m[1]);
- const creditRe=/(?:Design|Branding|Identity|Visual Identity|Art Direction|Creative Direction)\s*[:–—-]\s*([A-Z][A-Za-z0-9&.\x27’+\- ]{1,90})/gi;
- while((m=creditRe.exec(plain))) add(m[1]);
- const studioNameRe=/\b([A-Z][A-Za-z0-9&.\x27’+\- ]{0,60}\s+(?:Studio|Studios|Design|Agency|Collective|Partners|Branding))\b/g;
- while((m=studioNameRe.exec(plain))) add(m[1]);
- const byRe=/(?:designed|created|developed|crafted|rebranded|devised|produced)\s+by\s+([A-Z][A-Za-z0-9&.\x27’+\- ]{1,90})/gi;
- while((m=byRe.exec(plain))) add(m[1]);
+
+ // Strongest: studio/agency name explicitly present in title or visible article text.
+ const studioNameRe=/\b([A-Z][A-Za-z0-9&.'’+\-]*(?:\s+[A-Z][A-Za-z0-9&.'’+\-]*){0,4}\s+(?:Studio|Studios|Design|Agency|Collective|Partners|Branding))\b/g;
+ while((m=studioNameRe.exec(combined))) add(m[1]);
+
+ // Also support names beginning with Studio/Design, e.g. "Studio Tyrrell".
+ const prefixStudioRe=/\b((?:Studio|Studios|Design|Agency)\s+[A-Z][A-Za-z0-9&.'’+\-]*(?:\s+[A-Z][A-Za-z0-9&.'’+\-]*){0,3})\b/g;
+ while((m=prefixStudioRe.exec(combined))) add(m[1]);
+
+ // Attribution phrases in visible text.
+ const byRe=/(?:designed|created|developed|crafted|rebranded|devised|produced|built)\s+(?:by|with|in collaboration with)\s+([A-Z][A-Za-z0-9&.'’+\- ]{1,80})/gi;
+ while((m=byRe.exec(combined))) add(m[1]);
+
+ // Credits in visible text.
+ const creditRe=/(?:Agency|Studio|Design Studio|Branding Agency|Creative Agency|Design Agency|Design|Branding|Identity|Visual Identity|Art Direction|Creative Direction)\s*[:–—-]\s*([A-Z][A-Za-z0-9&.'’+\- ]{1,80})/gi;
+ while((m=creditRe.exec(combined))) add(m[1]);
+
  return [...new Set(found)];
 }
 
@@ -620,13 +634,14 @@ function scoreAgencyCandidate(name,articleText=""){
  const t=clean(articleText);
  let score=0;
  if(/\b(Studio|Studios|Design|Agency|Collective|Partners|Branding)\b/i.test(n)) score+=6;
+ if(/^(Studio|Studios|Design|Agency)\b/i.test(n)) score+=4;
  if(t.toLowerCase().includes(n.toLowerCase())) score+=2;
  if(n.split(/\s+/).length<=4) score+=1;
  return score;
 }
-function extractDeterministicCredits(html,articleText){
+function extractDeterministicCredits(html,articleText,title=""){
  const text=clean(articleText||"");
- const candidates=extractAgencyCandidatesFromHtml(html);
+ const candidates=extractAgencyCandidatesFromHtml(html,title);
 
  const addAgency=v=>{
   const a=clean(v||"")
@@ -663,6 +678,7 @@ function extractDeterministicCredits(html,articleText){
  }
 
  const datePatterns=[
+  /\bDate\s*[:–—-]?\s*([0-3]?\d\s+[A-Za-z]+\s+(?:19|20)\d{2})/i,
   /(?:project date|launch date|launched|unveiled|released|introduced|created|completed)\s*(?:on|:|–|—|-)?\s*([0-3]?\d\s+[A-Za-z]+\s+(?:19|20)\d{2}|[A-Za-z]+\s+[0-3]?\d,?\s+(?:19|20)\d{2}|(?:19|20)\d{2}[-\/.]\d{1,2}[-\/.]\d{1,2})/i,
   /(?:yaranma tarixi|layihə tarixi|təqdim edildi|istifadəyə verildi)\s*[:–—-]?\s*([0-3]?\d[.\/-][01]?\d[.\/-](?:19|20)\d{2})/i,
   /(?:дата проекта|запущено|представлено)\s*[:–—-]?\s*([0-3]?\d[.\/-][01]?\d[.\/-](?:19|20)\d{2})/i
@@ -679,8 +695,8 @@ function extractDeterministicCredits(html,articleText){
 }
 
 async function extractProjectMeta(env,{title,sourceName,published,articleText,html}){
- const deterministic=extractDeterministicCredits(html,articleText);
- const htmlCandidates=extractAgencyCandidatesFromHtml(html);
+ const deterministic=extractDeterministicCredits(html,articleText,title);
+ const htmlCandidates=extractAgencyCandidatesFromHtml(html,title);
  const articleDate=formatProjectDate(published);
  const prompt=
   "Aşağıdakı layihə materialından yalnız DƏQİQ görünən məlumatı çıxar. Heç nə təxmin etmə və uydurma. "+
