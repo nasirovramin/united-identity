@@ -44,7 +44,8 @@ async function scan(env){
    const body=clean(h.replace(/<script\b[\s\S]*?<\/script>/gi," ").replace(/<style\b[\s\S]*?<\/style>/gi," ").replace(/<[^>]+>/g," ")).slice(0,15000);
    if(!match(m.title+" "+m.desc+" "+body)) continue;
    st.matched++;
-   await telegram(env,{...m,url:a.url,source:a.source});
+   const prepared=await prepareProject(env,h,m,a.url,a.source);
+   await telegram(env,prepared);
    await env.IDENTITY_KV.put(k,new Date().toISOString());
    st.sent++;
   }catch(e){st.errors.push(a.url+": "+msg(e))}
@@ -216,7 +217,8 @@ async function realTest(env){
      const fingerprint=clean(m.title).toLowerCase().replace(/[^a-z0-9а-яё]+/gi," ").trim();
      const key="project:"+await hash(fingerprint||a.url);
      if(await env.IDENTITY_KV.get(key)) continue;
-     const result=await telegram(env,{...m,url:a.url,source:s.name});
+     const prepared=await prepareProject(env,h,m,a.url,s.name);
+     const result=await telegram(env,prepared);
      await env.IDENTITY_KV.put(key,JSON.stringify({title:m.title,url:a.url,source:s.name,sentAt:new Date().toISOString()}));
      const message_id=Array.isArray(result)&&result[0]?result[0].message_id:result.message_id;
      return {ok:true,sent:true,source:s.name,title:m.title,url:a.url,message_id};
@@ -225,4 +227,155 @@ async function realTest(env){
   }catch(e){errors.push(s.name+": "+msg(e))}
  }
  return {ok:false,sent:false,reason:"No unseen Identity candidate found",errors:errors.slice(0,10)};
+}
+
+
+function extractArticleParagraphs(html){
+ const cleaned=String(html)
+  .replace(/<script\b[\s\S]*?<\/script>/gi," ")
+  .replace(/<style\b[\s\S]*?<\/style>/gi," ")
+  .replace(/<nav\b[\s\S]*?<\/nav>/gi," ")
+  .replace(/<footer\b[\s\S]*?<\/footer>/gi," ");
+ const out=[];
+ const re=/<p\b[^>]*>([\s\S]*?)<\/p>/gi; let m;
+ while((m=re.exec(cleaned))){
+  const t=clean(m[1].replace(/<br\s*\/?\s*>/gi,"\n").replace(/<[^>]+>/g," "));
+  if(t.length<45) continue;
+  if(/cookie|privacy|newsletter|subscribe|sign up|advertis|all rights reserved/i.test(t)) continue;
+  out.push(t);
+ }
+ return [...new Set(out)].slice(0,80);
+}
+
+function hasCaseStudy(paragraphs){
+ const text=paragraphs.join("\n\n");
+ return paragraphs.length>=3 && text.length>=700;
+}
+
+async function aiText(env,prompt){
+ if(!env.AI) return "";
+ try{
+  const r=await env.AI.run("@cf/google/gemma-4-26b-a4b-it",{
+   messages:[
+    {role:"system",content:"You are a precise Azerbaijani design editor. Preserve names, brands, agencies and design terminology. Use clear natural Azerbaijani, not academic language."},
+    {role:"user",content:prompt}
+   ],
+   max_tokens:1800,
+   temperature:0.2
+  });
+  return cleanAI(r);
+ }catch(e){
+  return "";
+ }
+}
+function cleanAI(r){
+ if(!r) return "";
+ if(typeof r==="string") return r.trim();
+ if(typeof r.response==="string") return r.response.trim();
+ if(typeof r.result==="string") return r.result.trim();
+ if(r.result&&typeof r.result.response==="string") return r.result.response.trim();
+ return "";
+}
+
+async function makeAzSummary(env,title,desc,articleText){
+ const source=(desc||articleText||"").slice(0,3500);
+ const prompt=
+  "Bu brand/visual identity layihəsi üçün Telegram postuna Azərbaycan dilində 2 qısa abzas yaz. "+
+  "Hər abzas maksimum 2 cümlə olsun. Fakt uydurma. Sadə, peşəkar dil istifadə et. "+
+  "Başlığı təkrarlama. Yalnız post mətnini qaytar.\n\nBaşlıq: "+title+"\n\nMənbə mətni: "+source;
+ const ai=await aiText(env,prompt);
+ return ai||clean(desc||"Vizual kimlik layihəsi.");
+}
+
+async function translateFullCaseStudy(env,paragraphs){
+ const chunks=[]; let cur="";
+ for(const p of paragraphs){
+  if((cur+"\n\n"+p).length>5000){
+   if(cur) chunks.push(cur);
+   cur=p;
+  }else cur+=(cur?"\n\n":"")+p;
+ }
+ if(cur) chunks.push(cur);
+ const translated=[];
+ for(const chunk of chunks.slice(0,8)){
+  const prompt=
+   "Aşağıdakı case study mətnini Azərbaycan dilinə TAM tərcümə et. Heç nə ixtisar etmə, "+
+   "heç bir fakt əlavə etmə. Brand, studio, agency və xüsusi adları saxla. "+
+   "Dizayn və marketinq terminlərini aydın dildə ver. Abzasları qoruyub yalnız tərcüməni qaytar.\n\n"+chunk;
+  const t=await aiText(env,prompt);
+  translated.push(t||chunk);
+ }
+ return translated.join("\n\n");
+}
+
+async function getTelegraphToken(env){
+ let token=await env.IDENTITY_KV.get("telegraph:access_token");
+ if(token) return token;
+ const body=new URLSearchParams({
+  short_name:"UnitedIdentity",
+  author_name:"United Identity"
+ });
+ const r=await fetch("https://api.telegra.ph/createAccount",{method:"POST",body});
+ const d=await r.json();
+ if(!d.ok||!d.result||!d.result.access_token) throw Error("Telegraph account: "+JSON.stringify(d));
+ token=d.result.access_token;
+ await env.IDENTITY_KV.put("telegraph:access_token",token);
+ return token;
+}
+
+async function createTelegraphPage(env,{title,translatedText,images,sourceUrl,sourceName}){
+ const token=await getTelegraphToken(env);
+ const nodes=[];
+ for(const p of translatedText.split(/\n\s*\n/).map(clean).filter(Boolean)){
+  nodes.push({tag:"p",children:[p]});
+ }
+ for(const img of (images||[]).filter(u=>/^https?:\/\//i.test(u)).slice(0,20)){
+  nodes.push({tag:"figure",children:[
+   {tag:"img",attrs:{src:img}},
+  ]});
+ }
+ nodes.push({tag:"hr"});
+ nodes.push({tag:"p",children:[
+  {tag:"a",attrs:{href:sourceUrl},children:["Mənbə: "+sourceName]}
+ ]});
+ let content=JSON.stringify(nodes);
+ if(new TextEncoder().encode(content).length>63000){
+  const reduced=nodes.filter(n=>n.tag!=="figure").concat(
+   (images||[]).filter(u=>/^https?:\/\//i.test(u)).slice(0,8).map(img=>({tag:"img",attrs:{src:img}}))
+  );
+  content=JSON.stringify(reduced);
+ }
+ const body=new URLSearchParams({
+  access_token:token,
+  title:cut(cleanTitle(title),250),
+  author_name:"United Identity",
+  content,
+  return_content:"false"
+ });
+ const r=await fetch("https://api.telegra.ph/createPage",{method:"POST",body});
+ const d=await r.json();
+ if(!d.ok||!d.result||!d.result.url) throw Error("Telegraph createPage: "+JSON.stringify(d));
+ return d.result.url;
+}
+
+async function prepareProject(env,html,m,url,source){
+ const paragraphs=extractArticleParagraphs(html);
+ const articleText=paragraphs.join("\n\n");
+ const descAz=await makeAzSummary(env,m.title,m.desc,articleText);
+ let telegraphUrl="";
+ if(hasCaseStudy(paragraphs)){
+  try{
+   const translatedText=await translateFullCaseStudy(env,paragraphs);
+   telegraphUrl=await createTelegraphPage(env,{
+    title:m.title,
+    translatedText,
+    images:m.images||[],
+    sourceUrl:url,
+    sourceName:source
+   });
+  }catch(e){
+   telegraphUrl="";
+  }
+ }
+ return {...m,desc:descAz,url,source,telegraphUrl};
 }
