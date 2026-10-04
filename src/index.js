@@ -679,61 +679,85 @@ function cleanAI(r){
  return "";
 }
 
+function sourceLang(text=""){
+ const t=String(text);
+ if(/[А-Яа-яЁё]/.test(t)) return "ru";
+ return "en";
+}
+function cleanTranslation(r){
+ if(!r) return "";
+ if(typeof r==="string") return r.trim();
+ if(typeof r.translated_text==="string") return r.translated_text.trim();
+ if(typeof r.translation==="string") return r.translation.trim();
+ if(r.result&&typeof r.result.translated_text==="string") return r.result.translated_text.trim();
+ return "";
+}
+async function translateAz(env,text){
+ const src=clean(text||"");
+ if(!src) return "";
+ if(looksAzerbaijani(src) && !needsTranslation(src)) return normalizeIdentityTerms(src);
+ const key="tr:az:"+await hash(src);
+ const cached=await env.IDENTITY_KV.get(key);
+ if(cached) return cached;
+ const r=await env.AI.run("@cf/meta/m2m100-1.2b",{
+  text:src,
+  source_lang:sourceLang(src),
+  target_lang:"az"
+ });
+ const out=normalizeIdentityTerms(cleanTranslation(r));
+ if(!out || out.length<2 || !looksAzerbaijani(out)){
+  throw Error("Azerbaijani translation model returned invalid output");
+ }
+ await env.IDENTITY_KV.put(key,out,{expirationTtl:60*60*24*90});
+ return out;
+}
+
 async function makeAzTitle(env,title){
  const source=cleanTitle(title||"");
  if(!source) return "Vizual kimlik layihəsi";
- const prompt=
-  "Aşağıdakı başlığı Azərbaycan dilində təbii, aydın və qısa POST BAŞLIĞI kimi yaz. "+
-  "Sözbəsöz və ağır tərcümə etmə, amma mənanı dəyişmə və fakt əlavə etmə. "+
-  "Xüsusi adları olduğu kimi saxla. 'brand identity', 'visual identity', 'identiklik' və 'Айдентика' ifadələrini həmişə 'Vizual kimlik' kimi yaz. "+
-  "Yalnız hazır Azərbaycan dilində başlığı qaytar.\n\nBaşlıq: "+source;
- const ai=await aiText(env,prompt,{
-  minLength:2,
-  validator:out=>!needsTranslation(source)||looksAzerbaijani(out)
- });
- if(!ai) throw Error("Azerbaijani title translation failed");
- return normalizeIdentityTerms(cleanTitle(ai));
+ const translated=await translateAz(env,source);
+ return normalizeIdentityTerms(cleanTitle(translated));
 }
 
 async function makeAzSummary(env,title,desc,articleText){
- const source=(clean(desc)+"\n\n"+clean(articleText)).trim().slice(0,9000);
- const prompt=
-  "Bu Vizual kimlik layihəsi üçün Azərbaycan dilində 2 qısa və ÇOX AYDIN abzas yaz. "+
-  "Birinci abzasda de: layihə kim üçündür və niyə yaradılıb. "+
-  "İkinci abzasda de: dizaynda nə edilib, hansı əsas vizual ideya və yanaşma istifadə olunub. "+
-  "Mətnə baxan adam layihəni bir oxunuşda başa düşməlidir. Fakt uydurma. "+
-  "Sözbəsöz tərcümə etmə. İngilis cümlə quruluşunu Azərbaycan dilinə daşımadan təbii danışıq dilində yaz. "+
-  "Mücərrəd və dolaşıq ifadələri konkret mənaya çevir. "+
-  "'brand identity', 'visual identity', 'identiklik' və 'Айдентика' ifadələrini həmişə 'Vizual kimlik' kimi yaz. "+
-  "Başlığı təkrarlama. Yalnız Azərbaycan dilində post mətnini qaytar.\n\nBaşlıq: "+title+"\n\nMənbə mətni: "+source;
- const ai=await aiText(env,prompt,{minLength:20,validator:looksAzerbaijani});
- if(!ai) throw Error("Azerbaijani summary translation failed");
- return normalizeIdentityTerms(ai);
+ const sourceDesc=clean(desc||"");
+ const paras=String(articleText||"").split(/\n\s*\n/).map(clean).filter(x=>x.length>40);
+ const picked=[];
+ if(sourceDesc) picked.push(sourceDesc);
+ for(const p of paras){
+  if(picked.length>=2) break;
+  if(sourceDesc && p.toLowerCase()===sourceDesc.toLowerCase()) continue;
+  picked.push(p);
+ }
+ if(!picked.length) return "Vizual kimlik layihəsi haqqında məlumat.";
+ const translated=[];
+ for(const p of picked.slice(0,2)){
+  translated.push(await translateAz(env,cut(p,900)));
+ }
+ return translated.join("\n\n");
 }
 
 async function translateFullCaseStudy(env,paragraphs){
- const chunks=[]; let cur="";
- for(const p of paragraphs){
-  if((cur+"\n\n"+p).length>2600){
-   if(cur) chunks.push(cur);
-   cur=p;
-  }else cur+=(cur?"\n\n":"")+p;
- }
- if(cur) chunks.push(cur);
  const translated=[];
- for(const chunk of chunks){
-  const prompt=
-   "Aşağıdakı case study mətnini Azərbaycan dilinə TAM çevir. Orijinaldan HEÇ NƏ SİLMƏ, HEÇ NƏ QISALTMA və heç bir fakt əlavə etmə. "+
-   "Bütün cümlələri, bütün abzasları və bütün detalları saxla. Brand, studio, agency və xüsusi adları olduğu kimi saxla. "+
-   "Amma dili sözbəsöz çevirmə: hər cümləni Azərbaycan dilində sadə, təbii və başa düşülən formada qur. "+
-   "Uzun və dolaşıq cümlələri mənanı itirmədən 2-3 qısa cümləyə bölmək olar. "+
-   "Metafora və çətin ifadə varsa, mənasını aydın Azərbaycan dili ilə ver. "+
-   "Dizayn və marketinq terminlərini başa düşülən formada yaz. 'brand identity', 'visual identity', 'identiklik' və 'Айдентика' ifadələrini həmişə 'Vizual kimlik' kimi yaz. "+
-   "Abzas sırasını qoru və yalnız Azərbaycan dilində tam mətn qaytar.\n\n"+chunk;
-  const t=await aiText(env,prompt,{minLength:20,validator:looksAzerbaijani});
-  if(!t) throw Error("Full Azerbaijani case-study translation failed");
-  translated.push(normalizeIdentityTerms(t));
+ for(const p of paragraphs){
+  const src=clean(p);
+  if(!src) continue;
+  // Keep every paragraph; split only when a paragraph is unusually long.
+  if(src.length<=1400){
+   translated.push(await translateAz(env,src));
+  }else{
+   const sentences=src.match(/[^.!?]+[.!?]?/g)||[src];
+   let cur="";
+   for(const s of sentences){
+    if((cur+" "+s).length>1200 && cur){
+     translated.push(await translateAz(env,cur.trim()));
+     cur=s;
+    }else cur+=(cur?" ":"")+s;
+   }
+   if(cur) translated.push(await translateAz(env,cur.trim()));
+  }
  }
+ if(!translated.length) throw Error("Full Azerbaijani case-study translation failed");
  return translated.join("\n\n");
 }
 
@@ -891,53 +915,13 @@ function extractArticleDate(html,published=""){
 
 async function extractProjectMeta(env,{title,sourceName,published,articleText,html}){
  const deterministic=extractDeterministicCredits(html,articleText,title);
- const htmlCandidates=extractAgencyCandidatesFromHtml(html,title);
  const articleDate=extractArticleDate(html,published);
- const evidence=agencyEvidenceSnippets(articleText);
- const prompt=
-  "Aşağıdakı layihə materialından yalnız DƏQİQ görünən məlumatı çıxar. Heç nə təxmin etmə və uydurma. "+
-  "Agentlik üçün yalnız məqalədə görünən real studio/agency adını seç. Domeni və URL-ni agentlik adı kimi yazma. "+
-  "Əgər mətn 'Studio Templo', 'Templo Studio' və ya sadəcə 'Templo' deyirsə, görünən düzgün xüsusi adı qaytar. "+
-  "Cümlə fraqmenti, feil hissəsi və ya xəbər saytının adını qaytarma. "+
-  "Layihənin öz yaranma/launch/completion tarixi varsa onu qaytar; yoxdursa null. "+
-  'Yalnız JSON qaytar: {"agency":null,"project_date":null}.\n\n'+
-  "Başlıq: "+title+
-  "\nMənbə saytı: "+sourceName+
-  "\nMəqalənin yayımlanma tarixi (yalnız məlumat üçün): "+(published||"")+
-  "\nAgentlik üçün güclü kontekst cümlələri: "+JSON.stringify(evidence)+
-  "\nHTML-dən tapılmış namizədlər: "+JSON.stringify(htmlCandidates)+
-  "\n\nMəqalə:\n"+articleText.slice(0,16000);
- const out=await aiText(env,prompt);
- let agency=deterministic.agency||"";
+ const agency=deterministic.agency||"";
  let projectDate=deterministic.projectDate||"";
  let projectDateLabel=projectDate?"Yaranma tarixi":"";
- if(out){
-  try{
-   const j=JSON.parse(out.replace(/^```json\s*/i,"").replace(/```$/,"").trim());
-   if(!agency&&j&&typeof j.agency==="string"){
-    let a=clean(j.agency).replace(/[“”"'.,;:]+$/g,"").trim();
-    a=a.replace(/^https?:\/\//i,"").replace(/^www\./i,"").replace(/\.(com|co\.uk|net|org|io).*$/i,"").trim();
-    const sentenceLike=/\b(has been|have been|was|were|is|are|been|enlisted|commissioned|to bring|to create|to develop|resulting in|fans|women-first|something unique|ownable)\b/i.test(a);
-    const visible=articleText.toLowerCase().includes(a.toLowerCase());
-    const exactHtml=htmlCandidates.find(x=>x.toLowerCase()===a.toLowerCase());
-    if(exactHtml) agency=exactHtml;
-    else if(a && a.length<=70 && !sentenceLike && a.split(/\s+/).length<=6 && visible) agency=a;
-   }
-   if(!projectDate&&j&&typeof j.project_date==="string"){
-    const d=formatProjectDate(j.project_date);
-    if(d){ projectDate=d; projectDateLabel="Yaranma tarixi"; }
-   }
-  }catch{}
- }
  if(!projectDate && articleDate){
   projectDate=articleDate;
   projectDateLabel="Məqalə tarixi";
- }
- if((!agency || /\b(has been|have been|resulting in|fans|women-first|something unique|ownable)\b/i.test(agency) || /\.(com|co\.uk|net|org|io)\b/i.test(agency)) && htmlCandidates.length){
-  const ranked=[...htmlCandidates]
-   .filter(a=>!/https?:\/\/|www\.|\.(com|co\.uk|net|org|io)\b/i.test(a))
-   .sort((a,b)=>scoreAgencyCandidate(b,articleText)-scoreAgencyCandidate(a,articleText) || a.length-b.length);
-  agency=ranked[0]||agency;
  }
  return {agency,projectDate,projectDateLabel};
 }
@@ -1023,15 +1007,10 @@ async function createTelegraphPage(env,{title,translatedText,images,sourceUrl,so
 async function selfTest(env){
  need(env);
  if(!env.AI) throw Error("Workers AI binding is missing");
- const sampleTitle=await makeAzTitle(env,"A new visual identity for a city restaurant");
- const sampleSummary=await makeAzSummary(
-  env,
-  sampleTitle,
-  "A design studio created a new visual identity for a restaurant, using bold typography and a flexible graphic system.",
-  "The project uses typography, a flexible graphic system and a clear visual language to give the restaurant a distinctive identity."
- );
- const ok=looksAzerbaijani(sampleTitle)&&looksAzerbaijani(sampleSummary);
- return {ok,title:sampleTitle,summary:sampleSummary,checkedAt:new Date().toISOString()};
+ const sampleTitle=await translateAz(env,"A new visual identity for a city restaurant");
+ const sampleBody=await translateAz(env,"A design studio created a new visual identity for a restaurant using bold typography and a flexible graphic system.");
+ const ok=looksAzerbaijani(sampleTitle)&&looksAzerbaijani(sampleBody);
+ return {ok,engine:"m2m100-1.2b",title:sampleTitle,summary:sampleBody,checkedAt:new Date().toISOString()};
 }
 
 async function prepareProject(env,html,m,url,source){
