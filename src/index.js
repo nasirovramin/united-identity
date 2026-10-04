@@ -1051,7 +1051,11 @@ async function repairAzPosts(env){
  const updatesJson=await updatesResp.json();
  if(!updatesJson.ok) throw Error("Telegram getUpdates: "+JSON.stringify(updatesJson));
 
- const messages={};
+ const messages={
+  "UID-03C05725EC":{chat_id:env.TELEGRAM_CHAT_ID,message_id:49},
+  "UID-C9A18D7DDE":{chat_id:env.TELEGRAM_CHAT_ID,message_id:48},
+  "UID-F7AFDE98C0":{chat_id:env.TELEGRAM_CHAT_ID,message_id:50}
+ };
  for(const u of updatesJson.result||[]){
   const m=u.channel_post||u.edited_channel_post;
   if(!m) continue;
