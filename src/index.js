@@ -137,6 +137,14 @@ async function scan(env){
      continue;
     }
 
+    // Reject candidates without usable project media before any AI translation.
+    // This prevents spending Workers AI quota on posts that Telegram would refuse anyway.
+    const usableImages=(m.images||[]).filter(u=>/^https?:\/\//i.test(u));
+    if(!usableImages.length){
+     st.skippedNoMedia=(st.skippedNoMedia||0)+1;
+     continue;
+    }
+
     st.matched++;
     batch.stat.matched++;
     const prepared=await prepareProject(env,h,m,a.url,a.source);
