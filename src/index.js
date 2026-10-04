@@ -21,6 +21,7 @@ export default {
    const raw=await env.IDENTITY_KV.get("diag:last-scan");
    return out(raw?JSON.parse(raw):{ok:false,reason:"No scan diagnostics yet"});
   }
+  if(p==="/repair-az") return out(await repairAzPosts(env));
   return new Response("United Identity production rejimində işləyir ✅\\nAvtomatik paylaşım aktivdir.");
  },
  async scheduled(c,env,ctx){ctx.waitUntil(scan(env))}
@@ -420,14 +421,14 @@ function normalizeIdentityTerms(s=""){
   .replace(/\bidentiklik\b/gi,"Vizual kimlik")
   .replace(/\bайдентика\b/gi,"Vizual kimlik");
 }
-async function telegram(env,x){
+function buildCaption(x){
  const title=normalizeIdentityTerms(cleanTitle(x.titleAz||x.title||"Vizual kimlik layihəsi"));
  const desc=normalizeIdentityTerms(clean(x.desc||"Vizual kimlik layihəsi."));
  const parts=splitParagraphs(desc,2);
  const sourceLink='<a href="'+esc(x.url)+'">Mənbə: '+esc(x.source)+'</a>';
  const detailsLink=x.telegraphUrl?'<a href="'+esc(x.telegraphUrl)+'">Ətraflı</a>':"";
  const bottom=[detailsLink,sourceLink].filter(Boolean).join("     ");
- const caption=[
+ return [
   "🎬 <b>"+esc(cut(title,220))+"</b>",
   ...parts.map(p=>esc(cut(p,420))),
   x.agency?"<b>Agentlik:</b> "+esc(x.agency):"",
@@ -436,7 +437,10 @@ async function telegram(env,x){
   "#visualidentity",
   bottom
  ].filter(Boolean).join("\n\n");
+}
 
+async function telegram(env,x){
+ const caption=buildCaption(x);
  const imgs=(x.images||[]).filter(u=>/^https?:\/\//i.test(u)).slice(0,10);
 
  // Never publish image-less posts.
@@ -603,7 +607,7 @@ function hasCaseStudy(paragraphs){
 }
 
 async function aiText(env,prompt){
- if(!env.AI) return "";
+ if(!env.AI) throw Error("Workers AI binding is missing");
  const models=[
   "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
   "@cf/meta/llama-3.1-8b-instruct-fast",
@@ -643,7 +647,8 @@ async function makeAzTitle(env,title){
   "Xüsusi adları olduğu kimi saxla. 'brand identity', 'visual identity', 'identiklik' və 'Айдентика' ifadələrini həmişə 'Vizual kimlik' kimi yaz. "+
   "Yalnız hazır Azərbaycan dilində başlığı qaytar.\n\nBaşlıq: "+source;
  const ai=await aiText(env,prompt);
- return normalizeIdentityTerms(cleanTitle(ai||source));
+ if(!ai) throw Error("Azerbaijani title translation failed");
+ return normalizeIdentityTerms(cleanTitle(ai));
 }
 
 async function makeAzSummary(env,title,desc,articleText){
@@ -658,7 +663,8 @@ async function makeAzSummary(env,title,desc,articleText){
   "'brand identity', 'visual identity', 'identiklik' və 'Айдентика' ifadələrini həmişə 'Vizual kimlik' kimi yaz. "+
   "Başlığı təkrarlama. Yalnız Azərbaycan dilində post mətnini qaytar.\n\nBaşlıq: "+title+"\n\nMənbə mətni: "+source;
  const ai=await aiText(env,prompt);
- return normalizeIdentityTerms(ai||clean(desc||"Vizual kimlik layihəsi."));
+ if(!ai) throw Error("Azerbaijani summary translation failed");
+ return normalizeIdentityTerms(ai);
 }
 
 async function translateFullCaseStudy(env,paragraphs){
@@ -681,7 +687,8 @@ async function translateFullCaseStudy(env,paragraphs){
    "Dizayn və marketinq terminlərini başa düşülən formada yaz. 'brand identity', 'visual identity', 'identiklik' və 'Айдентика' ifadələrini həmişə 'Vizual kimlik' kimi yaz. "+
    "Abzas sırasını qoru və yalnız Azərbaycan dilində tam mətn qaytar.\n\n"+chunk;
   const t=await aiText(env,prompt);
-  translated.push(normalizeIdentityTerms(t||chunk));
+  if(!t) throw Error("Full Azerbaijani case-study translation failed");
+  translated.push(normalizeIdentityTerms(t));
  }
  return translated.join("\n\n");
 }
@@ -969,6 +976,7 @@ async function createTelegraphPage(env,{title,translatedText,images,sourceUrl,so
 }
 
 async function prepareProject(env,html,m,url,source){
+ if(!env.AI) throw Error("Workers AI binding is missing; refusing to publish untranslated content");
  const postId=await makePostId(url,m.title||"");
  const blocks=extractArticleBlocks(html);
  const paragraphs=blocks.filter(b=>["p","li","blockquote"].includes(b.type)).map(b=>b.text);
@@ -1002,4 +1010,88 @@ async function prepareProject(env,html,m,url,source){
   }
  }
  return {...m,postId,titleAz,desc:normalizeIdentityTerms(descAz),url,source,telegraphUrl,agency:projectMeta.agency,projectDate:projectMeta.projectDate,projectDateLabel:projectMeta.projectDateLabel};
+}
+
+
+const AZ_REPAIR_IDS=[
+ "UID-03C05725EC",
+ "UID-1EF4AC1E96",
+ "UID-F7AFDE98C0",
+ "UID-C9A18D7DDE"
+];
+
+async function repairAzPosts(env){
+ need(env);
+ if(!env.AI) throw Error("Workers AI binding is missing");
+ const marker="repair:az:2026-10-04:v1";
+ const done=await env.IDENTITY_KV.get(marker);
+ if(done) return {ok:true,alreadyDone:true,details:JSON.parse(done)};
+
+ const wanted=new Set(AZ_REPAIR_IDS);
+ const records={};
+ let cursor;
+ do{
+  const page=await env.IDENTITY_KV.list({prefix:"seen:",limit:1000,cursor});
+  for(const k of page.keys){
+   try{
+    const raw=await env.IDENTITY_KV.get(k.name);
+    if(!raw) continue;
+    const j=JSON.parse(raw);
+    if(j&&wanted.has(j.postId)) records[j.postId]={...j,kvKey:k.name};
+   }catch{}
+  }
+  cursor=page.list_complete?undefined:page.cursor;
+ }while(cursor && Object.keys(records).length<wanted.size);
+
+ const updatesResp=await fetch("https://api.telegram.org/bot"+env.TELEGRAM_BOT_TOKEN+"/getUpdates?limit=100&timeout=0");
+ const updatesJson=await updatesResp.json();
+ if(!updatesJson.ok) throw Error("Telegram getUpdates: "+JSON.stringify(updatesJson));
+
+ const messages={};
+ for(const u of updatesJson.result||[]){
+  const m=u.channel_post||u.edited_channel_post;
+  if(!m) continue;
+  const text=(m.caption||m.text||"");
+  for(const id of AZ_REPAIR_IDS){
+   if(text.includes(id)) messages[id]={chat_id:m.chat.id,message_id:m.message_id};
+  }
+ }
+
+ const result={};
+ let success=0;
+ for(const id of AZ_REPAIR_IDS){
+  const rec=records[id];
+  const msgRef=messages[id];
+  if(!rec){result[id]={ok:false,reason:"record_not_found_in_kv"};continue}
+  if(!msgRef){result[id]={ok:false,reason:"message_not_found_in_recent_bot_updates",url:rec.url};continue}
+  try{
+   const html=await get(rec.url);
+   const m=meta(html,rec.url);
+   const prepared=await prepareProject(env,html,m,rec.url,rec.source||"Mənbə");
+   prepared.postId=id;
+   const caption=buildCaption(prepared);
+   const r=await fetch("https://api.telegram.org/bot"+env.TELEGRAM_BOT_TOKEN+"/editMessageCaption",{
+    method:"POST",
+    headers:{"content-type":"application/json"},
+    body:JSON.stringify({
+     chat_id:msgRef.chat_id,
+     message_id:msgRef.message_id,
+     caption,
+     parse_mode:"HTML"
+    })
+   });
+   const d=await r.json();
+   if(!d.ok) throw Error(JSON.stringify(d));
+   result[id]={ok:true,message_id:msgRef.message_id,url:rec.url};
+   success++;
+  }catch(e){
+   result[id]={ok:false,reason:msg(e),url:rec.url};
+  }
+ }
+
+ const summary={success,total:AZ_REPAIR_IDS.length,result};
+ if(success===AZ_REPAIR_IDS.length){
+  await env.IDENTITY_KV.put(marker,JSON.stringify(summary));
+ }
+ return {ok:success>0,...summary};
 }
