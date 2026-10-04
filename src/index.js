@@ -609,10 +609,11 @@ function hasCaseStudy(paragraphs){
 async function aiText(env,prompt){
  if(!env.AI) throw Error("Workers AI binding is missing");
  const models=[
-  "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
   "@cf/meta/llama-3.1-8b-instruct-fast",
-  "@cf/google/gemma-3-12b-it"
+  "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+  "@cf/meta/llama-3.1-8b-instruct-fp8"
  ];
+ const errs=[];
  for(const model of models){
   try{
    const r=await env.AI.run(model,{
@@ -625,9 +626,12 @@ async function aiText(env,prompt){
    });
    const out=cleanAI(r);
    if(out && out.length>20) return out;
-  }catch(e){}
+   errs.push(model+": empty response");
+  }catch(e){
+   errs.push(model+": "+msg(e));
+  }
  }
- return "";
+ throw Error("Workers AI failed: "+errs.join(" | "));
 }
 function cleanAI(r){
  if(!r) return "";
