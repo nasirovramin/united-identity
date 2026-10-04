@@ -35,8 +35,13 @@ jobs:
       - name: Verify Azerbaijani AI translation
         run: |
           echo "Running Workers AI translation self-test..."
-          curl --fail --silent --show-error --max-time 180 \
-            https://united-identity.nasirovramin.workers.dev/self-test
+          response=$(curl --silent --show-error --max-time 180 -w "\nHTTP_STATUS:%{http_code}" \
+            https://united-identity.nasirovramin.workers.dev/self-test)
+          echo "$response"
+          status=$(printf "%s\n" "$response" | sed -n 's/^HTTP_STATUS://p' | tail -1)
+          if [ -z "$status" ] || [ "$status" -ge 400 ]; then
+            exit 1
+          fi
 
       - name: Repair untranslated Telegram captions
         run: |
