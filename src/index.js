@@ -1081,7 +1081,7 @@ const AZ_REPAIR_IDS=[
 async function repairAzPosts(env){
  need(env);
  if(!env.AI) throw Error("Workers AI binding is missing");
- const marker="repair:az:2026-10-04:v1";
+ const marker="repair:az:2026-10-04:v2";
  const done=await env.IDENTITY_KV.get(marker);
  if(done) return {ok:true,alreadyDone:true,details:JSON.parse(done)};
 
@@ -1110,6 +1110,11 @@ async function repairAzPosts(env){
   "UID-C9A18D7DDE":{chat_id:env.TELEGRAM_CHAT_ID,message_id:48},
   "UID-F7AFDE98C0":{chat_id:env.TELEGRAM_CHAT_ID,message_id:50}
  };
+ // Newer records always carry exact Telegram message IDs. Prefer those over legacy fallbacks.
+ for(const [id,rec] of Object.entries(records)){
+  const mid=Array.isArray(rec.telegramMessageIds)&&rec.telegramMessageIds.length?rec.telegramMessageIds[0]:null;
+  if(Number.isFinite(mid)) messages[id]={chat_id:env.TELEGRAM_CHAT_ID,message_id:mid};
+ }
  for(const u of updatesJson.result||[]){
   const m=u.channel_post||u.edited_channel_post;
   if(!m) continue;
@@ -1144,16 +1149,26 @@ async function repairAzPosts(env){
    });
    const d=await r.json();
    if(!d.ok) throw Error(JSON.stringify(d));
-   result[id]={ok:true,message_id:msgRef.message_id,url:rec.url};
+   const updatedRecord={
+    ...rec,
+    titleAz:prepared.titleAz,
+    telegraphUrl:prepared.telegraphUrl||"",
+    telegraphPath:prepared.telegraphPath||"",
+    telegramMessageIds:[msgRef.message_id],
+    repairedAt:new Date().toISOString()
+   };
+   await env.IDENTITY_KV.put(rec.kvKey,JSON.stringify(updatedRecord));
+   result[id]={ok:true,message_id:msgRef.message_id,url:rec.url,telegraphUrl:prepared.telegraphUrl||""};
    success++;
   }catch(e){
    result[id]={ok:false,reason:msg(e),url:rec.url};
   }
  }
 
- const summary={success,total:AZ_REPAIR_IDS.length,result};
+ const pending=AZ_REPAIR_IDS.filter(id=>!result[id]||!result[id].ok);
+ const summary={success,total:AZ_REPAIR_IDS.length,pending,result};
  if(success===AZ_REPAIR_IDS.length){
   await env.IDENTITY_KV.put(marker,JSON.stringify(summary));
  }
- return {ok:success>0,...summary};
+ return {ok:success>0,complete:success===AZ_REPAIR_IDS.length,...summary};
 }
