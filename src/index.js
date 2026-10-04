@@ -15,7 +15,18 @@ const MAX_PAGE_FETCHES_PER_RUN=20;
 export default {
  async fetch(req,env){
   const p=new URL(req.url).pathname;
-  if(p==="/scan") return out(await scan(env));
+  if(p==="/scan"){
+   const r=await scan(env);
+   return out(r,r.ok?200:500);
+  }
+  if(p==="/self-test"){
+   try{
+    const r=await selfTest(env);
+    return out(r,r.ok?200:500);
+   }catch(e){
+    return out({ok:false,error:msg(e)},500);
+   }
+  }
   if(p==="/health") return out({ok:true,module:"web-page crawler",filters:FILTERS,sources:SOURCES.map(x=>x.name)});
   if(p==="/diagnostics"){
    const raw=await env.IDENTITY_KV.get("diag:last-scan");
@@ -121,14 +132,19 @@ async function scan(env){
     st.matched++;
     batch.stat.matched++;
     const prepared=await prepareProject(env,h,m,a.url,a.source);
-    await telegram(env,prepared);
+    const tgResult=await telegram(env,prepared);
+    const telegramMessageIds=messageIds(tgResult);
     await env.IDENTITY_KV.put(
       k,
       JSON.stringify({
        postId:prepared.postId,
        title:m.title,
+       titleAz:prepared.titleAz,
        url:a.url,
        source:a.source,
+       telegraphUrl:prepared.telegraphUrl||"",
+       telegraphPath:prepared.telegraphPath||"",
+       telegramMessageIds,
        sentAt:new Date().toISOString()
       })
     );
@@ -151,6 +167,8 @@ async function scan(env){
  }
 
  st.finishedAt=new Date().toISOString();
+ st.blockingErrors=(st.matched>0 && st.sent===0)?st.errors.slice(0,10):[];
+ if(st.blockingErrors.length) st.ok=false;
  st.sourceDistribution=st.perSource
   .filter(x=>x.sent>0)
   .map(x=>({source:x.source,sent:x.sent}));
@@ -473,6 +491,10 @@ async function telegram(env,x){
 function cleanTitle(s=""){
  return clean(s).replace(/\s*\|\s*It&#x27;s Nice That$/i,"").replace(/\s*\|\s*It's Nice That$/i,"").trim();
 }
+function messageIds(result){
+ const arr=Array.isArray(result)?result:[result];
+ return arr.filter(Boolean).map(x=>x.message_id).filter(Number.isFinite);
+}
 function splitParagraphs(s="",n=2){
  s=clean(s);
  if(!s) return [];
@@ -490,7 +512,7 @@ async function makePostId(url,title=""){
 }
 function need(e){const a=[];if(!e.TELEGRAM_BOT_TOKEN)a.push("TELEGRAM_BOT_TOKEN");if(!e.TELEGRAM_CHAT_ID)a.push("TELEGRAM_CHAT_ID");if(!e.IDENTITY_KV)a.push("IDENTITY_KV");if(a.length)throw Error("Missing: "+a.join(", "))}
 function msg(e){return e instanceof Error?e.message:String(e)}
-function out(x){return new Response(JSON.stringify(x,null,2),{headers:{"content-type":"application/json;charset=UTF-8"}})}
+function out(x,status=200){return new Response(JSON.stringify(x,null,2),{status,headers:{"content-type":"application/json;charset=UTF-8"}})}
 
 
 async function linkedinTest(env){
@@ -538,7 +560,11 @@ async function realTest(env,force=false){
      if(!force && await env.IDENTITY_KV.get(key)) continue;
      const prepared=await prepareProject(env,h,m,a.url,s.name);
      const result=await telegram(env,prepared);
-     if(!force) await env.IDENTITY_KV.put(key,JSON.stringify({postId:prepared.postId,title:m.title,url:a.url,source:s.name,sentAt:new Date().toISOString()}));
+     if(!force) await env.IDENTITY_KV.put(key,JSON.stringify({
+      postId:prepared.postId,title:m.title,titleAz:prepared.titleAz,url:a.url,source:s.name,
+      telegraphUrl:prepared.telegraphUrl||"",telegraphPath:prepared.telegraphPath||"",
+      telegramMessageIds:messageIds(result),sentAt:new Date().toISOString()
+     }));
      const message_id=Array.isArray(result)&&result[0]?result[0].message_id:result.message_id;
      return {ok:true,sent:true,source:s.name,title:m.title,url:a.url,message_id};
     }catch(e){errors.push(s.name+" candidate: "+msg(e))}
@@ -606,12 +632,14 @@ function hasCaseStudy(paragraphs){
  return paragraphs.length>=3 && text.length>=700;
 }
 
-async function aiText(env,prompt){
+async function aiText(env,prompt,opts={}){
  if(!env.AI) throw Error("Workers AI binding is missing");
+ const minLength=opts.minLength??2;
+ const validator=typeof opts.validator==="function"?opts.validator:(()=>true);
  const models=[
-  "@cf/meta/llama-3.1-8b-instruct-fast",
   "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
-  "@cf/meta/llama-3.1-8b-instruct-fp8"
+  "@cf/google/gemma-4-26b-a4b-it",
+  "@cf/meta/llama-3.1-8b-instruct-fast"
  ];
  const errs=[];
  for(const model of models){
@@ -621,17 +649,26 @@ async function aiText(env,prompt){
      {role:"system",content:"Sən Azərbaycan dilində peşəkar dizayn redaktorusan. Əvvəl mətnin mənasını başa düş, sonra Azərbaycan dilində yenidən ifadə et. Sözbəsöz tərcümə etmə. Cümlələr təbii, sadə, qısa və məntiqli olsun. Oxucu nə baş verdiyini ilk oxunuşda anlamalıdır. Məzmunu və faktları qoru. Brand, studio, agency, layihə və xüsusi adları olduğu kimi saxla."},
      {role:"user",content:prompt}
     ],
-    max_tokens:2200,
-    temperature:0.15
+    max_tokens:3200,
+    temperature:0.12
    });
    const out=cleanAI(r);
-   if(out && out.length>20) return out;
-   errs.push(model+": empty response");
+   if(out && out.length>=minLength && validator(out)) return out;
+   errs.push(model+": invalid or empty response");
   }catch(e){
    errs.push(model+": "+msg(e));
   }
  }
  throw Error("Workers AI failed: "+errs.join(" | "));
+}
+
+function looksAzerbaijani(s=""){
+ const t=clean(s).toLowerCase();
+ return /[əğıöüşç]/i.test(t) || /\b(və|üçün|ilə|bir|bu|olan|olaraq|dizayn|layihə|vizual|kimlik|brend|yaradılıb|istifadə|yeni)\b/i.test(t);
+}
+function needsTranslation(s=""){
+ const t=clean(s).toLowerCase();
+ return /\b(the|for|with|and|from|into|its|new|brand|identity|rebrand|studio|takes|becomes|creates|designs|launches|draws|on|of|to|a|an)\b/i.test(t);
 }
 function cleanAI(r){
  if(!r) return "";
@@ -650,7 +687,10 @@ async function makeAzTitle(env,title){
   "Sözbəsöz və ağır tərcümə etmə, amma mənanı dəyişmə və fakt əlavə etmə. "+
   "Xüsusi adları olduğu kimi saxla. 'brand identity', 'visual identity', 'identiklik' və 'Айдентика' ifadələrini həmişə 'Vizual kimlik' kimi yaz. "+
   "Yalnız hazır Azərbaycan dilində başlığı qaytar.\n\nBaşlıq: "+source;
- const ai=await aiText(env,prompt);
+ const ai=await aiText(env,prompt,{
+  minLength:2,
+  validator:out=>!needsTranslation(source)||looksAzerbaijani(out)
+ });
  if(!ai) throw Error("Azerbaijani title translation failed");
  return normalizeIdentityTerms(cleanTitle(ai));
 }
@@ -666,7 +706,7 @@ async function makeAzSummary(env,title,desc,articleText){
   "Mücərrəd və dolaşıq ifadələri konkret mənaya çevir. "+
   "'brand identity', 'visual identity', 'identiklik' və 'Айдентика' ifadələrini həmişə 'Vizual kimlik' kimi yaz. "+
   "Başlığı təkrarlama. Yalnız Azərbaycan dilində post mətnini qaytar.\n\nBaşlıq: "+title+"\n\nMənbə mətni: "+source;
- const ai=await aiText(env,prompt);
+ const ai=await aiText(env,prompt,{minLength:20,validator:looksAzerbaijani});
  if(!ai) throw Error("Azerbaijani summary translation failed");
  return normalizeIdentityTerms(ai);
 }
@@ -674,7 +714,7 @@ async function makeAzSummary(env,title,desc,articleText){
 async function translateFullCaseStudy(env,paragraphs){
  const chunks=[]; let cur="";
  for(const p of paragraphs){
-  if((cur+"\n\n"+p).length>5000){
+  if((cur+"\n\n"+p).length>2600){
    if(cur) chunks.push(cur);
    cur=p;
   }else cur+=(cur?"\n\n":"")+p;
@@ -690,7 +730,7 @@ async function translateFullCaseStudy(env,paragraphs){
    "Metafora və çətin ifadə varsa, mənasını aydın Azərbaycan dili ilə ver. "+
    "Dizayn və marketinq terminlərini başa düşülən formada yaz. 'brand identity', 'visual identity', 'identiklik' və 'Айдентика' ifadələrini həmişə 'Vizual kimlik' kimi yaz. "+
    "Abzas sırasını qoru və yalnız Azərbaycan dilində tam mətn qaytar.\n\n"+chunk;
-  const t=await aiText(env,prompt);
+  const t=await aiText(env,prompt,{minLength:20,validator:looksAzerbaijani});
   if(!t) throw Error("Full Azerbaijani case-study translation failed");
   translated.push(normalizeIdentityTerms(t));
  }
@@ -976,7 +1016,22 @@ async function createTelegraphPage(env,{title,translatedText,images,sourceUrl,so
  const r=await fetch("https://api.telegra.ph/createPage",{method:"POST",body});
  const d=await r.json();
  if(!d.ok||!d.result||!d.result.url) throw Error("Telegraph createPage: "+JSON.stringify(d));
- return d.result.url;
+ return {url:d.result.url,path:d.result.path||""};
+}
+
+
+async function selfTest(env){
+ need(env);
+ if(!env.AI) throw Error("Workers AI binding is missing");
+ const sampleTitle=await makeAzTitle(env,"A new visual identity for a city restaurant");
+ const sampleSummary=await makeAzSummary(
+  env,
+  sampleTitle,
+  "A design studio created a new visual identity for a restaurant, using bold typography and a flexible graphic system.",
+  "The project uses typography, a flexible graphic system and a clear visual language to give the restaurant a distinctive identity."
+ );
+ const ok=looksAzerbaijani(sampleTitle)&&looksAzerbaijani(sampleSummary);
+ return {ok,title:sampleTitle,summary:sampleSummary,checkedAt:new Date().toISOString()};
 }
 
 async function prepareProject(env,html,m,url,source){
@@ -995,25 +1050,24 @@ async function prepareProject(env,html,m,url,source){
   html
  });
  let telegraphUrl="";
+ let telegraphPath="";
  if(hasCaseStudy(paragraphs)){
-  try{
-   const translatedText=await translateFullCaseStudy(env,paragraphs);
-   telegraphUrl=await createTelegraphPage(env,{
-    title:titleAz,
-    translatedText,
-    images:m.images||[],
-    sourceUrl:url,
-    sourceName:source,
-    agency:projectMeta.agency,
-    projectDate:projectMeta.projectDate,
-    projectDateLabel:projectMeta.projectDateLabel,
-    postId
-   });
-  }catch(e){
-   telegraphUrl="";
-  }
+  const translatedText=await translateFullCaseStudy(env,paragraphs);
+  const page=await createTelegraphPage(env,{
+   title:titleAz,
+   translatedText,
+   images:m.images||[],
+   sourceUrl:url,
+   sourceName:source,
+   agency:projectMeta.agency,
+   projectDate:projectMeta.projectDate,
+   projectDateLabel:projectMeta.projectDateLabel,
+   postId
+  });
+  telegraphUrl=page.url;
+  telegraphPath=page.path||"";
  }
- return {...m,postId,titleAz,desc:normalizeIdentityTerms(descAz),url,source,telegraphUrl,agency:projectMeta.agency,projectDate:projectMeta.projectDate,projectDateLabel:projectMeta.projectDateLabel};
+ return {...m,postId,titleAz,desc:normalizeIdentityTerms(descAz),url,source,telegraphUrl,telegraphPath,agency:projectMeta.agency,projectDate:projectMeta.projectDate,projectDateLabel:projectMeta.projectDateLabel};
 }
 
 
