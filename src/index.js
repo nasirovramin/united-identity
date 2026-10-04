@@ -35,7 +35,15 @@ export default {
   if(p==="/repair-az") return out(await repairAzPosts(env));
   return new Response("United Identity production rejimində işləyir ✅\\nAvtomatik paylaşım aktivdir.");
  },
- async scheduled(c,env,ctx){ctx.waitUntil(scan(env))}
+ async scheduled(c,env,ctx){
+  ctx.waitUntil((async()=>{
+   const d=new Date(c&&c.scheduledTime?c.scheduledTime:Date.now());
+   if(d.getUTCHours()===0){
+    try{ await repairAzPosts(env); }catch(e){}
+   }
+   await scan(env);
+  })());
+ }
 };
 
 async function scan(env){
@@ -699,19 +707,54 @@ async function translateAz(env,text){
  const key="tr:az:"+await hash(src);
  const cached=await env.IDENTITY_KV.get(key);
  if(cached) return cached;
- const r=await env.AI.run("@cf/meta/m2m100-1.2b",{
-  text:src,
-  source_lang:sourceLang(src),
-  target_lang:"az"
- });
- const out=normalizeIdentityTerms(cleanTranslation(r));
- if(!out || out.length<2 || !looksAzerbaijani(out)){
-  throw Error("Azerbaijani translation model returned invalid output");
- }
- await env.IDENTITY_KV.put(key,out,{expirationTtl:60*60*24*90});
- return out;
-}
 
+ const errors=[];
+ for(let attempt=1;attempt<=2;attempt++){
+  try{
+   const r=await env.AI.run("@cf/meta/m2m100-1.2b",{
+    text:src,
+    source_lang:sourceLang(src),
+    target_lang:"az"
+   });
+   const out=normalizeIdentityTerms(cleanTranslation(r));
+   if(out && out.length>=2 && looksAzerbaijani(out)){
+    await env.IDENTITY_KV.put(key,out,{expirationTtl:60*60*24*90});
+    return out;
+   }
+   errors.push("m2m100 invalid output");
+  }catch(e){
+   const m=msg(e);
+   errors.push("m2m100: "+m);
+   if(/4006|daily free allocation|quota/i.test(m)) break;
+   if(attempt<2) await new Promise(r=>setTimeout(r,400*attempt));
+  }
+ }
+
+ // Cheap fallback for temporary model/capacity issues. Do not use it when the account-wide daily quota is exhausted.
+ if(!errors.some(x=>/4006|daily free allocation|quota/i.test(x))){
+  try{
+   const prompt="Mətni tam Azərbaycan dilinə çevir. Heç nə ixtisar etmə, fakt əlavə etmə, xüsusi adları saxla. Yalnız tərcüməni qaytar.\n\n"+src;
+   const r=await env.AI.run("@cf/meta/llama-3.2-1b-instruct",{
+    messages:[
+     {role:"system",content:"Sən dəqiq Azərbaycan dili tərcüməçisisən."},
+     {role:"user",content:prompt}
+    ],
+    max_tokens:2200,
+    temperature:0
+   });
+   const out=normalizeIdentityTerms(cleanAI(r));
+   if(out && out.length>=2 && looksAzerbaijani(out)){
+    await env.IDENTITY_KV.put(key,out,{expirationTtl:60*60*24*90});
+    return out;
+   }
+   errors.push("llama-3.2-1b invalid output");
+  }catch(e){
+   errors.push("llama-3.2-1b: "+msg(e));
+  }
+ }
+
+ throw Error("Azerbaijani translation failed: "+errors.join(" | "));
+}
 async function makeAzTitle(env,title){
  const source=cleanTitle(title||"");
  if(!source) return "Vizual kimlik layihəsi";
