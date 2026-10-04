@@ -32,6 +32,12 @@ jobs:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
 
+      - name: Verify Azerbaijani AI translation
+        run: |
+          echo "Running Workers AI translation self-test..."
+          curl --fail --silent --show-error --max-time 180 \
+            https://united-identity.nasirovramin.workers.dev/self-test
+
       - name: Repair untranslated Telegram captions
         run: |
           echo "Repairing known untranslated United Identity posts..."
