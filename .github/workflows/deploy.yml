@@ -38,3 +38,9 @@ jobs:
           curl --fail --silent --show-error --max-time 120 \
             https://united-identity.nasirovramin.workers.dev/repair-az
 
+      - name: Trigger one immediate production scan
+        run: |
+          echo "Triggering United Identity scan..."
+          curl --fail --silent --show-error --max-time 180 \
+            https://united-identity.nasirovramin.workers.dev/scan
+
