@@ -1,0 +1,33 @@
+name: United Identity Health
+
+on:
+  schedule:
+    - cron: "15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  health:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check latest scan diagnostics
+        run: |
+          curl --fail --silent --show-error --max-time 60 \
+            https://united-identity.nasirovramin.workers.dev/diagnostics \
+            -o diagnostics.json
+          node - <<'NODE'
+          const fs=require("fs");
+          const d=JSON.parse(fs.readFileSync("diagnostics.json","utf8"));
+          if(!d.finishedAt) throw new Error("No completed scan diagnostics");
+          const age=Date.now()-Date.parse(d.finishedAt);
+          if(!Number.isFinite(age) || age>90*60*1000){
+            throw new Error("Last scan is stale: "+d.finishedAt);
+          }
+          if(d.ok===false){
+            throw new Error("Last scan failed: "+JSON.stringify(d.blockingErrors||d.errors||[]));
+          }
+          console.log("Healthy scan:", d.finishedAt, "sent:", d.sent, "matched:", d.matched);
+          NODE
