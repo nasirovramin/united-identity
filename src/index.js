@@ -404,32 +404,23 @@ function extractProjectImages(h,base){
  const imgRe=/<img\b[^>]*>/gi; let m;
  while((m=imgRe.exec(scope))){
   const tag=m[0];
-  const attrs=["data-srcset","srcset","data-lazy-src","data-original","data-src","src"];
+  const attrs=["data-srcset","srcset","data-lazy-srcset","data-lazy-src","data-original","data-src","data-image","data-url","data-full","data-full-src","data-hi-res-src","data-flickity-lazyload","src"];
   for(const a of attrs){
    const mm=tag.match(new RegExp("\\b"+a+"=[\"']([^\"']+)[\"']","i"));
-   if(mm){add(mm[1],tag); break;}
+   if(mm) add(mm[1],tag);
   }
  }
  // Some sites keep responsive image URLs only on <source>.
  const sourceRe=/<source\b[^>]*>/gi;
  while((m=sourceRe.exec(scope))){
   const tag=m[0];
-  const mm=tag.match(/\b(?:data-srcset|srcset)=["']([^"']+)["']/i);
-  if(mm) add(mm[1],tag);
- }
-
- // Dedupe common resized variants by path, preferring the first/largest candidate encountered.
- const seen=new Set(), cleanOut=[];
- for(const s of out){
-  try{
-   const u=new URL(s);
-   const key=(u.hostname+u.pathname).replace(/[-_](?:\d{2,4})x(?:\d{2,4})(?=\.[a-z]+$)/i,"");
-   if(seen.has(key)) continue;
-   seen.add(key); cleanOut.push(s);
-  }catch{
-   if(!seen.has(s)){seen.add(s);cleanOut.push(s)}
+  const attrs=["data-srcset","srcset","data-lazy-srcset","data-src","src"];
+  for(const a of attrs){
+   const mm=tag.match(new RegExp("\\b"+a+"=[\"']([^\"']+)[\"']","i"));
+   if(mm) add(mm[1],tag);
   }
  }
+
  // CSS background-image URLs used by some portfolio/case-study sites.
  const bgRe=/background(?:-image)?\s*:\s*url\((["']?)([^"')]+)\1\)/gi;
  while((m=bgRe.exec(scope))) add(m[2],"background-image");
@@ -438,7 +429,12 @@ function extractProjectImages(h,base){
  const aRe=/<a\b[^>]*href=["']([^"']+\.(?:jpe?g|png|webp|avif)(?:\?[^"']*)?)["'][^>]*>/gi;
  while((m=aRe.exec(scope))) add(m[1],"linked project image");
 
- return dedupeImageUrls(cleanOut);
+ // Catch lazy-loader image URLs on non-img elements inside the project content.
+ const lazyAttrRe=/\\b(?:data-image|data-src|data-original|data-lazy-src|data-full|data-full-src|data-hi-res-src|data-flickity-lazyload)=[\"']([^\"']+)[\"']/gi;
+ while((m=lazyAttrRe.exec(scope))) add(m[1],"lazy project image");
+
+ // Dedupe only after every extraction pass so no late-discovered project image is lost.
+ return dedupeImageUrls(out);
 }
 function tag(h,key){
  const esc=key.replace(/[.*+?^$()|[\]\\]/g,"\\$&");
