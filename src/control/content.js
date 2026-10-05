@@ -17,7 +17,7 @@ export class ContentController {
   async isDuplicate(url){
     const data=new TextEncoder().encode(url);
     const digest=await crypto.subtle.digest("SHA-256",data);
-    const key=[...new Uint8Array(digest)].map(b=>b.toString(16).padStart(2,"0")).join("").slice(0,32);
+    const key=[...new Uint8Array(digest)].map(b=>b.toString(16).padStart(2,"0")).join("");
     return !!(await this.env.IDENTITY_KV.get("seen:"+key));
   }
 }
