@@ -1101,6 +1101,7 @@ async function prepareProject(env,html,m,url,source){
 
 
 const AZ_REPAIR_IDS=[
+ "UID-8EB391E572",
  "UID-03C05725EC",
  "UID-1EF4AC1E96",
  "UID-F7AFDE98C0",
@@ -1110,7 +1111,7 @@ const AZ_REPAIR_IDS=[
 async function repairAzPosts(env){
  need(env);
  if(!env.AI) throw Error("Workers AI binding is missing");
- const marker="repair:az:2026-10-04:v2";
+ const marker="repair:az:2026-10-05:v3-media";
  const done=await env.IDENTITY_KV.get(marker);
  if(done) return {ok:true,alreadyDone:true,details:JSON.parse(done)};
 
