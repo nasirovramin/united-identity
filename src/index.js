@@ -1,8 +1,13 @@
+import { TechnicalController } from "./control/technical.js";
+import { ContentController } from "./control/content.js";
+import { CleanBuffer } from "./control/buffer.js";
+import { verifyTelegraph } from "./control/telegraph.js";
+
 const SOURCES=[
-{name:"It's Nice That",url:"https://www.itsnicethat.com/tags/branding",host:"www.itsnicethat.com"},
-{name:"Creative Boom",url:"https://www.creativeboom.com/work/",host:"www.creativeboom.com"},
-{name:"World Brand Design Society",url:"https://worldbranddesign.com/",host:"worldbranddesign.com"},
-{name:"The Brand Identity",url:"https://the-brandidentity.com/",host:"the-brandidentity.com"}
+{id:"its-nice-that",name:"It's Nice That",url:"https://www.itsnicethat.com/tags/branding",host:"www.itsnicethat.com"},
+{id:"creative-boom",name:"Creative Boom",url:"https://www.creativeboom.com/work/",host:"www.creativeboom.com"},
+{id:"world-brand-design",name:"World Brand Design Society",url:"https://worldbranddesign.com/",host:"worldbranddesign.com"},
+{id:"the-brandidentity",name:"The Brand Identity",url:"https://the-brandidentity.com/",host:"the-brandidentity.com"}
 ];
 const FILTERS=["identity","visual communication","branding","brand identity","visual identity","айдентика","фирменный стиль","визуальная идентичность","визуальная айдентика","брендинг","ребрендинг","бренд-система","система бренда","визуальная система","визуальная коммуникация","визуальные коммуникации","бренд-дизайн","редизайн бренда","фирменная айдентика"];
 const STRONG=["identity system","brand system","brand design","rebrand","rebranding","brand refresh","brand world"];
@@ -65,15 +70,22 @@ async function scan(env){
  };
 
  const sourceBatches=[];
- // Rotate the starting source every hour so one source cannot dominate when MAX_SEND=1.
- const now=new Date();
- const rotationIndex=(Math.floor(now.getTime()/3600000))%SOURCES.length;
- const rotatedSources=[...SOURCES.slice(rotationIndex),...SOURCES.slice(0,rotationIndex)];
+ const technical=new TechnicalController(env,SOURCES);
+ const contentControl=new ContentController(env);
+ const cleanBuffer=new CleanBuffer(env);
+ // Persistent round-robin cursor: after a source is used, the next scan starts from the following source.
+ const rotatedSources=await technical.orderedSources();
  st.rotationStart=rotatedSources[0]?rotatedSources[0].name:"";
  for(const s of rotatedSources){
   const srcStat={source:s.name,homeOk:false,links:0,eligible:0,checked:0,matched:0,sent:0,duplicates:0,errors:[]};
   try{
-   const h=await get(s.url);
+   if(await technical.isCooling(s)){
+    srcStat.errors.push("temporary_cooldown");
+    sourceBatches.push({source:s,candidates:[],stat:srcStat});
+    st.perSource.push(srcStat);
+    continue;
+   }
+   const h=await technical.fetch(s.url);
    st.sourcesVisited++;
    srcStat.homeOk=true;
    let arr=links(h,s.url,s.host)
@@ -87,6 +99,7 @@ async function scan(env){
    srcStat.eligible=arr.length;
    sourceBatches.push({source:s,candidates:arr,stat:srcStat});
   }catch(e){
+   await technical.markFailure(s,msg(e));
    srcStat.errors.push(msg(e));
    st.errors.push(s.name+": "+msg(e));
    sourceBatches.push({source:s,candidates:[],stat:srcStat});
@@ -120,7 +133,7 @@ async function scan(env){
      continue;
     }
 
-    const h=await get(a.url), m=meta(h,a.url);
+    const h=await technical.fetch(a.url), m=meta(h,a.url);
     if(isGenericPage(a.url,m.title)){
      st.skippedGeneric++;
      continue;
@@ -145,9 +158,21 @@ async function scan(env){
      continue;
     }
 
+    const gate=await contentControl.validate({
+      url:a.url,title:m.title,description:m.desc,text:body,images:m.images||[]
+    });
+    if(!gate.ok){
+      if(gate.errors.includes("duplicate")){st.duplicates++;batch.stat.duplicates++;}
+      if(gate.errors.includes("missing_media")) st.skippedNoMedia=(st.skippedNoMedia||0)+1;
+      if(gate.errors.includes("not_identity")) st.skippedNoIdentity++;
+      await cleanBuffer.reject({url:a.url,title:m.title,source:a.source},gate.errors);
+      continue;
+    }
+
     st.matched++;
     batch.stat.matched++;
     const prepared=await prepareProject(env,h,m,a.url,a.source);
+    await cleanBuffer.put(prepared);
     const tgResult=await telegram(env,prepared);
     const telegramMessageIds=messageIds(tgResult);
     await env.IDENTITY_KV.put(
@@ -166,6 +191,7 @@ async function scan(env){
     );
     st.sent++;
     batch.stat.sent++;
+    await technical.advance(batch.source);
 
    }catch(e){
     const err=a.url+": "+msg(e);
@@ -516,6 +542,8 @@ async function telegram(env,x){
 
  // Case study / Telegraph exists: Telegram post must have one project image.
  if(x.telegraphUrl){
+  const detailCheck=await verifyTelegraph(x.telegraphUrl);
+  if(!detailCheck.ok) throw Error("Telegraph verification failed: "+detailCheck.reason);
   for(const photo of imgs){
    const r=await fetch("https://api.telegram.org/bot"+env.TELEGRAM_BOT_TOKEN+"/sendPhoto",{method:"POST",headers:{"content-type":"application/json"},body:JSON.stringify({chat_id:env.TELEGRAM_CHAT_ID,photo,caption,parse_mode:"HTML"})});
    const d=await r.json();
