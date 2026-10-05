@@ -2,6 +2,7 @@ import { TechnicalController } from "./control/technical.js";
 import { ContentController } from "./control/content.js";
 import { CleanBuffer } from "./control/buffer.js";
 import { verifyTelegraph } from "./control/telegraph.js";
+import { makeWebAdapter } from "./sources/web/factory.js";
 
 const SOURCES=[
 {id:"its-nice-that",name:"It's Nice That",url:"https://www.itsnicethat.com/tags/branding",host:"www.itsnicethat.com"},
@@ -85,16 +86,11 @@ async function scan(env){
     st.perSource.push(srcStat);
     continue;
    }
-   const h=await technical.fetch(s.url);
+   const adapter=makeWebAdapter(s,technical);
+   const h=await adapter.home();
    st.sourcesVisited++;
    srcStat.homeOk=true;
-   let arr=links(h,s.url,s.host)
-    .map(a=>({...a,source:s.name,score:candidateScore(a)}))
-    .filter(a=>{
-      if(isGenericPage(a.url,a.text)){st.skippedGeneric++;return false}
-      return true;
-    })
-    .sort((a,b)=>b.score-a.score);
+   let arr=adapter.discover(h,{links,candidateScore,isGenericPage});
    srcStat.links=arr.length;
    srcStat.eligible=arr.length;
    sourceBatches.push({source:s,candidates:arr,stat:srcStat});
@@ -133,7 +129,8 @@ async function scan(env){
      continue;
     }
 
-    const h=await technical.fetch(a.url), m=meta(h,a.url);
+    const adapter=makeWebAdapter(batch.source,technical);
+    const h=await adapter.page(a.url), m=meta(h,a.url);
     if(isGenericPage(a.url,m.title)){
      st.skippedGeneric++;
      continue;
