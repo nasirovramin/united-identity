@@ -362,12 +362,10 @@ function extractProjectImages(h,base){
   .replace(/<footer\b[\s\S]*?<\/footer>/gi," ")
   .replace(/<aside\b[\s\S]*?<\/aside>/gi," ");
 
- // Prefer the actual article/main area so UI icons, related cards and promos are not collected.
  const article=scope.match(/<article\b[^>]*>[\s\S]*?<\/article>/i);
  const main=scope.match(/<main\b[^>]*>[\s\S]*?<\/main>/i);
  scope=(article&&article[0])||(main&&main[0])||scope;
 
- // Cut common related-content/footer blocks that may still live inside <article>.
  const stop=scope.search(/(?:The Latest|Share Article|Further Info|About the Author|Related Articles|More from)/i);
  if(stop>0) scope=scope.slice(0,stop);
 
@@ -375,7 +373,9 @@ function extractProjectImages(h,base){
  const add=(raw,tag="")=>{
   if(!raw) return;
   let val=dec(raw).trim();
-  // srcset: pick the largest listed candidate.
+  // A srcset may contain many variants of the same project image. Keep the
+  // largest variant from that srcset, but do not stop scanning the element:
+  // other lazy/full-size attributes can point to additional project images.
   if(/\s+\d+(?:w|x)(?:\s*,|$)/i.test(val)||val.includes(",")){
    const parts=val.split(",").map(x=>x.trim()).filter(Boolean);
    let best="",score=-1;
@@ -394,46 +394,49 @@ function extractProjectImages(h,base){
    const s=u.toString();
    if(/(?:logo|favicon|avatar|sprite|icon|emoji|tracking|pixel|analytics|cookie|consent|accessibility|toolbar|newsletter|subscribe|advert|adserver|nicer[-_ ]?tuesdays)/i.test(s+" "+tag)) return;
    if(/\.svg(?:\?|$)/i.test(s)) return;
-   // Reject explicitly tiny HTML images; project images often have no dimensions at all.
    const wm=tag.match(/\bwidth=["']?(\d+)/i), hm=tag.match(/\bheight=["']?(\d+)/i);
    if(wm&&hm&&(+wm[1]<220||+hm[1]<160)) return;
    out.push(s);
   }catch{}
  };
 
- const imgRe=/<img\b[^>]*>/gi; let m;
+ let m;
+ const imgRe=/<img\b[^>]*>/gi;
  while((m=imgRe.exec(scope))){
   const tag=m[0];
-  const attrs=["data-srcset","srcset","data-lazy-srcset","data-lazy-src","data-original","data-src","data-image","data-url","data-full","data-full-src","data-hi-res-src","data-flickity-lazyload","src"];
+  const attrs=["data-full-src","data-full","data-hi-res-src","data-original","data-lazy-src","data-image","data-url","data-flickity-lazyload","data-lazy-srcset","data-srcset","srcset","data-src","src"];
   for(const a of attrs){
    const mm=tag.match(new RegExp("\\b"+a+"=[\"']([^\"']+)[\"']","i"));
    if(mm) add(mm[1],tag);
   }
  }
- // Some sites keep responsive image URLs only on <source>.
+
  const sourceRe=/<source\b[^>]*>/gi;
  while((m=sourceRe.exec(scope))){
   const tag=m[0];
-  const attrs=["data-srcset","srcset","data-lazy-srcset","data-src","src"];
+  const attrs=["data-full-src","data-full","data-lazy-srcset","data-srcset","srcset","data-src","src"];
   for(const a of attrs){
    const mm=tag.match(new RegExp("\\b"+a+"=[\"']([^\"']+)[\"']","i"));
    if(mm) add(mm[1],tag);
   }
  }
 
- // CSS background-image URLs used by some portfolio/case-study sites.
- const bgRe=/background(?:-image)?\s*:\s*url\((["']?)([^"')]+)\1\)/gi;
+ // Picture/source markup and many CMSs expose project images in arbitrary
+ // data-* attributes. Scan every URL-looking attribute inside article/main.
+ const attrUrlRe=/\b(?:src|srcset|href|content|data-[a-z0-9_-]+)=[\"']([^\"']+)[\"']/gi;
+ while((m=attrUrlRe.exec(scope))){
+  const raw=m[1];
+  if(/^https?:\/\//i.test(dec(raw)) || /\.(?:jpe?g|png|webp|avif)(?:[?#]|$)/i.test(raw)) add(raw,"project media attribute");
+ }
+
+ // CSS background images.
+ const bgRe=/background(?:-image)?\s*:\s*url\(([\"']?)([^\"')]+)\1\)/gi;
  while((m=bgRe.exec(scope))) add(m[2],"background-image");
 
- // Direct image links inside the article.
- const aRe=/<a\b[^>]*href=["']([^"']+\.(?:jpe?g|png|webp|avif)(?:\?[^"']*)?)["'][^>]*>/gi;
- while((m=aRe.exec(scope))) add(m[1],"linked project image");
+ // JSON-escaped image URLs sometimes embedded in data attributes.
+ const escapedUrlRe=/https?:\\?\/\\?\/[^\s\"'<>]+?\.(?:jpe?g|png|webp|avif)(?:\?[^\s\"'<>]*)?/gi;
+ while((m=escapedUrlRe.exec(scope))) add(m[0].replace(/\\\//g,"/"),"embedded project image");
 
- // Catch lazy-loader image URLs on non-img elements inside the project content.
- const lazyAttrRe=/\\b(?:data-image|data-src|data-original|data-lazy-src|data-full|data-full-src|data-hi-res-src|data-flickity-lazyload)=[\"']([^\"']+)[\"']/gi;
- while((m=lazyAttrRe.exec(scope))) add(m[1],"lazy project image");
-
- // Dedupe only after every extraction pass so no late-discovered project image is lost.
  return dedupeImageUrls(out);
 }
 function tag(h,key){
