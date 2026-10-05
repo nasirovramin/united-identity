@@ -1,9 +1,11 @@
+import { PublicWebReader } from "../shared/public-web-reader.js";
 // Technical control: rotation, request discipline, retries and source isolation.
 export class TechnicalController {
   constructor(env, sources, opts={}) {
     this.env=env; this.sources=sources;
     this.timeoutMs=opts.timeoutMs||12000;
     this.cooldownSeconds=opts.cooldownSeconds||1800;
+    this.reader=new PublicWebReader({timeoutMs:this.timeoutMs,retries:1});
   }
   async orderedSources(){
     const raw=await this.env.IDENTITY_KV.get("control:source-cursor");
@@ -22,11 +24,8 @@ export class TechnicalController {
     await this.env.IDENTITY_KV.put(key,JSON.stringify({at:new Date().toISOString(),error:String(error)}),{expirationTtl:this.cooldownSeconds});
   }
   async fetch(url){
-    const ac=new AbortController(); const timer=setTimeout(()=>ac.abort(),this.timeoutMs);
-    try{
-      const r=await fetch(url,{headers:{"User-Agent":"Mozilla/5.0 (compatible; UnitedIdentityBot/2.0)","Accept":"text/html,application/xhtml+xml"},redirect:"follow",signal:ac.signal});
-      if(!r.ok) throw Error("HTTP "+r.status);
-      return await r.text();
-    } finally { clearTimeout(timer); }
+    const r=await this.reader.read(url);
+    if(!r.ok) throw Error(r.error||"public_web_read_failed");
+    return r.text;
   }
 }
