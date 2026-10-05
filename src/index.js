@@ -285,6 +285,7 @@ function meta(h,fallback){
   desc:clean(desc),
   image,
   images:dedupeImageUrls(images),
+  richMedia:extractProjectRichMedia(h,fallback),
   published:clean(published),
   modified:clean(modified),
   author:clean(author)
@@ -439,6 +440,40 @@ function extractProjectImages(h,base){
 
  return dedupeImageUrls(out);
 }
+function extractProjectRichMedia(h,base){
+ const scope=articleScope(h);
+ const out=[]; const seen=new Set();
+ const add=(raw,type)=>{
+  if(!raw) return;
+  try{
+   const u=new URL(dec(raw).replace(/\\\//g,"/"),base);
+   if(!/^https?:$/i.test(u.protocol)) return;
+   const s=u.toString();
+   if(/(?:logo|favicon|avatar|sprite|icon|tracking|pixel|analytics|cookie|consent|newsletter|subscribe|advert|adserver)/i.test(s)) return;
+   let kind=type;
+   if(/\.gif(?:[?#]|$)/i.test(s)) kind="gif";
+   else if(/\.(?:mp4|webm|mov)(?:[?#]|$)/i.test(s)) kind="video";
+   else if(/(?:youtube\.com\/embed\/|youtu\.be\/|player\.vimeo\.com\/video\/)/i.test(s)) kind="iframe";
+   if(!kind) return;
+   const key=kind+"|"+u.hostname+u.pathname;
+   if(seen.has(key)) return;
+   seen.add(key); out.push({type:kind,url:s});
+  }catch{}
+ };
+ let m;
+ const tags=/<(?:video|source|iframe|img)\b[^>]*>/gi;
+ while((m=tags.exec(scope))){
+  const tag=m[0], name=(tag.match(/^<([a-z]+)/i)||[])[1]?.toLowerCase();
+  for(const a of ["data-full-src","data-src","data-video-src","data-lazy-src","src"]){
+   const mm=tag.match(new RegExp("\\b"+a+"=[\"']([^\"']+)[\"']","i"));
+   if(mm) add(mm[1],name==="iframe"?"iframe":name==="video"||name==="source"?"video":null);
+  }
+ }
+ const urlRe=/https?:\\?\/\\?\/[^\s\"'<>]+?(?:\.(?:gif|mp4|webm|mov)(?:\?[^\s\"'<>]*)?|(?:youtube\.com\/embed\/|youtu\.be\/|player\.vimeo\.com\/video\/)[^\s\"'<>]+)/gi;
+ while((m=urlRe.exec(scope))) add(m[0],null);
+ return out;
+}
+
 function tag(h,key){
  const esc=key.replace(/[.*+?^$()|[\]\\]/g,"\\$&");
  return pick(h,new RegExp('<meta[^>]*(?:property|name)=["\\\']'+esc+'["\\\'][^>]*content=["\\\']([^"\\\']*)["\\\']','i'))||
@@ -991,10 +1026,11 @@ async function getTelegraphToken(env){
  return token;
 }
 
-async function createTelegraphPage(env,{title,translatedText,images,sourceUrl,sourceName,agency,projectDate,projectDateLabel,postId}){
+async function createTelegraphPage(env,{title,translatedText,images,richMedia,sourceUrl,sourceName,agency,projectDate,projectDateLabel,postId}){
  const token=await getTelegraphToken(env);
  const paragraphs=translatedText.split(/\n\s*\n/).map(clean).filter(Boolean);
  const imgs=dedupeImageUrls((images||[]).filter(u=>/^https?:\/\//i.test(u)));
+ const motion=(richMedia||[]).filter(x=>x&&/^https?:\/\//i.test(x.url||""));
  const nodes=[];
  if(postId) nodes.push({tag:"p",children:[{tag:"strong",children:["ID: "]},postId]});
  if(agency) nodes.push({tag:"p",children:[{tag:"strong",children:["Agentlik: "]},agency]});
@@ -1019,6 +1055,13 @@ async function createTelegraphPage(env,{title,translatedText,images,sourceUrl,so
   nodes.push({tag:"figure",children:[
    {tag:"img",attrs:{src:imgs[imageIndex++]}}
   ]});
+ }
+ // Preserve motion assets from the original case study as well.
+ // Telegraph supports GIF images, video and iframe nodes.
+ for(const media of motion){
+  if(media.type==="gif") nodes.push({tag:"figure",children:[{tag:"img",attrs:{src:media.url}}]});
+  else if(media.type==="video") nodes.push({tag:"figure",children:[{tag:"video",attrs:{src:media.url}}]});
+  else if(media.type==="iframe") nodes.push({tag:"figure",children:[{tag:"iframe",attrs:{src:media.url}}]});
  }
 
  nodes.push({tag:"hr"});
@@ -1086,6 +1129,7 @@ async function prepareProject(env,html,m,url,source){
    title:titleAz,
    translatedText,
    images:m.images||[],
+   richMedia:m.richMedia||[],
    sourceUrl:url,
    sourceName:source,
    agency:projectMeta.agency,
@@ -1111,7 +1155,7 @@ const AZ_REPAIR_IDS=[
 async function repairAzPosts(env){
  need(env);
  if(!env.AI) throw Error("Workers AI binding is missing");
- const marker="repair:az:2026-10-05:v3-media";
+ const marker="repair:az:2026-10-05:v4-rich-media";
  const done=await env.IDENTITY_KV.get(marker);
  if(done) return {ok:true,alreadyDone:true,details:JSON.parse(done)};
 
