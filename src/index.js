@@ -11,7 +11,7 @@ const STRONG=["identity system","brand system","brand design","rebrand","rebrand
 const REJECT_PATHS=["/insights","/news","/about","/contact","/jobs","/careers","/features","/archive","/category","/categories","/tag","/tags","/work/","/projects/","/media/identity","/media/graphic-design","/media/branding","/media/typography"];
 const REJECT_TITLES=["insights","news","about","contact","jobs","careers","features","articles","archive","work","projects","branding"];
 const MAX_SEND=1;
-const MAX_PAGE_FETCHES_PER_RUN=20;
+const MAX_PAGE_FETCHES_PER_RUN=8;
 // Redeploy marker: web crawler + filtered identity scan active.
 
 export default {
@@ -70,35 +70,36 @@ async function scan(env){
  const technical=new TechnicalController(env,SOURCES);
  const contentControl=new ContentController(env);
  const cleanBuffer=new CleanBuffer(env);
- // Persistent round-robin cursor: after a source is used, the next scan starts from the following source.
+
+ // One scheduled run owns exactly one healthy source module. This prevents
+ // Cloudflare subrequest spikes and keeps source failures isolated.
  const rotatedSources=await technical.orderedSources();
- st.rotationStart=rotatedSources[0]?rotatedSources[0].name:"";
- for(const s of rotatedSources){
-  const srcStat={source:s.name,homeOk:false,links:0,eligible:0,checked:0,matched:0,sent:0,duplicates:0,errors:[]};
+ const activeSource=await technical.nextAvailableSource();
+ st.rotationStart=activeSource?activeSource.name:"";
+ if(!activeSource){
+  st.errors.push("all_sources_in_cooldown");
+ }else{
+  const srcStat={source:activeSource.name,homeOk:false,links:0,eligible:0,checked:0,matched:0,sent:0,duplicates:0,errors:[]};
   try{
-   if(await technical.isCooling(s)){
-    srcStat.errors.push("temporary_cooldown");
-    sourceBatches.push({source:s,candidates:[],stat:srcStat});
-    st.perSource.push(srcStat);
-    continue;
-   }
-   const adapter=makeWebAdapter(s,technical);
+   const adapter=makeWebAdapter(activeSource,technical);
    const h=await adapter.home();
-   st.sourcesVisited++;
+   st.sourcesVisited=1;
    srcStat.homeOk=true;
-   let arr=adapter.discover(h,{links,candidateScore,isGenericPage});
+   const arr=await adapter.discoverProjects(h,{links,candidateScore,isGenericPage});
    srcStat.links=arr.length;
    srcStat.eligible=arr.length;
-   sourceBatches.push({source:s,candidates:arr,stat:srcStat});
+   sourceBatches.push({source:activeSource,candidates:arr,stat:srcStat});
   }catch(e){
-   await technical.markFailure(s,msg(e));
+   await technical.markFailure(activeSource,msg(e));
    srcStat.errors.push(msg(e));
-   st.errors.push(s.name+": "+msg(e));
-   sourceBatches.push({source:s,candidates:[],stat:srcStat});
+   st.errors.push(activeSource.name+": "+msg(e));
+   sourceBatches.push({source:activeSource,candidates:[],stat:srcStat});
   }
   st.perSource.push(srcStat);
+  // Rotation advances even when the source has no publishable item; the next
+  // normal run gets the next source instead of hammering one source forever.
+  await technical.advance(activeSource);
  }
-
  st.candidates=sourceBatches.reduce((n,b)=>n+b.candidates.length,0);
 
  // Round-robin: check one candidate from every source before taking a second from any source.
@@ -152,7 +153,8 @@ async function scan(env){
     }
 
     const gate=await contentControl.validate({
-      url:a.url,title:m.title,description:m.desc,text:body,images:m.images||[]
+      url:a.url,title:m.title,description:m.desc,text:body,images:m.images||[],
+      agency:m.agency||"",source:a.source
     });
     if(!gate.ok){
       if(gate.errors.includes("duplicate")){st.duplicates++;batch.stat.duplicates++;}
