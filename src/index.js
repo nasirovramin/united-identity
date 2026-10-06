@@ -170,20 +170,21 @@ async function scan(env){
     await cleanBuffer.put(prepared);
     const tgResult=await telegram(env,prepared);
     const telegramMessageIds=messageIds(tgResult);
-    await env.IDENTITY_KV.put(
-      k,
-      JSON.stringify({
-       postId:prepared.postId,
-       title:m.title,
-       titleAz:prepared.titleAz,
-       url:a.url,
-       source:a.source,
-       telegraphUrl:prepared.telegraphUrl||"",
-       telegraphPath:prepared.telegraphPath||"",
-       telegramMessageIds,
-       sentAt:new Date().toISOString()
-      })
-    );
+    const publishRecord={
+      postId:prepared.postId,
+      title:m.title,
+      titleAz:prepared.titleAz,
+      url:a.url,
+      source:a.source,
+      telegraphUrl:prepared.telegraphUrl||"",
+      telegraphPath:prepared.telegraphPath||"",
+      telegramMessageIds,
+      sentAt:new Date().toISOString()
+    };
+    await contentControl.markPublished({
+      url:a.url,title:m.title,agency:prepared.agency||m.agency||"",
+      images:m.images||[],source:a.source
+    },publishRecord);
     st.sent++;
     batch.stat.sent++;
     await technical.advance(batch.source);
