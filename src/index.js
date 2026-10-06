@@ -3,13 +3,9 @@ import { ContentController } from "./control/content.js";
 import { CleanBuffer } from "./control/buffer.js";
 import { verifyTelegraph } from "./control/telegraph.js";
 import { makeWebAdapter } from "./sources/web/factory.js";
+import { WEB_SOURCES } from "./sources/registry.js";
 
-const SOURCES=[
-{id:"its-nice-that",name:"It's Nice That",url:"https://www.itsnicethat.com/tags/branding",host:"www.itsnicethat.com"},
-{id:"creative-boom",name:"Creative Boom",url:"https://www.creativeboom.com/work/",host:"www.creativeboom.com"},
-{id:"world-brand-design",name:"World Brand Design Society",url:"https://worldbranddesign.com/",host:"worldbranddesign.com"},
-{id:"the-brandidentity",name:"The Brand Identity",url:"https://the-brandidentity.com/",host:"the-brandidentity.com"}
-];
+const SOURCES=WEB_SOURCES;
 const FILTERS=["identity","visual communication","branding","brand identity","visual identity","айдентика","фирменный стиль","визуальная идентичность","визуальная айдентика","брендинг","ребрендинг","бренд-система","система бренда","визуальная система","визуальная коммуникация","визуальные коммуникации","бренд-дизайн","редизайн бренда","фирменная айдентика"];
 const STRONG=["identity system","brand system","brand design","rebrand","rebranding","brand refresh","brand world"];
 const REJECT_PATHS=["/insights","/news","/about","/contact","/jobs","/careers","/features","/archive","/category","/categories","/tag","/tags","/work/","/projects/","/media/identity","/media/graphic-design","/media/branding","/media/typography"];
