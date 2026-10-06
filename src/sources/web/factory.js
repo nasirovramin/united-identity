@@ -1,3 +1,14 @@
+import { HispanicaAdapter } from "./hispanica.js";
+import { StudioBlackburnAdapter } from "./studio-blackburn.js";
+import { WeWantMoreAdapter } from "./wewantmore.js";
+import { TstoAdapter } from "./tsto.js";
+import { KokoroMoiAdapter } from "./kokoro-moi.js";
+import { ShukaAdapter } from "./shuka.js";
+import { JohnsonBanksAdapter } from "./johnson-banks.js";
+import { LavaAdapter } from "./lava.js";
+import { BaseDesignAdapter } from "./base-design.js";
+import { WolffOlinsAdapter } from "./wolff-olins.js";
+import { StudioDumbarAdapter } from "./studio-dumbar.js";
 import { PentagramAdapter } from "./pentagram.js";
 import { LandorAdapter } from "./landor.js";
 import { DixonBaxiAdapter } from "./dixonbaxi.js";
@@ -7,6 +18,18 @@ import { WebSourceAdapter } from "./adapter.js";
 import { WorldBrandDesignAdapter } from "./world-brand-design.js";
 import { TheBrandIdentityAdapter } from "./the-brand-identity.js";
 export function makeWebAdapter(source,technical){
+ if(source.id==="studio-dumbar") return new StudioDumbarAdapter(source,technical);
+ if(source.id==="wolff-olins") return new WolffOlinsAdapter(source,technical);
+ if(source.id==="base-design") return new BaseDesignAdapter(source,technical);
+ if(source.id==="lava") return new LavaAdapter(source,technical);
+ if(source.id==="johnson-banks") return new JohnsonBanksAdapter(source,technical);
+ if(source.id==="shuka") return new ShukaAdapter(source,technical);
+ if(source.id==="kokoro-moi") return new KokoroMoiAdapter(source,technical);
+ if(source.id==="tsto") return new TstoAdapter(source,technical);
+ if(source.id==="wewantmore") return new WeWantMoreAdapter(source,technical);
+ if(source.id==="studio-blackburn") return new StudioBlackburnAdapter(source,technical);
+ if(source.id==="hispanica") return new HispanicaAdapter(source,technical);
+
  if(source.id==="pentagram") return new PentagramAdapter(source,technical);
  if(source.id==="landor") return new LandorAdapter(source,technical);
  if(source.id==="dixonbaxi") return new DixonBaxiAdapter(source,technical);
