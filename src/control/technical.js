@@ -12,6 +12,13 @@ export class TechnicalController {
     const cursor=Number(raw||0)%Math.max(this.sources.length,1);
     return [...this.sources.slice(cursor),...this.sources.slice(0,cursor)];
   }
+  async nextAvailableSource(){
+    const ordered=await this.orderedSources();
+    for(const source of ordered){
+      if(!(await this.isCooling(source))) return source;
+    }
+    return null;
+  }
   async advance(source){
     const i=this.sources.findIndex(s=>s.id===source.id);
     await this.env.IDENTITY_KV.put("control:source-cursor",String((i+1)%this.sources.length));
