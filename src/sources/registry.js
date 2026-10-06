@@ -18,7 +18,7 @@ export const WEB_SOURCES=[
  ["bpando","BP&O","https://bpando.org/"],
  ["hispanica","Hispanica","https://hispanica.mx/"],
  ["world-brand-design","World Brand Design Society","https://worldbranddesign.com/"]
-].map(([id,name,url])=>({id,name,url,type:"web"}));
+].map(([id,name,url])=>({id,name,url,type:"web",host:new URL(url).hostname}));
 
 export const TELEGRAM_SOURCES=[
  "LS_ArtDirection","Leonid_Slavin_HSE_ArtDirection","morrre_dsgn","designsniper","fourdesign","graphicstory",
