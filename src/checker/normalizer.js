@@ -1,7 +1,8 @@
 // Converts source output into the single format used by the publisher.
 export class PostNormalizer {
-  constructor({translate,telegraph}={}){
+  constructor({translate,translateBlocks,telegraph}={}){
     this.translate=translate;
+    this.translateBlocks=translateBlocks;
     this.telegraph=telegraph;
   }
 
@@ -19,17 +20,27 @@ export class PostNormalizer {
     if(item.hasCaseStudy){
       if(typeof this.telegraph!=="function") throw new Error("telegraph_provider_missing");
 
-      const translatedBlocks=[];
-      for(const block of item.caseStudyBlocks||[]){
+      const sourceBlocks=item.caseStudyBlocks||[];
+      const textIndexes=[];
+      const sourceTexts=[];
+      sourceBlocks.forEach((block,i)=>{
         if(block.type==="text"){
-          translatedBlocks.push({
-            ...block,
-            text:await this.translate(block.text,{full:true})
-          });
-        }else{
-          translatedBlocks.push(block);
+          textIndexes.push(i);
+          sourceTexts.push(block.text);
         }
+      });
+
+      let translatedTexts=[];
+      if(typeof this.translateBlocks==="function"){
+        translatedTexts=await this.translateBlocks(sourceTexts);
+      }else{
+        for(const t of sourceTexts) translatedTexts.push(await this.translate(t,{full:true}));
       }
+
+      const translatedBlocks=sourceBlocks.map(x=>({...x}));
+      textIndexes.forEach((blockIndex,i)=>{
+        translatedBlocks[blockIndex].text=translatedTexts[i];
+      });
 
       detailsUrl=await this.telegraph({
         title,

@@ -6,7 +6,50 @@ const MODELS=[
 export class AzerbaijaniTranslator {
   constructor(env){this.env=env}
 
-  async translate(text,{full=false}={}){
+  async translateBlocks(blocks=[]){
+    const input=(blocks||[]).map((x,i)=>({i,text:String(x||"").trim()})).filter(x=>x.text);
+    if(!input.length) return [];
+
+    const results=new Array(blocks.length).fill("");
+    const groups=[];
+    let group=[],chars=0;
+    for(const item of input){
+      if(group.length && chars+item.text.length>6500){
+        groups.push(group); group=[]; chars=0;
+      }
+      group.push(item); chars+=item.text.length;
+    }
+    if(group.length) groups.push(group);
+
+    for(const g of groups){
+      const joined=g.map(x=>"[[BLOCK_"+x.i+"]]\n"+x.text).join("\n\n");
+      const prompt=[
+        "Aşağıdakı blokları tam Azərbaycan dilinə çevir.",
+        "Hər [[BLOCK_N]] markerini olduğu kimi saxla və həmin blokun tərcüməsini onun altında yaz.",
+        "Heç bir blok itirilməsin, qısaldılmasın və başqa blokla birləşdirilməsin.",
+        "Mətn sadə, təbii və rahat Azərbaycan dilində olsun; ağır elmi üslubdan istifadə etmə.",
+        "AI, UI, UX, Visual Identity, Identity, Digital, Motion, Logo, Wordmark, typography, font adları və bütün xüsusi adları orijinal formada saxla.",
+        "Yalnız markerlər və tərcümələri qaytar.",
+        "",
+        joined
+      ].join("\n");
+
+      const translated=await this.translate(prompt,{full:true,rawInstruction:true});
+      const re=/\[\[BLOCK_(\d+)\]\]\s*([\s\S]*?)(?=\n\s*\[\[BLOCK_\d+\]\]|$)/g;
+      let m,found=0;
+      while((m=re.exec(translated))){
+        const i=Number(m[1]);
+        if(Number.isInteger(i) && i>=0 && i<results.length){
+          results[i]=m[2].trim();
+          found++;
+        }
+      }
+      if(found!==g.length) throw new Error("Batch translation markers were not preserved");
+    }
+    return results;
+  }
+
+  async translate(text,{full=false,rawInstruction=false}={}){
     const src=String(text||"").trim();
     if(!src) return "";
     if(!this.env?.AI) throw new Error("Workers AI binding missing");
@@ -15,7 +58,7 @@ export class AzerbaijaniTranslator {
     const cached=await this.env.IDENTITY_KV?.get(key);
     if(cached) return cached;
 
-    const prompt=[
+    const prompt=rawInstruction?src:[
       "Aşağıdakı mətni Azərbaycan dilinə çevir.",
       "Mətnin mənasını əvvəl başa düş, sonra təbii və aydın Azərbaycan dili ilə yaz.",
       "Elmi və ağır akademik cümlələrdən istifadə etmə.",
@@ -28,13 +71,14 @@ export class AzerbaijaniTranslator {
       src
     ].join("\n");
 
+    const finalPrompt=Array.isArray(prompt)?prompt.join("\n"):prompt;
     const errors=[];
     for(const model of MODELS){
       try{
         const result=await this.env.AI.run(model,{
           messages:[
             {role:"system",content:"Sən Azərbaycan dilində dizayn və vizual kommunikasiya mətnlərini peşəkar, sadə və təbii şəkildə tərcümə edən redaktorsan."},
-            {role:"user",content:prompt}
+            {role:"user",content:finalPrompt}
           ],
           max_tokens:full?3500:1200,
           temperature:0.1
