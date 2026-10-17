@@ -133,8 +133,8 @@ async function repairTheBrandIdentityTest(env){
 
   const post=checked.post;
   const caption=[
-    "🎬 <b>"+escapeHtml(post.title)+"</b>",
-    ...(post.paragraphs||[]).slice(0,2).map(escapeHtml),
+    "🎬 <b>"+escapeHtml(shortText(post.title,180))+"</b>",
+    ...(post.paragraphs||[]).slice(0,2).map(x=>escapeHtml(shortText(x,250))),
     "#visualidentity",
     '<a href="'+escapeHtml(post.detailsUrl)+'">Ətraflı</a>     <a href="'+escapeHtml(post.sourceUrl)+'">Mənbə: The Brand Identity</a>'
   ].join("\n\n");
@@ -237,6 +237,14 @@ async function telegramCall(env,method,payload){
   const d=await r.json();
   if(!d.ok) throw new Error("Telegram "+method+": "+JSON.stringify(d));
   return d.result;
+}
+
+function shortText(value="",limit=250){
+  const s=String(value).replace(/\s+/g," ").trim();
+  if(s.length<=limit) return s;
+  const cut=s.slice(0,limit-1);
+  const at=cut.lastIndexOf(" ");
+  return (at>limit*0.65?cut.slice(0,at):cut).trim()+"…";
 }
 
 function escapeHtml(value=""){

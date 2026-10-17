@@ -52,13 +52,27 @@ function buildCaption(post){
     '<a href="'+esc(post.sourceUrl)+'">Mənbə: '+esc(post.sourceName)+'</a>'
   ].filter(Boolean).join("     ");
 
+  const title=shorten(post.title,180);
+  const paragraphs=(post.paragraphs||[])
+    .slice(0,2)
+    .map(x=>shorten(x,250))
+    .filter(Boolean);
+
   return [
-    "🎬 <b>"+esc(post.title)+"</b>",
-    ...(post.paragraphs||[]).slice(0,2).map(x=>esc(x)),
-    post.agency?"<b>Agentlik:</b> "+esc(post.agency):"",
+    "🎬 <b>"+esc(title)+"</b>",
+    ...paragraphs.map(x=>esc(x)),
+    post.agency?"<b>Agentlik:</b> "+esc(shorten(post.agency,100)):"",
     post.hashtag||"#visualidentity",
     bottom
   ].filter(Boolean).join("\n\n");
+}
+
+function shorten(value="",limit=250){
+  const s=String(value).replace(/\s+/g," ").trim();
+  if(s.length<=limit) return s;
+  const cut=s.slice(0,limit-1);
+  const at=cut.lastIndexOf(" ");
+  return (at>limit*0.65?cut.slice(0,at):cut).trim()+"…";
 }
 
 async function callTelegram(token,method,payload){
