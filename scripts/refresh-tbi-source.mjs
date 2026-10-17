@@ -46,13 +46,13 @@ async function reader(url,mode="markdown"){
   let last="";
   for(let attempt=1;attempt<=4;attempt++){
     try{
+      const headers={
+        "User-Agent":"Mozilla/5.0 (compatible; UnitedIdentitySourceRefresh/1.0)",
+        "Accept":"text/plain"
+      };
+      if(mode!=="markdown") headers["X-Respond-With"]=mode;
       const r=await fetch("https://r.jina.ai/"+url,{
-        headers:{
-          "User-Agent":"Mozilla/5.0 (compatible; UnitedIdentitySourceRefresh/1.0)",
-          "Accept":"text/plain",
-          "X-Respond-With":mode,
-          "X-With-Iframe":"true"
-        },
+        headers,
         signal:AbortSignal.timeout(35000)
       });
       const text=await r.text();
