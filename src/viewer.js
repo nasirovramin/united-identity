@@ -72,11 +72,13 @@ export default {
     const page=data.result;
     const article=renderNodes(page.content);
     const title=visibleTitle(page.content)||page.title||"United Identity";
+    const backUrl=safeBackUrl(url.searchParams.get("back"));
 
     return html(documentPage({
       title,
       author:page.author_name||"United Identity",
-      article
+      article,
+      backUrl
     }),{
       headers:{"cache-control":"public, max-age=300"}
     });
@@ -127,6 +129,8 @@ function renderNode(node){
     case "figure": return "<figure>"+children+"</figure>";
     case "figcaption": return "<figcaption>"+children+"</figcaption>";
     case "a": {
+      const label=textContent(node).trim();
+      if(/^Mənbə:/i.test(label)) return "";
       const href=safeUrl(attrs.href);
       return href
         ?'<a href="'+escAttr(href)+'" target="_blank" rel="noopener noreferrer">'+children+"</a>"
@@ -149,6 +153,16 @@ function renderNode(node){
   }
 }
 
+function safeBackUrl(value){
+  if(!value) return "";
+  try{
+    const u=new URL(String(value));
+    if(u.protocol!=="https:"||u.hostname!=="t.me") return "";
+    if(!/^\/c\/\d+\/\d+$/.test(u.pathname) && !/^\/[A-Za-z0-9_]{5,}\/\d+$/.test(u.pathname)) return "";
+    return u.toString();
+  }catch{return ""}
+}
+
 function safeUrl(value){
   try{
     const u=new URL(String(value||""));
@@ -156,7 +170,7 @@ function safeUrl(value){
   }catch{return ""}
 }
 
-function documentPage({title,author,article}){
+function documentPage({title,author,article,backUrl=""}){
   return '<!doctype html><html lang="az"><head>'+
     '<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">'+
     '<meta name="color-scheme" content="light">'+
@@ -174,10 +188,13 @@ function documentPage({title,author,article}){
     'figcaption{font-size:13px;line-height:1.4;color:#777;margin-top:8px}hr{border:0;border-top:1px solid #ddd;margin:38px 0}'+
     'a{color:inherit;text-decoration:underline;text-underline-offset:3px}'+
     '.author{font-size:13px;color:#777;margin-top:-14px;margin-bottom:32px}'+
+    '.back{margin-top:42px;padding-top:22px;border-top:1px solid #ddd;font-size:16px;font-weight:600}'+
     '@media(max-width:560px){main{width:min(100% - 22px,820px);padding-top:24px}p,blockquote{font-size:17px}figure{margin:26px 0}}'+
     '</style></head><body><main><div class="brand">United Identity</div>'+
     (author?'<div class="author">'+esc(author)+'</div>':"")+
-    '<article>'+article+'</article></main></body></html>';
+    '<article>'+article+'</article>'+
+    (backUrl?'<div class="back"><a href="'+escAttr(backUrl)+'">← Kanala geri qayıt</a></div>':"")+
+    '</main></body></html>';
 }
 
 function shell(title,message){
