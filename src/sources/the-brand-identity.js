@@ -106,46 +106,149 @@ export function parseArticle(html,url,source){
 
 function extractOrderedBlocks(scope,url,title){
   const blocks=[];
-  const re=/<(p|h2|h3|blockquote|li|img|video|iframe|source)\b([^>]*)>([\s\S]*?)(?:<\/\1>|(?=<(?:p|h2|h3|blockquote|li|img|video|iframe|source)\b)|$)/gi;
+  const seenMedia=new Set();
+  const tokenRe=/<(p|h2|h3|blockquote|li)\b[^>]*>[\s\S]*?<\/\1>|<(img|video|iframe|source|picture)\b[^>]*>[\s\S]*?(?:<\/\2>)?|<(img|video|iframe|source)\b[^>]*\/?>/gi;
   let m;
-  while((m=re.exec(scope))){
-    const tag=m[1].toLowerCase();
-    const attrs=m[2]||"";
-    const body=m[3]||"";
+
+  while((m=tokenRe.exec(scope))){
+    const token=m[0]||"";
+    const tag=(m[1]||m[2]||m[3]||"").toLowerCase();
 
     if(["p","h2","h3","blockquote","li"].includes(tag)){
-      const text=cleanText(body);
-      if(!text||text.length<8) continue;
-      if(isNoise(text,title)) continue;
+      const text=cleanText(token);
+      if(!text||text.length<8||isNoise(text,title)) continue;
       blocks.push({type:"text",tag,text});
       continue;
     }
 
-    const src=pickAttr(attrs,["data-full-src","data-src","data-lazy-src","src"]);
-    if(!src) continue;
-    const mediaUrl=absolute(src,url);
-    if(!/^https?:\/\//i.test(mediaUrl)) continue;
-
-    if(tag==="img"){
-      if(isUiImage(mediaUrl)) continue;
-      blocks.push({type:isGif(mediaUrl)?"gif":"image",url:mediaUrl});
-    }else if(tag==="iframe"){
-      blocks.push({type:"iframe",url:mediaUrl});
-    }else{
-      blocks.push({type:"video",url:mediaUrl});
+    const assets=mediaFromToken(token,url);
+    for(const asset of assets){
+      if(!asset.url||seenMedia.has(asset.url)||isUiImage(asset.url)) continue;
+      seenMedia.add(asset.url);
+      blocks.push(asset);
     }
   }
 
-  // De-duplicate exact consecutive assets/text while keeping original order.
-  const out=[];
-  let previous="";
-  for(const b of blocks){
-    const key=b.type==="text"?"text|"+b.text:b.type+"|"+b.url;
-    if(key===previous) continue;
-    previous=key;
-    out.push(b);
+  // Some site builds keep lazy assets only in data-* or inline style attributes.
+  // Sweep the article HTML after the ordered pass so no case-study visual is lost.
+  for(const asset of sweepMedia(scope,url)){
+    if(!asset.url||seenMedia.has(asset.url)||isUiImage(asset.url)) continue;
+    seenMedia.add(asset.url);
+    blocks.push(asset);
   }
+
+  return blocks;
+}
+
+function mediaFromToken(token,base){
+  const out=[];
+  const lower=token.toLowerCase();
+
+  // iframe / embedded video
+  if(/^<iframe\b/i.test(token)){
+    const src=pickAttr(token,["data-src","src"]);
+    const u=absolute(src,base);
+    if(u) out.push({type:"iframe",url:u});
+    return out;
+  }
+
+  // video element: poster first, then every source URL
+  if(/^<video\b/i.test(token)){
+    const poster=pickAttr(token,["poster","data-poster"]);
+    const pu=absolute(poster,base);
+    if(pu) out.push({type:"image",url:pu});
+
+    const direct=pickAttr(token,["data-src","src"]);
+    const du=absolute(direct,base);
+    if(du) out.push({type:"video",url:du});
+
+    for(const sm of token.matchAll(/<source\b[^>]*>/gi)){
+      const src=bestMediaAttr(sm[0]);
+      const u=absolute(src,base);
+      if(u) out.push({type:"video",url:u});
+    }
+    return out;
+  }
+
+  // picture/source can expose responsive images only via srcset/data-srcset.
+  if(/^<picture\b/i.test(token)||/^<source\b/i.test(token)){
+    const candidates=[];
+    for(const mm of token.matchAll(/<(?:source|img)\b[^>]*>/gi)){
+      const src=bestMediaAttr(mm[0]);
+      const u=absolute(src,base);
+      if(u) candidates.push(u);
+    }
+    const u=candidates[candidates.length-1];
+    if(u) out.push({type:isGif(u)?"gif":"image",url:u});
+    return out;
+  }
+
+  // img + lazy-loading variants.
+  if(/^<img\b/i.test(token)){
+    const src=bestMediaAttr(token);
+    const u=absolute(src,base);
+    if(u) out.push({type:isGif(u)?"gif":"image",url:u});
+  }
+
   return out;
+}
+
+function sweepMedia(scope,base){
+  const out=[];
+
+  // Explicit media/lazy attributes.
+  const attrRe=/\b(?:src|data-src|data-lazy-src|data-full-src|poster|data-poster)=["']([^"']+)["']/gi;
+  for(const m of scope.matchAll(attrRe)){
+    const u=absolute(m[1],base);
+    if(!u||!looksLikeMedia(u)) continue;
+    out.push({type:videoUrl(u)?"video":(isGif(u)?"gif":"image"),url:u});
+  }
+
+  // Responsive srcset/data-srcset. Keep the largest/final candidate.
+  const setRe=/\b(?:srcset|data-srcset)=["']([^"']+)["']/gi;
+  for(const m of scope.matchAll(setRe)){
+    const u=absolute(lastSrcsetUrl(m[1]),base);
+    if(!u) continue;
+    out.push({type:videoUrl(u)?"video":(isGif(u)?"gif":"image"),url:u});
+  }
+
+  // CSS/background and common data-video attributes.
+  const bgRe=/(?:background-image\s*:\s*url\(|data-(?:video|media|image|poster)(?:-src)?=["'])([^"'\)]+)(?:\)|["'])/gi;
+  for(const m of scope.matchAll(bgRe)){
+    const u=absolute(m[1],base);
+    if(!u||!looksLikeMedia(u)) continue;
+    out.push({type:videoUrl(u)?"video":(isGif(u)?"gif":"image"),url:u});
+  }
+
+  // Embedded players such as Vimeo/YouTube are part of the case study too.
+  const iframeRe=/<iframe\b[^>]*(?:data-src|src)=["']([^"']+)["'][^>]*>/gi;
+  for(const m of scope.matchAll(iframeRe)){
+    const u=absolute(m[1],base);
+    if(u) out.push({type:"iframe",url:u});
+  }
+
+  return out;
+}
+
+function bestMediaAttr(tag){
+  const direct=pickAttr(tag,["data-full-src","data-original","data-lazy-src","data-src","src"]);
+  const set=pickAttr(tag,["data-srcset","srcset"]);
+  return lastSrcsetUrl(set)||direct;
+}
+
+function lastSrcsetUrl(value=""){
+  const parts=String(value).split(",").map(x=>x.trim()).filter(Boolean);
+  if(!parts.length) return "";
+  return parts[parts.length-1].split(/\s+/)[0]||"";
+}
+
+function looksLikeMedia(u=""){
+  return /\.(?:webp|avif|jpe?g|png|gif|svg|mp4|webm|mov)(?:$|[?#])/i.test(u)||
+    /(?:image|video|media|cdn|cloudinary|vimeo|youtube)/i.test(u);
+}
+
+function videoUrl(u=""){
+  return /\.(?:mp4|webm|mov)(?:$|[?#])/i.test(u)||/(?:vimeo\.com|youtube\.com|youtu\.be)/i.test(u);
 }
 
 function articleScope(html){
