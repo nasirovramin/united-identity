@@ -303,7 +303,63 @@ function trimProjectBlocks(blocks=[]){
     out.pop();
   }
 
-  return out;
+  // A <video> on this site often exposes its poster as a separate image immediately
+  // before the actual video. Rendering both creates an apparent duplicate.
+  out=out.filter((block,i)=>{
+    if(block?.type!=="image") return true;
+    if(!/\/uploads\/videos\/\d+\.(?:jpe?g|png|webp)(?:$|[?#])/i.test(String(block.url||""))) return true;
+    const next=out[i+1];
+    return next?.type!=="video";
+  });
+
+  // The same editorial image is commonly present twice in the HTML:
+  // a cached WebP rendition and the original JPG/PNG. Keep only one visual.
+  // Prefer the original non-cache asset while preserving the first visual position.
+  const result=[];
+  const mediaIndex=new Map();
+
+  for(const block of out){
+    if(block?.type!=="image" && block?.type!=="gif"){
+      result.push(block);
+      continue;
+    }
+
+    const key=canonicalImageKey(block.url);
+    if(!key){
+      result.push(block);
+      continue;
+    }
+
+    const existingIndex=mediaIndex.get(key);
+    if(existingIndex===undefined){
+      mediaIndex.set(key,result.length);
+      result.push(block);
+      continue;
+    }
+
+    const existing=result[existingIndex];
+    if(isCachedImage(existing?.url) && !isCachedImage(block?.url)){
+      result[existingIndex]=block;
+    }
+  }
+
+  return result;
+}
+
+function canonicalImageKey(value=""){
+  try{
+    const u=new URL(String(value));
+    let name=u.pathname.split("/").pop()||"";
+    name=decodeURIComponent(name)
+      .replace(/-[a-f0-9]{5,12}(?=\.(?:webp|avif|jpe?g|png|gif)$)/i,"")
+      .replace(/\.(?:webp|avif|jpe?g|png|gif)$/i,"")
+      .toLowerCase();
+    return name||"";
+  }catch{return ""}
+}
+
+function isCachedImage(value=""){
+  return /\/uploads\/cache\//i.test(String(value||""));
 }
 
 function extractOrderedBlocks(scope,url,title){
