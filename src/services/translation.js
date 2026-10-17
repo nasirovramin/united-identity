@@ -3,6 +3,8 @@ const MODELS=[
   "@cf/meta/llama-3.2-1b-instruct"
 ];
 
+const TRANSLATION_CACHE_VERSION="v2-semantic-editor";
+
 export class AzerbaijaniTranslator {
   constructor(env){this.env=env}
 
@@ -24,12 +26,21 @@ export class AzerbaijaniTranslator {
     for(const g of groups){
       const joined=g.map(x=>"[[BLOCK_"+x.i+"]]\n"+x.text).join("\n\n");
       const prompt=[
-        "Aşağıdakı blokları tam Azərbaycan dilinə çevir.",
+        "Aşağıdakı məqalə bloklarını Azərbaycan dilinə çevir və eyni anda redaktə et.",
+        "ƏVVƏL hər cümlənin nə demək istədiyini anla, SONRA Azərbaycan dilində təbii ifadə et. Sözbəsöz tərcümə etmə.",
+        "Oxucu İngilis dili mətnini görmədən fikri asan başa düşməlidir.",
+        "İngilis dilindəki idiom, metafora, söz oyunu və qeyri-təbii sintaksisi Azərbaycan dilinə məna baxımından uyğunlaşdır; hərfi qarşılığını yazma.",
+        "Uzun və dolaşıq İngilis cümləsini lazım olduqda 2-3 aydın Azərbaycan cümləsinə böl.",
+        "Əvəzliklərin kimə/nəyə aid olduğu aydın olsun. 'o', 'bu', 'onlar' kimi sözləri anlaşılmaz buraxma.",
+        "Mətn jurnalistik və rahat oxunan olsun; ağır elmi, akademik, süni AI dili və rus/türk kalka ifadələrindən uzaq dur.",
+        "Faktları, məna əlaqələrini, sitat sahibini və müəllifin fikrini tam qoru. Heç nə əlavə etmə, qısaltma və şərh etmə.",
+        "Sitatları sözbəsöz yox, danışanın nəzərdə tutduğu mənanı qoruyaraq təbii Azərbaycan dilində ver.",
+        "AI, UI, UX, Visual Identity, Identity, Digital, Motion, Logo, Wordmark, typography, font adları, brand/studio/şirkət/şəxs adları və beynəlxalq ENG terminlərini orijinal formada saxla.",
+        "Azərbaycan dilində mümkün qədər adi söz sırasından istifadə et; tərcümə olduğu hiss olunmamalıdır.",
         "Hər [[BLOCK_N]] markerini olduğu kimi saxla və həmin blokun tərcüməsini onun altında yaz.",
-        "Heç bir blok itirilməsin, qısaldılmasın və başqa blokla birləşdirilməsin.",
-        "Mətn sadə, təbii və rahat Azərbaycan dilində olsun; ağır elmi üslubdan istifadə etmə.",
-        "AI, UI, UX, Visual Identity, Identity, Digital, Motion, Logo, Wordmark, typography, font adları və bütün xüsusi adları orijinal formada saxla.",
-        "Yalnız markerlər və tərcümələri qaytar.",
+        "Heç bir blok itirilməsin və başqa blokla birləşdirilməsin.",
+        "Cavabı verməzdən əvvəl səssiz şəkildə yoxla: cümlə Azərbaycan dilində ilk oxunuşda aydındırmı? Aydın deyilsə, yenidən qur.",
+        "Yalnız markerlər və hazır Azərbaycan dilində mətni qaytar.",
         "",
         joined
       ].join("\n");
@@ -60,18 +71,25 @@ export class AzerbaijaniTranslator {
     if(!src) return "";
     if(!this.env?.AI) throw new Error("Workers AI binding missing");
 
-    const key="translation:tbi:"+await digest(src);
+    const key="translation:tbi:"+TRANSLATION_CACHE_VERSION+":"+await digest(src);
     const cached=await this.env.IDENTITY_KV?.get(key);
     if(cached) return cached;
 
     const prompt=rawInstruction?src:[
-      "Aşağıdakı mətni Azərbaycan dilinə çevir.",
-      "Mətnin mənasını əvvəl başa düş, sonra təbii və aydın Azərbaycan dili ilə yaz.",
-      "Elmi və ağır akademik cümlələrdən istifadə etmə.",
-      "Məzmunu qısaltma, fakt əlavə etmə və heç bir məlumatı itirmə.",
+      "Aşağıdakı mətni Azərbaycan dilinə çevir və redaktə et.",
+      "ƏVVƏL müəllifin nə demək istədiyini anla, SONRA həmin fikri təbii Azərbaycan dili ilə yaz. Sözbəsöz tərcümə etmə.",
+      "Oxucu orijinal İngilis dilini görmədən məzmunu ilk oxunuşda aydın başa düşməlidir.",
+      "İngilis dilindəki idiom, metafora, söz oyunu və sintaksisi hərfi çevirmə; mənanı qoruyan təbii Azərbaycan ifadəsi seç.",
+      "Uzun və dolaşıq cümlələri lazım olduqda daha qısa və aydın cümlələrə böl.",
+      "Əvəzliklərin və əlaqələrin kimə/nəyə aid olduğu aydın olsun.",
+      "Jurnalistik, rahat və müasir Azərbaycan dili istifadə et. Ağır elmi/akademik üslub, süni AI cümlələri, rus və türk dilindən kalka ifadələr işlətmə.",
+      "Məzmunu qısaltma, fakt əlavə etmə, müəllifin mövqeyini dəyişmə və məlumat itirmə.",
+      "Sitatları danışanın niyyətini qoruyaraq təbii Azərbaycan dilində ver; hərfi və anlaşılmaz sitat yaratma.",
       "Brand, Visual Identity, Identity, AI, UI, UX, Digital, Motion, Logo, Wordmark, typography, font adları, şirkət/studio/şəxs adları və digər beynəlxalq ENG terminlərini orijinal formada saxla.",
-      "Sitatların mənasını qoru.",
-      full?"Bu tam məqalə hissəsidir; bütün məlumat qorunmalıdır.":"Bu Telegram post mətni üçündür; cümlələr rahat oxunmalıdır.",
+      full
+        ?"Bu tam məqalə hissəsidir: bütün informasiya qorunmalıdır, amma cümlə quruluşu Azərbaycan dilinə uyğunlaşdırıla bilər."
+        :"Bu Telegram post mətni/başlığıdır: qısa, aydın və ilk baxışda başa düşülən olmalıdır.",
+      "Cavabı verməzdən əvvəl səssiz redaktə et: Azərbaycan dilində qəribə, sözbəsöz və ya anlaşılmaz səslənən hissə qalmasın.",
       "Yalnız hazır Azərbaycan dilində mətni qaytar.",
       "",
       src
@@ -83,7 +101,7 @@ export class AzerbaijaniTranslator {
       try{
         const result=await this.env.AI.run(model,{
           messages:[
-            {role:"system",content:"Sən Azərbaycan dilində dizayn və vizual kommunikasiya mətnlərini peşəkar, sadə və təbii şəkildə tərcümə edən redaktorsan."},
+            {role:"system",content:"Sən peşəkar Azərbaycan dili redaktoru və tərcüməçisisən. Dizayn, branding və Visual Identity mövzularını anlayırsan. Sənin işin sözləri çevirmək deyil, müəllifin fikrini tam qoruyaraq onu təbii, aydın, jurnalistik Azərbaycan dilində yenidən ifadə etməkdir. Tərcümə olduğu hiss olunmamalıdır."},
             {role:"user",content:finalPrompt}
           ],
           max_tokens:full?3500:1200,
