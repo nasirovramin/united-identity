@@ -29,5 +29,8 @@ jobs:
           if(d.ok===false){
             throw new Error("Last scan failed: "+JSON.stringify(d.blockingErrors||d.errors||[]));
           }
-          console.log("Healthy scan:", d.finishedAt, "sent:", d.sent, "matched:", d.matched);
+          if((d.zeroPublishStreak||0)>=6){
+            throw new Error("Channel is logically stalled: "+d.zeroPublishStreak+" consecutive scans without a publish. Last publish: "+(d.lastPublishAt||"unknown"));
+          }
+          console.log("Healthy scan:", d.finishedAt, "sent:", d.sent, "matched:", d.matched, "zeroStreak:", d.zeroPublishStreak||0);
           NODE
