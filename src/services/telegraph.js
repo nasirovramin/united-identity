@@ -5,6 +5,10 @@ export class TelegraphService {
     const token=await this.getToken();
     const nodes=[];
 
+    // Keep the public Telegraph URL short and ASCII-safe. The full Azerbaijani
+    // headline is rendered inside the article so the visible content stays correct.
+    nodes.push({tag:"h3",children:[String(title||"United Identity")]});
+
     if(agency){
       nodes.push({tag:"p",children:[{tag:"strong",children:["Agentlik: "]},agency]});
       nodes.push({tag:"hr"});
@@ -25,18 +29,18 @@ export class TelegraphService {
     nodes.push({tag:"hr"});
     nodes.push({tag:"p",children:[{tag:"a",attrs:{href:sourceUrl},children:["Mənbə: "+sourceName]}]});
 
-    const body=new URLSearchParams({
-      access_token:token,
-      title:String(title||"United Identity").slice(0,250),
-      author_name:"United Identity",
-      content:JSON.stringify(nodes),
-      return_content:"false"
-    });
+    const pageTitle=asciiTitle(title);
+    const url=await createPage(token,pageTitle,nodes);
 
-    const r=await fetch("https://api.telegra.ph/createPage",{method:"POST",body});
-    const d=await r.json();
-    if(!d.ok||!d.result?.url) throw new Error("Telegraph createPage failed: "+JSON.stringify(d));
-    return d.result.url;
+    // Validate the actual public page before giving the URL to Telegram.
+    // If the generated page is not publicly readable, retry once with the
+    // shortest possible title to avoid slug/path edge cases.
+    if(await pageReadable(url)) return url;
+
+    const fallback=await createPage(token,"United Identity Case Study",nodes);
+    if(await pageReadable(fallback)) return fallback;
+
+    throw new Error("Telegraph page created but public page is not readable");
   }
 
   async getToken(){
@@ -55,3 +59,54 @@ export class TelegraphService {
     return token;
   }
 }
+
+async function createPage(token,title,nodes){
+  const body=new URLSearchParams({
+    access_token:token,
+    title:String(title||"United Identity").slice(0,120),
+    author_name:"United Identity",
+    content:JSON.stringify(nodes),
+    return_content:"false"
+  });
+
+  const r=await fetch("https://api.telegra.ph/createPage",{method:"POST",body});
+  const d=await r.json();
+  if(!d.ok||!d.result?.url) throw new Error("Telegraph createPage failed: "+JSON.stringify(d));
+  return d.result.url;
+}
+
+async function pageReadable(url){
+  try{
+    const r=await fetch(url,{
+      redirect:"follow",
+      headers:{
+        "User-Agent":"Mozilla/5.0 (compatible; UnitedIdentity/1.0)",
+        "Accept":"text/html,application/xhtml+xml"
+      }
+    });
+    if(!r.ok) return false;
+    const html=await r.text();
+    return html.length>300 && /<article|tl_article|page_header|telegraph/i.test(html);
+  }catch{
+    return false;
+  }
+}
+
+function asciiTitle(value=""){
+  let s=String(value||"United Identity")
+    .replace(/[Əə]/g,m=>m==="Ə"?"E":"e")
+    .replace(/[Ğğ]/g,m=>m==="Ğ"?"G":"g")
+    .replace(/[Çç]/g,m=>m==="Ç"?"C":"c")
+    .replace(/[Şş]/g,m=>m==="Ş"?"S":"s")
+    .replace(/[Öö]/g,m=>m==="Ö"?"O":"o")
+    .replace(/[Üü]/g,m=>m==="Ü"?"U":"u")
+    .replace(/[İı]/g,m=>m==="İ"?"I":"i")
+    .normalize("NFKD")
+    .replace(/[\u0300-\u036f]/g,"")
+    .replace(/[^\x20-\x7E]/g," ")
+    .replace(/\s+/g," ")
+    .trim();
+  if(!s) s="United Identity Case Study";
+  return s.slice(0,90);
+}
+
