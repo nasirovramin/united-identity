@@ -40,3 +40,9 @@ jobs:
         run: |
           curl --fail --silent --show-error --max-time 60 \
             https://united-identity.nasirovramin.workers.dev/health
+
+      - name: Smoke test The Brand Identity
+        run: |
+          curl --fail --silent --show-error --max-time 90 \
+            https://united-identity.nasirovramin.workers.dev/test/the-brand-identity
+
