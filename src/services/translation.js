@@ -2,7 +2,7 @@ const MODELS=[
   "@cf/meta/llama-3.1-8b-instruct-fast"
 ];
 
-const TRANSLATION_CACHE_VERSION="v4-faithful-literal";
+const TRANSLATION_CACHE_VERSION="v5-faithful-repeat-guard";
 
 const KEEP_ENGLISH=[
   "AI","UI","UX","Visual Identity","Identity","Digital","Motion","Logo","Wordmark",
@@ -44,7 +44,10 @@ export class AzerbaijaniTranslator {
     });
     const key="translation:tbi:"+TRANSLATION_CACHE_VERSION+":"+await digest(cachePayload);
     const cached=await this.env.IDENTITY_KV?.get(key);
-    if(cached) return cached;
+    if(cached){
+      const cachedCheck=validateTranslation(src,cached);
+      if(cachedCheck.ok) return cached;
+    }
 
     const errors=[];
     for(const model of MODELS){
@@ -189,6 +192,32 @@ function validateTranslation(src,out){
     }
   }
 
+  // Reject runaway generations. Translation may be somewhat longer than English,
+  // but several-times expansion is a model failure, not faithful translation.
+  if(src.length>=80 && out.length>src.length*3.2){
+    return {ok:false,reason:"runaway_expansion"};
+  }
+
+  // Detect degenerate word loops such as "cədvəli cədvəli cədvəli ...".
+  const srcTokens=wordTokens(src);
+  const outTokens=wordTokens(out);
+  if(outTokens.length>=20){
+    const srcFreq=tokenFrequency(srcTokens);
+    const outFreq=tokenFrequency(outTokens);
+    for(const [word,count] of outFreq){
+      const srcCount=srcFreq.get(word)||0;
+      if(count>=8 && count>srcCount+5 && count/outTokens.length>=0.12){
+        return {ok:false,reason:"repeated_word_loop:"+word};
+      }
+    }
+
+    // Also catch repeated 2-4 word phrases that dominate the output.
+    for(const size of [2,3,4]){
+      const loop=findRepeatedNgramLoop(outTokens,size);
+      if(loop) return {ok:false,reason:"repeated_phrase_loop:"+loop};
+    }
+  }
+
   const instructionLeak=[
     /Aşağıdakı\s+mətni/i,
     /Azərbaycan\s+dilinə\s+(?:çevir|tərcümə)/i,
@@ -224,6 +253,35 @@ function validateTranslation(src,out){
   }
 
   return {ok:true};
+}
+
+function wordTokens(value=""){
+  return String(value)
+    .toLocaleLowerCase("az")
+    .match(/[\p{L}\p{N}]+/gu)||[];
+}
+
+function tokenFrequency(tokens=[]){
+  const map=new Map();
+  for(const t of tokens) map.set(t,(map.get(t)||0)+1);
+  return map;
+}
+
+function findRepeatedNgramLoop(tokens,size){
+  if(tokens.length<size*4) return "";
+  let run=1;
+  let previous="";
+  for(let i=0;i<=tokens.length-size;i+=size){
+    const gram=tokens.slice(i,i+size).join(" ");
+    if(gram===previous){
+      run++;
+      if(run>=4) return gram;
+    }else{
+      previous=gram;
+      run=1;
+    }
+  }
+  return "";
 }
 
 function cleanAI(r){
