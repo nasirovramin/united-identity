@@ -13,8 +13,8 @@ export class VisualChecker {
     const media=Array.isArray(post?.media)?post.media:[];
     if(!media.length) errors.push("post_media_missing");
 
-    if(post?.detailsUrl && !/^https:\/\/telegra\.ph\//i.test(post.detailsUrl)){
-      errors.push("details_must_be_telegraph");
+    if(post?.detailsUrl && !isDetailsUrl(post.detailsUrl)){
+      errors.push("details_link_invalid");
     }
 
     if(!/^https?:\/\//i.test(String(post?.sourceUrl||""))){
@@ -23,4 +23,8 @@ export class VisualChecker {
 
     return {ok:errors.length===0,errors,warnings};
   }
+}
+
+function isDetailsUrl(value=""){
+  return /^https:\/\/(?:telegra\.ph\/|united-identity-viewer\.nasirovramin\.workers\.dev\/article\/)/i.test(String(value));
 }
