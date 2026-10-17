@@ -1,3 +1,4 @@
+import snapshot from "../generated/the-brand-identity-snapshot.js";
 import { SourceModule } from "./base.js";
 
 const FEATURES_URL="https://the-brandidentity.com/features";
@@ -14,6 +15,13 @@ export class TheBrandIdentitySource extends SourceModule {
   }
 
   async scan(){
+    if(Array.isArray(snapshot.items) && snapshot.items.length){
+      return snapshot.items.map(item=>({
+        source:{...this.config},
+        item:{...item}
+      }));
+    }
+
     const doc=await fetchDocument(FEATURES_URL);
     const projects=doc.kind==="markdown"
       ?discoverProjectLinksMarkdown(doc.text)
@@ -37,6 +45,10 @@ export class TheBrandIdentitySource extends SourceModule {
 
   async readArticle(url){
     if(!isAllowedProjectUrl(url)) throw new Error("invalid_the_brand_identity_project_url");
+
+    const cached=(snapshot.items||[]).find(x=>x.canonicalUrl===url);
+    if(cached) return {source:{...this.config},item:{...cached}};
+
     const doc=await fetchDocument(url);
     return doc.kind==="markdown"
       ?parseMarkdownArticle(doc.text,url,this.config)
@@ -74,7 +86,7 @@ function discoverProjectLinks(html){
 }
 
 
-function discoverProjectLinksMarkdown(markdown){
+export function discoverProjectLinksMarkdown(markdown){
   const out=[];
   const seen=new Set();
   const body=stripReaderPreamble(markdown);
@@ -96,7 +108,7 @@ function discoverProjectLinksMarkdown(markdown){
   return out;
 }
 
-function parseMarkdownArticle(markdown,url,source){
+export function parseMarkdownArticle(markdown,url,source){
   const body=stripReaderPreamble(markdown);
   const lines=body.split(/\r?\n/);
   const blocks=[];

@@ -1,0 +1,65 @@
+name: Refresh The Brand Identity Source
+
+on:
+  push:
+    branches:
+      - main.ru
+    paths:
+      - "scripts/refresh-tbi-source.mjs"
+      - "src/sources/the-brand-identity.js"
+      - ".github/workflows/source-tbi.yml"
+  schedule:
+    - cron: "5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: the-brand-identity-source-refresh
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main.ru
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Refresh public source snapshot
+        run: node scripts/refresh-tbi-source.mjs
+
+      - name: Commit refreshed snapshot when changed
+        run: |
+          if git diff --quiet -- src/generated/the-brand-identity-snapshot.js; then
+            echo "No source changes."
+          else
+            git config user.name "United Identity Source Bot"
+            git config user.email "actions@users.noreply.github.com"
+            git add src/generated/the-brand-identity-snapshot.js
+            git commit -m "Refresh The Brand Identity source snapshot"
+            git push origin HEAD:main.ru
+          fi
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Deploy refreshed Worker
+        run: npx wrangler deploy
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+
+      - name: Verify source snapshot
+        run: |
+          curl --fail --silent --show-error --max-time 90 \
+            https://united-identity.nasirovramin.workers.dev/test/the-brand-identity
