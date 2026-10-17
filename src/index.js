@@ -12,6 +12,10 @@ function json(data,status=200){
 }
 
 export default {
+  async scheduled(event,env,ctx){
+    ctx.waitUntil(runTheBrandIdentityCycle(env));
+  },
+
   async fetch(req,env){
     const url=new URL(req.url);
     const path=url.pathname;
@@ -26,8 +30,10 @@ export default {
           total:ALL_SOURCES.length
         },
         sources:ALL_SOURCES.map(x=>x.config),
-        automaticScanning:false,
-        publishing:false
+        automaticScanning:true,
+        publishing:true,
+        schedule:"hourly",
+        policy:"The Brand Identity: one unseen project per run, full Azerbaijani article, deduplicated project media"
       });
     }
 
@@ -102,11 +108,119 @@ export default {
     }
 
     return new Response(
-      "United Identity: The Brand Identity mənbə modulu qoşulub. Avtomatik paylaşım hələ testdən sonra aktiv ediləcək.",
+      "United Identity: The Brand Identity mənbə modulu aktivdir. Yeni layihələr yoxlanılır və təsdiqdən keçənlər avtomatik paylaşılır.",
       {headers:{"content-type":"text/plain;charset=UTF-8"}}
     );
   }
 };
+
+
+async function runTheBrandIdentityCycle(env){
+  const source=WEB_SOURCES.find(x=>x.config.id==="the-brand-identity");
+  if(!source) throw new Error("The Brand Identity source missing");
+
+  const cards=await source.scan();
+  if(!cards.length) return {ok:true,published:false,reason:"no_cards"};
+
+  // The manually approved Clusia test post is already published. Mirror that
+  // fact into the normal dedupe state so the scheduler never publishes it again.
+  const testRaw=await env.IDENTITY_KV?.get("test:the-brand-identity:clusia:v1");
+  if(testRaw){
+    try{
+      const test=JSON.parse(testRaw);
+      if(test.sourceUrl){
+        await markPublished(env,test.sourceUrl,{
+          message_id:test.message_id||147,
+          detailsUrl:test.detailsUrl||"",
+          importedFrom:"approved_test"
+        });
+      }
+    }catch{}
+  }
+
+  const unseen=[];
+  for(const packet of cards){
+    const url=packet?.item?.canonicalUrl;
+    if(!url) continue;
+    if(!(await isPublished(env,url))) unseen.push(packet);
+  }
+
+  if(!unseen.length){
+    await env.IDENTITY_KV?.put("source:the-brand-identity:last-run",JSON.stringify({
+      at:new Date().toISOString(),
+      status:"no_unseen",
+      cards:cards.length
+    }),{expirationTtl:60*60*24*30});
+    return {ok:true,published:false,reason:"no_unseen"};
+  }
+
+  // Snapshot is newest-first. Publish the oldest unseen item first so the
+  // current backlog is drained in order without flooding the channel.
+  const next=unseen[unseen.length-1];
+  const article=await source.readArticle(next.item.canonicalUrl);
+
+  const translator=new AzerbaijaniTranslator(env);
+  const telegraph=new TelegraphService(env);
+  const checker=new CheckModule({
+    translate:(text,opts)=>translator.translate(text,opts),
+    translateBlocks:(blocks)=>translator.translateBlocks(blocks),
+    telegraph:(data)=>telegraph.createFromBlocks(data)
+  });
+
+  const checked=await checker.process(article);
+  if(!checked.ok||!checked.post){
+    await env.IDENTITY_KV?.put("source:the-brand-identity:last-error",JSON.stringify({
+      at:new Date().toISOString(),
+      url:next.item.canonicalUrl,
+      stage:checked.stage,
+      errors:checked.errors||checked.visual||checked.technical||[]
+    }),{expirationTtl:60*60*24*7});
+    return {ok:false,published:false,stage:checked.stage};
+  }
+
+  const publisher=new PublishModule(env);
+  const sent=await publisher.publish(checked);
+
+  const messageId=Array.isArray(sent)?sent[0]?.message_id:sent?.message_id;
+  const detailsUrl=Array.isArray(sent)?"":(sent?.detailsUrl||checked.post.detailsUrl||"");
+
+  await markPublished(env,next.item.canonicalUrl,{
+    message_id:messageId||null,
+    detailsUrl,
+    title:checked.post.title,
+    publishedAt:new Date().toISOString()
+  });
+
+  await env.IDENTITY_KV?.put("source:the-brand-identity:last-run",JSON.stringify({
+    at:new Date().toISOString(),
+    status:"published",
+    url:next.item.canonicalUrl,
+    message_id:messageId||null,
+    unseenRemaining:Math.max(0,unseen.length-1)
+  }),{expirationTtl:60*60*24*30});
+
+  return {ok:true,published:true,url:next.item.canonicalUrl,message_id:messageId||null};
+}
+
+async function isPublished(env,url){
+  if(!env.IDENTITY_KV) return false;
+  return Boolean(await env.IDENTITY_KV.get(await publishedKey(url)));
+}
+
+async function markPublished(env,url,data={}){
+  if(!env.IDENTITY_KV) return;
+  await env.IDENTITY_KV.put(
+    await publishedKey(url),
+    JSON.stringify({url,...data}),
+    {expirationTtl:60*60*24*365}
+  );
+}
+
+async function publishedKey(url){
+  const hash=await crypto.subtle.digest("SHA-256",new TextEncoder().encode(String(url)));
+  const hex=[...new Uint8Array(hash)].map(x=>x.toString(16).padStart(2,"0")).join("");
+  return "published:tbi:"+hex;
+}
 
 
 async function repairTheBrandIdentityTest(env){
