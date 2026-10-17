@@ -51,11 +51,13 @@ export async function verifyTelegraph(url){
       }catch{}
     }
 
-    // Validate media using the correct MIME rules for each embed type.
+    // Remote media hosts frequently block server-side probes even when Telegraph can still render the page.
+    // Treat those failures as warnings so a valid translated case-study page never blocks the Telegram post.
+    const mediaWarnings=[];
     for(const asset of media){
       const check=await probeMedia(asset.url,asset.kind);
-      if(!check.ok) return {ok:false,reason:"broken_media: "+check.reason,asset:asset.url,kind:asset.kind};
+      if(!check.ok) mediaWarnings.push({asset:asset.url,kind:asset.kind,reason:check.reason});
     }
-    return {ok:true,mediaChecked:media.length};
+    return {ok:true,mediaChecked:media.length,mediaWarnings};
   }catch(e){return {ok:false,reason:String(e?.message||e)}}
 }
