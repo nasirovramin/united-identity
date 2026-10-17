@@ -2,7 +2,7 @@ const MODELS=[
   "@cf/meta/llama-3.1-8b-instruct-fast"
 ];
 
-const TRANSLATION_CACHE_VERSION="v6-sentence-faithful";
+const TRANSLATION_CACHE_VERSION="v7-sentence-faithful-clean";
 
 const KEEP_ENGLISH=[
   "AI","UI","UX","Visual Identity","Identity","Digital","Motion","Logo","Wordmark",
@@ -180,6 +180,15 @@ function extractTranslation(raw=""){
     .replace(/^\s*Aşağıdakı\s+mətni\s+Azərbaycan\s+dilinə\s+(?:çevir(?:\s+və\s+redaktə\s+et)?|tərcümə\s+et)\s*:\s*/i,"")
     .replace(/^\s*(?:Tərcümə|Azərbaycan dilində|Cavab|Hazır mətn)\s*:\s*/i,"")
     .replace(/^["“](.*)["”]$/s,"$1")
+    .trim();
+
+  // Deterministic cleanup for a few recurring machine-transliteration errors.
+  // These replacements do not add facts; they only turn bad loanwords into the
+  // intended Azerbaijani meaning.
+  out=out
+    .replace(/\bassurans\b/gi,"təsdiq və yoxlama")
+    .replace(/\bprivasiya\b/gi,"məxfilik")
+    .replace(/\bçovaq\b/gi,"kol")
     .trim();
 
   return out;
