@@ -1,0 +1,46 @@
+name: Deploy United Identity Viewer
+
+on:
+  push:
+    branches:
+      - main.ru
+    paths:
+      - "src/viewer.js"
+      - "wrangler.viewer.jsonc"
+      - ".github/workflows/deploy-viewer.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: united-identity-viewer-production
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Deploy Article Viewer
+        run: npx wrangler deploy --config wrangler.viewer.jsonc
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+
+      - name: Verify Viewer
+        run: |
+          curl --fail --silent --show-error --max-time 60 \
+            https://united-identity-viewer.nasirovramin.workers.dev/health
