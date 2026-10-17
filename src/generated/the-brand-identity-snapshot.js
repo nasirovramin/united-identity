@@ -21,20 +21,12 @@ const snapshot={
       "caseStudyBlocks": [
         {
           "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/together-gives-clusia-a-four-petal-mark-showing-ai-and-people-at-work/14401943/Clusia-Together-00_2026-10-15-024320_adoz-bc9e4.webp"
-        },
-        {
-          "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/together-gives-clusia-a-four-petal-mark-showing-ai-and-people-at-work/Clusia-Together-00_2026-10-15-024320_adoz.jpg"
         },
         {
           "type": "text",
           "tag": "h2",
           "text": "Clusia is a US assurance firm for companies that move money, using AI to complete the audits and independent testing that banks and fintechs are required to perform every year. Clusia’s software drafts each audit from the client’s connected systems, showing the source behind every answer, and an accredited professional then reviews and signs it. London-based design and technology agency Together was commissioned to create the identity, spanning the mark, typography, colour, photography, illustration, outdoor advertising, website and product interface."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/together-gives-clusia-a-four-petal-mark-showing-ai-and-people-at-work/14401947/Clusia-Together-01_2026-10-15-024325_suvq-bc9e4.webp"
         },
         {
           "type": "image",
@@ -46,10 +38,6 @@ const snapshot={
           "text": "When the design work began, Clusia was two people, and both worked closely with Together throughout. “We wanted something that felt modern and more in line with the best software brands, while still feeling credible to banks and fintechs,” explains Clusia’s Co-founder Reed Switzer. “We also wanted the brand to champion the people behind the work, both at Clusia and at the companies we work with.” Apart from its name, Clusia had no brand to build on."
         },
         {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/14061838.jpg"
-        },
-        {
           "type": "video",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/together-gives-clusia-a-four-petal-mark-showing-ai-and-people-at-work/Clusia-Together-02.mp4"
         },
@@ -57,10 +45,6 @@ const snapshot={
           "type": "text",
           "tag": "p",
           "text": "“Clusia is a common privacy hedge, and a lot of the work in compliance and assurance happens behind the scenes – or, in our minds, behind the hedge,” Switzer tells us. “Clusia is a plant, and we liked that,” notes Together’s Creative Director Ben Wynn-Owen, “but we didn’t want to build a brand that was inherently botanical. Leaves and stems would have been the obvious move and completely wrong for a company that audits banks. So the plant is a nod, not the whole idea.” Clusia’s strategy “was about empowering people,” he explains. “Reed put it better than we ever could: AI won’t go to jail if it gets something wrong; people will. So the brand couldn’t look like a machine. It had to look like something that works alongside you.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/14278708.jpg"
         },
         {
           "type": "video",
@@ -72,10 +56,6 @@ const snapshot={
           "text": "Together wanted the mark to make the collaboration between AI and people visible, and settled on four petals meeting in the middle. “Enough parts to read as multiple roles working at once, all inside one Clusia system, but simple enough that it still holds together when it’s tiny,” Wynn-Owen details. Because the mark appears on lanyards, phone cases, the browser tab and app icon, Together tested it at every scale, tweaking joints that did not quite meet, overlaps that were slightly off and a centre that closed up too early. “Small stuff, but that’s exactly the stuff that falls apart at 16 pixels, so we didn’t stop until it was right,” he notes. In marketing, the mark turns and opens, and in the product it animates. “It personifies the AI through its interaction states – idle, analysing, scanning, loading – so you can see it’s present while the legwork happens, and then it hands over to the people who sign.”"
         },
         {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/14278740.jpg"
-        },
-        {
           "type": "video",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/together-gives-clusia-a-four-petal-mark-showing-ai-and-people-at-work/Clusia-Together-12.mov"
         },
@@ -83,10 +63,6 @@ const snapshot={
           "type": "text",
           "tag": "p",
           "text": "Clusia’s pixel-style illustrations form a flower, a butterfly and abstract fields. “Every pixel in those illustrations is a tiny version of the petal from the logo. Each one stands for a person or an AI doing something in Clusia,” Wynn-Owen tells us. “Lots of small contributions adding up to more than the sum of their parts, which is exactly what an audit is when it’s done properly.” The illustrations gave Together “a way to talk about ideas rather than features,” he adds. “The product UI is good at showing you what Clusia does. It’s less good at saying what it means. So the illustrations take that job. The flower speaks about growth. The butterfly about change, and the abstract forms are for when we want the brand present without saying anything specific at all.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/14278762.jpg"
         },
         {
           "type": "video",
@@ -99,20 +75,12 @@ const snapshot={
         },
         {
           "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/together-gives-clusia-a-four-petal-mark-showing-ai-and-people-at-work/14062152/Clusia-Together-09-bc9e4.webp"
-        },
-        {
-          "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/together-gives-clusia-a-four-petal-mark-showing-ai-and-people-at-work/Clusia-Together-09.jpg"
         },
         {
           "type": "text",
           "tag": "p",
           "text": "Klim Type Foundry’s variable sans serif Die Grotesk sets the headlines and the interface, and Studio René Bieder’s Vitruv Text sets the body copy – the reverse of the serif-headline, sans-body pairing that, according to Wynn-Owen, most brands in the category use. One of the outdoor advertising designs pairs ‘Sets up in a day.’ with ‘Evolves for years.’ and another reads ‘Where compliance connects.’ Both ‘Evolves’ and ‘connects’ are set in the italic of Vitruv Text, while the rest of their lines are in Die Grotesk. “A serif word inside a sans headline isn’t decoration; it’s the body face pushing through,” Wynn-Owen notes. “In motion, the sans literally snaps into the serif. One word rather than a whole line is about who’s reading. These are people signing something a regulator might pull apart later, and you can’t shout at them. So we keep the sentence plain and point at the word it hangs on,” he continues, giving ‘Relied on for years’ as an example, with the italic on ‘years.’ “The rule was simple: pick the word that would change if the claim weren’t true, and only one per line.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/14278785.jpg"
         },
         {
           "type": "video",
@@ -122,10 +90,6 @@ const snapshot={
           "type": "text",
           "tag": "p",
           "text": "The palette is deep green, mint and a dark warm brown, and every colour is named after something found in a forest, such as Earth, Bark, Root, Pollen and Blossom. “Every colour had to feel like it grew rather than got generated, because the whole brand is about software that feels human, not robotic,” Wynn-Owen details. In the product, the palette is mostly neutral, with green kept for status, calls to action and the animating logo. “Pure black next to bright green looks like a terminal. Warm brown looks like something living, and it gave the product a dark mode that feels like Clusia rather than every other dark UI,” he adds. “Brown historically hasn’t been a common brand colour, and the way Together used it created a really distinctive world, especially for the space we’re in,” Switzer tells us."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/together-gives-clusia-a-four-petal-mark-showing-ai-and-people-at-work/14061927/Clusia-Together-04-bc9e4.webp"
         },
         {
           "type": "image",
@@ -146,47 +110,23 @@ const snapshot={
       "caseStudyMedia": [
         {
           "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/together-gives-clusia-a-four-petal-mark-showing-ai-and-people-at-work/14401943/Clusia-Together-00_2026-10-15-024320_adoz-bc9e4.webp"
-        },
-        {
-          "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/together-gives-clusia-a-four-petal-mark-showing-ai-and-people-at-work/Clusia-Together-00_2026-10-15-024320_adoz.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/together-gives-clusia-a-four-petal-mark-showing-ai-and-people-at-work/14401947/Clusia-Together-01_2026-10-15-024325_suvq-bc9e4.webp"
         },
         {
           "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/together-gives-clusia-a-four-petal-mark-showing-ai-and-people-at-work/Clusia-Together-01_2026-10-15-024325_suvq.jpg"
         },
         {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/14061838.jpg"
-        },
-        {
           "type": "video",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/together-gives-clusia-a-four-petal-mark-showing-ai-and-people-at-work/Clusia-Together-02.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/14278708.jpg"
         },
         {
           "type": "video",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/together-gives-clusia-a-four-petal-mark-showing-ai-and-people-at-work/Clusia-Together-11.mp4"
         },
         {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/14278740.jpg"
-        },
-        {
           "type": "video",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/together-gives-clusia-a-four-petal-mark-showing-ai-and-people-at-work/Clusia-Together-12.mov"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/14278762.jpg"
         },
         {
           "type": "video",
@@ -194,23 +134,11 @@ const snapshot={
         },
         {
           "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/together-gives-clusia-a-four-petal-mark-showing-ai-and-people-at-work/14062152/Clusia-Together-09-bc9e4.webp"
-        },
-        {
-          "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/together-gives-clusia-a-four-petal-mark-showing-ai-and-people-at-work/Clusia-Together-09.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/14278785.jpg"
         },
         {
           "type": "video",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/together-gives-clusia-a-four-petal-mark-showing-ai-and-people-at-work/Clusia-Together-14.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/together-gives-clusia-a-four-petal-mark-showing-ai-and-people-at-work/14061927/Clusia-Together-04-bc9e4.webp"
         },
         {
           "type": "image",
@@ -233,20 +161,12 @@ const snapshot={
       "caseStudyBlocks": [
         {
           "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/how-red-antlers-brand-helps-rovexs-robot-feel-familiar-in-hospitals/14057833/Rovex-Red-Antler-01-bc9e4.webp"
-        },
-        {
-          "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-red-antlers-brand-helps-rovexs-robot-feel-familiar-in-hospitals/Rovex-Red-Antler-01.jpg"
         },
         {
           "type": "text",
           "tag": "h2",
           "text": "Rovi, the first product from Rovex , is what the hospital logistics platform describes as the first robot built to move patients. Rovi attaches to any stretcher and moves stable patients through the hospital on its own without major changes to the building’s infrastructure. New York-based Red Antler was commissioned to create the brand strategy, identity, messaging, digital and visual design, and art direction for the company."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/how-red-antlers-brand-helps-rovexs-robot-feel-familiar-in-hospitals/14057840/Rovex-Red-Antler-02-bc9e4.webp"
         },
         {
           "type": "image",
@@ -258,10 +178,6 @@ const snapshot={
           "text": "“When we started working with Red Antler, the product and the mission were already very real,” explains Co-founder & CEO David Crabb. “We knew the problem we were solving, we were building the technology, and we had a strong point of view about what Rovi should become inside a hospital. What we did not yet have was an identity for Rovex as a whole or a clear voice that matched that ambition. We wanted a brand that could live comfortably in a hospital without looking like traditional medical equipment. Rovi and the brand needed to feel approachable to patients and clinical staff, credible to hospital leadership and distinct enough to become a recognisable member of the hospital environment.”"
         },
         {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/14057873.jpg"
-        },
-        {
           "type": "video",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-red-antlers-brand-helps-rovexs-robot-feel-familiar-in-hospitals/Rovex-Red-Antler-03.mp4"
         },
@@ -269,10 +185,6 @@ const snapshot={
           "type": "text",
           "tag": "p",
           "text": "“When transport stalls, the effects ripple through care outcomes, staff bandwidth and patient experience,” Red Antler notes. That insight became the basis for the brand idea – ‘Keep care flowing.’ “Because Rovi carries people rather than linens, medication or supplies, trust had to be built into the brand from the beginning,” explains Senior Designer Tatsuya Kurihara. “Patients are already in a vulnerable state, while hospital staff and leadership need to know that new technology can integrate safely into an environment where reliability matters enormously. The brand therefore needed to feel believable, safe and inevitable, rather than futuristic for the sake of being futuristic.” In Kurihara’s words, the identity is “advanced enough to represent where hospital logistics is going, but human enough to belong beside the people it is ultimately designed to serve.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/14058522.jpg"
         },
         {
           "type": "video",
@@ -285,15 +197,7 @@ const snapshot={
         },
         {
           "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/how-red-antlers-brand-helps-rovexs-robot-feel-familiar-in-hospitals/14057971/Rovex-Red-Antler-04-bc9e4.webp"
-        },
-        {
-          "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-red-antlers-brand-helps-rovexs-robot-feel-familiar-in-hospitals/Rovex-Red-Antler-04.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/how-red-antlers-brand-helps-rovexs-robot-feel-familiar-in-hospitals/14058635/Rovex-Red-Antler-09-bc9e4.webp"
         },
         {
           "type": "image",
@@ -305,10 +209,6 @@ const snapshot={
           "text": "The path-based visual system starts from the complexity of hospital logistics – the bottlenecks and “disconnected moments that can interrupt the flow of care,” Kurihara notes. “We began representing those individual problems as dots, then connected and organised them through a continuous path. The idea is that Rovex brings structure to that complexity, connecting what feels fragmented and creating a clearer, simpler flow through the hospital,” he continues. That connected-dot motif informs the symbol, iconography, data visualisations and holding devices – the graphic shapes that frame content. Rovex’s symbol is based on the ‘R’ of its name and is built from the same dots. It appears on Rovi itself, on apparel and on an app icon. “We engineered the mark to retain the same character at both large and small scales, simplifying and balancing its forms so the ‘R’ remains recognisable and legible even at its smallest size.”"
         },
         {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/14058549.jpg"
-        },
-        {
           "type": "video",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-red-antlers-brand-helps-rovexs-robot-feel-familiar-in-hospitals/Rovex-Red-Antler-07.mp4"
         },
@@ -318,10 +218,6 @@ const snapshot={
           "text": "The Rovex wordmark uses custom typography. “Soft curves are balanced with structured edges, giving the mark a character that feels approachable yet precise. The lowercase ‘r’ was a deliberate choice to reinforce that sense of approachability, while its simpler form creates a more natural relationship with the other letterforms,” Kurihara reveals. The open spacing gives the wordmark “clarity and presence across different scales,” from billboards and environmental graphics to presentation screens and digital interfaces. The palette pairs an electric yellow, which signals presence and movement “without feeling like an alarm,” with muted ink and a family of soft gradients. “Across the system, yellow is used intentionally rather than everywhere. It acts as a signal: drawing attention to key moments, information or expressions of movement and flow.”"
         },
         {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/14058537.jpg"
-        },
-        {
           "type": "video",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-red-antlers-brand-helps-rovexs-robot-feel-familiar-in-hospitals/Rovex-Red-Antler-06.mp4"
         },
@@ -329,10 +225,6 @@ const snapshot={
           "type": "text",
           "tag": "p",
           "text": "Red Antler set the art direction for the photography and footage on Rovex’s website. Before real hospital footage was available, the studio created AI-generated reference imagery and motion studies to guide the subject matter, composition, lighting, environment, movement and tone. “The goal was to avoid imagery that felt overly staged, futuristic or like generic healthcare stock photography,” Kurihara explains. “We wanted the brand to feel grounded in the reality of hospitals: real environments, real people and real moments of care.” Red Antler reports that Rovex’s website, which the studio redesigned, has grown monthly traffic by 130% and tripled lead capture, with the average visit lasting 2:55 against 1:46 on the old site."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/14058612.jpg"
         },
         {
           "type": "video",
@@ -372,31 +264,15 @@ const snapshot={
       "caseStudyMedia": [
         {
           "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/how-red-antlers-brand-helps-rovexs-robot-feel-familiar-in-hospitals/14057833/Rovex-Red-Antler-01-bc9e4.webp"
-        },
-        {
-          "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-red-antlers-brand-helps-rovexs-robot-feel-familiar-in-hospitals/Rovex-Red-Antler-01.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/how-red-antlers-brand-helps-rovexs-robot-feel-familiar-in-hospitals/14057840/Rovex-Red-Antler-02-bc9e4.webp"
         },
         {
           "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-red-antlers-brand-helps-rovexs-robot-feel-familiar-in-hospitals/Rovex-Red-Antler-02.jpg"
         },
         {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/14057873.jpg"
-        },
-        {
           "type": "video",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-red-antlers-brand-helps-rovexs-robot-feel-familiar-in-hospitals/Rovex-Red-Antler-03.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/14058522.jpg"
         },
         {
           "type": "video",
@@ -404,39 +280,19 @@ const snapshot={
         },
         {
           "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/how-red-antlers-brand-helps-rovexs-robot-feel-familiar-in-hospitals/14057971/Rovex-Red-Antler-04-bc9e4.webp"
-        },
-        {
-          "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-red-antlers-brand-helps-rovexs-robot-feel-familiar-in-hospitals/Rovex-Red-Antler-04.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/how-red-antlers-brand-helps-rovexs-robot-feel-familiar-in-hospitals/14058635/Rovex-Red-Antler-09-bc9e4.webp"
         },
         {
           "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-red-antlers-brand-helps-rovexs-robot-feel-familiar-in-hospitals/Rovex-Red-Antler-09.jpg"
         },
         {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/14058549.jpg"
-        },
-        {
           "type": "video",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-red-antlers-brand-helps-rovexs-robot-feel-familiar-in-hospitals/Rovex-Red-Antler-07.mp4"
         },
         {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/14058537.jpg"
-        },
-        {
           "type": "video",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-red-antlers-brand-helps-rovexs-robot-feel-familiar-in-hospitals/Rovex-Red-Antler-06.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/14058612.jpg"
         },
         {
           "type": "video",
@@ -462,10 +318,6 @@ const snapshot={
       "hasCaseStudy": true,
       "caseStudyBlocks": [
         {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/14048168.jpg"
-        },
-        {
           "type": "video",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/Flamid-Hochburg-01.mp4"
         },
@@ -473,10 +325,6 @@ const snapshot={
           "type": "text",
           "tag": "h2",
           "text": "Flamid is a brand of insulated, modular grill barrels, made by hand in a metal workshop on the Swabian Alb in Germany. Every barrel shares the same core, built around fire, and takes on a different character through its outer shell – black steel, Corten steel that changes with weather and time, or a steel gabion cage that can be filled with stone. Stuttgart-based design studio Hochburg was commissioned to create the name, positioning and identity, with a brief to make visible how precisely each barrel is engineered and how long it is built to last."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/14052437/Flamid-Hochburg-02-bc9e4.webp"
         },
         {
           "type": "image",
@@ -489,10 +337,6 @@ const snapshot={
         },
         {
           "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/14052478/Flamid-Hochburg-06-bc9e4.webp"
-        },
-        {
-          "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/Flamid-Hochburg-06.jpeg"
         },
         {
@@ -502,15 +346,7 @@ const snapshot={
         },
         {
           "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/14052653/Flamid-Hochburg-10-bc9e4.webp"
-        },
-        {
-          "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/Flamid-Hochburg-10.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/14052649/Flamid-Hochburg-09-bc9e4.webp"
         },
         {
           "type": "image",
@@ -523,10 +359,6 @@ const snapshot={
         },
         {
           "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/14052485/Flamid-Hochburg-03-bc9e4.webp"
-        },
-        {
-          "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/Flamid-Hochburg-03.jpeg"
         },
         {
@@ -536,15 +368,7 @@ const snapshot={
         },
         {
           "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/14053632/Flamid-Hochburg-11-bc9e4.webp"
-        },
-        {
-          "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/Flamid-Hochburg-11.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/14053637/Flamid-Hochburg-12-bc9e4.webp"
         },
         {
           "type": "image",
@@ -557,15 +381,7 @@ const snapshot={
         },
         {
           "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/14052529/Flamid-Hochburg-04-bc9e4.webp"
-        },
-        {
-          "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/Flamid-Hochburg-04.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/14052530/Flamid-Hochburg-05-bc9e4.webp"
         },
         {
           "type": "image",
@@ -575,10 +391,6 @@ const snapshot={
           "type": "text",
           "tag": "p",
           "text": "The identity appears across the website, posters, teamwear, vehicles, hangtags and live-cooking applications. Arthur Calame’s Install typeface brings “the right balance of weight and warmth,” Schmutzer explains. “Its broad proportions and rounded forms give the identity a physical presence, while keeping it open enough for a product that is ultimately about bringing people together.” Install is paired with atipo foundry’s monospaced Basier Mono for technical information, specifications and statements. “Its measured rhythm gives the system a more functional voice and sharpens the contrast between the expressive and engineered sides of Flamid,” he adds. Following the idea of the technical drawing, wireframes and technical renderings show the product’s modular structure, including its different shells and configurations, on the website and posters."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/14053775/Flamid-Hochburg-13-bc9e4.webp"
         },
         {
           "type": "image",
@@ -593,16 +405,8 @@ const snapshot={
       "caseStudyText": "Flamid is a brand of insulated, modular grill barrels, made by hand in a metal workshop on the Swabian Alb in Germany. Every barrel shares the same core, built around fire, and takes on a different character through its outer shell – black steel, Corten steel that changes with weather and time, or a steel gabion cage that can be filled with stone. Stuttgart-based design studio Hochburg was commissioned to create the name, positioning and identity, with a brief to make visible how precisely each barrel is engineered and how long it is built to last.\n\nFounder Tobias Failenschmid had carried the idea of Flamid for years, and the first versions proved that it worked. “Early in the process, it became clear that my strength lies in precise metalwork,” he explains. “But Flamid needed more than a well-made steel object. It needed a broader product perspective.” Hochburg and Mike Oberste-Brink of OMAS Studio worked with him to sharpen the product’s proportions, details and usability, from a functional and an aesthetic point of view.\n\nHochburg developed the name directly from Failenschmid’s surname, condensing it into a compact form that also evokes flame and fire. “The name is rooted in the person behind the product and reflects how closely the object is tied to his vision and craft,” Hochburg’s Founder & Creative Director Fabian Schmutzer tells us. Flamid is made for “people who take cooking outside seriously and do not see fire as decoration,” he adds. “That meant the identity could not begin with generic lifestyle imagery.”\n\nHochburg looked to the product and the way it is made. “We did not want to use craftsmanship as a visual costume,” Schmutzer explains. “We were interested in its logic: a maker’s mark stands for authorship, a technical drawing shows how something works, and a construction detail makes material and function visible.”\n\nFor the symbol, “we began with the ‘F’ in Flamid,” Schmutzer details. “As we drew and refined its form, one side began to read like a wing. That became the connection between the wordmark and the symbol: both come from the same letter, rather than being two separate ideas placed next to each other.” From there, a bird of prey emerged, constructed on a strict grid. “We wanted the wordmark to have the physical weight of the product,” he continues, which is why it is wide and compact, with punched-out curves.\n\nThe symbol is embossed into the product’s metal nameplate, where it works like a maker’s stamp. Hochburg developed it in close dialogue with Failenschmid and the workshop, considering its proportions, line weight and negative spaces against the real material and production, so that it embosses clearly and remains legible at a small scale. “That is where the identity stops being a screen-based system and becomes part of the object,” Schmutzer notes.\n\nThe identity appears across the website, posters, teamwear, vehicles, hangtags and live-cooking applications. Arthur Calame’s Install typeface brings “the right balance of weight and warmth,” Schmutzer explains. “Its broad proportions and rounded forms give the identity a physical presence, while keeping it open enough for a product that is ultimately about bringing people together.” Install is paired with atipo foundry’s monospaced Basier Mono for technical information, specifications and statements. “Its measured rhythm gives the system a more functional voice and sharpens the contrast between the expressive and engineered sides of Flamid,” he adds. Following the idea of the technical drawing, wireframes and technical renderings show the product’s modular structure, including its different shells and configurations, on the website and posters.\n\nEmber orange represents heat and fire, deep Alb green represents the landscape around the workshop and paper white adds space and precision. Hochburg handled the art direction and photography itself, shooting Failenschmid, the workshop, the first prototypes and the surrounding Alb on location. The imagery spans steel, welding light, sparks, smoke, food and the landscape at dusk. “It shows what Flamid is made from, where it comes from and what happens around it once the fire is lit,” Schmutzer concludes.",
       "caseStudyMedia": [
         {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/14048168.jpg"
-        },
-        {
           "type": "video",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/Flamid-Hochburg-01.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/14052437/Flamid-Hochburg-02-bc9e4.webp"
         },
         {
           "type": "image",
@@ -610,15 +414,7 @@ const snapshot={
         },
         {
           "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/14052478/Flamid-Hochburg-06-bc9e4.webp"
-        },
-        {
-          "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/Flamid-Hochburg-06.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/14052653/Flamid-Hochburg-10-bc9e4.webp"
         },
         {
           "type": "image",
@@ -626,15 +422,7 @@ const snapshot={
         },
         {
           "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/14052649/Flamid-Hochburg-09-bc9e4.webp"
-        },
-        {
-          "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/Flamid-Hochburg-09.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/14052485/Flamid-Hochburg-03-bc9e4.webp"
         },
         {
           "type": "image",
@@ -642,15 +430,7 @@ const snapshot={
         },
         {
           "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/14053632/Flamid-Hochburg-11-bc9e4.webp"
-        },
-        {
-          "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/Flamid-Hochburg-11.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/14053637/Flamid-Hochburg-12-bc9e4.webp"
         },
         {
           "type": "image",
@@ -658,23 +438,11 @@ const snapshot={
         },
         {
           "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/14052529/Flamid-Hochburg-04-bc9e4.webp"
-        },
-        {
-          "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/Flamid-Hochburg-04.jpeg"
         },
         {
           "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/14052530/Flamid-Hochburg-05-bc9e4.webp"
-        },
-        {
-          "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/Flamid-Hochburg-05.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/14053775/Flamid-Hochburg-13-bc9e4.webp"
         },
         {
           "type": "image",
@@ -697,10 +465,6 @@ const snapshot={
       "caseStudyBlocks": [
         {
           "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/balenses-identity-by-willow-blake-turns-balance-into-a-system/13950081/Balense-Willow-Blake-01-bc9e4.webp"
-        },
-        {
-          "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/balenses-identity-by-willow-blake-turns-balance-into-a-system/Balense-Willow-Blake-01.jpg"
         },
         {
@@ -710,15 +474,7 @@ const snapshot={
         },
         {
           "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/balenses-identity-by-willow-blake-turns-balance-into-a-system/13950433/Balense-Willow-Blake-11-bc9e4.webp"
-        },
-        {
-          "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/balenses-identity-by-willow-blake-turns-balance-into-a-system/Balense-Willow-Blake-11.png"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/balenses-identity-by-willow-blake-turns-balance-into-a-system/13950432/Balense-Willow-Blake-10-bc9e4.webp"
         },
         {
           "type": "image",
@@ -731,15 +487,7 @@ const snapshot={
         },
         {
           "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/balenses-identity-by-willow-blake-turns-balance-into-a-system/13950253/Balense-Willow-Blake-02-bc9e4.webp"
-        },
-        {
-          "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/balenses-identity-by-willow-blake-turns-balance-into-a-system/Balense-Willow-Blake-02.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/balenses-identity-by-willow-blake-turns-balance-into-a-system/13950255/Balense-Willow-Blake-03-bc9e4.webp"
         },
         {
           "type": "image",
@@ -752,15 +500,7 @@ const snapshot={
         },
         {
           "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/balenses-identity-by-willow-blake-turns-balance-into-a-system/13950314/Balense-Willow-Blake-07-bc9e4.webp"
-        },
-        {
-          "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/balenses-identity-by-willow-blake-turns-balance-into-a-system/Balense-Willow-Blake-07.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/balenses-identity-by-willow-blake-turns-balance-into-a-system/13950315/Balense-Willow-Blake-08-bc9e4.webp"
         },
         {
           "type": "image",
@@ -773,10 +513,6 @@ const snapshot={
         },
         {
           "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/balenses-identity-by-willow-blake-turns-balance-into-a-system/13950267/Balense-Willow-Blake-04-bc9e4.webp"
-        },
-        {
-          "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/balenses-identity-by-willow-blake-turns-balance-into-a-system/Balense-Willow-Blake-04.jpg"
         },
         {
@@ -786,15 +522,7 @@ const snapshot={
         },
         {
           "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/balenses-identity-by-willow-blake-turns-balance-into-a-system/13950348/Balense-Willow-Blake-06-bc9e4.webp"
-        },
-        {
-          "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/balenses-identity-by-willow-blake-turns-balance-into-a-system/Balense-Willow-Blake-06.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/balenses-identity-by-willow-blake-turns-balance-into-a-system/13950347/Balense-Willow-Blake-05-bc9e4.webp"
         },
         {
           "type": "image",
@@ -804,10 +532,6 @@ const snapshot={
           "type": "text",
           "tag": "p",
           "text": "The typography pairs Avenir Condensed with Colophon Foundry’s sans serif Aperçu in its Regular and Mono cuts, the Mono being monospaced so that every character takes the same width. “As an amalgamation of early 20th-century sans serifs, Aperçu had the pedigree to handle large swathes of text while retaining enough idiosyncrasy and detail to stand out in market,” Nixon details. “On pack, the pairing of regular and monospaced cuts created hierarchy and readability through decidedly minimal means, allowing the gradients to shine. With limited space on pack and often long product names, Avenir Condensed answered a practical need while becoming a more expressive part of the identity. Compact and legible at product scale, it can expand into bold campaign headlines and deliver copy with impact.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/balenses-identity-by-willow-blake-turns-balance-into-a-system/13950458/Balense-Willow-Blake-12-bc9e4.webp"
         },
         {
           "type": "image",
@@ -852,15 +576,7 @@ const snapshot={
       "caseStudyMedia": [
         {
           "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/balenses-identity-by-willow-blake-turns-balance-into-a-system/13950081/Balense-Willow-Blake-01-bc9e4.webp"
-        },
-        {
-          "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/balenses-identity-by-willow-blake-turns-balance-into-a-system/Balense-Willow-Blake-01.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/balenses-identity-by-willow-blake-turns-balance-into-a-system/13950433/Balense-Willow-Blake-11-bc9e4.webp"
         },
         {
           "type": "image",
@@ -868,15 +584,7 @@ const snapshot={
         },
         {
           "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/balenses-identity-by-willow-blake-turns-balance-into-a-system/13950432/Balense-Willow-Blake-10-bc9e4.webp"
-        },
-        {
-          "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/balenses-identity-by-willow-blake-turns-balance-into-a-system/Balense-Willow-Blake-10.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/balenses-identity-by-willow-blake-turns-balance-into-a-system/13950253/Balense-Willow-Blake-02-bc9e4.webp"
         },
         {
           "type": "image",
@@ -884,15 +592,7 @@ const snapshot={
         },
         {
           "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/balenses-identity-by-willow-blake-turns-balance-into-a-system/13950255/Balense-Willow-Blake-03-bc9e4.webp"
-        },
-        {
-          "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/balenses-identity-by-willow-blake-turns-balance-into-a-system/Balense-Willow-Blake-03.png"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/balenses-identity-by-willow-blake-turns-balance-into-a-system/13950314/Balense-Willow-Blake-07-bc9e4.webp"
         },
         {
           "type": "image",
@@ -900,15 +600,7 @@ const snapshot={
         },
         {
           "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/balenses-identity-by-willow-blake-turns-balance-into-a-system/13950315/Balense-Willow-Blake-08-bc9e4.webp"
-        },
-        {
-          "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/balenses-identity-by-willow-blake-turns-balance-into-a-system/Balense-Willow-Blake-08.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/balenses-identity-by-willow-blake-turns-balance-into-a-system/13950267/Balense-Willow-Blake-04-bc9e4.webp"
         },
         {
           "type": "image",
@@ -916,23 +608,11 @@ const snapshot={
         },
         {
           "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/balenses-identity-by-willow-blake-turns-balance-into-a-system/13950348/Balense-Willow-Blake-06-bc9e4.webp"
-        },
-        {
-          "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/balenses-identity-by-willow-blake-turns-balance-into-a-system/Balense-Willow-Blake-06.jpg"
         },
         {
           "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/balenses-identity-by-willow-blake-turns-balance-into-a-system/13950347/Balense-Willow-Blake-05-bc9e4.webp"
-        },
-        {
-          "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/balenses-identity-by-willow-blake-turns-balance-into-a-system/Balense-Willow-Blake-05.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/balenses-identity-by-willow-blake-turns-balance-into-a-system/13950458/Balense-Willow-Blake-12-bc9e4.webp"
         },
         {
           "type": "image",
@@ -959,20 +639,12 @@ const snapshot={
       "caseStudyBlocks": [
         {
           "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/smlxls-identity-for-moma-ps1s-warm-up-has-letters-that-dance-to-music/13997340/MoMA-PS1s-Warm-Up-SMLXL-02-bc9e4.webp"
-        },
-        {
-          "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/smlxls-identity-for-moma-ps1s-warm-up-has-letters-that-dance-to-music/MoMA-PS1s-Warm-Up-SMLXL-02.jpg"
         },
         {
           "type": "text",
           "tag": "h2",
           "text": "Warm Up, MoMA PS1’s summer festival, has brought together music, art and community in New York for nearly three decades, with past line-ups including Arca, SOPHIE, Solange, Jamie xx, Four Tet and Grimes. Its 28th edition fell in the institution’s 50th anniversary year, with a line-up centred on experimental music. Ahead of its 24th July - 28th August 2026 run, New York and Barcelona-based design company SMLXL came on board to create Warm Up’s musical identity and campaign."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/13997399.jpg"
         },
         {
           "type": "video",
@@ -984,10 +656,6 @@ const snapshot={
           "text": "SMLXL put the musical artists and the crowd at the centre of the work, building it on a premise – make the type dance to the music. “We wanted to capture the energy and diversity of the Warm Up crowd – people coming together, dancing freely and expressing themselves in their own ways,” Designer Lea Naisberg tells us. “The typography mirrors that behaviour through outbursts, swaying movements and moments of release.”"
         },
         {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/14235433.jpg"
-        },
-        {
           "type": "video",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/smlxls-identity-for-moma-ps1s-warm-up-has-letters-that-dance-to-music/MoMA-PS1s-Warm-Up-SMLXL-01-_smaller.mp4"
         },
@@ -995,10 +663,6 @@ const snapshot={
           "type": "text",
           "tag": "p",
           "text": "The typography is set in PS1 Sans, MoMA PS1’s typeface, designed by Berton Hasebe of HB Type. “Rather than adding anything to the type, we make what is already there move,” Naisberg explains. “The type remains PS1 Sans at its core; it is just dancing.” SMLXL distorted each letter along its outline, displacing specific points on its contours and “almost treating them like limbs that can move or stretch.” Some compositions start with the type completely still, and in the more dynamic applications, the movement is limited to certain letters or parts of a word. “There’s a balance between movement and recognition,” she notes."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/13997536.jpg"
         },
         {
           "type": "video",
@@ -1011,15 +675,7 @@ const snapshot={
         },
         {
           "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/smlxls-identity-for-moma-ps1s-warm-up-has-letters-that-dance-to-music/13997599/MoMA-PS1s-Warm-Up-SMLXL-07-bc9e4.webp"
-        },
-        {
-          "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/smlxls-identity-for-moma-ps1s-warm-up-has-letters-that-dance-to-music/MoMA-PS1s-Warm-Up-SMLXL-07.webp"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/13997603.jpg"
         },
         {
           "type": "video",
@@ -1029,10 +685,6 @@ const snapshot={
           "type": "text",
           "tag": "p",
           "text": "Each artist on the line-up is announced with a digital graphic of their own, which opens on the artist’s image before the letters stretch, bend, twist and shift to their music, until the moving type takes over the whole screen. The colours come from MoMA PS1’s existing palette, used as duotones for these artist graphics and in four-colour combinations across the wider communications. “We also explored warmer colour combinations, but eventually moved towards something more acidic and refreshing,” Naisberg tells us. “It felt like a good counterpoint to the summery character of Warm Up.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/14058092.jpg"
         },
         {
           "type": "video",
@@ -1048,31 +700,15 @@ const snapshot={
       "caseStudyMedia": [
         {
           "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/smlxls-identity-for-moma-ps1s-warm-up-has-letters-that-dance-to-music/13997340/MoMA-PS1s-Warm-Up-SMLXL-02-bc9e4.webp"
-        },
-        {
-          "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/smlxls-identity-for-moma-ps1s-warm-up-has-letters-that-dance-to-music/MoMA-PS1s-Warm-Up-SMLXL-02.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/13997399.jpg"
         },
         {
           "type": "video",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/smlxls-identity-for-moma-ps1s-warm-up-has-letters-that-dance-to-music/MoMA-PS1s-Warm-Up-SMLXL-03.mp4"
         },
         {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/14235433.jpg"
-        },
-        {
           "type": "video",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/smlxls-identity-for-moma-ps1s-warm-up-has-letters-that-dance-to-music/MoMA-PS1s-Warm-Up-SMLXL-01-_smaller.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/13997536.jpg"
         },
         {
           "type": "video",
@@ -1080,23 +716,11 @@ const snapshot={
         },
         {
           "type": "image",
-          "url": "https://the-brandidentity.com/uploads/cache/articles/2026/10/smlxls-identity-for-moma-ps1s-warm-up-has-letters-that-dance-to-music/13997599/MoMA-PS1s-Warm-Up-SMLXL-07-bc9e4.webp"
-        },
-        {
-          "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/smlxls-identity-for-moma-ps1s-warm-up-has-letters-that-dance-to-music/MoMA-PS1s-Warm-Up-SMLXL-07.webp"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/13997603.jpg"
         },
         {
           "type": "video",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/smlxls-identity-for-moma-ps1s-warm-up-has-letters-that-dance-to-music/MoMA-PS1s-Warm-Up-SMLXL-08.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/14058092.jpg"
         },
         {
           "type": "video",
