@@ -14,8 +14,11 @@ export class TheBrandIdentitySource extends SourceModule {
   }
 
   async scan(){
-    const html=await fetchHtml(FEATURES_URL);
-    const projects=discoverProjectLinks(html);
+    const doc=await fetchDocument(FEATURES_URL);
+    const projects=doc.kind==="markdown"
+      ?discoverProjectLinksMarkdown(doc.text)
+      :discoverProjectLinks(doc.text);
+
     return projects.map(x=>({
       source:{...this.config},
       item:{
@@ -34,8 +37,10 @@ export class TheBrandIdentitySource extends SourceModule {
 
   async readArticle(url){
     if(!isAllowedProjectUrl(url)) throw new Error("invalid_the_brand_identity_project_url");
-    const html=await fetchHtml(url);
-    return parseArticle(html,url,this.config);
+    const doc=await fetchDocument(url);
+    return doc.kind==="markdown"
+      ?parseMarkdownArticle(doc.text,url,this.config)
+      :parseArticle(doc.text,url,this.config);
   }
 }
 
@@ -66,6 +71,153 @@ function discoverProjectLinks(html){
     }
   }
   return out;
+}
+
+
+function discoverProjectLinksMarkdown(markdown){
+  const out=[];
+  const seen=new Set();
+  const body=stripReaderPreamble(markdown);
+  const re=/\((https:\/\/the-brandidentity\.com\/project\/[^)\s]+)\)/gi;
+  let m;
+  while((m=re.exec(body))){
+    const url=cleanReaderUrl(m[1]);
+    if(!isAllowedProjectUrl(url)||seen.has(url)) continue;
+    seen.add(url);
+
+    const start=Math.max(0,m.index-900);
+    const context=body.slice(start,m.index+200);
+    const images=[...context.matchAll(/!\[[^\]]*\]\(([^)]+)\)/g)];
+    const image=images.length?cleanReaderUrl(images[images.length-1][1]):"";
+    const headings=[...context.matchAll(/#{3,6}\s+([^\n#]+)/g)];
+    const title=headings.length?cleanText(headings[headings.length-1][1]):"";
+    out.push({url,title,image});
+  }
+  return out;
+}
+
+function parseMarkdownArticle(markdown,url,source){
+  const body=stripReaderPreamble(markdown);
+  const lines=body.split(/\r?\n/);
+  const blocks=[];
+  const seenMedia=new Set();
+  let title="";
+  let stop=false;
+
+  for(const raw of lines){
+    const line=raw.trim();
+    if(!line) continue;
+
+    if(!title){
+      const h=line.match(/^#\s+(.+)$/);
+      if(h){
+        title=cleanTitle(markdownText(h[1]));
+        continue;
+      }
+    }
+
+    if(/^(Graphics|Social|Info|Help|Get featured|Free products \+ inbox insights)$/i.test(markdownText(line))){
+      stop=true;
+    }
+    if(stop) break;
+
+    const media=extractMarkdownMedia(line,url);
+    for(const asset of media){
+      if(!asset.url||seenMedia.has(asset.url)||isUiImage(asset.url)) continue;
+      seenMedia.add(asset.url);
+      blocks.push(asset);
+    }
+
+    let text=markdownText(line);
+    if(!text||text.length<8||isNoise(text,title)) continue;
+    if(/^#{1,6}\s*/.test(line)) text=text.replace(/^#+\s*/,"");
+    if(/^(Date|Words|\d+ min read|Share)$/i.test(text)) continue;
+    if(/^[A-Z][a-z]{2}\s+\d{1,2}\s+\d{4}$/.test(text)) continue;
+    if(/^\+\d+\)?$/.test(text)) continue;
+    if(text.length<80 && !/[.!?]["'’”)]?$/.test(text) && /^[A-Z0-9& +\-–—]+$/.test(text)) continue;
+
+    blocks.push({
+      type:"text",
+      tag:/^>/.test(line)?"blockquote":"p",
+      text
+    });
+  }
+
+  if(!title){
+    const t=markdown.match(/^Title:\s*(.+)$/mi);
+    title=t?cleanTitle(t[1]):"";
+  }
+
+  const textBlocks=blocks.filter(x=>x.type==="text").map(x=>x.text);
+  const mediaBlocks=blocks.filter(x=>x.type!=="text");
+  const hero=mediaBlocks.find(x=>x.type==="image"||x.type==="gif")?.url||"";
+
+  return {
+    source:{...source},
+    item:{
+      canonicalUrl:url,
+      titleOriginal:title,
+      textOriginal:textBlocks.slice(0,2).join("\n\n"),
+      agency:"",
+      media:hero?[{type:"image",url:hero}]:mediaBlocks.slice(0,1),
+      hasCaseStudy:true,
+      caseStudyBlocks:blocks,
+      caseStudyText:textBlocks.join("\n\n"),
+      caseStudyMedia:mediaBlocks
+    }
+  };
+}
+
+function extractMarkdownMedia(line,base){
+  const out=[];
+
+  for(const m of line.matchAll(/!\[[^\]]*\]\(([^)]+)\)/g)){
+    const u=cleanReaderUrl(m[1],base);
+    if(u&&looksLikeMedia(u)){
+      out.push({type:videoUrl(u)?"video":(isGif(u)?"gif":"image"),url:u});
+    }
+  }
+
+  for(const m of line.matchAll(/\[[^\]]*\]\((https?:\/\/[^)]+)\)/g)){
+    const u=cleanReaderUrl(m[1],base);
+    if(!u) continue;
+    if(videoUrl(u)) out.push({type:/youtube|youtu\.be|vimeo/i.test(u)?"iframe":"video",url:u});
+    else if(looksLikeMedia(u)) out.push({type:isGif(u)?"gif":"image",url:u});
+  }
+
+  for(const m of line.matchAll(/https?:\/\/[^\s)]+/g)){
+    const u=cleanReaderUrl(m[0],base);
+    if(!u) continue;
+    if(videoUrl(u)) out.push({type:/youtube|youtu\.be|vimeo/i.test(u)?"iframe":"video",url:u});
+    else if(looksLikeMedia(u)) out.push({type:isGif(u)?"gif":"image",url:u});
+  }
+
+  return out;
+}
+
+function markdownText(value=""){
+  return cleanText(
+    String(value)
+      .replace(/!\[([^\]]*)\]\([^)]+\)/g," ")
+      .replace(/\[([^\]]+)\]\([^)]+\)/g,"$1")
+      .replace(/^>\s*/,"")
+      .replace(/^#{1,6}\s*/,"")
+      .replace(/[*_~]+/g,"")
+  );
+}
+
+function stripReaderPreamble(value=""){
+  const s=String(value||"");
+  const marker="Markdown Content:";
+  const i=s.indexOf(marker);
+  return i>=0?s.slice(i+marker.length).trim():s;
+}
+
+function cleanReaderUrl(value,base="https://the-brandidentity.com/"){
+  let s=decode(String(value||"").trim());
+  s=s.replace(/%20\d+(?:w|x)(?=$|[?#])/i,"");
+  s=s.replace(/\s+\d+(?:w|x)$/i,"");
+  try{return new URL(s,base).toString()}catch{return ""}
 }
 
 export function parseArticle(html,url,source){
@@ -367,8 +519,8 @@ function absolute(value,base){
 
 function isGif(url=""){return /\.gif(?:$|[?#])/i.test(url)}
 
-async function fetchHtml(url){
-  const r=await fetch(url,{
+async function fetchDocument(url){
+  const direct=await fetch(url,{
     redirect:"follow",
     headers:{
       "User-Agent":"Mozilla/5.0 (compatible; UnitedIdentity/1.0)",
@@ -376,8 +528,24 @@ async function fetchHtml(url){
       "Accept-Language":"en-US,en;q=0.9"
     }
   });
-  if(!r.ok) throw new Error("The Brand Identity HTTP "+r.status);
-  const text=await r.text();
-  if(text.length<500) throw new Error("The Brand Identity response too small");
-  return text;
+
+  if(direct.ok){
+    const text=await direct.text();
+    if(text.length>=500) return {kind:"html",text,transport:"direct"};
+  }
+
+  const readerUrl="https://r.jina.ai/"+url;
+  const reader=await fetch(readerUrl,{
+    redirect:"follow",
+    headers:{
+      "User-Agent":"Mozilla/5.0 (compatible; UnitedIdentity/1.0)",
+      "Accept":"text/plain"
+    }
+  });
+  if(!reader.ok){
+    throw new Error("The Brand Identity direct HTTP "+direct.status+"; reader HTTP "+reader.status);
+  }
+  const text=await reader.text();
+  if(text.length<500) throw new Error("The Brand Identity reader response too small");
+  return {kind:"markdown",text,transport:"public-reader"};
 }
