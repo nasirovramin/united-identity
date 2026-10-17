@@ -51,3 +51,11 @@ jobs:
           if [ -z "$status" ] || [ "$status" -ge 400 ]; then
             exit 1
           fi
+
+      - name: Repair The Brand Identity Telegraph test
+        continue-on-error: true
+        run: |
+          response=$(curl --silent --show-error --max-time 180 -w "\nHTTP_STATUS:%{http_code}" \
+            https://united-identity.nasirovramin.workers.dev/repair-test/the-brand-identity)
+          echo "$response"
+
