@@ -534,17 +534,16 @@ function normalizeIdentityTerms(s=""){
 }
 function buildCaption(x){
  const title=normalizeIdentityTerms(cleanTitle(x.titleAz||x.title||"Vizual kimlik layihəsi"));
- const desc=normalizeIdentityTerms(clean(x.desc||"Vizual kimlik layihəsi."));
- const parts=splitParagraphs(desc,2);
+ const desc=normalizeIdentityTerms(cleanSummaryOutput(x.desc||"Vizual kimlik layihəsi."));
+ const parts=String(desc).split(/\n\s*\n/).map(clean).filter(Boolean).slice(0,2);
  const sourceLink='<a href="'+esc(x.url)+'">Mənbə: '+esc(x.source)+'</a>';
+ // KreaDIV qaydası: "Ətraflı" yalnız hazırlanmış Telegraph case-study səhifəsinə aparır.
  const detailsLink=x.telegraphUrl?'<a href="'+esc(x.telegraphUrl)+'">Ətraflı</a>':"";
  const bottom=[detailsLink,sourceLink].filter(Boolean).join("     ");
  return [
   "🎬 <b>"+esc(cut(title,220))+"</b>",
-  ...parts.map(p=>esc(cut(p,420))),
+  ...parts.map(p=>esc(cut(p,360))),
   x.agency?"<b>Agentlik:</b> "+esc(x.agency):"",
-  x.projectDate?"<b>"+esc(x.projectDateLabel||"Yaranma tarixi")+":</b> "+esc(x.projectDate):"",
-  x.postId?"<b>ID:</b> "+esc(x.postId):"",
   "#visualidentity",
   bottom
  ].filter(Boolean).join("\n\n");
@@ -849,24 +848,58 @@ async function makeAzTitle(env,title){
  return normalizeIdentityTerms(cleanTitle(translated));
 }
 
+function isRepetitiveText(s=""){
+ const words=clean(s).toLowerCase().match(/[a-z0-9а-яёəğıöşüç]+/gi)||[];
+ if(words.length<18) return false;
+ const useful=words.filter(w=>w.length>=4);
+ const counts=new Map();
+ for(const w of useful) counts.set(w,(counts.get(w)||0)+1);
+ const max=Math.max(0,...counts.values());
+ if(max>=5 && max/Math.max(useful.length,1)>=0.12) return true;
+ const grams=new Map();
+ for(let i=0;i<words.length-1;i++){
+  const g=words[i]+" "+words[i+1];
+  grams.set(g,(grams.get(g)||0)+1);
+ }
+ return Math.max(0,...grams.values())>=4;
+}
+function cleanSummaryOutput(s=""){
+ const sentences=(clean(s).match(/[^.!?]+[.!?]?/g)||[]).map(x=>x.trim()).filter(Boolean);
+ const seen=new Set(), out=[];
+ for(const sentence of sentences){
+  const key=sentence.toLowerCase().replace(/[^a-z0-9а-яёəğıöşüç]+/gi," ").trim();
+  if(!key||seen.has(key)) continue;
+  seen.add(key);
+  out.push(sentence);
+ }
+ return out.join(" ");
+}
+
 async function makeAzSummary(env,title,desc,articleText){
  const sourceDesc=clean(desc||"");
- const paras=String(articleText||"").split(/\n\s*\n/).map(clean).filter(x=>x.length>40);
+ const paras=String(articleText||"")
+  .split(/\n\s*\n/)
+  .map(clean)
+  .filter(x=>x.length>50 && !isRepetitiveText(x));
+
  const picked=[];
- if(sourceDesc) picked.push(sourceDesc);
+ if(sourceDesc && !isRepetitiveText(sourceDesc)) picked.push(sourceDesc);
  for(const p of paras){
   if(picked.length>=2) break;
   if(sourceDesc && p.toLowerCase()===sourceDesc.toLowerCase()) continue;
   picked.push(p);
  }
  if(!picked.length) return "Vizual kimlik layihəsi haqqında məlumat.";
+
  const translated=[];
  for(const p of picked.slice(0,2)){
-  translated.push(await translateAz(env,cut(p,900)));
+  const t=await translateAz(env,cut(p,560));
+  const cleaned=cleanSummaryOutput(t);
+  if(cleaned && !isRepetitiveText(cleaned)) translated.push(cleaned);
  }
+ if(!translated.length) throw Error("Azerbaijani summary cleanup rejected repetitive output");
  return translated.join("\n\n");
 }
-
 async function translateFullCaseStudy(env,paragraphs){
  const translated=[];
  for(const p of paragraphs){
