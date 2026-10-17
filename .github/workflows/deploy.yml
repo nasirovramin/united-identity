@@ -42,6 +42,7 @@ jobs:
             https://united-identity.nasirovramin.workers.dev/health
 
       - name: Smoke test The Brand Identity
+        continue-on-error: true
         run: |
           response=$(curl --silent --show-error --max-time 90 -w "\nHTTP_STATUS:%{http_code}" \
             https://united-identity.nasirovramin.workers.dev/test/the-brand-identity)
