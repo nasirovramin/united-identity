@@ -13,24 +13,17 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: Check latest scan diagnostics
+      - name: Check Worker health
         run: |
           curl --fail --silent --show-error --max-time 60 \
-            https://united-identity.nasirovramin.workers.dev/diagnostics \
-            -o diagnostics.json
+            https://united-identity.nasirovramin.workers.dev/health \
+            -o health.json
           node - <<'NODE'
           const fs=require("fs");
-          const d=JSON.parse(fs.readFileSync("diagnostics.json","utf8"));
-          if(!d.finishedAt) throw new Error("No completed scan diagnostics");
-          const age=Date.now()-Date.parse(d.finishedAt);
-          if(!Number.isFinite(age) || age>90*60*1000){
-            throw new Error("Last scan is stale: "+d.finishedAt);
+          const d=JSON.parse(fs.readFileSync("health.json","utf8"));
+          if(!d.ok) throw new Error("Worker is unhealthy");
+          if(d.webSources!==0 || d.telegramSources!==0 || d.linkedinSources!==0){
+            throw new Error("Source layer is not empty");
           }
-          if(d.ok===false){
-            throw new Error("Last scan failed: "+JSON.stringify(d.blockingErrors||d.errors||[]));
-          }
-          if((d.zeroPublishStreak||0)>=6){
-            throw new Error("Channel is logically stalled: "+d.zeroPublishStreak+" consecutive scans without a publish. Last publish: "+(d.lastPublishAt||"unknown"));
-          }
-          console.log("Healthy scan:", d.finishedAt, "sent:", d.sent, "matched:", d.matched, "zeroStreak:", d.zeroPublishStreak||0);
+          console.log("United Identity source layer is empty and healthy.");
           NODE

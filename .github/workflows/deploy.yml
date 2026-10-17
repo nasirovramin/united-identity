@@ -36,36 +36,7 @@ jobs:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
 
-      - name: Verify Azerbaijani AI translation
-        continue-on-error: true
+      - name: Verify empty source layer
         run: |
-          echo "Running Workers AI translation self-test..."
-          response=$(curl --silent --show-error --max-time 180 -w "\nHTTP_STATUS:%{http_code}" \
-            https://united-identity.nasirovramin.workers.dev/self-test)
-          echo "$response"
-          status=$(printf "%s\n" "$response" | sed -n 's/^HTTP_STATUS://p' | tail -1)
-          if [ -z "$status" ] || [ "$status" -ge 400 ]; then
-            exit 1
-          fi
-
-      - name: Repair untranslated Telegram captions
-        continue-on-error: true
-        run: |
-          echo "Repairing known untranslated United Identity posts..."
-          curl --fail --silent --show-error --max-time 120 \
-            https://united-identity.nasirovramin.workers.dev/repair-az
-
-      - name: Repair Volkswagen caption
-        continue-on-error: true
-        run: |
-          echo "Repairing the Volkswagen caption with KreaDIV formatting..."
-          curl --fail --silent --show-error --max-time 180 \
-            https://united-identity.nasirovramin.workers.dev/repair-volkswagen-caption
-
-      - name: Trigger one immediate production scan
-        if: always()
-        run: |
-          echo "Triggering United Identity scan..."
-          curl --fail --silent --show-error --max-time 180 \
-            https://united-identity.nasirovramin.workers.dev/scan
-
+          curl --fail --silent --show-error --max-time 60 \
+            https://united-identity.nasirovramin.workers.dev/health
