@@ -2,7 +2,7 @@ const MODELS=[
   "@cf/meta/llama-3.1-8b-instruct-fast"
 ];
 
-const TRANSLATION_CACHE_VERSION="v8-faithful-chunks";
+const TRANSLATION_CACHE_VERSION="v9-faithful-clear-context";
 
 const KEEP_ENGLISH=[
   "AI","UI","UX","Visual Identity","Identity","Digital","Motion","Logo","Wordmark",
@@ -117,12 +117,14 @@ function buildSystemPrompt({full,contextBefore,contextAfter,strict}){
     "",
     "CORE METHOD:",
     "- Translate sentence by sentence and meaning unit by meaning unit.",
-    "- Stay as close as possible to the source wording and sentence order, but fix word order and grammar where Azerbaijani requires it.",
+    "- Stay close to the source wording and sentence order, but rebuild word order and sentence structure whenever a literal rendering would be unclear in Azerbaijani.",
     "- DO NOT summarize, compress, simplify away details, merge ideas, or omit repeated information.",
     "- DO NOT add explanations, examples, interpretations, background facts or conclusions that are not explicitly present in the source.",
+    "- Clarify references that are implicit in English: when 'it', 'this', 'they', 'the idea', 'that job' or a similar reference would be vague in Azerbaijani, replace it with the exact person/object/idea it refers to, but ONLY if that referent is explicit in the source or supplied context.",
+    "- Preserve cause-and-effect, contrast, purpose and sequence explicitly. If English leaves a relation implicit but Azerbaijani would sound confusing, make that relation grammatically clear without adding a new fact.",
     "- Every fact, qualifier, comparison, example, attribution, quotation, relationship and nuance in the source must appear in the translation.",
     "- Preserve sentence boundaries whenever possible. Split or join a sentence only when absolutely necessary for clear Azerbaijani, and do not lose any content when doing so.",
-    "- If an idiom or metaphor is present, translate its intended meaning clearly, but keep all concrete details from the original. Do not invent a new metaphor.",
+    "- If an idiom, metaphor or wordplay is present, translate its intended meaning clearly and keep all concrete details. If necessary, phrase the same sentence so the reader understands what the wordplay refers to, but do not add a separate explanation or invent a new metaphor.",
     "- Preserve names, brands, studios, people, products, dates, numbers and proper nouns exactly unless Azerbaijani grammar requires a suffix.",
     "- Keep established international design/tech terms where appropriate: "+KEEP_ENGLISH.join(", ")+".",
     "- Quotes must preserve the speaker's exact meaning and all details. Do not polish away awkwardness if that changes content.",
@@ -130,8 +132,9 @@ function buildSystemPrompt({full,contextBefore,contextAfter,strict}){
     "- Do not use fake phonetic borrowings when a normal Azerbaijani word exists.",
     "",
     "QUALITY TARGET:",
-    "- The translation should feel clear and grammatical in Azerbaijani, but it must remain maximally faithful to the source.",
-    "- Faithfulness is more important than elegance. Clarity may change word order, not content.",
+    "- The translation should be fully understandable on first reading in Azerbaijani while remaining maximally faithful to the source.",
+    "- Faithfulness is more important than elegance. Clarity may change word order, sentence structure and explicit referents, but NEVER the amount of information.",
+    "- The Azerbaijani reader should understand what the case study is saying and why each sentence follows the previous one, without needing to see the English original.",
     "",
     "Domain guide:",
     "- assurance in financial/audit context = independent verification / assurance work, not insurance.",
@@ -141,8 +144,8 @@ function buildSystemPrompt({full,contextBefore,contextAfter,strict}){
     "- the grind = repetitive, time-consuming routine work.",
     "",
     full
-      ?"This is a full article paragraph. Translate the complete paragraph with nothing removed and nothing added."
-      :"This is a headline or short Telegram text. Translate it completely; do not shorten it."
+      ?"This is a full case-study paragraph. Translate the complete paragraph with nothing removed and nothing added. Preserve every design decision, rationale, example and quote, but phrase them so the logic is clear in Azerbaijani."
+      :"This is a headline or short Telegram text. Translate it completely; do not shorten it. Make the intended meaning immediately clear."
   ];
 
   if(before){
