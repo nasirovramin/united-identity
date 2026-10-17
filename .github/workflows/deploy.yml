@@ -41,6 +41,19 @@ jobs:
           curl --fail --silent --show-error --max-time 60 \
             https://united-identity.nasirovramin.workers.dev/health
 
+      - name: Probe The Brand Identity directly from GitHub runner
+        continue-on-error: true
+        run: |
+          code=$(curl -L --silent --show-error --max-time 60 \
+            -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/155 Safari/537.36" \
+            -H "Accept: text/html,application/xhtml+xml" \
+            -o /tmp/tbi-features.html \
+            -w "%{http_code}" \
+            https://the-brandidentity.com/features)
+          echo "TBI_DIRECT_HTTP=$code"
+          echo "TBI_DIRECT_BYTES=$(wc -c </tmp/tbi-features.html 2>/dev/null || echo 0)"
+          test "$code" = "200"
+
       - name: Smoke test The Brand Identity
         continue-on-error: true
         run: |
