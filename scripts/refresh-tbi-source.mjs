@@ -14,7 +14,7 @@ const SOURCE={
 };
 
 const features=await reader(FEATURES);
-const cards=discoverProjectLinksMarkdown(features).slice(0,8);
+const cards=discoverProjectLinksMarkdown(features).slice(0,5);
 if(!cards.length) throw new Error("No The Brand Identity project cards found");
 
 const items=[];
@@ -45,16 +45,21 @@ console.log("WROTE",OUTPUT,"items",items.length);
 async function reader(url){
   let last="";
   for(let attempt=1;attempt<=4;attempt++){
-    const r=await fetch("https://r.jina.ai/"+url,{
-      headers:{
-        "User-Agent":"Mozilla/5.0 (compatible; UnitedIdentitySourceRefresh/1.0)",
-        "Accept":"text/plain"
-      }
-    });
-    const text=await r.text();
-    if(r.ok && text.length>500) return text;
-    last="HTTP "+r.status+" bytes "+text.length;
-    if(r.status!==429 && r.status<500) break;
+    try{
+      const r=await fetch("https://r.jina.ai/"+url,{
+        headers:{
+          "User-Agent":"Mozilla/5.0 (compatible; UnitedIdentitySourceRefresh/1.0)",
+          "Accept":"text/plain"
+        },
+        signal:AbortSignal.timeout(25000)
+      });
+      const text=await r.text();
+      if(r.ok && text.length>500) return text;
+      last="HTTP "+r.status+" bytes "+text.length;
+      if(r.status!==429 && r.status<500) break;
+    }catch(e){
+      last=String(e?.message||e);
+    }
     await sleep(1500*attempt*attempt);
   }
   throw new Error("Reader failed for "+url+": "+last);
