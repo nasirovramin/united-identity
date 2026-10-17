@@ -14,7 +14,18 @@ export class TelegramPublisher {
 
     if(post.detailsUrl){
       const hero=media.find(x=>x.type==="image"||x.type==="gif")||media[0];
-      return this.sendSingle(hero,caption);
+      const sent=await this.sendSingle(hero,caption);
+      const finalDetails=viewerWithBack(post.detailsUrl,this.env.TELEGRAM_CHAT_ID,sent.message_id);
+      if(finalDetails!==post.detailsUrl){
+        const finalCaption=buildCaption({...post,detailsUrl:finalDetails});
+        await callTelegram(this.env.TELEGRAM_BOT_TOKEN,"editMessageCaption",{
+          chat_id:this.env.TELEGRAM_CHAT_ID,
+          message_id:sent.message_id,
+          caption:finalCaption,
+          parse_mode:"HTML"
+        });
+      }
+      return {...sent,detailsUrl:finalDetails};
     }
 
     return this.sendAlbum(media.slice(0,10),caption);
@@ -96,4 +107,15 @@ function esc(value=""){
 
 function isDetailsUrl(value=""){
   return /^https:\/\/(?:telegra\.ph\/|united-identity-viewer\.nasirovramin\.workers\.dev\/article\/)/i.test(String(value));
+}
+
+function viewerWithBack(detailsUrl,chatId,messageId){
+  try{
+    const u=new URL(String(detailsUrl||""));
+    if(u.hostname!=="united-identity-viewer.nasirovramin.workers.dev") return detailsUrl;
+    const cid=String(chatId||"").replace(/^-100/,"");
+    if(!/^\d+$/.test(cid)||!/^\d+$/.test(String(messageId||""))) return detailsUrl;
+    u.searchParams.set("back","https://t.me/c/"+cid+"/"+messageId);
+    return u.toString();
+  }catch{return detailsUrl}
 }
