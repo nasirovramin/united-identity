@@ -179,7 +179,8 @@ function extractTranslation(raw=""){
 
   // Defensive cleanup for models that add a harmless label despite instructions.
   out=out
-    .replace(/^\s*(?:Tərcümə|Azərbaycan dilində|Cavab)\s*:\s*/i,"")
+    .replace(/^\s*Aşağıdakı\s+mətni\s+Azərbaycan\s+dilinə\s+(?:çevir(?:\s+və\s+redaktə\s+et)?|tərcümə\s+et)\s*:\s*/i,"")
+    .replace(/^\s*(?:Tərcümə|Azərbaycan dilində|Cavab|Hazır mətn)\s*:\s*/i,"")
     .replace(/^["“](.*)["”]$/s,"$1")
     .trim();
 
