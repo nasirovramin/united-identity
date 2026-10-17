@@ -2,7 +2,7 @@ const MODELS=[
   "@cf/meta/llama-3.1-8b-instruct-fast"
 ];
 
-const TRANSLATION_CACHE_VERSION="v5-faithful-repeat-guard";
+const TRANSLATION_CACHE_VERSION="v6-sentence-faithful";
 
 const KEEP_ENGLISH=[
   "AI","UI","UX","Visual Identity","Identity","Digital","Motion","Logo","Wordmark",
@@ -16,16 +16,28 @@ export class AzerbaijaniTranslator {
     const source=(blocks||[]).map(x=>String(x||"").trim());
     const results=new Array(source.length).fill("");
 
-    // Translate each editorial paragraph independently. This avoids one paragraph
-    // contaminating another and gives the model enough local context to resolve
-    // idioms and pronouns without merging article blocks.
+    // Translate article copy sentence-by-sentence. This is deliberately more
+    // conservative than paragraph rewriting: every source sentence must survive
+    // as its own translated unit, which prevents summarising, omission and model
+    // degeneration on long typography/design paragraphs.
     for(let i=0;i<source.length;i++){
       if(!source[i]) continue;
-      results[i]=await this.translate(source[i],{
-        full:true,
-        contextBefore:source[i-1]||"",
-        contextAfter:source[i+1]||""
-      });
+
+      const sentences=splitEnglishSentences(source[i]);
+      if(sentences.length<=1){
+        results[i]=await this.translate(source[i],{full:true});
+        continue;
+      }
+
+      const translated=[];
+      for(let j=0;j<sentences.length;j++){
+        translated.push(await this.translate(sentences[j],{
+          full:true,
+          contextBefore:sentences[j-1]||"",
+          contextAfter:sentences[j+1]||""
+        }));
+      }
+      results[i]=translated.join(" ").replace(/\s+/g," ").trim();
     }
     return results;
   }
@@ -253,6 +265,38 @@ function validateTranslation(src,out){
   }
 
   return {ok:true};
+}
+
+function splitEnglishSentences(value=""){
+  const s=String(value||"").replace(/\s+/g," ").trim();
+  if(!s) return [];
+
+  const out=[];
+  let start=0;
+  let quote=null;
+  for(let i=0;i<s.length;i++){
+    const ch=s[i];
+
+    if(ch==='"' || ch==="“" || ch==="”"){
+      if(quote===null) quote=ch;
+      else if(ch===quote || ch==="”") quote=null;
+    }
+
+    if(!/[.!?]/.test(ch)) continue;
+
+    let end=i+1;
+    while(end<s.length && /["'’”)]/.test(s[end])) end++;
+    const next=s.slice(end).match(/^\s+([A-Z“"'])/);
+    if(next){
+      const piece=s.slice(start,end).trim();
+      if(piece) out.push(piece);
+      start=end;
+    }
+  }
+
+  const tail=s.slice(start).trim();
+  if(tail) out.push(tail);
+  return out;
 }
 
 function wordTokens(value=""){
