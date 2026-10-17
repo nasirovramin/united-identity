@@ -4,8 +4,8 @@ export class TelegramPublisher {
   async publish(post){
     if(!this.env?.TELEGRAM_BOT_TOKEN) throw new Error("TELEGRAM_BOT_TOKEN_missing");
     if(!this.env?.TELEGRAM_CHAT_ID) throw new Error("TELEGRAM_CHAT_ID_missing");
-    if(post.detailsUrl && !/^https:\/\/telegra\.ph\//i.test(post.detailsUrl)){
-      throw new Error("details_must_be_telegraph");
+    if(post.detailsUrl && !isDetailsUrl(post.detailsUrl)){
+      throw new Error("details_link_invalid");
     }
 
     const caption=buildCaption(post);
@@ -92,4 +92,8 @@ function esc(value=""){
     .replace(/</g,"&lt;")
     .replace(/>/g,"&gt;")
     .replace(/"/g,"&quot;");
+}
+
+function isDetailsUrl(value=""){
+  return /^https:\/\/(?:telegra\.ph\/|united-identity-viewer\.nasirovramin\.workers\.dev\/article\/)/i.test(String(value));
 }
