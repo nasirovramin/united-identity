@@ -39,6 +39,10 @@ export default {
    try{return out(await repairLatestCaption(env))}
    catch(e){return out({ok:false,error:msg(e)},500)}
   }
+  if(p==="/repair-volkswagen-caption"){
+   try{return out(await repairPublishedCaption(env,"/volkswagen-group/"))}
+   catch(e){return out({ok:false,error:msg(e)},500)}
+  }
   return new Response("United Identity production rejimində işləyir ✅\\nAvtomatik paylaşım aktivdir.");
  },
  async scheduled(c,env,ctx){
@@ -1225,6 +1229,64 @@ async function prepareProject(env,html,m,url,source){
  return {...m,postId,titleAz,desc:normalizeIdentityTerms(descAz),url,source,telegraphUrl,telegraphPath,agency:projectMeta.agency,projectDate:projectMeta.projectDate,projectDateLabel:projectMeta.projectDateLabel};
 }
 
+
+async function repairPublishedCaption(env,urlFragment){
+ need(env);
+ const records=[];
+ let cursor;
+ do{
+  const page=await env.IDENTITY_KV.list({prefix:"seen:",limit:1000,cursor});
+  for(const k of page.keys){
+   try{
+    const raw=await env.IDENTITY_KV.get(k.name);
+    if(!raw) continue;
+    const j=JSON.parse(raw);
+    if(j&&j.url&&String(j.url).includes(urlFragment)&&Array.isArray(j.telegramMessageIds)&&j.telegramMessageIds.length){
+     records.push({...j,kvKey:k.name});
+    }
+   }catch{}
+  }
+  cursor=page.list_complete?undefined:page.cursor;
+ }while(cursor);
+ records.sort((a,b)=>Date.parse(b.sentAt||0)-Date.parse(a.sentAt||0));
+ const rec=records[0];
+ if(!rec) throw Error("Published record not found for "+urlFragment);
+
+ const source=SOURCES.find(s=>s.name===rec.source);
+ let html;
+ if(source){
+  const technical=new TechnicalController(env,SOURCES);
+  html=await makeWebAdapter(source,technical).page(rec.url);
+ }else html=await get(rec.url);
+
+ const m=meta(html,rec.url);
+ const prepared=await prepareProject(env,html,m,rec.url,rec.source||"Mənbə");
+ prepared.postId=rec.postId||prepared.postId;
+ const caption=buildCaption(prepared);
+ const messageId=rec.telegramMessageIds[0];
+
+ const r=await fetch("https://api.telegram.org/bot"+env.TELEGRAM_BOT_TOKEN+"/editMessageCaption",{
+  method:"POST",
+  headers:{"content-type":"application/json"},
+  body:JSON.stringify({
+   chat_id:env.TELEGRAM_CHAT_ID,
+   message_id:messageId,
+   caption,
+   parse_mode:"HTML"
+  })
+ });
+ const d=await r.json();
+ if(!d.ok) throw Error("Telegram edit: "+JSON.stringify(d));
+
+ await env.IDENTITY_KV.put(rec.kvKey,JSON.stringify({
+  ...rec,
+  titleAz:prepared.titleAz,
+  telegraphUrl:prepared.telegraphUrl||"",
+  telegraphPath:prepared.telegraphPath||"",
+  repairedAt:new Date().toISOString()
+ }));
+ return {ok:true,message_id:messageId,url:rec.url,source:rec.source};
+}
 
 async function repairLatestCaption(env){
  need(env);
