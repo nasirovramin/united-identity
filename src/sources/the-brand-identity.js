@@ -47,7 +47,7 @@ export class TheBrandIdentitySource extends SourceModule {
     if(!isAllowedProjectUrl(url)) throw new Error("invalid_the_brand_identity_project_url");
 
     const cached=(snapshot.items||[]).find(x=>x.canonicalUrl===url);
-    if(cached) return {source:{...this.config},item:{...cached}};
+    if(cached) return {source:{...this.config},item:sanitizeCaseStudyItem(cached)};
 
     const doc=await fetchDocument(url);
     return doc.kind==="markdown"
@@ -160,8 +160,9 @@ export function parseMarkdownArticle(markdown,url,source){
     title=t?cleanTitle(t[1]):"";
   }
 
-  const textBlocks=blocks.filter(x=>x.type==="text").map(x=>x.text);
-  const mediaBlocks=blocks.filter(x=>x.type!=="text");
+  const cleanBlocks=trimProjectBlocks(blocks);
+  const textBlocks=cleanBlocks.filter(x=>x.type==="text").map(x=>x.text);
+  const mediaBlocks=cleanBlocks.filter(x=>x.type!=="text");
   const hero=mediaBlocks.find(x=>x.type==="image"||x.type==="gif")?.url||"";
 
   return {
@@ -173,7 +174,7 @@ export function parseMarkdownArticle(markdown,url,source){
       agency:"",
       media:hero?[{type:"image",url:hero}]:mediaBlocks.slice(0,1),
       hasCaseStudy:true,
-      caseStudyBlocks:blocks,
+      caseStudyBlocks:cleanBlocks,
       caseStudyText:textBlocks.join("\n\n"),
       caseStudyMedia:mediaBlocks
     }
@@ -244,7 +245,7 @@ export function parseArticle(html,url,source){
     firstImage(scope,url)||
     "";
 
-  const orderedBlocks=extractOrderedBlocks(scope,url,title);
+  const orderedBlocks=trimProjectBlocks(extractOrderedBlocks(scope,url,title));
   const textBlocks=orderedBlocks.filter(x=>x.type==="text").map(x=>x.text);
   const mediaBlocks=orderedBlocks.filter(x=>x.type!=="text");
 
@@ -266,6 +267,43 @@ export function parseArticle(html,url,source){
       caseStudyMedia:mediaBlocks
     }
   };
+}
+
+function sanitizeCaseStudyItem(item){
+  const cleanBlocks=trimProjectBlocks(Array.isArray(item?.caseStudyBlocks)?item.caseStudyBlocks:[]);
+  const textBlocks=cleanBlocks.filter(x=>x.type==="text").map(x=>x.text);
+  const mediaBlocks=cleanBlocks.filter(x=>x.type!=="text");
+
+  return {
+    ...item,
+    caseStudyBlocks:cleanBlocks,
+    caseStudyText:textBlocks.join("\n\n"),
+    caseStudyMedia:mediaBlocks
+  };
+}
+
+function trimProjectBlocks(blocks=[]){
+  let out=[...blocks];
+
+  // The Brand Identity appends store/product cards after each editorial case study.
+  // Those assets are not part of the project and must never enter Telegraph/Viewer.
+  const productIndex=out.findIndex(x=>
+    x?.type!=="text" &&
+    /\/uploads\/(?:cache\/)?products\//i.test(String(x?.url||""))
+  );
+  if(productIndex>=0) out=out.slice(0,productIndex);
+
+  // Immediately before the store cards the site places short credit/link labels
+  // (studio/font names). Keep the actual final editorial paragraph, but drop this tail.
+  while(out.length){
+    const last=out[out.length-1];
+    if(last?.type!=="text") break;
+    const t=String(last.text||"").trim();
+    if(t.length>=80) break;
+    out.pop();
+  }
+
+  return out;
 }
 
 function extractOrderedBlocks(scope,url,title){
