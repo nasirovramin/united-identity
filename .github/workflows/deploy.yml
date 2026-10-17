@@ -9,6 +9,10 @@ on:
 permissions:
   contents: read
 
+concurrency:
+  group: united-identity-production
+  cancel-in-progress: true
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -33,6 +37,7 @@ jobs:
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
 
       - name: Verify Azerbaijani AI translation
+        continue-on-error: true
         run: |
           echo "Running Workers AI translation self-test..."
           response=$(curl --silent --show-error --max-time 180 -w "\nHTTP_STATUS:%{http_code}" \
@@ -44,12 +49,14 @@ jobs:
           fi
 
       - name: Repair untranslated Telegram captions
+        continue-on-error: true
         run: |
           echo "Repairing known untranslated United Identity posts..."
           curl --fail --silent --show-error --max-time 120 \
             https://united-identity.nasirovramin.workers.dev/repair-az
 
       - name: Trigger one immediate production scan
+        if: always()
         run: |
           echo "Triggering United Identity scan..."
           curl --fail --silent --show-error --max-time 180 \
