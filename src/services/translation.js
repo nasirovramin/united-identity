@@ -14,7 +14,7 @@ export class AzerbaijaniTranslator {
     const groups=[];
     let group=[],chars=0;
     for(const item of input){
-      if(group.length && chars+item.text.length>6500){
+      if(group.length && chars+item.text.length>3500){
         groups.push(group); group=[]; chars=0;
       }
       group.push(item); chars+=item.text.length;
@@ -44,7 +44,13 @@ export class AzerbaijaniTranslator {
           found++;
         }
       }
-      if(found!==g.length) throw new Error("Batch translation markers were not preserved");
+      if(found!==g.length){
+        // Some smaller models occasionally rewrite or drop markers.
+        // Fall back to reliable per-block translation for this group.
+        for(const item of g){
+          results[item.i]=await this.translate(item.text,{full:true});
+        }
+      }
     }
     return results;
   }
