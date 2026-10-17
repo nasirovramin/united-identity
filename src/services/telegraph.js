@@ -1,3 +1,5 @@
+const VIEWER_BASE="https://united-identity-viewer.nasirovramin.workers.dev/article/";
+
 export class TelegraphService {
   constructor(env){this.env=env}
 
@@ -35,10 +37,10 @@ export class TelegraphService {
     // Validate the actual public page before giving the URL to Telegram.
     // If the generated page is not publicly readable, retry once with the
     // shortest possible title to avoid slug/path edge cases.
-    if(await pageReadable(url)) return url;
+    if(await pageReadable(url)) return toViewerUrl(url);
 
     const fallback=await createPage(token,"United Identity Case Study",nodes);
-    if(await pageReadable(fallback)) return fallback;
+    if(await pageReadable(fallback)) return toViewerUrl(fallback);
 
     throw new Error("Telegraph page created but public page is not readable");
   }
@@ -58,6 +60,13 @@ export class TelegraphService {
     await this.env.IDENTITY_KV?.put("telegraph:access_token",token);
     return token;
   }
+}
+
+function toViewerUrl(telegraphUrl){
+  const u=new URL(telegraphUrl);
+  const path=u.pathname.replace(/^\/+/, "");
+  if(!path) throw new Error("Telegraph path missing");
+  return VIEWER_BASE+encodeURIComponent(path);
 }
 
 async function createPage(token,title,nodes){
