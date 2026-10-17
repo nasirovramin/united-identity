@@ -1,3 +1,7 @@
+import { ALL_SOURCES, WEB_SOURCES, TELEGRAM_SOURCES } from "./sources/registry.js";
+import { CheckModule } from "./checker/index.js";
+import { PublishModule } from "./publisher/index.js";
+
 function json(data,status=200){
   return new Response(JSON.stringify(data,null,2),{
     status,
@@ -12,10 +16,17 @@ export default {
     if(path==="/health"){
       return json({
         ok:true,
-        status:"source_layer_empty",
-        webSources:0,
-        telegramSources:0,
-        linkedinSources:0,
+        architecture:"sources -> check -> publish",
+        modules:{
+          sources:true,
+          check:true,
+          publish:true
+        },
+        sourceCount:{
+          web:WEB_SOURCES.length,
+          telegram:TELEGRAM_SOURCES.length,
+          total:ALL_SOURCES.length
+        },
         automaticScanning:false,
         publishing:false
       });
@@ -23,15 +34,16 @@ export default {
 
     if(path==="/sources"){
       return json({
-        web:[],
-        telegram:[],
-        linkedin:[]
+        web:WEB_SOURCES,
+        telegram:TELEGRAM_SOURCES
       });
     }
 
     return new Response(
-      "United Identity mənbə sistemi sıfırlanıb. Hazırda heç bir mənbə qoşulu deyil.",
+      "United Identity arxitekturası hazırdır: Mənbələr → Yoxlama → Paylaşım. Hazırda mənbə qoşulmayıb.",
       {headers:{"content-type":"text/plain;charset=UTF-8"}}
     );
   }
 };
+
+export { CheckModule, PublishModule };
