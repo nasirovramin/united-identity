@@ -1,7 +1,7 @@
 import fs from "node:fs/promises";
 import {
   discoverProjectLinksMarkdown,
-  parseMarkdownArticle
+  parseArticle
 } from "../src/sources/the-brand-identity.js";
 
 const FEATURES="https://the-brandidentity.com/features";
@@ -13,15 +13,15 @@ const SOURCE={
   url:FEATURES
 };
 
-const features=await reader(FEATURES);
+const features=await reader(FEATURES,"markdown");
 const cards=discoverProjectLinksMarkdown(features).slice(0,5);
 if(!cards.length) throw new Error("No The Brand Identity project cards found");
 
 const items=[];
 for(const card of cards){
   try{
-    const md=await reader(card.url);
-    const parsed=parseMarkdownArticle(md,card.url,SOURCE);
+    const html=await reader(card.url,"html");
+    const parsed=parseArticle(html,card.url,SOURCE);
     const item=parsed.item;
     if(!item.titleOriginal||!item.canonicalUrl) throw new Error("parsed article incomplete");
     const media=(item.caseStudyMedia||[]).length;
@@ -42,16 +42,19 @@ await fs.mkdir("src/generated",{recursive:true});
 await fs.writeFile(OUTPUT,js,"utf8");
 console.log("WROTE",OUTPUT,"items",items.length);
 
-async function reader(url){
+async function reader(url,mode="markdown"){
   let last="";
   for(let attempt=1;attempt<=4;attempt++){
     try{
       const r=await fetch("https://r.jina.ai/"+url,{
         headers:{
           "User-Agent":"Mozilla/5.0 (compatible; UnitedIdentitySourceRefresh/1.0)",
-          "Accept":"text/plain"
+          "Accept":"text/plain",
+          "X-Respond-With":mode,
+          "X-Engine":"browser",
+          "X-With-Iframe":"true"
         },
-        signal:AbortSignal.timeout(25000)
+        signal:AbortSignal.timeout(35000)
       });
       const text=await r.text();
       if(r.ok && text.length>500) return text;
