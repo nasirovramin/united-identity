@@ -79,10 +79,21 @@ jobs:
             exit 1
           fi
 
-      - name: Repair The Brand Identity Telegraph test
+      - name: Repair and verify The Brand Identity article viewer test
         continue-on-error: true
         run: |
           response=$(curl --silent --show-error --max-time 180 -w "\nHTTP_STATUS:%{http_code}" \
             https://united-identity.nasirovramin.workers.dev/repair-test/the-brand-identity)
           echo "$response"
+          status=$(printf "%s\n" "$response" | sed -n 's/^HTTP_STATUS://p' | tail -1)
+          json=$(printf "%s\n" "$response" | sed '/^HTTP_STATUS:/d')
+          details=$(printf "%s" "$json" | jq -r '.detailsUrl // empty')
+          if [ -z "$status" ] || [ "$status" -ge 400 ] || [ -z "$details" ]; then
+            exit 1
+          fi
+          echo "VERIFY_DETAILS=$details"
+          curl --fail --silent --show-error --max-time 90 "$details" -o /tmp/identity-article.html
+          bytes=$(wc -c </tmp/identity-article.html)
+          echo "VIEWER_BYTES=$bytes"
+          test "$bytes" -gt 1000
 
