@@ -2,7 +2,7 @@ const MODELS=[
   "@cf/meta/llama-3.1-8b-instruct-fast"
 ];
 
-const TRANSLATION_CACHE_VERSION="v7-sentence-faithful-clean";
+const TRANSLATION_CACHE_VERSION="v8-faithful-chunks";
 
 const KEEP_ENGLISH=[
   "AI","UI","UX","Visual Identity","Identity","Digital","Motion","Logo","Wordmark",
@@ -16,27 +16,25 @@ export class AzerbaijaniTranslator {
     const source=(blocks||[]).map(x=>String(x||"").trim());
     const results=new Array(source.length).fill("");
 
-    // Translate article copy sentence-by-sentence. This is deliberately more
-    // conservative than paragraph rewriting: every source sentence must survive
-    // as its own translated unit, which prevents summarising, omission and model
-    // degeneration on long typography/design paragraphs.
+    // Keep the faithful sentence-by-sentence method, but translate at most
+    // two source sentences per AI request. This stays under Cloudflare's
+    // per-invocation subrequest limit while still preventing paragraph-wide
+    // summarisation and repetition failures.
     for(let i=0;i<source.length;i++){
       if(!source[i]) continue;
 
       const sentences=splitEnglishSentences(source[i]);
-      if(sentences.length<=1){
-        results[i]=await this.translate(source[i],{full:true});
-        continue;
-      }
-
+      const chunks=sentenceChunks(sentences,2,950);
       const translated=[];
-      for(let j=0;j<sentences.length;j++){
-        translated.push(await this.translate(sentences[j],{
+
+      for(let j=0;j<chunks.length;j++){
+        translated.push(await this.translate(chunks[j],{
           full:true,
-          contextBefore:sentences[j-1]||"",
-          contextAfter:sentences[j+1]||""
+          contextBefore:chunks[j-1]||"",
+          contextAfter:chunks[j+1]||""
         }));
       }
+
       results[i]=translated.join(" ").replace(/\s+/g," ").trim();
     }
     return results;
@@ -274,6 +272,23 @@ function validateTranslation(src,out){
   }
 
   return {ok:true};
+}
+
+function sentenceChunks(sentences=[],maxSentences=2,maxChars=950){
+  const chunks=[];
+  let current=[];
+
+  for(const sentence of sentences){
+    const candidate=[...current,sentence].join(" ");
+    if(current.length && (current.length>=maxSentences || candidate.length>maxChars)){
+      chunks.push(current.join(" "));
+      current=[sentence];
+    }else{
+      current.push(sentence);
+    }
+  }
+  if(current.length) chunks.push(current.join(" "));
+  return chunks;
 }
 
 function splitEnglishSentences(value=""){
