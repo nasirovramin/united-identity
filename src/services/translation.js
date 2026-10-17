@@ -2,7 +2,7 @@ const MODELS=[
   "@cf/meta/llama-3.1-8b-instruct-fast"
 ];
 
-const TRANSLATION_CACHE_VERSION="v3-contextual-editor";
+const TRANSLATION_CACHE_VERSION="v4-faithful-literal";
 
 const KEEP_ENGLISH=[
   "AI","UI","UX","Visual Identity","Identity","Digital","Motion","Logo","Wordmark",
@@ -98,51 +98,58 @@ function buildSystemPrompt({full,contextBefore,contextAfter,strict}){
   const after=String(contextAfter||"").trim();
 
   const lines=[
-    "You are a senior Azerbaijani-language editor and translator specialising in design, branding, technology and business journalism.",
-    "Translate the user's message into fluent, idiomatic Azerbaijani.",
-    "Return ONLY the final Azerbaijani translation. Do not add a label, heading, note, explanation, quotation marks, or the translation instructions.",
+    "You are a careful Azerbaijani translator for design, branding, technology and business journalism.",
+    "Translate the user's source text faithfully into Azerbaijani.",
+    "Return ONLY the final Azerbaijani translation. Do not add labels, notes, explanations or commentary.",
     "",
-    "Rules:",
-    "- First understand the author's intended meaning; then express that meaning naturally in Azerbaijani. Never mirror English word order when it sounds unnatural.",
-    "- Preserve all facts, names, relationships, speakers and nuances. Never add geography, organisations, people or explanations that are not in the source.",
-    "- If a sentence is long or tangled, split it into clearer Azerbaijani sentences.",
-    "- Translate idioms, metaphors and wordplay by meaning, not by literal wording.",
-    "- Do not invent pseudo-Azerbaijani phonetic borrowings for ordinary English words.",
-    "- Keep proper names and established international design/tech terms where appropriate: "+KEEP_ENGLISH.join(", ")+".",
-    "- Use clear contemporary journalistic Azerbaijani, not academic prose, Russian/Turkish calques, or robotic AI language.",
-    "- Quotes should sound like natural spoken Azerbaijani while preserving exactly what the speaker means.",
-    "- Never introduce Azerbaijan/Azerbaijani as article content unless the source message itself explicitly mentions it.",
+    "CORE METHOD:",
+    "- Translate sentence by sentence and meaning unit by meaning unit.",
+    "- Stay as close as possible to the source wording and sentence order, but fix word order and grammar where Azerbaijani requires it.",
+    "- DO NOT summarize, compress, simplify away details, merge ideas, or omit repeated information.",
+    "- DO NOT add explanations, examples, interpretations, background facts or conclusions that are not explicitly present in the source.",
+    "- Every fact, qualifier, comparison, example, attribution, quotation, relationship and nuance in the source must appear in the translation.",
+    "- Preserve sentence boundaries whenever possible. Split or join a sentence only when absolutely necessary for clear Azerbaijani, and do not lose any content when doing so.",
+    "- If an idiom or metaphor is present, translate its intended meaning clearly, but keep all concrete details from the original. Do not invent a new metaphor.",
+    "- Preserve names, brands, studios, people, products, dates, numbers and proper nouns exactly unless Azerbaijani grammar requires a suffix.",
+    "- Keep established international design/tech terms where appropriate: "+KEEP_ENGLISH.join(", ")+".",
+    "- Quotes must preserve the speaker's exact meaning and all details. Do not polish away awkwardness if that changes content.",
+    "- Never introduce Azerbaijan/Azerbaijani as article content unless the source itself mentions it.",
+    "- Do not use fake phonetic borrowings when a normal Azerbaijani word exists.",
+    "",
+    "QUALITY TARGET:",
+    "- The translation should feel clear and grammatical in Azerbaijani, but it must remain maximally faithful to the source.",
+    "- Faithfulness is more important than elegance. Clarity may change word order, not content.",
     "",
     "Domain guide:",
-    "- assurance in financial/audit context means independent verification/assurance work, not insurance.",
-    "- compliance means meeting regulatory/legal requirements; translate by meaning.",
-    "- privacy hedge means a dense hedge/shrub planted to create privacy. It is a landscaping/plant term.",
-    "- behind the scenes / behind the hedge can be intentional wordplay; preserve the hidden-work meaning and the hedge reference clearly.",
-    "- the grind means repetitive, time-consuming routine work.",
+    "- assurance in financial/audit context = independent verification / assurance work, not insurance.",
+    "- compliance = meeting regulatory/legal requirements.",
+    "- privacy hedge = a dense hedge/shrub planted to create privacy.",
+    "- behind the scenes / behind the hedge may be deliberate wordplay; preserve both the hidden-work meaning and hedge reference.",
+    "- the grind = repetitive, time-consuming routine work.",
     "",
     full
-      ?"This is a full article paragraph. Preserve every piece of information, but restructure sentences freely for clarity."
-      :"This is a headline or short Telegram text. Keep it concise and immediately understandable."
+      ?"This is a full article paragraph. Translate the complete paragraph with nothing removed and nothing added."
+      :"This is a headline or short Telegram text. Translate it completely; do not shorten it."
   ];
 
   if(before){
     lines.push(
       "",
-      "Previous paragraph for context only (DO NOT translate or repeat):",
+      "Previous paragraph for context only. Use it ONLY to resolve references; DO NOT translate, repeat, summarize or import facts from it:",
       before.slice(0,1200)
     );
   }
   if(after){
     lines.push(
       "",
-      "Next paragraph for context only (DO NOT translate or repeat):",
+      "Next paragraph for context only. Use it ONLY to resolve references; DO NOT translate, repeat, summarize or import facts from it:",
       after.slice(0,1200)
     );
   }
   if(strict){
     lines.push(
       "",
-      "STRICT RETRY: A previous result failed validation. Output only the translation and be especially careful not to invent 'Azərbaycan', echo instructions, or use literal nonsense."
+      "STRICT RETRY: The previous output failed integrity checks. Re-translate more literally and ensure that no source detail is missing and no new fact is added."
     );
   }
 
@@ -166,6 +173,20 @@ function extractTranslation(raw=""){
 function validateTranslation(src,out){
   if(!out||out.length<Math.min(20,Math.max(8,src.length*0.15))){
     return {ok:false,reason:"output_too_short"};
+  }
+
+  // Reject suspiciously compressed outputs. Azerbaijani length can differ from
+  // English, so keep the threshold conservative while still blocking summaries.
+  if(src.length>=120 && out.length<src.length*0.48){
+    return {ok:false,reason:"possible_content_omission"};
+  }
+
+  // Every explicit number/date amount in the source must survive translation.
+  const sourceNumbers=[...String(src).matchAll(/\b\d+(?:[.,]\d+)?%?\b/g)].map(m=>m[0]);
+  for(const n of sourceNumbers){
+    if(!String(out).includes(n)){
+      return {ok:false,reason:"numeric_fact_missing:"+n};
+    }
   }
 
   const instructionLeak=[
