@@ -84,7 +84,8 @@ export function parseArticle(html,url,source){
   const textBlocks=orderedBlocks.filter(x=>x.type==="text").map(x=>x.text);
   const mediaBlocks=orderedBlocks.filter(x=>x.type!=="text");
 
-  const agency=extractAgency(scope,textBlocks.join("\n"));
+  // This source does not show an Agentlik line in the Telegram post.
+  const agency="";
   const summarySource=textBlocks.slice(0,2).join("\n\n");
 
   return {
