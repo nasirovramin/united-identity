@@ -51,7 +51,6 @@ async function reader(url,mode="markdown"){
           "User-Agent":"Mozilla/5.0 (compatible; UnitedIdentitySourceRefresh/1.0)",
           "Accept":"text/plain",
           "X-Respond-With":mode,
-          "X-Engine":"browser",
           "X-With-Iframe":"true"
         },
         signal:AbortSignal.timeout(35000)
