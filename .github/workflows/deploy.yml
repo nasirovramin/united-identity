@@ -43,6 +43,11 @@ jobs:
 
       - name: Smoke test The Brand Identity
         run: |
-          curl --fail --silent --show-error --max-time 90 \
-            https://united-identity.nasirovramin.workers.dev/test/the-brand-identity
+          response=$(curl --silent --show-error --max-time 90 -w "\nHTTP_STATUS:%{http_code}" \
+            https://united-identity.nasirovramin.workers.dev/test/the-brand-identity)
+          echo "$response"
+          status=$(printf "%s\n" "$response" | sed -n 's/^HTTP_STATUS://p' | tail -1)
+          if [ -z "$status" ] || [ "$status" -ge 400 ]; then
+            exit 1
+          fi
 
