@@ -11,7 +11,7 @@ const STRONG=["identity system","brand system","brand design","rebrand","rebrand
 const REJECT_PATHS=["/insights","/news","/about","/contact","/jobs","/careers","/features","/archive","/category","/categories","/tag","/tags","/work/","/projects/","/media/identity","/media/graphic-design","/media/branding","/media/typography"];
 const REJECT_TITLES=["insights","news","about","contact","jobs","careers","features","articles","archive","work","projects","branding"];
 const MAX_SEND=1;
-const MAX_PAGE_FETCHES_PER_RUN=8;
+const MAX_PAGE_FETCHES_PER_RUN=16;
 // Redeploy marker: web crawler + filtered identity scan active.
 
 export default {
@@ -71,19 +71,26 @@ async function scan(env){
  const contentControl=new ContentController(env);
  const cleanBuffer=new CleanBuffer(env);
 
- // One scheduled run owns exactly one healthy source module. This prevents
- // Cloudflare subrequest spikes and keeps source failures isolated.
- const rotatedSources=await technical.orderedSources();
- const activeSource=await technical.nextAvailableSource();
- st.rotationStart=activeSource?activeSource.name:"";
- if(!activeSource){
-  st.errors.push("all_sources_in_cooldown");
- }else{
+ // Normal runs inspect three source modules; after repeated empty runs the
+ // scanner automatically widens to six sources until publishing resumes.
+ const previousZeroStreak=Number(await env.IDENTITY_KV.get("control:zero-publish-streak")||0);
+ const sourceBudget=previousZeroStreak>=3?6:3;
+ st.previousZeroPublishStreak=previousZeroStreak;
+ st.sourceBudget=sourceBudget;
+
+ for(let sourceAttempt=0;sourceAttempt<sourceBudget;sourceAttempt++){
+  const activeSource=await technical.nextAvailableSource();
+  if(!activeSource){
+   if(sourceAttempt===0) st.errors.push("all_sources_in_cooldown");
+   break;
+  }
+  if(!st.rotationStart) st.rotationStart=activeSource.name;
+
   const srcStat={source:activeSource.name,homeOk:false,links:0,eligible:0,checked:0,matched:0,sent:0,duplicates:0,errors:[]};
   try{
    const adapter=makeWebAdapter(activeSource,technical);
    const h=await adapter.home();
-   st.sourcesVisited=1;
+   st.sourcesVisited++;
    srcStat.homeOk=true;
    const arr=await adapter.discoverProjects(h,{links,candidateScore,isGenericPage});
    srcStat.links=arr.length;
@@ -96,8 +103,6 @@ async function scan(env){
    sourceBatches.push({source:activeSource,candidates:[],stat:srcStat});
   }
   st.perSource.push(srcStat);
-  // Rotation advances even when the source has no publishable item; the next
-  // normal run gets the next source instead of hammering one source forever.
   await technical.advance(activeSource);
  }
  st.candidates=sourceBatches.reduce((n,b)=>n+b.candidates.length,0);
@@ -205,8 +210,21 @@ async function scan(env){
  }
 
  st.finishedAt=new Date().toISOString();
+ if(st.sent>0){
+  st.zeroPublishStreak=0;
+  st.lastPublishAt=st.finishedAt;
+  try{
+   await env.IDENTITY_KV.put("control:zero-publish-streak","0");
+   await env.IDENTITY_KV.put("control:last-publish-at",st.finishedAt);
+  }catch(e){}
+ }else{
+  st.zeroPublishStreak=previousZeroStreak+1;
+  try{ await env.IDENTITY_KV.put("control:zero-publish-streak",String(st.zeroPublishStreak)); }catch(e){}
+  st.lastPublishAt=await env.IDENTITY_KV.get("control:last-publish-at")||"";
+ }
  st.blockingErrors=(st.matched>0 && st.sent===0)?st.errors.slice(0,10):[];
  if(st.blockingErrors.length) st.ok=false;
+ if(st.zeroPublishStreak>=6) st.healthWarning="no_publish_for_"+st.zeroPublishStreak+"_scans";
  st.sourceDistribution=st.perSource
   .filter(x=>x.sent>0)
   .map(x=>({source:x.source,sent:x.sent}));
@@ -245,7 +263,10 @@ function candidateScore(a){
 }
 function isProjectLike(m,a,body){
  const head=clean((a.text||"")+" "+(m.title||"")+" "+(m.desc||"")).toLowerCase();
- const strong=STRONG.some(x=>head.includes(x))||FILTERS.some(x=>head.includes(x));
+ const bodyText=clean(body||"").toLowerCase();
+ const strong=
+  STRONG.some(x=>head.includes(x)||bodyText.includes(x))||
+  FILTERS.some(x=>head.includes(x)||bodyText.includes(x));
  if(!strong) return false;
  const title=clean(m.title||"").toLowerCase();
  if(!title||title.length<5||REJECT_TITLES.includes(title)) return false;
