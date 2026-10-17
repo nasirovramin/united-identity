@@ -54,6 +54,20 @@ jobs:
           echo "TBI_DIRECT_BYTES=$(wc -c </tmp/tbi-features.html 2>/dev/null || echo 0)"
           test "$code" = "200"
 
+      - name: Probe Jina Reader fallback
+        continue-on-error: true
+        run: |
+          code=$(curl -L --silent --show-error --max-time 90 \
+            -A "Mozilla/5.0" \
+            -o /tmp/tbi-jina.txt \
+            -w "%{http_code}" \
+            https://r.jina.ai/https://the-brandidentity.com/features)
+          echo "TBI_JINA_HTTP=$code"
+          echo "TBI_JINA_BYTES=$(wc -c </tmp/tbi-jina.txt 2>/dev/null || echo 0)"
+          head -c 800 /tmp/tbi-jina.txt || true
+          echo
+          test "$code" = "200"
+
       - name: Smoke test The Brand Identity
         continue-on-error: true
         run: |
