@@ -1,6 +1,5 @@
 const MODELS=[
-  "@cf/meta/llama-3.1-8b-instruct-fast",
-  "@cf/meta/llama-3.2-1b-instruct"
+  "@cf/meta/llama-3.1-8b-instruct-fast"
 ];
 
 const TRANSLATION_CACHE_VERSION="v3-contextual-editor";
@@ -54,7 +53,7 @@ export class AzerbaijaniTranslator {
       const attempts=model===MODELS[0]?2:1;
       for(let attempt=0;attempt<attempts;attempt++){
         try{
-          const prompt=buildPrompt(src,{
+          const systemPrompt=buildSystemPrompt({
             full,
             contextBefore,
             contextAfter,
@@ -63,17 +62,11 @@ export class AzerbaijaniTranslator {
 
           const result=await this.env.AI.run(model,{
             messages:[
-              {
-                role:"system",
-                content:[
-                  "You are a senior Azerbaijani-language editor and translator specialising in design, branding, technology and business journalism.",
-                  "Your job is to preserve the author's exact meaning and facts while rewriting the source into fluent, idiomatic Azerbaijani.",
-                  "Never translate word-for-word when that would sound unnatural or change the meaning.",
-                  "Never invent countries, people, organisations, facts or explanations.",
-                  "Never echo the user's instructions. Return only the requested <az>...</az> output."
-                ].join(" ")
-              },
-              {role:"user",content:prompt}
+              {role:"system",content:systemPrompt},
+              // Important: user content contains ONLY source copy. Keeping all
+              // instructions out of the user message prevents instruction text
+              // from leaking into the published translation.
+              {role:"user",content:src}
             ],
             max_tokens:full?2600:1000,
             temperature:0.05
@@ -100,82 +93,65 @@ export class AzerbaijaniTranslator {
   }
 }
 
-function buildPrompt(src,{full,contextBefore,contextAfter,strict}){
+function buildSystemPrompt({full,contextBefore,contextAfter,strict}){
   const before=String(contextBefore||"").trim();
   const after=String(contextAfter||"").trim();
 
   const lines=[
-    "Translate ONLY the text inside <source> into natural Azerbaijani.",
+    "You are a senior Azerbaijani-language editor and translator specialising in design, branding, technology and business journalism.",
+    "Translate the user's message into fluent, idiomatic Azerbaijani.",
+    "Return ONLY the final Azerbaijani translation. Do not add a label, heading, note, explanation, quotation marks, or the translation instructions.",
     "",
-    "EDITORIAL RULES:",
-    "1. First understand what the author means; then express that meaning naturally in Azerbaijani. Do not mirror English word order.",
-    "2. The result must be immediately understandable to an Azerbaijani reader who has never seen the English original.",
-    "3. Preserve every factual claim, relationship, speaker and nuance. Do not add, omit or reinterpret facts.",
-    "4. If an English sentence is long or tangled, split it into two or more clear Azerbaijani sentences when needed.",
-    "5. Translate idioms, metaphors and wordplay by meaning. If the wordplay matters, make the intended meaning clear instead of producing a literal but nonsensical phrase.",
-    "6. Do not create fake Azerbaijani transliterations of ordinary English words. Use a real Azerbaijani equivalent when one exists.",
-    "7. Keep proper names and established international design/tech terms unchanged where appropriate: "+KEEP_ENGLISH.join(", ")+".",
-    "8. Use clear journalistic Azerbaijani. Avoid academic language, Russian/Turkish calques and robotic AI phrasing.",
-    "9. Quotes must sound like natural spoken Azerbaijani while preserving what the speaker actually meant.",
-    "10. Do not introduce the words Azerbaijan/Azerbaijani as content unless the SOURCE itself explicitly mentions Azerbaijan/Azerbaijani.",
+    "Rules:",
+    "- First understand the author's intended meaning; then express that meaning naturally in Azerbaijani. Never mirror English word order when it sounds unnatural.",
+    "- Preserve all facts, names, relationships, speakers and nuances. Never add geography, organisations, people or explanations that are not in the source.",
+    "- If a sentence is long or tangled, split it into clearer Azerbaijani sentences.",
+    "- Translate idioms, metaphors and wordplay by meaning, not by literal wording.",
+    "- Do not invent pseudo-Azerbaijani phonetic borrowings for ordinary English words.",
+    "- Keep proper names and established international design/tech terms where appropriate: "+KEEP_ENGLISH.join(", ")+".",
+    "- Use clear contemporary journalistic Azerbaijani, not academic prose, Russian/Turkish calques, or robotic AI language.",
+    "- Quotes should sound like natural spoken Azerbaijani while preserving exactly what the speaker means.",
+    "- Never introduce Azerbaijan/Azerbaijani as article content unless the source message itself explicitly mentions it.",
     "",
-    "DOMAIN MEANING GUIDE (use only when relevant):",
-    "- assurance in finance/audit context = independent verification / assurance work, NOT insurance.",
-    "- compliance = meeting regulatory/legal requirements; translate by meaning, not as a phonetic borrowing.",
-    "- privacy hedge = a dense hedge/shrub planted to create privacy. It is a plant/landscaping term, not a country or abstract 'privacy' brand term.",
-    "- behind the scenes / behind the hedge may be a deliberate wordplay; make both the hidden-work meaning and hedge reference understandable.",
-    "- the grind = repetitive, time-consuming routine work.",
-    "- product/UI/interface terminology should stay clear and professional.",
+    "Domain guide:",
+    "- assurance in financial/audit context means independent verification/assurance work, not insurance.",
+    "- compliance means meeting regulatory/legal requirements; translate by meaning.",
+    "- privacy hedge means a dense hedge/shrub planted to create privacy. It is a landscaping/plant term.",
+    "- behind the scenes / behind the hedge can be intentional wordplay; preserve the hidden-work meaning and the hedge reference clearly.",
+    "- the grind means repetitive, time-consuming routine work.",
     "",
     full
-      ?"This is an article paragraph. Keep all information, but freely rebuild sentence structure for clarity."
-      :"This is a headline or short Telegram text. Keep it concise, natural and immediately clear.",
+      ?"This is a full article paragraph. Preserve every piece of information, but restructure sentences freely for clarity."
+      :"This is a headline or short Telegram text. Keep it concise and immediately understandable."
   ];
-
-  if(strict){
-    lines.push(
-      "",
-      "STRICT RETRY:",
-      "A previous output failed quality checks. Be especially careful not to echo instructions, invent geography, use literal nonsense, or introduce pseudo-Azerbaijani words."
-    );
-  }
 
   if(before){
     lines.push(
       "",
-      "<context_before>",
-      before,
-      "</context_before>",
-      "The context above is ONLY for disambiguation. Do not translate or repeat it."
+      "Previous paragraph for context only (DO NOT translate or repeat):",
+      before.slice(0,1200)
     );
   }
-
-  lines.push("","<source>",src,"</source>");
-
   if(after){
     lines.push(
       "",
-      "<context_after>",
-      after,
-      "</context_after>",
-      "The context above is ONLY for disambiguation. Do not translate or repeat it."
+      "Next paragraph for context only (DO NOT translate or repeat):",
+      after.slice(0,1200)
     );
   }
-
-  lines.push(
-    "",
-    "OUTPUT FORMAT:",
-    "Return exactly one block: <az>FINAL AZERBAIJANI TEXT</az>",
-    "Do not include notes, labels, explanations or the instructions."
-  );
+  if(strict){
+    lines.push(
+      "",
+      "STRICT RETRY: A previous result failed validation. Output only the translation and be especially careful not to invent 'Azərbaycan', echo instructions, or use literal nonsense."
+    );
+  }
 
   return lines.join("\n");
 }
 
 function extractTranslation(raw=""){
   const s=String(raw||"").trim();
-  const tagged=s.match(/<az>\s*([\s\S]*?)\s*<\/az>/i);
-  let out=tagged?tagged[1].trim():s;
+  let out=s;
 
   // Defensive cleanup for models that add a harmless label despite instructions.
   out=out
@@ -198,7 +174,7 @@ function validateTranslation(src,out){
     /çevir\s+və\s+redaktə\s+et/i,
     /EDITORIAL RULES/i,
     /OUTPUT FORMAT/i,
-    /<source>|<context_|<az>|<\/az>/i
+    /EDITORIAL RULES|OUTPUT FORMAT|Previous paragraph for context only|Next paragraph for context only/i
   ];
   if(instructionLeak.some(r=>r.test(out))){
     return {ok:false,reason:"instruction_leak"};
