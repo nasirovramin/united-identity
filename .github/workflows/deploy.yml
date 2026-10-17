@@ -55,6 +55,13 @@ jobs:
           curl --fail --silent --show-error --max-time 120 \
             https://united-identity.nasirovramin.workers.dev/repair-az
 
+      - name: Repair Volkswagen caption
+        continue-on-error: true
+        run: |
+          echo "Repairing the Volkswagen caption with KreaDIV formatting..."
+          curl --fail --silent --show-error --max-time 180 \
+            https://united-identity.nasirovramin.workers.dev/repair-volkswagen-caption
+
       - name: Trigger one immediate production scan
         if: always()
         run: |
