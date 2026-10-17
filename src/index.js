@@ -132,11 +132,12 @@ async function repairTheBrandIdentityTest(env){
   if(!checked.ok||!checked.post) throw new Error("Full case rebuild failed at "+checked.stage+": "+JSON.stringify(checked.errors||checked.visual||checked.technical));
 
   const post=checked.post;
+  const detailsUrl=viewerWithBack(post.detailsUrl,env.TELEGRAM_CHAT_ID,saved.message_id);
   const caption=[
     "🎬 <b>"+escapeHtml(shortText(post.title,180))+"</b>",
     ...(post.paragraphs||[]).slice(0,2).map(x=>escapeHtml(shortText(x,250))),
     "#visualidentity",
-    '<a href="'+escapeHtml(post.detailsUrl)+'">Ətraflı</a>     <a href="'+escapeHtml(post.sourceUrl)+'">Mənbə: The Brand Identity</a>'
+    '<a href="'+escapeHtml(detailsUrl)+'">Ətraflı</a>     <a href="'+escapeHtml(post.sourceUrl)+'">Mənbə: The Brand Identity</a>'
   ].join("\n\n");
 
   const edit=await telegramCall(env,"editMessageCaption",{
@@ -147,9 +148,9 @@ async function repairTheBrandIdentityTest(env){
   });
 
   const mediaCount=(article.item.caseStudyBlocks||[]).filter(x=>x.type!=="text").length;
-  const updated={...saved,detailsUrl:post.detailsUrl,imagesInTelegraph:mediaCount,repairedAt:new Date().toISOString()};
+  const updated={...saved,detailsUrl,imagesInTelegraph:mediaCount,repairedAt:new Date().toISOString()};
   await env.IDENTITY_KV?.put(marker,JSON.stringify(updated));
-  return {ok:true,message_id:edit.message_id,detailsUrl:post.detailsUrl,mediaInTelegraph:mediaCount};
+  return {ok:true,message_id:edit.message_id,detailsUrl,mediaInTelegraph:mediaCount};
 }
 
 async function sendTheBrandIdentityTest(env){
@@ -237,6 +238,17 @@ async function telegramCall(env,method,payload){
   const d=await r.json();
   if(!d.ok) throw new Error("Telegram "+method+": "+JSON.stringify(d));
   return d.result;
+}
+
+function viewerWithBack(detailsUrl,chatId,messageId){
+  try{
+    const u=new URL(String(detailsUrl||""));
+    if(u.hostname!=="united-identity-viewer.nasirovramin.workers.dev") return detailsUrl;
+    const cid=String(chatId||"").replace(/^-100/,"");
+    if(!/^\d+$/.test(cid)||!/^\d+$/.test(String(messageId||""))) return detailsUrl;
+    u.searchParams.set("back","https://t.me/c/"+cid+"/"+messageId);
+    return u.toString();
+  }catch{return detailsUrl}
 }
 
 function shortText(value="",limit=250){
