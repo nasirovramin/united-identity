@@ -14,7 +14,9 @@ const SOURCE={
 };
 
 const features=await reader(FEATURES,"markdown");
-const cards=discoverProjectLinksMarkdown(features).slice(0,5);
+const discovered=discoverProjectLinksMarkdown(features);
+console.log("TBI discovered project cards",discovered.length);
+const cards=discovered.slice(0,30);
 if(!cards.length) throw new Error("No The Brand Identity project cards found");
 
 const items=[];
