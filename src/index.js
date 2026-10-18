@@ -52,10 +52,25 @@ export default {
         ]);
         const source=WEB_SOURCES.find(x=>x.config.id==="the-brand-identity");
         const cards=source?await source.scan():[];
+        const cardStatus=[];
+        for(const packet of cards){
+          const url=packet?.item?.canonicalUrl||"";
+          let published=null;
+          if(url){
+            const raw=await env.IDENTITY_KV?.get(await publishedKey(url));
+            published=raw?JSON.parse(raw):null;
+          }
+          cardStatus.push({
+            url,
+            title:packet?.item?.titleOriginal||"",
+            published
+          });
+        }
         return json({
           ok:true,
           source:"the-brand-identity",
           cardsFound:cards.length,
+          cards:cardStatus,
           lastRun:lastRunRaw?JSON.parse(lastRunRaw):null,
           lastError:lastErrorRaw?JSON.parse(lastErrorRaw):null
         });
