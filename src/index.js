@@ -11,9 +11,11 @@ function json(data,status=200){
   });
 }
 
+const DAILY_PUBLISH_HOURS_BAKU=new Set([8,9,11,12,14,15,17,18,20,21]);
+
 export default {
   async scheduled(event,env,ctx){
-    ctx.waitUntil(runTheBrandIdentityCycle(env));
+    ctx.waitUntil(runScheduledIdentityCycle(event,env));
   },
 
   async fetch(req,env){
@@ -32,8 +34,8 @@ export default {
         sources:ALL_SOURCES.map(x=>x.config),
         automaticScanning:true,
         publishing:true,
-        schedule:"hourly",
-        policy:"The Brand Identity: one unseen project per run, full Azerbaijani article, deduplicated project media"
+        schedule:"10 posts/day across Baku daytime",
+        policy:"The Brand Identity: up to 10 unseen projects per day, one per scheduled slot, full Azerbaijani article, deduplicated project media"
       });
     }
 
@@ -150,6 +152,17 @@ export default {
 };
 
 
+async function runScheduledIdentityCycle(event,env){
+  const when=new Date(Number(event?.scheduledTime)||Date.now());
+  const bakuHour=(when.getUTCHours()+4)%24;
+
+  if(!DAILY_PUBLISH_HOURS_BAKU.has(bakuHour)){
+    return {ok:true,published:false,reason:"outside_daily_publish_slot",bakuHour};
+  }
+
+  return runTheBrandIdentityCycle(env);
+}
+
 async function runTheBrandIdentityCycle(env){
   const source=WEB_SOURCES.find(x=>x.config.id==="the-brand-identity");
   if(!source) throw new Error("The Brand Identity source missing");
@@ -189,9 +202,9 @@ async function runTheBrandIdentityCycle(env){
     return {ok:true,published:false,reason:"no_unseen"};
   }
 
-  // Snapshot is newest-first. Publish the oldest unseen item first so the
-  // current backlog is drained in order without flooding the channel.
-  const next=unseen[unseen.length-1];
+  // Snapshot is newest-first. Publish the newest unseen item first so the
+  // channel stays current while the expanded backlog is drained gradually.
+  const next=unseen[0];
   const article=await source.readArticle(next.item.canonicalUrl);
 
   const translator=new AzerbaijaniTranslator(env);
