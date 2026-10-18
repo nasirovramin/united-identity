@@ -1,6 +1,10 @@
 name: United Identity Health
 
 on:
+  push:
+    branches: [main.ru]
+    paths:
+      - ".github/workflows/health.yml"
   schedule:
     - cron: "15 * * * *"
   workflow_dispatch:
@@ -13,17 +17,36 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: Check Worker health
+      - name: Check Worker health and source runtime
         run: |
+          set -euo pipefail
+
           curl --fail --silent --show-error --max-time 60 \
             https://united-identity.nasirovramin.workers.dev/health \
             -o health.json
+
+          curl --fail --silent --show-error --max-time 90 \
+            https://united-identity.nasirovramin.workers.dev/status/the-brand-identity \
+            -o source-status.json
+
           node - <<'NODE'
           const fs=require("fs");
-          const d=JSON.parse(fs.readFileSync("health.json","utf8"));
-          if(!d.ok) throw new Error("Worker is unhealthy");
-          if(d.webSources!==0 || d.telegramSources!==0 || d.linkedinSources!==0){
-            throw new Error("Source layer is not empty");
+          const h=JSON.parse(fs.readFileSync("health.json","utf8"));
+          const s=JSON.parse(fs.readFileSync("source-status.json","utf8"));
+
+          if(!h.ok) throw new Error("Worker is unhealthy");
+          if(!h.sourceCount || h.sourceCount.web < 1){
+            throw new Error("The Brand Identity source is not registered");
           }
-          console.log("United Identity source layer is empty and healthy.");
+          if(!h.automaticScanning || !h.publishing){
+            throw new Error("Automatic source scanning/publishing is disabled");
+          }
+          if(!s.ok) throw new Error("The Brand Identity runtime status is unhealthy");
+
+          console.log("HEALTH="+JSON.stringify(h));
+          console.log("SOURCE_STATUS="+JSON.stringify(s));
+
+          if(s.lastError){
+            console.log("LAST_SOURCE_ERROR="+JSON.stringify(s.lastError));
+          }
           NODE
