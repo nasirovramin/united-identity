@@ -633,43 +633,9 @@ const snapshot={
           "type": "text",
           "tag": "p",
           "text": "Posters appeared in a wide range of locations across New York. SMLXL generally left the letterforms as they came out of the tool, making small adjustments by hand in a few cases, especially for print. In motion, a letter can become distorted or unreadable for a moment before it returns to a recognisable state. “We don’t have that luxury with a static image,” Naisberg notes. Legibility mattered particularly for artist names, “where we couldn’t rely on linguistic context to fill in the gaps.” For the posters, the studio let the music run and exported anywhere from 10 to 100 frames. “We would then go through them, selecting individual letters and moments that worked, and sometimes combining letters from different frames to build the final composition,” Naisberg explains."
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "MoMa PS1"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "PS1 Sans by Berton Hasebe"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Ryan Muir"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Marissa Alper"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Noel Woodford"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Posterize"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/4994352.jpg"
         }
       ],
-      "caseStudyText": "Warm Up, MoMA PS1’s summer festival, has brought together music, art and community in New York for nearly three decades, with past line-ups including Arca, SOPHIE, Solange, Jamie xx, Four Tet and Grimes. Its 28th edition fell in the institution’s 50th anniversary year, with a line-up centred on experimental music. Ahead of its 24th July - 28th August 2026 run, New York and Barcelona-based design company SMLXL came on board to create Warm Up’s musical identity and campaign.\n\nSMLXL put the musical artists and the crowd at the centre of the work, building it on a premise – make the type dance to the music. “We wanted to capture the energy and diversity of the Warm Up crowd – people coming together, dancing freely and expressing themselves in their own ways,” Designer Lea Naisberg tells us. “The typography mirrors that behaviour through outbursts, swaying movements and moments of release.”\n\nThe typography is set in PS1 Sans, MoMA PS1’s typeface, designed by Berton Hasebe of HB Type. “Rather than adding anything to the type, we make what is already there move,” Naisberg explains. “The type remains PS1 Sans at its core; it is just dancing.” SMLXL distorted each letter along its outline, displacing specific points on its contours and “almost treating them like limbs that can move or stretch.” Some compositions start with the type completely still, and in the more dynamic applications, the movement is limited to certain letters or parts of a word. “There’s a balance between movement and recognition,” she notes.\n\nSMLXL developed an interactive tool to make the type react to the music, taking an SVG of the letters and an MP3 of a track as inputs. The tool analyses the track across different frequency ranges and maps them to different letters or parts of the composition, so a letter can become more or less expressive with the volume and intensity in that range. The tracks on the line-up ranged from explosive, high-BPM techno to much more subdued or ambient music. “We wanted the letters to respond differently to those moods, rather than having one fixed type of movement,” Naisberg details. To do that, the studio built a vocabulary of parameters, combined to produce different kinds of movement. One of them, Crowded, controls the density – “how many dancers are occupying the space.” The output is generated live, with an element of randomness built in, so even with the same settings the letters never move in exactly the same way twice. Each result can be captured as a still frame or recorded as video.\n\nEach artist on the line-up is announced with a digital graphic of their own, which opens on the artist’s image before the letters stretch, bend, twist and shift to their music, until the moving type takes over the whole screen. The colours come from MoMA PS1’s existing palette, used as duotones for these artist graphics and in four-colour combinations across the wider communications. “We also explored warmer colour combinations, but eventually moved towards something more acidic and refreshing,” Naisberg tells us. “It felt like a good counterpoint to the summery character of Warm Up.”\n\nPosters appeared in a wide range of locations across New York. SMLXL generally left the letterforms as they came out of the tool, making small adjustments by hand in a few cases, especially for print. In motion, a letter can become distorted or unreadable for a moment before it returns to a recognisable state. “We don’t have that luxury with a static image,” Naisberg notes. Legibility mattered particularly for artist names, “where we couldn’t rely on linguistic context to fill in the gaps.” For the posters, the studio let the music run and exported anywhere from 10 to 100 frames. “We would then go through them, selecting individual letters and moments that worked, and sometimes combining letters from different frames to build the final composition,” Naisberg explains.\n\nMoMa PS1\n\nPS1 Sans by Berton Hasebe\n\nRyan Muir\n\nMarissa Alper\n\nNoel Woodford\n\nPosterize",
+      "caseStudyText": "Warm Up, MoMA PS1’s summer festival, has brought together music, art and community in New York for nearly three decades, with past line-ups including Arca, SOPHIE, Solange, Jamie xx, Four Tet and Grimes. Its 28th edition fell in the institution’s 50th anniversary year, with a line-up centred on experimental music. Ahead of its 24th July - 28th August 2026 run, New York and Barcelona-based design company SMLXL came on board to create Warm Up’s musical identity and campaign.\n\nSMLXL put the musical artists and the crowd at the centre of the work, building it on a premise – make the type dance to the music. “We wanted to capture the energy and diversity of the Warm Up crowd – people coming together, dancing freely and expressing themselves in their own ways,” Designer Lea Naisberg tells us. “The typography mirrors that behaviour through outbursts, swaying movements and moments of release.”\n\nThe typography is set in PS1 Sans, MoMA PS1’s typeface, designed by Berton Hasebe of HB Type. “Rather than adding anything to the type, we make what is already there move,” Naisberg explains. “The type remains PS1 Sans at its core; it is just dancing.” SMLXL distorted each letter along its outline, displacing specific points on its contours and “almost treating them like limbs that can move or stretch.” Some compositions start with the type completely still, and in the more dynamic applications, the movement is limited to certain letters or parts of a word. “There’s a balance between movement and recognition,” she notes.\n\nSMLXL developed an interactive tool to make the type react to the music, taking an SVG of the letters and an MP3 of a track as inputs. The tool analyses the track across different frequency ranges and maps them to different letters or parts of the composition, so a letter can become more or less expressive with the volume and intensity in that range. The tracks on the line-up ranged from explosive, high-BPM techno to much more subdued or ambient music. “We wanted the letters to respond differently to those moods, rather than having one fixed type of movement,” Naisberg details. To do that, the studio built a vocabulary of parameters, combined to produce different kinds of movement. One of them, Crowded, controls the density – “how many dancers are occupying the space.” The output is generated live, with an element of randomness built in, so even with the same settings the letters never move in exactly the same way twice. Each result can be captured as a still frame or recorded as video.\n\nEach artist on the line-up is announced with a digital graphic of their own, which opens on the artist’s image before the letters stretch, bend, twist and shift to their music, until the moving type takes over the whole screen. The colours come from MoMA PS1’s existing palette, used as duotones for these artist graphics and in four-colour combinations across the wider communications. “We also explored warmer colour combinations, but eventually moved towards something more acidic and refreshing,” Naisberg tells us. “It felt like a good counterpoint to the summery character of Warm Up.”\n\nPosters appeared in a wide range of locations across New York. SMLXL generally left the letterforms as they came out of the tool, making small adjustments by hand in a few cases, especially for print. In motion, a letter can become distorted or unreadable for a moment before it returns to a recognisable state. “We don’t have that luxury with a static image,” Naisberg notes. Legibility mattered particularly for artist names, “where we couldn’t rely on linguistic context to fill in the gaps.” For the posters, the studio let the music run and exported anywhere from 10 to 100 frames. “We would then go through them, selecting individual letters and moments that worked, and sometimes combining letters from different frames to build the final composition,” Naisberg explains.",
       "caseStudyMedia": [
         {
           "type": "image",
@@ -698,10 +664,6 @@ const snapshot={
         {
           "type": "video",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/smlxls-identity-for-moma-ps1s-warm-up-has-letters-that-dance-to-music/MoMA-PS1s-Warm-Up-SMLXL-09_smaller.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/4994352.jpg"
         }
       ]
     }
