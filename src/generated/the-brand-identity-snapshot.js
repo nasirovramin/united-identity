@@ -2506,562 +2506,161 @@ const snapshot={
       ]
     },
     {
-      "canonicalUrl": "https://the-brandidentity.com/project/reunion-creates-the-name-and-the-identity-for-skincare-brand-tome",
-      "titleOriginal": "REUNION creates the name and the identity for skincare brand Tome",
-      "textOriginal": "Tome Skincare is built on nearly a decade of research into Spongilla lacustris, a freshwater river sponge that has been used on skin for centuries. Dermata Therapeutics, Tome’s parent company, used the findings to develop the Foundational Treatment – the brand’s first product – a mask used once a week at home. Its hero ingredient is the sponge in powder form, which Tome calls Bioneedle. The product is on sale direct to consumers, while Tome is also building a channel for aestheticians and other skincare professionals alongside it. Los Angeles-based design and strategy studio REUNION was commissioned to create Tome’s identity for the launch.\n\nDermata Therapeutics began investigating the sponge in 2017. “We came to REUNION with the product, the research and a clear understanding of what made the technology unique, but very little else from a brand perspective,” Tome’s VP Marketing Kyra Peckaitis tells us. REUNION and Tome began with research into who would find the product most valuable, how those people approached skincare and what would make them add a treatment like it to a routine. From there, the remit took in the name, brand strategy, packaging, print, digital, films, advertising, website and physical pop-up experiences, across a partnership that ran for over a year.",
+      "canonicalUrl": "https://the-brandidentity.com/project/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues",
+      "titleOriginal": "Pentagram rebrands De Bijloke, one of Europe’s most vibrant music venues",
+      "textOriginal": "Muziekcentrum De Bijloke is one of Europe’s most vibrant music venues, and it has a history like no other. The Ghent music centre’s central performance space sits under an oak roof structure that began life in 1251 as a medieval hospital, and a major restoration and acoustic redesign turned it into the concert hall it is today. Ahead of the launch of its 26/27 season, De Bijloke asked Pentagram’s London office for a digital-first identity that would attract new music-loving visitors while still appealing to its loyal audience.\n\nFor years after that restoration, De Bijloke’s communication was about the building. “The project started from a feeling that our identity and the story we were telling about De Bijloke no longer fully reflected who we had become,” explains Lead of Public & Marketing/Communication, Shari Platteeuw. “We were not looking for a new logo in isolation,” she continues. “We wanted to rethink the brand more fundamentally: our positioning, our visual language and the way we speak about De Bijloke. Pentagram helped us translate the tension that is very specific to this place: eight centuries of history, combined with music that only truly exists in the moment it is performed.”",
       "agency": "",
       "media": [
         {
           "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/reunion-creates-the-name-and-the-identity-for-skincare-brand-tome/Tome-Skincare-REUNION-01.jpg"
+          "url": "https://the-brandidentity.com/uploads/videos/13516116.jpg"
         }
       ],
       "hasCaseStudy": true,
       "caseStudyBlocks": [
         {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/reunion-creates-the-name-and-the-identity-for-skincare-brand-tome/Tome-Skincare-REUNION-01.jpg"
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-00.mp4"
         },
         {
           "type": "text",
           "tag": "h2",
-          "text": "Tome Skincare is built on nearly a decade of research into Spongilla lacustris, a freshwater river sponge that has been used on skin for centuries. Dermata Therapeutics, Tome’s parent company, used the findings to develop the Foundational Treatment – the brand’s first product – a mask used once a week at home. Its hero ingredient is the sponge in powder form, which Tome calls Bioneedle. The product is on sale direct to consumers, while Tome is also building a channel for aestheticians and other skincare professionals alongside it. Los Angeles-based design and strategy studio REUNION was commissioned to create Tome’s identity for the launch."
+          "text": "Muziekcentrum De Bijloke is one of Europe’s most vibrant music venues, and it has a history like no other. The Ghent music centre’s central performance space sits under an oak roof structure that began life in 1251 as a medieval hospital, and a major restoration and acoustic redesign turned it into the concert hall it is today. Ahead of the launch of its 26/27 season, De Bijloke asked Pentagram’s London office for a digital-first identity that would attract new music-loving visitors while still appealing to its loyal audience."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-02-new.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "For years after that restoration, De Bijloke’s communication was about the building. “The project started from a feeling that our identity and the story we were telling about De Bijloke no longer fully reflected who we had become,” explains Lead of Public & Marketing/Communication, Shari Platteeuw. “We were not looking for a new logo in isolation,” she continues. “We wanted to rethink the brand more fundamentally: our positioning, our visual language and the way we speak about De Bijloke. Pentagram helped us translate the tension that is very specific to this place: eight centuries of history, combined with music that only truly exists in the moment it is performed.”"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-03.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“That eventually became the idea behind the brand: ‘Alive in every moment. Past, present and future,’” Platteeuw adds. Pentagram delivered guidelines with the identity, setting out the principles for its verbal language, in which De Bijloke speaks as a gracious host and a thoughtful curator of its programme."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-13.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-14.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“In workshops with the clients we got to understand their programme and curatorial approach more deeply,” Pentagram’s Partner Marina Willer tells us. “In our research, we looked at many ways that music can be visualised through movement,” Willer explains, the search taking in her doodles, various dance and music notations, and the way artists trace their body movement. The logo that came out of that research is a swooping, fluid mark, drawn from the unconventional music notation methods of composer John Cage and from experiments with an oscilloscope – an analogue tool that visualises audio signals. “The objective was to move away from the ‘historical’ perceptions people already have of Bijloke’s musical programme,” she continues. “So, we avoided the obvious iconography clichés – musical clefs and classical scores.”"
         },
         {
           "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/reunion-creates-the-name-and-the-identity-for-skincare-brand-tome/Tome-Skincare-REUNION-02.mp4"
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-05.mp4"
         },
         {
           "type": "text",
           "tag": "p",
-          "text": "Dermata Therapeutics began investigating the sponge in 2017. “We came to REUNION with the product, the research and a clear understanding of what made the technology unique, but very little else from a brand perspective,” Tome’s VP Marketing Kyra Peckaitis tells us. REUNION and Tome began with research into who would find the product most valuable, how those people approached skincare and what would make them add a treatment like it to a routine. From there, the remit took in the name, brand strategy, packaging, print, digital, films, advertising, website and physical pop-up experiences, across a partnership that ran for over a year."
+          "text": "Against the mark’s expressiveness, the typography is modern, clear and confident. Pentagram chose the sans serif Forma DJR for its simplicity, and to convey a democratic, approachable brand aimed at everyone – its plain letterforms giving the identity a neutral balance and still leaving room for creative arrangements in headlines and key messaging. The palette is drawn from features that are constant across the building: the walls, chairs and windows. Each colour taken from them is paired with a vibrant tone that stands for the contemporary eye of the programme and the modernity of the refurbished space, against the historical building around it. The team also created a series of patterns to use as supporting graphics."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-12.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-09.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "De Bijloke asked for Jazz, Family and what it calls New Music – the more experimental strand – to have a presence of their own, connected to the identity. “Three parts of the programme needed to be highlighted,” Willer details, “as current perceptions are that their programme is predominantly classical, which is not the case.” “De Bijloke presents classical music, early music, contemporary classical music, jazz, festivals and projects for younger audiences, so we needed an identity that could create strong recognition without making every programme look identical,” Platteeuw notes."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-08.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-10.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Each of the three strands has a pattern of its own, separate from the supporting graphics. Jazz and New Music take theirs from the oscilloscope work more directly than the rest of the identity does. Jazz is inspired by the improvisation in the genre, and New Music pushes the mark further than anywhere else. The Family pattern goes its own way, and it is the playful one of the three."
         },
         {
           "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/reunion-creates-the-name-and-the-identity-for-skincare-brand-tome/Tome-Skincare-REUNION-04.mp4"
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-07.mp4"
         },
         {
           "type": "text",
           "tag": "p",
-          "text": "Working from two convictions – routines can be simpler, and natural can be powerful – REUNION arrived at an idea it calls ‘ancestral innovation’ and named the brand Tome. “If you look across the vastness of the skincare space, products typically fall into one of two distinct categories: scientific to the point of cold and clinical, or natural, which leaves you questioning whether the product will even work,” REUNION’s CCO & Co-founder Thomas Wilder explains."
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“When we were developing names for the company, Tome was always one of our favourites because of its meaning: a large, heavy and often scholarly or academic book. The fact that they have studied skincare and their key ingredient for over a decade, made the idea of a book as packaging a novel and natural fit,” he continues."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/reunion-creates-the-name-and-the-identity-for-skincare-brand-tome/Tome-Skincare-REUNION-03.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Shaped like a book, the outer box carries TOME on the spine and again on the front, with a small pale label in the top corner reading ‘Foundational Treatment with Bioneedle.’ The labelling comes from the kind used in archival research collections. “We wanted the outer book cloth and packaging to feel like it had been stowed away in libraries for centuries. Something that’s been waiting to be discovered,” Wilder details. Inside, a dish of powder is labelled ‘Bioneedle Spongilla Powder’ and a welcome card has the line ‘The oldest new thing in skincare.’ The identity’s typefaces are Sharp Type’s Sharp Serif and Dinamo’s ABC Repro."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/reunion-creates-the-name-and-the-identity-for-skincare-brand-tome/Tome-Skincare-REUNION-08.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/reunion-creates-the-name-and-the-identity-for-skincare-brand-tome/Tome-Skincare-REUNION-09.jpeg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "At the foot of the spine, the numeral reads 001, denoting Tome’s first launch, so later products can take 002, 003 and on from there, in the manner of volumes of books. “After roughly 20 iterations – maybe 24, who’s counting? – seeing the colour, materials, textures and overall experience come together for the first time was incredibly emotional,” Peckaitis recalls of the packaging."
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Wilder describes the sponge’s own colour as a striking vivid green. Spongilla lacustris shifts to a darker olive when it is underwater or dried, and the Bioneedle powder turns olive green once it is mixed into the Foundational Treatment. “Our thought was that Tome can own a green that’s inspired by the natural colour of the sponge, but also embrace the range of greens you experience while using the product,” he notes."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/reunion-creates-the-name-and-the-identity-for-skincare-brand-tome/Tome-Skincare-REUNION-07.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "REUNION created a system of scientific illustration. “They were inspired by stippling illustrations used in scientific journals and books. These types of illustrations were originally used to accurately display textures and shading with nuance, and to showcase details without the harshness of other illustrative mediums. In our case, the dots mimic the natural qualities of the sea sponge and are a nod to what the spicules of the sea sponge do during a treatment: they open up small microchannels in your skin and pores,” Wilder explains. “We use the illustrations throughout the identity to tell stories about the science and innovation behind the product, especially when we are telling stories at the microscopic level where it would be difficult to communicate those ideas through photography.”"
+          "text": "Pentagram also built a generative tool, which reworks the Jazz and New Music patterns. A designer adjusts the drawing of the mark on it, with scales for the intensity and movement of the lines. The output is a run of ever-changing forms, adaptable for motion and exported for any format. Sam Corijn, De Bijloke’s designer, has since been using it in the programme design."
         },
         {
           "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/reunion-creates-the-name-and-the-identity-for-skincare-brand-tome/Tome-Skincare-REUNION-10.mp4"
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-06.mp4"
         },
         {
           "type": "text",
           "tag": "p",
-          "text": "Mari Juliano shot the photography, pairing natural light with dark olive-green and yellowish tones to move it from studio shots through scientific details to an outdoor setting. Najeeb Tarazi directed the brand films, including one shot in a film studio. “We used the river to evoke a feeling of natural discovery, the library to create curiosity and a nod to the origin of the word Tome, and warm earthy olive-green ambient light with deep shadows and low contrast in the studio to express renewal,” Wilder adds."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/reunion-creates-the-name-and-the-identity-for-skincare-brand-tome/Tome-Skincare-REUNION-06.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/reunion-creates-the-name-and-the-identity-for-skincare-brand-tome/Tome-Skincare-REUNION-05.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "REUNION describes the voice it created for Tome as plainspoken yet warm, which shows on the homepage through lines like ‘Renewal has many chapters.’ In the research that opened the project, REUNION kept hearing that people cannot decipher the language around skincare treatments, so the website answers that with an alphabetical index. “The index of ingredients not only helps educate consumers, but also harkens back to the inspiration for Tome’s name: a scholarly book,” Wilder concludes."
+          "text": "The identity launched in May 2026 with the website, alongside the announcement of the 26/27 season. It now runs across De Bijloke’s main audience touchpoints, and the venue is translating it into the physical experience of the building gradually. “What stands out most is how naturally the new identity has been accepted, also by people who have known De Bijloke for years. Our Friends membership programme has remained very strong since the launch and has even continued to grow,” Platteeuw concludes."
         }
       ],
-      "caseStudyText": "Tome Skincare is built on nearly a decade of research into Spongilla lacustris, a freshwater river sponge that has been used on skin for centuries. Dermata Therapeutics, Tome’s parent company, used the findings to develop the Foundational Treatment – the brand’s first product – a mask used once a week at home. Its hero ingredient is the sponge in powder form, which Tome calls Bioneedle. The product is on sale direct to consumers, while Tome is also building a channel for aestheticians and other skincare professionals alongside it. Los Angeles-based design and strategy studio REUNION was commissioned to create Tome’s identity for the launch.\n\nDermata Therapeutics began investigating the sponge in 2017. “We came to REUNION with the product, the research and a clear understanding of what made the technology unique, but very little else from a brand perspective,” Tome’s VP Marketing Kyra Peckaitis tells us. REUNION and Tome began with research into who would find the product most valuable, how those people approached skincare and what would make them add a treatment like it to a routine. From there, the remit took in the name, brand strategy, packaging, print, digital, films, advertising, website and physical pop-up experiences, across a partnership that ran for over a year.\n\nWorking from two convictions – routines can be simpler, and natural can be powerful – REUNION arrived at an idea it calls ‘ancestral innovation’ and named the brand Tome. “If you look across the vastness of the skincare space, products typically fall into one of two distinct categories: scientific to the point of cold and clinical, or natural, which leaves you questioning whether the product will even work,” REUNION’s CCO & Co-founder Thomas Wilder explains.\n\n“When we were developing names for the company, Tome was always one of our favourites because of its meaning: a large, heavy and often scholarly or academic book. The fact that they have studied skincare and their key ingredient for over a decade, made the idea of a book as packaging a novel and natural fit,” he continues.\n\nShaped like a book, the outer box carries TOME on the spine and again on the front, with a small pale label in the top corner reading ‘Foundational Treatment with Bioneedle.’ The labelling comes from the kind used in archival research collections. “We wanted the outer book cloth and packaging to feel like it had been stowed away in libraries for centuries. Something that’s been waiting to be discovered,” Wilder details. Inside, a dish of powder is labelled ‘Bioneedle Spongilla Powder’ and a welcome card has the line ‘The oldest new thing in skincare.’ The identity’s typefaces are Sharp Type’s Sharp Serif and Dinamo’s ABC Repro.\n\nAt the foot of the spine, the numeral reads 001, denoting Tome’s first launch, so later products can take 002, 003 and on from there, in the manner of volumes of books. “After roughly 20 iterations – maybe 24, who’s counting? – seeing the colour, materials, textures and overall experience come together for the first time was incredibly emotional,” Peckaitis recalls of the packaging.\n\nWilder describes the sponge’s own colour as a striking vivid green. Spongilla lacustris shifts to a darker olive when it is underwater or dried, and the Bioneedle powder turns olive green once it is mixed into the Foundational Treatment. “Our thought was that Tome can own a green that’s inspired by the natural colour of the sponge, but also embrace the range of greens you experience while using the product,” he notes.\n\nREUNION created a system of scientific illustration. “They were inspired by stippling illustrations used in scientific journals and books. These types of illustrations were originally used to accurately display textures and shading with nuance, and to showcase details without the harshness of other illustrative mediums. In our case, the dots mimic the natural qualities of the sea sponge and are a nod to what the spicules of the sea sponge do during a treatment: they open up small microchannels in your skin and pores,” Wilder explains. “We use the illustrations throughout the identity to tell stories about the science and innovation behind the product, especially when we are telling stories at the microscopic level where it would be difficult to communicate those ideas through photography.”\n\nMari Juliano shot the photography, pairing natural light with dark olive-green and yellowish tones to move it from studio shots through scientific details to an outdoor setting. Najeeb Tarazi directed the brand films, including one shot in a film studio. “We used the river to evoke a feeling of natural discovery, the library to create curiosity and a nod to the origin of the word Tome, and warm earthy olive-green ambient light with deep shadows and low contrast in the studio to express renewal,” Wilder adds.\n\nREUNION describes the voice it created for Tome as plainspoken yet warm, which shows on the homepage through lines like ‘Renewal has many chapters.’ In the research that opened the project, REUNION kept hearing that people cannot decipher the language around skincare treatments, so the website answers that with an alphabetical index. “The index of ingredients not only helps educate consumers, but also harkens back to the inspiration for Tome’s name: a scholarly book,” Wilder concludes.",
+      "caseStudyText": "Muziekcentrum De Bijloke is one of Europe’s most vibrant music venues, and it has a history like no other. The Ghent music centre’s central performance space sits under an oak roof structure that began life in 1251 as a medieval hospital, and a major restoration and acoustic redesign turned it into the concert hall it is today. Ahead of the launch of its 26/27 season, De Bijloke asked Pentagram’s London office for a digital-first identity that would attract new music-loving visitors while still appealing to its loyal audience.\n\nFor years after that restoration, De Bijloke’s communication was about the building. “The project started from a feeling that our identity and the story we were telling about De Bijloke no longer fully reflected who we had become,” explains Lead of Public & Marketing/Communication, Shari Platteeuw. “We were not looking for a new logo in isolation,” she continues. “We wanted to rethink the brand more fundamentally: our positioning, our visual language and the way we speak about De Bijloke. Pentagram helped us translate the tension that is very specific to this place: eight centuries of history, combined with music that only truly exists in the moment it is performed.”\n\n“That eventually became the idea behind the brand: ‘Alive in every moment. Past, present and future,’” Platteeuw adds. Pentagram delivered guidelines with the identity, setting out the principles for its verbal language, in which De Bijloke speaks as a gracious host and a thoughtful curator of its programme.\n\n“In workshops with the clients we got to understand their programme and curatorial approach more deeply,” Pentagram’s Partner Marina Willer tells us. “In our research, we looked at many ways that music can be visualised through movement,” Willer explains, the search taking in her doodles, various dance and music notations, and the way artists trace their body movement. The logo that came out of that research is a swooping, fluid mark, drawn from the unconventional music notation methods of composer John Cage and from experiments with an oscilloscope – an analogue tool that visualises audio signals. “The objective was to move away from the ‘historical’ perceptions people already have of Bijloke’s musical programme,” she continues. “So, we avoided the obvious iconography clichés – musical clefs and classical scores.”\n\nAgainst the mark’s expressiveness, the typography is modern, clear and confident. Pentagram chose the sans serif Forma DJR for its simplicity, and to convey a democratic, approachable brand aimed at everyone – its plain letterforms giving the identity a neutral balance and still leaving room for creative arrangements in headlines and key messaging. The palette is drawn from features that are constant across the building: the walls, chairs and windows. Each colour taken from them is paired with a vibrant tone that stands for the contemporary eye of the programme and the modernity of the refurbished space, against the historical building around it. The team also created a series of patterns to use as supporting graphics.\n\nDe Bijloke asked for Jazz, Family and what it calls New Music – the more experimental strand – to have a presence of their own, connected to the identity. “Three parts of the programme needed to be highlighted,” Willer details, “as current perceptions are that their programme is predominantly classical, which is not the case.” “De Bijloke presents classical music, early music, contemporary classical music, jazz, festivals and projects for younger audiences, so we needed an identity that could create strong recognition without making every programme look identical,” Platteeuw notes.\n\nEach of the three strands has a pattern of its own, separate from the supporting graphics. Jazz and New Music take theirs from the oscilloscope work more directly than the rest of the identity does. Jazz is inspired by the improvisation in the genre, and New Music pushes the mark further than anywhere else. The Family pattern goes its own way, and it is the playful one of the three.\n\nPentagram also built a generative tool, which reworks the Jazz and New Music patterns. A designer adjusts the drawing of the mark on it, with scales for the intensity and movement of the lines. The output is a run of ever-changing forms, adaptable for motion and exported for any format. Sam Corijn, De Bijloke’s designer, has since been using it in the programme design.\n\nThe identity launched in May 2026 with the website, alongside the announcement of the 26/27 season. It now runs across De Bijloke’s main audience touchpoints, and the venue is translating it into the physical experience of the building gradually. “What stands out most is how naturally the new identity has been accepted, also by people who have known De Bijloke for years. Our Friends membership programme has remained very strong since the launch and has even continued to grow,” Platteeuw concludes.",
       "caseStudyMedia": [
         {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-00.mp4"
+        },
+        {
           "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/reunion-creates-the-name-and-the-identity-for-skincare-brand-tome/Tome-Skincare-REUNION-01.jpg"
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-02-new.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-03.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-13.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-14.jpg"
         },
         {
           "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/reunion-creates-the-name-and-the-identity-for-skincare-brand-tome/Tome-Skincare-REUNION-02.mp4"
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-05.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-12.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-09.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-08.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-10.jpg"
         },
         {
           "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/reunion-creates-the-name-and-the-identity-for-skincare-brand-tome/Tome-Skincare-REUNION-04.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/reunion-creates-the-name-and-the-identity-for-skincare-brand-tome/Tome-Skincare-REUNION-03.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/reunion-creates-the-name-and-the-identity-for-skincare-brand-tome/Tome-Skincare-REUNION-08.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/reunion-creates-the-name-and-the-identity-for-skincare-brand-tome/Tome-Skincare-REUNION-09.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/reunion-creates-the-name-and-the-identity-for-skincare-brand-tome/Tome-Skincare-REUNION-07.jpg"
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-07.mp4"
         },
         {
           "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/reunion-creates-the-name-and-the-identity-for-skincare-brand-tome/Tome-Skincare-REUNION-10.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/reunion-creates-the-name-and-the-identity-for-skincare-brand-tome/Tome-Skincare-REUNION-06.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/reunion-creates-the-name-and-the-identity-for-skincare-brand-tome/Tome-Skincare-REUNION-05.jpg"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/auge-design-sets-pear-brand-eden-golds-identity-in-a-garden-of-eden",
-      "titleOriginal": "AUGE Design sets pear brand Eden Gold’s identity in a Garden of Eden",
-      "textOriginal": "Greenyard Fresh Italy handles the import, export and wholesale distribution of fresh fruit and vegetables as the Italian arm of the Belgian group Greenyard. Eden Gold is a new pear variety, for which the company decided to build a brand to bring it to market.\n\n“We are convinced that the pear sector has great potential: consumption is declining among younger generations, and there is no market-leading variety,” Marketing Director Maicol Galeati tells us. Work on the brand had already begun when Greenyard Fresh Italy commissioned Florence and Milan-based agency AUGE Design to create the positioning, identity and packaging to communicate the disruptive and snackable nature of the product. “Our fresh produce sector isn’t very advanced in the world of design. The brand was in its early stages,” Galeati explains, “almost a rough draft, I’d say; but believing in the project’s distinctiveness and potential, we felt we needed to do something that could truly take the product to the next level. That’s why we asked AUGE to help us elevate the brand compared to the other fresh produce products we encounter every day.”",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/auge-design-sets-pear-brand-eden-golds-identity-in-a-garden-of-eden/EDEN-GOLD-AUGE-Design-01.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/auge-design-sets-pear-brand-eden-golds-identity-in-a-garden-of-eden/EDEN-GOLD-AUGE-Design-01.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "Greenyard Fresh Italy handles the import, export and wholesale distribution of fresh fruit and vegetables as the Italian arm of the Belgian group Greenyard. Eden Gold is a new pear variety, for which the company decided to build a brand to bring it to market."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/auge-design-sets-pear-brand-eden-golds-identity-in-a-garden-of-eden/EDEN-GOLD-AUGE-Design-02.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“We are convinced that the pear sector has great potential: consumption is declining among younger generations, and there is no market-leading variety,” Marketing Director Maicol Galeati tells us. Work on the brand had already begun when Greenyard Fresh Italy commissioned Florence and Milan-based agency AUGE Design to create the positioning, identity and packaging to communicate the disruptive and snackable nature of the product. “Our fresh produce sector isn’t very advanced in the world of design. The brand was in its early stages,” Galeati explains, “almost a rough draft, I’d say; but believing in the project’s distinctiveness and potential, we felt we needed to do something that could truly take the product to the next level. That’s why we asked AUGE to help us elevate the brand compared to the other fresh produce products we encounter every day.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/auge-design-sets-pear-brand-eden-golds-identity-in-a-garden-of-eden/EDEN-GOLD-AUGE-Design-03.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Eden Gold’s positioning is ‘LA PERA CHE CAMBIA LA STORIA.’ – in English, ‘the pear that changes the story.’ The line appears on outdoor posters and on the packaging. “Eden Gold is a particularly crisp pear, offering a different eating experience compared with more traditional pear varieties,” AUGE Design details. “The idea of ‘changing the story’ therefore works on two levels: it introduces a new way of experiencing the product while also positioning Eden Gold as something unexpected within its category. ‘Peccato non morderla,’ literally, ‘It would be a sin not to bite it,’ translates the same idea into a more immediate, playful and memorable expression. The line directly references the imagery of Eden and the forbidden fruit, creating an ironic connection between temptation and the act of biting into the pear,” the studio continues. “The Eden name itself offered the possibility of building an entire narrative world around the product. This storytelling dimension became one of the most distinctive aspects: Eden Gold is not simply presented as another variety of pear, but as the protagonist of its own story.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/auge-design-sets-pear-brand-eden-golds-identity-in-a-garden-of-eden/EDEN-GOLD-AUGE-Design-06.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/auge-design-sets-pear-brand-eden-golds-identity-in-a-garden-of-eden/EDEN-GOLD-AUGE-Design-07.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The identity is built on a set of artworks treated as pictorial pieces. AUGE Design developed the artworks with the support of AI, under its own precise art direction. The visuals began with “our own interpretation of what a contemporary Garden of Eden could look like,” the studio notes. “We first worked through sketches and compositional studies to define the landscapes, architecture, atmosphere and hierarchy of the different elements. The scenes were then developed using artificial intelligence, while continuously refining and controlling the composition, lighting, mood and stylistic consistency. We established a specific set of visual parameters to generate different scenes while ensuring they all belonged to the same imaginary world and shared a consistent visual language.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/auge-design-sets-pear-brand-eden-golds-identity-in-a-garden-of-eden/EDEN-GOLD-AUGE-Design-04.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The positioning ‘the pear that changes the story’ was the starting point for the identity, in the branding as much as the packaging. “From the outset, we wanted to create a custom lettering system with a serif structure that felt bold and contemporary at the same time. Particular attention was given to signature details, such as the curved terminals of the ‘E,’ which contribute to making the wordmark immediately recognisable,” the studio tells us. The primary typeface is the bold yet decorative Indubitably. It expresses both the brand’s tone of voice and its storytelling dimension. The plainer Archivo is its functional counterpart."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/auge-design-sets-pear-brand-eden-golds-identity-in-a-garden-of-eden/EDEN-GOLD-AUGE-Design-10.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "For colour, AUGE Design chose light blue and gold. “The palette was designed first and foremost to maximise the packaging’s stand-out on shelf. Fresh fruit and vegetable packaging often relies on natural, earthy and craft-inspired colours. With Eden Gold, we deliberately moved away from these familiar category codes, introducing a palette that feels unexpected within the sector while remaining closely connected to the product name and to the precious, almost fairytale-like imagery of the Garden of Eden,” AUGE Design reasons. “Together, they also create a strong contrast with the natural yellow and red tones of the fruit visible through the die-cut window, making the pears themselves an active part of the visual composition,” the studio continues. “The die-cut window is inspired by architectural forms connected to the neoclassical imaginary developed throughout the identity. At the same time, it performs an important practical function by allowing consumers to see the product directly, especially since no photographic representation of the pear appears on the packaging.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/auge-design-sets-pear-brand-eden-golds-identity-in-a-garden-of-eden/EDEN-GOLD-AUGE-Design-08.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/auge-design-sets-pear-brand-eden-golds-identity-in-a-garden-of-eden/EDEN-GOLD-AUGE-Design-09.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Greenyard Fresh Italy holds the exclusive licence to sell Eden Gold in Italy and Europe. “We’ve entered markets in Germany, Denmark, Austria, England and, of course, Italy,” Galeati notes. In February 2026, Italian fruit trade title FruitJournal reported that volumes quadrupled over the season, with the growth driven mainly by export, and that several major chains in Austria and Germany took the product on as a premium private label, but that Italy is the harder market. “What gives us the most confidence is the positive feedback from children, who really love the product – they’re our barometer for tomorrow’s market,” he concludes."
-        }
-      ],
-      "caseStudyText": "Greenyard Fresh Italy handles the import, export and wholesale distribution of fresh fruit and vegetables as the Italian arm of the Belgian group Greenyard. Eden Gold is a new pear variety, for which the company decided to build a brand to bring it to market.\n\n“We are convinced that the pear sector has great potential: consumption is declining among younger generations, and there is no market-leading variety,” Marketing Director Maicol Galeati tells us. Work on the brand had already begun when Greenyard Fresh Italy commissioned Florence and Milan-based agency AUGE Design to create the positioning, identity and packaging to communicate the disruptive and snackable nature of the product. “Our fresh produce sector isn’t very advanced in the world of design. The brand was in its early stages,” Galeati explains, “almost a rough draft, I’d say; but believing in the project’s distinctiveness and potential, we felt we needed to do something that could truly take the product to the next level. That’s why we asked AUGE to help us elevate the brand compared to the other fresh produce products we encounter every day.”\n\nEden Gold’s positioning is ‘LA PERA CHE CAMBIA LA STORIA.’ – in English, ‘the pear that changes the story.’ The line appears on outdoor posters and on the packaging. “Eden Gold is a particularly crisp pear, offering a different eating experience compared with more traditional pear varieties,” AUGE Design details. “The idea of ‘changing the story’ therefore works on two levels: it introduces a new way of experiencing the product while also positioning Eden Gold as something unexpected within its category. ‘Peccato non morderla,’ literally, ‘It would be a sin not to bite it,’ translates the same idea into a more immediate, playful and memorable expression. The line directly references the imagery of Eden and the forbidden fruit, creating an ironic connection between temptation and the act of biting into the pear,” the studio continues. “The Eden name itself offered the possibility of building an entire narrative world around the product. This storytelling dimension became one of the most distinctive aspects: Eden Gold is not simply presented as another variety of pear, but as the protagonist of its own story.”\n\nThe identity is built on a set of artworks treated as pictorial pieces. AUGE Design developed the artworks with the support of AI, under its own precise art direction. The visuals began with “our own interpretation of what a contemporary Garden of Eden could look like,” the studio notes. “We first worked through sketches and compositional studies to define the landscapes, architecture, atmosphere and hierarchy of the different elements. The scenes were then developed using artificial intelligence, while continuously refining and controlling the composition, lighting, mood and stylistic consistency. We established a specific set of visual parameters to generate different scenes while ensuring they all belonged to the same imaginary world and shared a consistent visual language.”\n\nThe positioning ‘the pear that changes the story’ was the starting point for the identity, in the branding as much as the packaging. “From the outset, we wanted to create a custom lettering system with a serif structure that felt bold and contemporary at the same time. Particular attention was given to signature details, such as the curved terminals of the ‘E,’ which contribute to making the wordmark immediately recognisable,” the studio tells us. The primary typeface is the bold yet decorative Indubitably. It expresses both the brand’s tone of voice and its storytelling dimension. The plainer Archivo is its functional counterpart.\n\nFor colour, AUGE Design chose light blue and gold. “The palette was designed first and foremost to maximise the packaging’s stand-out on shelf. Fresh fruit and vegetable packaging often relies on natural, earthy and craft-inspired colours. With Eden Gold, we deliberately moved away from these familiar category codes, introducing a palette that feels unexpected within the sector while remaining closely connected to the product name and to the precious, almost fairytale-like imagery of the Garden of Eden,” AUGE Design reasons. “Together, they also create a strong contrast with the natural yellow and red tones of the fruit visible through the die-cut window, making the pears themselves an active part of the visual composition,” the studio continues. “The die-cut window is inspired by architectural forms connected to the neoclassical imaginary developed throughout the identity. At the same time, it performs an important practical function by allowing consumers to see the product directly, especially since no photographic representation of the pear appears on the packaging.”\n\nGreenyard Fresh Italy holds the exclusive licence to sell Eden Gold in Italy and Europe. “We’ve entered markets in Germany, Denmark, Austria, England and, of course, Italy,” Galeati notes. In February 2026, Italian fruit trade title FruitJournal reported that volumes quadrupled over the season, with the growth driven mainly by export, and that several major chains in Austria and Germany took the product on as a premium private label, but that Italy is the harder market. “What gives us the most confidence is the positive feedback from children, who really love the product – they’re our barometer for tomorrow’s market,” he concludes.",
-      "caseStudyMedia": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/auge-design-sets-pear-brand-eden-golds-identity-in-a-garden-of-eden/EDEN-GOLD-AUGE-Design-01.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/auge-design-sets-pear-brand-eden-golds-identity-in-a-garden-of-eden/EDEN-GOLD-AUGE-Design-02.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/auge-design-sets-pear-brand-eden-golds-identity-in-a-garden-of-eden/EDEN-GOLD-AUGE-Design-03.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/auge-design-sets-pear-brand-eden-golds-identity-in-a-garden-of-eden/EDEN-GOLD-AUGE-Design-06.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/auge-design-sets-pear-brand-eden-golds-identity-in-a-garden-of-eden/EDEN-GOLD-AUGE-Design-07.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/auge-design-sets-pear-brand-eden-golds-identity-in-a-garden-of-eden/EDEN-GOLD-AUGE-Design-04.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/auge-design-sets-pear-brand-eden-golds-identity-in-a-garden-of-eden/EDEN-GOLD-AUGE-Design-10.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/auge-design-sets-pear-brand-eden-golds-identity-in-a-garden-of-eden/EDEN-GOLD-AUGE-Design-08.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/auge-design-sets-pear-brand-eden-golds-identity-in-a-garden-of-eden/EDEN-GOLD-AUGE-Design-09.jpg"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club",
-      "titleOriginal": "Hochburg designs the identity for PARK, the renamed Stuttgart club",
-      "textOriginal": "Perkins Park has been part of Stuttgart’s nightlife since 1980. In 2026, it took a new name, PARK , along with a programme led by house and techno, more international bookings and a club reconfigured for larger-scale nights and a new audience. Local design studio Hochburg , in a long-standing collaboration with club operator Denis Gugac, was commissioned to create the new identity.\n\nThe musical direction and the ambition to book more international artists were settled long before any design work started. “When I took over the club, it was clear that a new logo alone wouldn’t be enough,” Gugac tells us. “I want it to look big. I know we are in Stuttgart, but I wanted to create something that could just as easily exist and be celebrated in Barcelona or Ibiza.” From that brief, the scope grew to cover artist communication, social media, motion and the LED screens inside the club. “What people see before an event should feel like the same world they enter when they walk into PARK,” he adds.",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-01.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-01.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "Perkins Park has been part of Stuttgart’s nightlife since 1980. In 2026, it took a new name, PARK , along with a programme led by house and techno, more international bookings and a club reconfigured for larger-scale nights and a new audience. Local design studio Hochburg , in a long-standing collaboration with club operator Denis Gugac, was commissioned to create the new identity."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-02.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The musical direction and the ambition to book more international artists were settled long before any design work started. “When I took over the club, it was clear that a new logo alone wouldn’t be enough,” Gugac tells us. “I want it to look big. I know we are in Stuttgart, but I wanted to create something that could just as easily exist and be celebrated in Barcelona or Ibiza.” From that brief, the scope grew to cover artist communication, social media, motion and the LED screens inside the club. “What people see before an event should feel like the same world they enter when they walk into PARK,” he adds."
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“The programme is diverse and will continue to evolve, so the identity needed to evolve with it rather than define one fixed visual style,” Gugac explains. Hochburg looked outside Stuttgart for its reference points, at international clubs and at the visual cultures around house, techno, fashion and contemporary nightlife."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-05.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The reduction from Perkins Park to PARK became the starting point for the identity. Hochburg set the four remaining letters on a tight, almost square grid and kept stripping them back version by version, removing more of the detail that identifies a letter and working on the form and silhouette of the logo as a whole. “The hardest and probably most controversial letter was the ‘P,’” Creative Director Florian Boyd tells us. The result is a mark that keeps the letters inside one shape, sharing forms, lines and negative space and receding behind the overall silhouette – geometry reduced enough to translate into physical applications, from metal objects to clothing. “Eventually we reached a point where we knew the word would no longer be immediately readable at first glance. But once you know what it says, the letters suddenly fall into place,” he continues."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-04.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-03.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“It became a symbol you decode once and then recognise. This is obviously not something you can or should do with every brand. A logo needs to communicate, and readability is usually an important part of that. But we felt that a club can push those boundaries,” Boyd explains. “Especially today, when AI can generate endless variations of perfectly readable futuristic logos in seconds, we felt there was room to push in the opposite direction. We wanted to create something that asks a little more from the viewer.” It is the part of the identity that stands out most for Gugac, too."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-06.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-07.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The system organises artist communication, monthly programmes, social assets and event graphics. Photography is largely supplied by the artists, so consistency cannot come from the imagery. Recognition comes instead from the grid, typography, information hierarchy and a layer of fine lines and interface elements that reference timelines, players and DJ equipment. Those elements organise dates, artist names, ticket information and the PARK mark, but can also become visible graphic elements themselves."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-08.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-11_2026-09-15-080859_rnxb.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Futurist, from Fuego Fonts, carries the headlines and the large-scale messages; its rounded forms and softer edges set against the rigid grid, while Arame, designed by Dimitre Lima, is used mainly at small sizes, where it works almost like a technical annotation. The base is black and white with technical greys, interrupted by pink, blue, red, green and violet. Artists and events often come with their own colours, imagery and visual worlds, and the grids, boxes and graphic elements can pick up those colours. “So in a way, PARK has no colours and all the colours at the same time,” Boyd notes. The imagery that the system crops and arranges on the grid comes from the night – artists, bodies, crowds, trails of light, proximity, blur and movement."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-12.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-15.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "With the programme changing constantly, the system had to keep producing visual content without every asset going back through the studio, so Hochburg built its own tool. It works with almost any source material, from stock footage and pre-made VJ loops to clips shot inside the club. The software processes that material into cuts, transitions and loops, and the PARK mark can react and animate in real time to the sound being played. “The individual lines can react to sound and music, break apart, move, expand and come back together. Sometimes you see the full wordmark, sometimes just fragments of it,” Boyd details. “The logo shouldn’t just sit on top of the club’s visuals. It should become part of them.” Hochburg’s tool also works as a social media content generator, so the club team can make branded content without producing every asset from scratch. For individual events, visual artists can create their own live or pre-recorded visuals, which can be fed directly onto the club’s screens."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-13.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-14.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“We definitely notice a divide in how the change is perceived,” Gugac reveals. “There are people who have known Perkins Park for decades and have a very strong emotional connection to what the club used to be, even if some of them haven’t actually been inside for years. And then there is a much younger audience that goes out regularly and simply wants to have a great night. Especially for people who have known Perkins Park for many years, the change can feel quite radical. The identity needs to make that transformation visible.”"
-        }
-      ],
-      "caseStudyText": "Perkins Park has been part of Stuttgart’s nightlife since 1980. In 2026, it took a new name, PARK , along with a programme led by house and techno, more international bookings and a club reconfigured for larger-scale nights and a new audience. Local design studio Hochburg , in a long-standing collaboration with club operator Denis Gugac, was commissioned to create the new identity.\n\nThe musical direction and the ambition to book more international artists were settled long before any design work started. “When I took over the club, it was clear that a new logo alone wouldn’t be enough,” Gugac tells us. “I want it to look big. I know we are in Stuttgart, but I wanted to create something that could just as easily exist and be celebrated in Barcelona or Ibiza.” From that brief, the scope grew to cover artist communication, social media, motion and the LED screens inside the club. “What people see before an event should feel like the same world they enter when they walk into PARK,” he adds.\n\n“The programme is diverse and will continue to evolve, so the identity needed to evolve with it rather than define one fixed visual style,” Gugac explains. Hochburg looked outside Stuttgart for its reference points, at international clubs and at the visual cultures around house, techno, fashion and contemporary nightlife.\n\nThe reduction from Perkins Park to PARK became the starting point for the identity. Hochburg set the four remaining letters on a tight, almost square grid and kept stripping them back version by version, removing more of the detail that identifies a letter and working on the form and silhouette of the logo as a whole. “The hardest and probably most controversial letter was the ‘P,’” Creative Director Florian Boyd tells us. The result is a mark that keeps the letters inside one shape, sharing forms, lines and negative space and receding behind the overall silhouette – geometry reduced enough to translate into physical applications, from metal objects to clothing. “Eventually we reached a point where we knew the word would no longer be immediately readable at first glance. But once you know what it says, the letters suddenly fall into place,” he continues.\n\n“It became a symbol you decode once and then recognise. This is obviously not something you can or should do with every brand. A logo needs to communicate, and readability is usually an important part of that. But we felt that a club can push those boundaries,” Boyd explains. “Especially today, when AI can generate endless variations of perfectly readable futuristic logos in seconds, we felt there was room to push in the opposite direction. We wanted to create something that asks a little more from the viewer.” It is the part of the identity that stands out most for Gugac, too.\n\nThe system organises artist communication, monthly programmes, social assets and event graphics. Photography is largely supplied by the artists, so consistency cannot come from the imagery. Recognition comes instead from the grid, typography, information hierarchy and a layer of fine lines and interface elements that reference timelines, players and DJ equipment. Those elements organise dates, artist names, ticket information and the PARK mark, but can also become visible graphic elements themselves.\n\nFuturist, from Fuego Fonts, carries the headlines and the large-scale messages; its rounded forms and softer edges set against the rigid grid, while Arame, designed by Dimitre Lima, is used mainly at small sizes, where it works almost like a technical annotation. The base is black and white with technical greys, interrupted by pink, blue, red, green and violet. Artists and events often come with their own colours, imagery and visual worlds, and the grids, boxes and graphic elements can pick up those colours. “So in a way, PARK has no colours and all the colours at the same time,” Boyd notes. The imagery that the system crops and arranges on the grid comes from the night – artists, bodies, crowds, trails of light, proximity, blur and movement.\n\nWith the programme changing constantly, the system had to keep producing visual content without every asset going back through the studio, so Hochburg built its own tool. It works with almost any source material, from stock footage and pre-made VJ loops to clips shot inside the club. The software processes that material into cuts, transitions and loops, and the PARK mark can react and animate in real time to the sound being played. “The individual lines can react to sound and music, break apart, move, expand and come back together. Sometimes you see the full wordmark, sometimes just fragments of it,” Boyd details. “The logo shouldn’t just sit on top of the club’s visuals. It should become part of them.” Hochburg’s tool also works as a social media content generator, so the club team can make branded content without producing every asset from scratch. For individual events, visual artists can create their own live or pre-recorded visuals, which can be fed directly onto the club’s screens.\n\n“We definitely notice a divide in how the change is perceived,” Gugac reveals. “There are people who have known Perkins Park for decades and have a very strong emotional connection to what the club used to be, even if some of them haven’t actually been inside for years. And then there is a much younger audience that goes out regularly and simply wants to have a great night. Especially for people who have known Perkins Park for many years, the change can feel quite radical. The identity needs to make that transformation visible.”",
-      "caseStudyMedia": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-01.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-02.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-05.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-04.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-03.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-06.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-07.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-08.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-11_2026-09-15-080859_rnxb.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-12.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-15.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-13.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-14.jpg"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua",
-      "titleOriginal": "Mexico meets Japan across AH Work’s colourful identity for Salsa Mutua",
-      "textOriginal": "Salsa Mutua is a Mexican brand of ‘crispy chilli oil made with salsa and chilli crisp. “We had an initial idea of a name for the sauce: ‘Rayito.’ But we quickly learned that this name was going to be impossible to register as a trademark,” Founders Sebastian and Alejandro tell us. The name they landed on instead comes from the Spanish ‘mutuo,’ meaning something reciprocal between two parts, or something balanced. “It can also be something like a shared experience, like sharing a meal,” they note. “Sebastian’s brother suggested chilli crisp. We noticed the parallelism with that and figured out the similarities with the Asian chilli crisp and the Mexican salsa macha. That is when we decided to create the ‘first Mexican Chili Crisp.’”\n\nWith the name settled, they commissioned Mexico City-based creative office AH Work , led by Andrés Higueros, to design the identity. “We really liked Andrés’ work,” the founders explain, “especially because we noticed that he had worked on many projects that involved typeface design.” The references Higueros worked from for the identity are Mexican and Japanese, as Salsa Mutua is built on both Mexican and Asian cooking. “The name became the starting point: the idea of exchange, of different ingredients and cultural influences coming together to create something new. That gave us a world to build through the two cats, the custom lettering and the colour combinations,” he details. “We started by looking at the local market and noticed that many sauce brands relied on similar visual cues: chilli illustrations, flames and familiar Mexican imagery. We wanted to move beyond those conventions and tell a story specific to Mutua,” he continues. “On the shelf, we wanted Mutua to feel bold, playful and distinctive, with a personality that would draw people in and make them curious about the sauces.”",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-01.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-01.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "Salsa Mutua is a Mexican brand of ‘crispy chilli oil made with salsa and chilli crisp. “We had an initial idea of a name for the sauce: ‘Rayito.’ But we quickly learned that this name was going to be impossible to register as a trademark,” Founders Sebastian and Alejandro tell us. The name they landed on instead comes from the Spanish ‘mutuo,’ meaning something reciprocal between two parts, or something balanced. “It can also be something like a shared experience, like sharing a meal,” they note. “Sebastian’s brother suggested chilli crisp. We noticed the parallelism with that and figured out the similarities with the Asian chilli crisp and the Mexican salsa macha. That is when we decided to create the ‘first Mexican Chili Crisp.’”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-02.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "With the name settled, they commissioned Mexico City-based creative office AH Work , led by Andrés Higueros, to design the identity. “We really liked Andrés’ work,” the founders explain, “especially because we noticed that he had worked on many projects that involved typeface design.” The references Higueros worked from for the identity are Mexican and Japanese, as Salsa Mutua is built on both Mexican and Asian cooking. “The name became the starting point: the idea of exchange, of different ingredients and cultural influences coming together to create something new. That gave us a world to build through the two cats, the custom lettering and the colour combinations,” he details. “We started by looking at the local market and noticed that many sauce brands relied on similar visual cues: chilli illustrations, flames and familiar Mexican imagery. We wanted to move beyond those conventions and tell a story specific to Mutua,” he continues. “On the shelf, we wanted Mutua to feel bold, playful and distinctive, with a personality that would draw people in and make them curious about the sauces.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-04.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-03.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "SALSA is set in Compacta Black Poster. “I drew the MUTUA wordmark from scratch. I was interested in the curved endings of certain Japanese characters and explored how that quality could inform the contours and terminals of the Latin letterforms. Those subtle curves sit within bold, substantial shapes, drawing on the visual strength of Mexican hand-painted signage,” Higueros tells us. “The vertical composition was another deliberate choice, referencing vertical writing in Japanese,” he notes. American Grotesk, restrained and functional, sets the descriptions and supporting information. “Compacta brings the weight and immediate impact I wanted for the main headlines,” he explains. “The system also allows the lettering to be stretched horizontally or vertically, giving the typography an expressive, adaptable role within each composition.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-07.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“The cats came from a fairly intuitive place. I liked how endearing they were and how familiar they felt in the everyday world of markets and small shops in both Mexico and Japan. The Japanese lucky cat was also a reference I had in mind, so they felt like a natural connection between the two cultures,” Higueros reveals. “Within Mutua’s world, the striped cat represents the Mexican side, while the plain-coated cat, with its more serious expression, represents the Japanese side. Their contrasting personalities gave me a way to express cultural exchange through the relationship between two characters.” Higueros drew the pair in different poses and activities. “Because of Mexican labelling norms, we cannot show them in the primary packaging,” Sebastian and Alejandro tell us. “Nevertheless, we would like to include them in the packaging targeted to international markets. Right now, we still use them on our website, stickers, merch and presentations.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-09.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-10.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“I used the ingredients as a starting point for each colour pairing,” Higueros notes of the four labels, “but the main intention was always to create something bold and eye-catching.” The Chili Crisp Original label is yellow and red, and the Chili Crisp Extra Picante label is orange and brown. The other two names pair a Mexican chilli with an Asian place – Morita Siam in pale pink, Habanero Katong in yellow and red."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-05.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-06.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The images are by Mexico City-based photographer Alberto Pinto – a friend who Higueros has worked with on projects before. Adrián Zarraga, who he has also collaborated with, made the motion graphics. “I led the art direction, aiming for an urban, market-inspired atmosphere with an editorial sensibility. I wanted to move away from the polished commercial imagery often used by food brands and bring Mutua closer to the street and the everyday environments that inspired its identity. The photography gave us a way to place the packaging within that broader world,” Higueros explains. “For the motion graphics, my direction was to bring the identity to life through animation, extending its playful character beyond the printed labels.”"
-        }
-      ],
-      "caseStudyText": "Salsa Mutua is a Mexican brand of ‘crispy chilli oil made with salsa and chilli crisp. “We had an initial idea of a name for the sauce: ‘Rayito.’ But we quickly learned that this name was going to be impossible to register as a trademark,” Founders Sebastian and Alejandro tell us. The name they landed on instead comes from the Spanish ‘mutuo,’ meaning something reciprocal between two parts, or something balanced. “It can also be something like a shared experience, like sharing a meal,” they note. “Sebastian’s brother suggested chilli crisp. We noticed the parallelism with that and figured out the similarities with the Asian chilli crisp and the Mexican salsa macha. That is when we decided to create the ‘first Mexican Chili Crisp.’”\n\nWith the name settled, they commissioned Mexico City-based creative office AH Work , led by Andrés Higueros, to design the identity. “We really liked Andrés’ work,” the founders explain, “especially because we noticed that he had worked on many projects that involved typeface design.” The references Higueros worked from for the identity are Mexican and Japanese, as Salsa Mutua is built on both Mexican and Asian cooking. “The name became the starting point: the idea of exchange, of different ingredients and cultural influences coming together to create something new. That gave us a world to build through the two cats, the custom lettering and the colour combinations,” he details. “We started by looking at the local market and noticed that many sauce brands relied on similar visual cues: chilli illustrations, flames and familiar Mexican imagery. We wanted to move beyond those conventions and tell a story specific to Mutua,” he continues. “On the shelf, we wanted Mutua to feel bold, playful and distinctive, with a personality that would draw people in and make them curious about the sauces.”\n\nSALSA is set in Compacta Black Poster. “I drew the MUTUA wordmark from scratch. I was interested in the curved endings of certain Japanese characters and explored how that quality could inform the contours and terminals of the Latin letterforms. Those subtle curves sit within bold, substantial shapes, drawing on the visual strength of Mexican hand-painted signage,” Higueros tells us. “The vertical composition was another deliberate choice, referencing vertical writing in Japanese,” he notes. American Grotesk, restrained and functional, sets the descriptions and supporting information. “Compacta brings the weight and immediate impact I wanted for the main headlines,” he explains. “The system also allows the lettering to be stretched horizontally or vertically, giving the typography an expressive, adaptable role within each composition.”\n\n“The cats came from a fairly intuitive place. I liked how endearing they were and how familiar they felt in the everyday world of markets and small shops in both Mexico and Japan. The Japanese lucky cat was also a reference I had in mind, so they felt like a natural connection between the two cultures,” Higueros reveals. “Within Mutua’s world, the striped cat represents the Mexican side, while the plain-coated cat, with its more serious expression, represents the Japanese side. Their contrasting personalities gave me a way to express cultural exchange through the relationship between two characters.” Higueros drew the pair in different poses and activities. “Because of Mexican labelling norms, we cannot show them in the primary packaging,” Sebastian and Alejandro tell us. “Nevertheless, we would like to include them in the packaging targeted to international markets. Right now, we still use them on our website, stickers, merch and presentations.”\n\n“I used the ingredients as a starting point for each colour pairing,” Higueros notes of the four labels, “but the main intention was always to create something bold and eye-catching.” The Chili Crisp Original label is yellow and red, and the Chili Crisp Extra Picante label is orange and brown. The other two names pair a Mexican chilli with an Asian place – Morita Siam in pale pink, Habanero Katong in yellow and red.\n\nThe images are by Mexico City-based photographer Alberto Pinto – a friend who Higueros has worked with on projects before. Adrián Zarraga, who he has also collaborated with, made the motion graphics. “I led the art direction, aiming for an urban, market-inspired atmosphere with an editorial sensibility. I wanted to move away from the polished commercial imagery often used by food brands and bring Mutua closer to the street and the everyday environments that inspired its identity. The photography gave us a way to place the packaging within that broader world,” Higueros explains. “For the motion graphics, my direction was to bring the identity to life through animation, extending its playful character beyond the printed labels.”",
-      "caseStudyMedia": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-01.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-02.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-04.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-03.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-07.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-09.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-10.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-05.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-06.jpg"
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-06.mp4"
         }
       ]
     },
@@ -3750,161 +3349,562 @@ const snapshot={
       ]
     },
     {
-      "canonicalUrl": "https://the-brandidentity.com/project/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues",
-      "titleOriginal": "Pentagram rebrands De Bijloke, one of Europe’s most vibrant music venues",
-      "textOriginal": "Muziekcentrum De Bijloke is one of Europe’s most vibrant music venues, and it has a history like no other. The Ghent music centre’s central performance space sits under an oak roof structure that began life in 1251 as a medieval hospital, and a major restoration and acoustic redesign turned it into the concert hall it is today. Ahead of the launch of its 26/27 season, De Bijloke asked Pentagram’s London office for a digital-first identity that would attract new music-loving visitors while still appealing to its loyal audience.\n\nFor years after that restoration, De Bijloke’s communication was about the building. “The project started from a feeling that our identity and the story we were telling about De Bijloke no longer fully reflected who we had become,” explains Lead of Public & Marketing/Communication, Shari Platteeuw. “We were not looking for a new logo in isolation,” she continues. “We wanted to rethink the brand more fundamentally: our positioning, our visual language and the way we speak about De Bijloke. Pentagram helped us translate the tension that is very specific to this place: eight centuries of history, combined with music that only truly exists in the moment it is performed.”",
+      "canonicalUrl": "https://the-brandidentity.com/project/reunion-creates-the-name-and-the-identity-for-skincare-brand-tome",
+      "titleOriginal": "REUNION creates the name and the identity for skincare brand Tome",
+      "textOriginal": "Tome Skincare is built on nearly a decade of research into Spongilla lacustris, a freshwater river sponge that has been used on skin for centuries. Dermata Therapeutics, Tome’s parent company, used the findings to develop the Foundational Treatment – the brand’s first product – a mask used once a week at home. Its hero ingredient is the sponge in powder form, which Tome calls Bioneedle. The product is on sale direct to consumers, while Tome is also building a channel for aestheticians and other skincare professionals alongside it. Los Angeles-based design and strategy studio REUNION was commissioned to create Tome’s identity for the launch.\n\nDermata Therapeutics began investigating the sponge in 2017. “We came to REUNION with the product, the research and a clear understanding of what made the technology unique, but very little else from a brand perspective,” Tome’s VP Marketing Kyra Peckaitis tells us. REUNION and Tome began with research into who would find the product most valuable, how those people approached skincare and what would make them add a treatment like it to a routine. From there, the remit took in the name, brand strategy, packaging, print, digital, films, advertising, website and physical pop-up experiences, across a partnership that ran for over a year.",
       "agency": "",
       "media": [
         {
           "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/13516116.jpg"
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/reunion-creates-the-name-and-the-identity-for-skincare-brand-tome/Tome-Skincare-REUNION-01.jpg"
         }
       ],
       "hasCaseStudy": true,
       "caseStudyBlocks": [
         {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-00.mp4"
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/reunion-creates-the-name-and-the-identity-for-skincare-brand-tome/Tome-Skincare-REUNION-01.jpg"
         },
         {
           "type": "text",
           "tag": "h2",
-          "text": "Muziekcentrum De Bijloke is one of Europe’s most vibrant music venues, and it has a history like no other. The Ghent music centre’s central performance space sits under an oak roof structure that began life in 1251 as a medieval hospital, and a major restoration and acoustic redesign turned it into the concert hall it is today. Ahead of the launch of its 26/27 season, De Bijloke asked Pentagram’s London office for a digital-first identity that would attract new music-loving visitors while still appealing to its loyal audience."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-02-new.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "For years after that restoration, De Bijloke’s communication was about the building. “The project started from a feeling that our identity and the story we were telling about De Bijloke no longer fully reflected who we had become,” explains Lead of Public & Marketing/Communication, Shari Platteeuw. “We were not looking for a new logo in isolation,” she continues. “We wanted to rethink the brand more fundamentally: our positioning, our visual language and the way we speak about De Bijloke. Pentagram helped us translate the tension that is very specific to this place: eight centuries of history, combined with music that only truly exists in the moment it is performed.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-03.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“That eventually became the idea behind the brand: ‘Alive in every moment. Past, present and future,’” Platteeuw adds. Pentagram delivered guidelines with the identity, setting out the principles for its verbal language, in which De Bijloke speaks as a gracious host and a thoughtful curator of its programme."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-13.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-14.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“In workshops with the clients we got to understand their programme and curatorial approach more deeply,” Pentagram’s Partner Marina Willer tells us. “In our research, we looked at many ways that music can be visualised through movement,” Willer explains, the search taking in her doodles, various dance and music notations, and the way artists trace their body movement. The logo that came out of that research is a swooping, fluid mark, drawn from the unconventional music notation methods of composer John Cage and from experiments with an oscilloscope – an analogue tool that visualises audio signals. “The objective was to move away from the ‘historical’ perceptions people already have of Bijloke’s musical programme,” she continues. “So, we avoided the obvious iconography clichés – musical clefs and classical scores.”"
+          "text": "Tome Skincare is built on nearly a decade of research into Spongilla lacustris, a freshwater river sponge that has been used on skin for centuries. Dermata Therapeutics, Tome’s parent company, used the findings to develop the Foundational Treatment – the brand’s first product – a mask used once a week at home. Its hero ingredient is the sponge in powder form, which Tome calls Bioneedle. The product is on sale direct to consumers, while Tome is also building a channel for aestheticians and other skincare professionals alongside it. Los Angeles-based design and strategy studio REUNION was commissioned to create Tome’s identity for the launch."
         },
         {
           "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-05.mp4"
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/reunion-creates-the-name-and-the-identity-for-skincare-brand-tome/Tome-Skincare-REUNION-02.mp4"
         },
         {
           "type": "text",
           "tag": "p",
-          "text": "Against the mark’s expressiveness, the typography is modern, clear and confident. Pentagram chose the sans serif Forma DJR for its simplicity, and to convey a democratic, approachable brand aimed at everyone – its plain letterforms giving the identity a neutral balance and still leaving room for creative arrangements in headlines and key messaging. The palette is drawn from features that are constant across the building: the walls, chairs and windows. Each colour taken from them is paired with a vibrant tone that stands for the contemporary eye of the programme and the modernity of the refurbished space, against the historical building around it. The team also created a series of patterns to use as supporting graphics."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-12.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-09.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "De Bijloke asked for Jazz, Family and what it calls New Music – the more experimental strand – to have a presence of their own, connected to the identity. “Three parts of the programme needed to be highlighted,” Willer details, “as current perceptions are that their programme is predominantly classical, which is not the case.” “De Bijloke presents classical music, early music, contemporary classical music, jazz, festivals and projects for younger audiences, so we needed an identity that could create strong recognition without making every programme look identical,” Platteeuw notes."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-08.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-10.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Each of the three strands has a pattern of its own, separate from the supporting graphics. Jazz and New Music take theirs from the oscilloscope work more directly than the rest of the identity does. Jazz is inspired by the improvisation in the genre, and New Music pushes the mark further than anywhere else. The Family pattern goes its own way, and it is the playful one of the three."
+          "text": "Dermata Therapeutics began investigating the sponge in 2017. “We came to REUNION with the product, the research and a clear understanding of what made the technology unique, but very little else from a brand perspective,” Tome’s VP Marketing Kyra Peckaitis tells us. REUNION and Tome began with research into who would find the product most valuable, how those people approached skincare and what would make them add a treatment like it to a routine. From there, the remit took in the name, brand strategy, packaging, print, digital, films, advertising, website and physical pop-up experiences, across a partnership that ran for over a year."
         },
         {
           "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-07.mp4"
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/reunion-creates-the-name-and-the-identity-for-skincare-brand-tome/Tome-Skincare-REUNION-04.mp4"
         },
         {
           "type": "text",
           "tag": "p",
-          "text": "Pentagram also built a generative tool, which reworks the Jazz and New Music patterns. A designer adjusts the drawing of the mark on it, with scales for the intensity and movement of the lines. The output is a run of ever-changing forms, adaptable for motion and exported for any format. Sam Corijn, De Bijloke’s designer, has since been using it in the programme design."
+          "text": "Working from two convictions – routines can be simpler, and natural can be powerful – REUNION arrived at an idea it calls ‘ancestral innovation’ and named the brand Tome. “If you look across the vastness of the skincare space, products typically fall into one of two distinct categories: scientific to the point of cold and clinical, or natural, which leaves you questioning whether the product will even work,” REUNION’s CCO & Co-founder Thomas Wilder explains."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“When we were developing names for the company, Tome was always one of our favourites because of its meaning: a large, heavy and often scholarly or academic book. The fact that they have studied skincare and their key ingredient for over a decade, made the idea of a book as packaging a novel and natural fit,” he continues."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/reunion-creates-the-name-and-the-identity-for-skincare-brand-tome/Tome-Skincare-REUNION-03.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Shaped like a book, the outer box carries TOME on the spine and again on the front, with a small pale label in the top corner reading ‘Foundational Treatment with Bioneedle.’ The labelling comes from the kind used in archival research collections. “We wanted the outer book cloth and packaging to feel like it had been stowed away in libraries for centuries. Something that’s been waiting to be discovered,” Wilder details. Inside, a dish of powder is labelled ‘Bioneedle Spongilla Powder’ and a welcome card has the line ‘The oldest new thing in skincare.’ The identity’s typefaces are Sharp Type’s Sharp Serif and Dinamo’s ABC Repro."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/reunion-creates-the-name-and-the-identity-for-skincare-brand-tome/Tome-Skincare-REUNION-08.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/reunion-creates-the-name-and-the-identity-for-skincare-brand-tome/Tome-Skincare-REUNION-09.jpeg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "At the foot of the spine, the numeral reads 001, denoting Tome’s first launch, so later products can take 002, 003 and on from there, in the manner of volumes of books. “After roughly 20 iterations – maybe 24, who’s counting? – seeing the colour, materials, textures and overall experience come together for the first time was incredibly emotional,” Peckaitis recalls of the packaging."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Wilder describes the sponge’s own colour as a striking vivid green. Spongilla lacustris shifts to a darker olive when it is underwater or dried, and the Bioneedle powder turns olive green once it is mixed into the Foundational Treatment. “Our thought was that Tome can own a green that’s inspired by the natural colour of the sponge, but also embrace the range of greens you experience while using the product,” he notes."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/reunion-creates-the-name-and-the-identity-for-skincare-brand-tome/Tome-Skincare-REUNION-07.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "REUNION created a system of scientific illustration. “They were inspired by stippling illustrations used in scientific journals and books. These types of illustrations were originally used to accurately display textures and shading with nuance, and to showcase details without the harshness of other illustrative mediums. In our case, the dots mimic the natural qualities of the sea sponge and are a nod to what the spicules of the sea sponge do during a treatment: they open up small microchannels in your skin and pores,” Wilder explains. “We use the illustrations throughout the identity to tell stories about the science and innovation behind the product, especially when we are telling stories at the microscopic level where it would be difficult to communicate those ideas through photography.”"
         },
         {
           "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-06.mp4"
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/reunion-creates-the-name-and-the-identity-for-skincare-brand-tome/Tome-Skincare-REUNION-10.mp4"
         },
         {
           "type": "text",
           "tag": "p",
-          "text": "The identity launched in May 2026 with the website, alongside the announcement of the 26/27 season. It now runs across De Bijloke’s main audience touchpoints, and the venue is translating it into the physical experience of the building gradually. “What stands out most is how naturally the new identity has been accepted, also by people who have known De Bijloke for years. Our Friends membership programme has remained very strong since the launch and has even continued to grow,” Platteeuw concludes."
+          "text": "Mari Juliano shot the photography, pairing natural light with dark olive-green and yellowish tones to move it from studio shots through scientific details to an outdoor setting. Najeeb Tarazi directed the brand films, including one shot in a film studio. “We used the river to evoke a feeling of natural discovery, the library to create curiosity and a nod to the origin of the word Tome, and warm earthy olive-green ambient light with deep shadows and low contrast in the studio to express renewal,” Wilder adds."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/reunion-creates-the-name-and-the-identity-for-skincare-brand-tome/Tome-Skincare-REUNION-06.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/reunion-creates-the-name-and-the-identity-for-skincare-brand-tome/Tome-Skincare-REUNION-05.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "REUNION describes the voice it created for Tome as plainspoken yet warm, which shows on the homepage through lines like ‘Renewal has many chapters.’ In the research that opened the project, REUNION kept hearing that people cannot decipher the language around skincare treatments, so the website answers that with an alphabetical index. “The index of ingredients not only helps educate consumers, but also harkens back to the inspiration for Tome’s name: a scholarly book,” Wilder concludes."
         }
       ],
-      "caseStudyText": "Muziekcentrum De Bijloke is one of Europe’s most vibrant music venues, and it has a history like no other. The Ghent music centre’s central performance space sits under an oak roof structure that began life in 1251 as a medieval hospital, and a major restoration and acoustic redesign turned it into the concert hall it is today. Ahead of the launch of its 26/27 season, De Bijloke asked Pentagram’s London office for a digital-first identity that would attract new music-loving visitors while still appealing to its loyal audience.\n\nFor years after that restoration, De Bijloke’s communication was about the building. “The project started from a feeling that our identity and the story we were telling about De Bijloke no longer fully reflected who we had become,” explains Lead of Public & Marketing/Communication, Shari Platteeuw. “We were not looking for a new logo in isolation,” she continues. “We wanted to rethink the brand more fundamentally: our positioning, our visual language and the way we speak about De Bijloke. Pentagram helped us translate the tension that is very specific to this place: eight centuries of history, combined with music that only truly exists in the moment it is performed.”\n\n“That eventually became the idea behind the brand: ‘Alive in every moment. Past, present and future,’” Platteeuw adds. Pentagram delivered guidelines with the identity, setting out the principles for its verbal language, in which De Bijloke speaks as a gracious host and a thoughtful curator of its programme.\n\n“In workshops with the clients we got to understand their programme and curatorial approach more deeply,” Pentagram’s Partner Marina Willer tells us. “In our research, we looked at many ways that music can be visualised through movement,” Willer explains, the search taking in her doodles, various dance and music notations, and the way artists trace their body movement. The logo that came out of that research is a swooping, fluid mark, drawn from the unconventional music notation methods of composer John Cage and from experiments with an oscilloscope – an analogue tool that visualises audio signals. “The objective was to move away from the ‘historical’ perceptions people already have of Bijloke’s musical programme,” she continues. “So, we avoided the obvious iconography clichés – musical clefs and classical scores.”\n\nAgainst the mark’s expressiveness, the typography is modern, clear and confident. Pentagram chose the sans serif Forma DJR for its simplicity, and to convey a democratic, approachable brand aimed at everyone – its plain letterforms giving the identity a neutral balance and still leaving room for creative arrangements in headlines and key messaging. The palette is drawn from features that are constant across the building: the walls, chairs and windows. Each colour taken from them is paired with a vibrant tone that stands for the contemporary eye of the programme and the modernity of the refurbished space, against the historical building around it. The team also created a series of patterns to use as supporting graphics.\n\nDe Bijloke asked for Jazz, Family and what it calls New Music – the more experimental strand – to have a presence of their own, connected to the identity. “Three parts of the programme needed to be highlighted,” Willer details, “as current perceptions are that their programme is predominantly classical, which is not the case.” “De Bijloke presents classical music, early music, contemporary classical music, jazz, festivals and projects for younger audiences, so we needed an identity that could create strong recognition without making every programme look identical,” Platteeuw notes.\n\nEach of the three strands has a pattern of its own, separate from the supporting graphics. Jazz and New Music take theirs from the oscilloscope work more directly than the rest of the identity does. Jazz is inspired by the improvisation in the genre, and New Music pushes the mark further than anywhere else. The Family pattern goes its own way, and it is the playful one of the three.\n\nPentagram also built a generative tool, which reworks the Jazz and New Music patterns. A designer adjusts the drawing of the mark on it, with scales for the intensity and movement of the lines. The output is a run of ever-changing forms, adaptable for motion and exported for any format. Sam Corijn, De Bijloke’s designer, has since been using it in the programme design.\n\nThe identity launched in May 2026 with the website, alongside the announcement of the 26/27 season. It now runs across De Bijloke’s main audience touchpoints, and the venue is translating it into the physical experience of the building gradually. “What stands out most is how naturally the new identity has been accepted, also by people who have known De Bijloke for years. Our Friends membership programme has remained very strong since the launch and has even continued to grow,” Platteeuw concludes.",
+      "caseStudyText": "Tome Skincare is built on nearly a decade of research into Spongilla lacustris, a freshwater river sponge that has been used on skin for centuries. Dermata Therapeutics, Tome’s parent company, used the findings to develop the Foundational Treatment – the brand’s first product – a mask used once a week at home. Its hero ingredient is the sponge in powder form, which Tome calls Bioneedle. The product is on sale direct to consumers, while Tome is also building a channel for aestheticians and other skincare professionals alongside it. Los Angeles-based design and strategy studio REUNION was commissioned to create Tome’s identity for the launch.\n\nDermata Therapeutics began investigating the sponge in 2017. “We came to REUNION with the product, the research and a clear understanding of what made the technology unique, but very little else from a brand perspective,” Tome’s VP Marketing Kyra Peckaitis tells us. REUNION and Tome began with research into who would find the product most valuable, how those people approached skincare and what would make them add a treatment like it to a routine. From there, the remit took in the name, brand strategy, packaging, print, digital, films, advertising, website and physical pop-up experiences, across a partnership that ran for over a year.\n\nWorking from two convictions – routines can be simpler, and natural can be powerful – REUNION arrived at an idea it calls ‘ancestral innovation’ and named the brand Tome. “If you look across the vastness of the skincare space, products typically fall into one of two distinct categories: scientific to the point of cold and clinical, or natural, which leaves you questioning whether the product will even work,” REUNION’s CCO & Co-founder Thomas Wilder explains.\n\n“When we were developing names for the company, Tome was always one of our favourites because of its meaning: a large, heavy and often scholarly or academic book. The fact that they have studied skincare and their key ingredient for over a decade, made the idea of a book as packaging a novel and natural fit,” he continues.\n\nShaped like a book, the outer box carries TOME on the spine and again on the front, with a small pale label in the top corner reading ‘Foundational Treatment with Bioneedle.’ The labelling comes from the kind used in archival research collections. “We wanted the outer book cloth and packaging to feel like it had been stowed away in libraries for centuries. Something that’s been waiting to be discovered,” Wilder details. Inside, a dish of powder is labelled ‘Bioneedle Spongilla Powder’ and a welcome card has the line ‘The oldest new thing in skincare.’ The identity’s typefaces are Sharp Type’s Sharp Serif and Dinamo’s ABC Repro.\n\nAt the foot of the spine, the numeral reads 001, denoting Tome’s first launch, so later products can take 002, 003 and on from there, in the manner of volumes of books. “After roughly 20 iterations – maybe 24, who’s counting? – seeing the colour, materials, textures and overall experience come together for the first time was incredibly emotional,” Peckaitis recalls of the packaging.\n\nWilder describes the sponge’s own colour as a striking vivid green. Spongilla lacustris shifts to a darker olive when it is underwater or dried, and the Bioneedle powder turns olive green once it is mixed into the Foundational Treatment. “Our thought was that Tome can own a green that’s inspired by the natural colour of the sponge, but also embrace the range of greens you experience while using the product,” he notes.\n\nREUNION created a system of scientific illustration. “They were inspired by stippling illustrations used in scientific journals and books. These types of illustrations were originally used to accurately display textures and shading with nuance, and to showcase details without the harshness of other illustrative mediums. In our case, the dots mimic the natural qualities of the sea sponge and are a nod to what the spicules of the sea sponge do during a treatment: they open up small microchannels in your skin and pores,” Wilder explains. “We use the illustrations throughout the identity to tell stories about the science and innovation behind the product, especially when we are telling stories at the microscopic level where it would be difficult to communicate those ideas through photography.”\n\nMari Juliano shot the photography, pairing natural light with dark olive-green and yellowish tones to move it from studio shots through scientific details to an outdoor setting. Najeeb Tarazi directed the brand films, including one shot in a film studio. “We used the river to evoke a feeling of natural discovery, the library to create curiosity and a nod to the origin of the word Tome, and warm earthy olive-green ambient light with deep shadows and low contrast in the studio to express renewal,” Wilder adds.\n\nREUNION describes the voice it created for Tome as plainspoken yet warm, which shows on the homepage through lines like ‘Renewal has many chapters.’ In the research that opened the project, REUNION kept hearing that people cannot decipher the language around skincare treatments, so the website answers that with an alphabetical index. “The index of ingredients not only helps educate consumers, but also harkens back to the inspiration for Tome’s name: a scholarly book,” Wilder concludes.",
       "caseStudyMedia": [
         {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-00.mp4"
-        },
-        {
           "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-02-new.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-03.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-13.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-14.jpg"
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/reunion-creates-the-name-and-the-identity-for-skincare-brand-tome/Tome-Skincare-REUNION-01.jpg"
         },
         {
           "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-05.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-12.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-09.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-08.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-10.jpg"
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/reunion-creates-the-name-and-the-identity-for-skincare-brand-tome/Tome-Skincare-REUNION-02.mp4"
         },
         {
           "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-07.mp4"
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/reunion-creates-the-name-and-the-identity-for-skincare-brand-tome/Tome-Skincare-REUNION-04.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/reunion-creates-the-name-and-the-identity-for-skincare-brand-tome/Tome-Skincare-REUNION-03.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/reunion-creates-the-name-and-the-identity-for-skincare-brand-tome/Tome-Skincare-REUNION-08.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/reunion-creates-the-name-and-the-identity-for-skincare-brand-tome/Tome-Skincare-REUNION-09.jpeg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/reunion-creates-the-name-and-the-identity-for-skincare-brand-tome/Tome-Skincare-REUNION-07.jpg"
         },
         {
           "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-06.mp4"
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/reunion-creates-the-name-and-the-identity-for-skincare-brand-tome/Tome-Skincare-REUNION-10.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/reunion-creates-the-name-and-the-identity-for-skincare-brand-tome/Tome-Skincare-REUNION-06.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/reunion-creates-the-name-and-the-identity-for-skincare-brand-tome/Tome-Skincare-REUNION-05.jpg"
+        }
+      ]
+    },
+    {
+      "canonicalUrl": "https://the-brandidentity.com/project/auge-design-sets-pear-brand-eden-golds-identity-in-a-garden-of-eden",
+      "titleOriginal": "AUGE Design sets pear brand Eden Gold’s identity in a Garden of Eden",
+      "textOriginal": "Greenyard Fresh Italy handles the import, export and wholesale distribution of fresh fruit and vegetables as the Italian arm of the Belgian group Greenyard. Eden Gold is a new pear variety, for which the company decided to build a brand to bring it to market.\n\n“We are convinced that the pear sector has great potential: consumption is declining among younger generations, and there is no market-leading variety,” Marketing Director Maicol Galeati tells us. Work on the brand had already begun when Greenyard Fresh Italy commissioned Florence and Milan-based agency AUGE Design to create the positioning, identity and packaging to communicate the disruptive and snackable nature of the product. “Our fresh produce sector isn’t very advanced in the world of design. The brand was in its early stages,” Galeati explains, “almost a rough draft, I’d say; but believing in the project’s distinctiveness and potential, we felt we needed to do something that could truly take the product to the next level. That’s why we asked AUGE to help us elevate the brand compared to the other fresh produce products we encounter every day.”",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/auge-design-sets-pear-brand-eden-golds-identity-in-a-garden-of-eden/EDEN-GOLD-AUGE-Design-01.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/auge-design-sets-pear-brand-eden-golds-identity-in-a-garden-of-eden/EDEN-GOLD-AUGE-Design-01.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "Greenyard Fresh Italy handles the import, export and wholesale distribution of fresh fruit and vegetables as the Italian arm of the Belgian group Greenyard. Eden Gold is a new pear variety, for which the company decided to build a brand to bring it to market."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/auge-design-sets-pear-brand-eden-golds-identity-in-a-garden-of-eden/EDEN-GOLD-AUGE-Design-02.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“We are convinced that the pear sector has great potential: consumption is declining among younger generations, and there is no market-leading variety,” Marketing Director Maicol Galeati tells us. Work on the brand had already begun when Greenyard Fresh Italy commissioned Florence and Milan-based agency AUGE Design to create the positioning, identity and packaging to communicate the disruptive and snackable nature of the product. “Our fresh produce sector isn’t very advanced in the world of design. The brand was in its early stages,” Galeati explains, “almost a rough draft, I’d say; but believing in the project’s distinctiveness and potential, we felt we needed to do something that could truly take the product to the next level. That’s why we asked AUGE to help us elevate the brand compared to the other fresh produce products we encounter every day.”"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/auge-design-sets-pear-brand-eden-golds-identity-in-a-garden-of-eden/EDEN-GOLD-AUGE-Design-03.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Eden Gold’s positioning is ‘LA PERA CHE CAMBIA LA STORIA.’ – in English, ‘the pear that changes the story.’ The line appears on outdoor posters and on the packaging. “Eden Gold is a particularly crisp pear, offering a different eating experience compared with more traditional pear varieties,” AUGE Design details. “The idea of ‘changing the story’ therefore works on two levels: it introduces a new way of experiencing the product while also positioning Eden Gold as something unexpected within its category. ‘Peccato non morderla,’ literally, ‘It would be a sin not to bite it,’ translates the same idea into a more immediate, playful and memorable expression. The line directly references the imagery of Eden and the forbidden fruit, creating an ironic connection between temptation and the act of biting into the pear,” the studio continues. “The Eden name itself offered the possibility of building an entire narrative world around the product. This storytelling dimension became one of the most distinctive aspects: Eden Gold is not simply presented as another variety of pear, but as the protagonist of its own story.”"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/auge-design-sets-pear-brand-eden-golds-identity-in-a-garden-of-eden/EDEN-GOLD-AUGE-Design-06.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/auge-design-sets-pear-brand-eden-golds-identity-in-a-garden-of-eden/EDEN-GOLD-AUGE-Design-07.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The identity is built on a set of artworks treated as pictorial pieces. AUGE Design developed the artworks with the support of AI, under its own precise art direction. The visuals began with “our own interpretation of what a contemporary Garden of Eden could look like,” the studio notes. “We first worked through sketches and compositional studies to define the landscapes, architecture, atmosphere and hierarchy of the different elements. The scenes were then developed using artificial intelligence, while continuously refining and controlling the composition, lighting, mood and stylistic consistency. We established a specific set of visual parameters to generate different scenes while ensuring they all belonged to the same imaginary world and shared a consistent visual language.”"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/auge-design-sets-pear-brand-eden-golds-identity-in-a-garden-of-eden/EDEN-GOLD-AUGE-Design-04.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The positioning ‘the pear that changes the story’ was the starting point for the identity, in the branding as much as the packaging. “From the outset, we wanted to create a custom lettering system with a serif structure that felt bold and contemporary at the same time. Particular attention was given to signature details, such as the curved terminals of the ‘E,’ which contribute to making the wordmark immediately recognisable,” the studio tells us. The primary typeface is the bold yet decorative Indubitably. It expresses both the brand’s tone of voice and its storytelling dimension. The plainer Archivo is its functional counterpart."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/auge-design-sets-pear-brand-eden-golds-identity-in-a-garden-of-eden/EDEN-GOLD-AUGE-Design-10.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "For colour, AUGE Design chose light blue and gold. “The palette was designed first and foremost to maximise the packaging’s stand-out on shelf. Fresh fruit and vegetable packaging often relies on natural, earthy and craft-inspired colours. With Eden Gold, we deliberately moved away from these familiar category codes, introducing a palette that feels unexpected within the sector while remaining closely connected to the product name and to the precious, almost fairytale-like imagery of the Garden of Eden,” AUGE Design reasons. “Together, they also create a strong contrast with the natural yellow and red tones of the fruit visible through the die-cut window, making the pears themselves an active part of the visual composition,” the studio continues. “The die-cut window is inspired by architectural forms connected to the neoclassical imaginary developed throughout the identity. At the same time, it performs an important practical function by allowing consumers to see the product directly, especially since no photographic representation of the pear appears on the packaging.”"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/auge-design-sets-pear-brand-eden-golds-identity-in-a-garden-of-eden/EDEN-GOLD-AUGE-Design-08.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/auge-design-sets-pear-brand-eden-golds-identity-in-a-garden-of-eden/EDEN-GOLD-AUGE-Design-09.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Greenyard Fresh Italy holds the exclusive licence to sell Eden Gold in Italy and Europe. “We’ve entered markets in Germany, Denmark, Austria, England and, of course, Italy,” Galeati notes. In February 2026, Italian fruit trade title FruitJournal reported that volumes quadrupled over the season, with the growth driven mainly by export, and that several major chains in Austria and Germany took the product on as a premium private label, but that Italy is the harder market. “What gives us the most confidence is the positive feedback from children, who really love the product – they’re our barometer for tomorrow’s market,” he concludes."
+        }
+      ],
+      "caseStudyText": "Greenyard Fresh Italy handles the import, export and wholesale distribution of fresh fruit and vegetables as the Italian arm of the Belgian group Greenyard. Eden Gold is a new pear variety, for which the company decided to build a brand to bring it to market.\n\n“We are convinced that the pear sector has great potential: consumption is declining among younger generations, and there is no market-leading variety,” Marketing Director Maicol Galeati tells us. Work on the brand had already begun when Greenyard Fresh Italy commissioned Florence and Milan-based agency AUGE Design to create the positioning, identity and packaging to communicate the disruptive and snackable nature of the product. “Our fresh produce sector isn’t very advanced in the world of design. The brand was in its early stages,” Galeati explains, “almost a rough draft, I’d say; but believing in the project’s distinctiveness and potential, we felt we needed to do something that could truly take the product to the next level. That’s why we asked AUGE to help us elevate the brand compared to the other fresh produce products we encounter every day.”\n\nEden Gold’s positioning is ‘LA PERA CHE CAMBIA LA STORIA.’ – in English, ‘the pear that changes the story.’ The line appears on outdoor posters and on the packaging. “Eden Gold is a particularly crisp pear, offering a different eating experience compared with more traditional pear varieties,” AUGE Design details. “The idea of ‘changing the story’ therefore works on two levels: it introduces a new way of experiencing the product while also positioning Eden Gold as something unexpected within its category. ‘Peccato non morderla,’ literally, ‘It would be a sin not to bite it,’ translates the same idea into a more immediate, playful and memorable expression. The line directly references the imagery of Eden and the forbidden fruit, creating an ironic connection between temptation and the act of biting into the pear,” the studio continues. “The Eden name itself offered the possibility of building an entire narrative world around the product. This storytelling dimension became one of the most distinctive aspects: Eden Gold is not simply presented as another variety of pear, but as the protagonist of its own story.”\n\nThe identity is built on a set of artworks treated as pictorial pieces. AUGE Design developed the artworks with the support of AI, under its own precise art direction. The visuals began with “our own interpretation of what a contemporary Garden of Eden could look like,” the studio notes. “We first worked through sketches and compositional studies to define the landscapes, architecture, atmosphere and hierarchy of the different elements. The scenes were then developed using artificial intelligence, while continuously refining and controlling the composition, lighting, mood and stylistic consistency. We established a specific set of visual parameters to generate different scenes while ensuring they all belonged to the same imaginary world and shared a consistent visual language.”\n\nThe positioning ‘the pear that changes the story’ was the starting point for the identity, in the branding as much as the packaging. “From the outset, we wanted to create a custom lettering system with a serif structure that felt bold and contemporary at the same time. Particular attention was given to signature details, such as the curved terminals of the ‘E,’ which contribute to making the wordmark immediately recognisable,” the studio tells us. The primary typeface is the bold yet decorative Indubitably. It expresses both the brand’s tone of voice and its storytelling dimension. The plainer Archivo is its functional counterpart.\n\nFor colour, AUGE Design chose light blue and gold. “The palette was designed first and foremost to maximise the packaging’s stand-out on shelf. Fresh fruit and vegetable packaging often relies on natural, earthy and craft-inspired colours. With Eden Gold, we deliberately moved away from these familiar category codes, introducing a palette that feels unexpected within the sector while remaining closely connected to the product name and to the precious, almost fairytale-like imagery of the Garden of Eden,” AUGE Design reasons. “Together, they also create a strong contrast with the natural yellow and red tones of the fruit visible through the die-cut window, making the pears themselves an active part of the visual composition,” the studio continues. “The die-cut window is inspired by architectural forms connected to the neoclassical imaginary developed throughout the identity. At the same time, it performs an important practical function by allowing consumers to see the product directly, especially since no photographic representation of the pear appears on the packaging.”\n\nGreenyard Fresh Italy holds the exclusive licence to sell Eden Gold in Italy and Europe. “We’ve entered markets in Germany, Denmark, Austria, England and, of course, Italy,” Galeati notes. In February 2026, Italian fruit trade title FruitJournal reported that volumes quadrupled over the season, with the growth driven mainly by export, and that several major chains in Austria and Germany took the product on as a premium private label, but that Italy is the harder market. “What gives us the most confidence is the positive feedback from children, who really love the product – they’re our barometer for tomorrow’s market,” he concludes.",
+      "caseStudyMedia": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/auge-design-sets-pear-brand-eden-golds-identity-in-a-garden-of-eden/EDEN-GOLD-AUGE-Design-01.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/auge-design-sets-pear-brand-eden-golds-identity-in-a-garden-of-eden/EDEN-GOLD-AUGE-Design-02.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/auge-design-sets-pear-brand-eden-golds-identity-in-a-garden-of-eden/EDEN-GOLD-AUGE-Design-03.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/auge-design-sets-pear-brand-eden-golds-identity-in-a-garden-of-eden/EDEN-GOLD-AUGE-Design-06.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/auge-design-sets-pear-brand-eden-golds-identity-in-a-garden-of-eden/EDEN-GOLD-AUGE-Design-07.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/auge-design-sets-pear-brand-eden-golds-identity-in-a-garden-of-eden/EDEN-GOLD-AUGE-Design-04.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/auge-design-sets-pear-brand-eden-golds-identity-in-a-garden-of-eden/EDEN-GOLD-AUGE-Design-10.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/auge-design-sets-pear-brand-eden-golds-identity-in-a-garden-of-eden/EDEN-GOLD-AUGE-Design-08.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/auge-design-sets-pear-brand-eden-golds-identity-in-a-garden-of-eden/EDEN-GOLD-AUGE-Design-09.jpg"
+        }
+      ]
+    },
+    {
+      "canonicalUrl": "https://the-brandidentity.com/project/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club",
+      "titleOriginal": "Hochburg designs the identity for PARK, the renamed Stuttgart club",
+      "textOriginal": "Perkins Park has been part of Stuttgart’s nightlife since 1980. In 2026, it took a new name, PARK , along with a programme led by house and techno, more international bookings and a club reconfigured for larger-scale nights and a new audience. Local design studio Hochburg , in a long-standing collaboration with club operator Denis Gugac, was commissioned to create the new identity.\n\nThe musical direction and the ambition to book more international artists were settled long before any design work started. “When I took over the club, it was clear that a new logo alone wouldn’t be enough,” Gugac tells us. “I want it to look big. I know we are in Stuttgart, but I wanted to create something that could just as easily exist and be celebrated in Barcelona or Ibiza.” From that brief, the scope grew to cover artist communication, social media, motion and the LED screens inside the club. “What people see before an event should feel like the same world they enter when they walk into PARK,” he adds.",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-01.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-01.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "Perkins Park has been part of Stuttgart’s nightlife since 1980. In 2026, it took a new name, PARK , along with a programme led by house and techno, more international bookings and a club reconfigured for larger-scale nights and a new audience. Local design studio Hochburg , in a long-standing collaboration with club operator Denis Gugac, was commissioned to create the new identity."
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-02.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The musical direction and the ambition to book more international artists were settled long before any design work started. “When I took over the club, it was clear that a new logo alone wouldn’t be enough,” Gugac tells us. “I want it to look big. I know we are in Stuttgart, but I wanted to create something that could just as easily exist and be celebrated in Barcelona or Ibiza.” From that brief, the scope grew to cover artist communication, social media, motion and the LED screens inside the club. “What people see before an event should feel like the same world they enter when they walk into PARK,” he adds."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“The programme is diverse and will continue to evolve, so the identity needed to evolve with it rather than define one fixed visual style,” Gugac explains. Hochburg looked outside Stuttgart for its reference points, at international clubs and at the visual cultures around house, techno, fashion and contemporary nightlife."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-05.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The reduction from Perkins Park to PARK became the starting point for the identity. Hochburg set the four remaining letters on a tight, almost square grid and kept stripping them back version by version, removing more of the detail that identifies a letter and working on the form and silhouette of the logo as a whole. “The hardest and probably most controversial letter was the ‘P,’” Creative Director Florian Boyd tells us. The result is a mark that keeps the letters inside one shape, sharing forms, lines and negative space and receding behind the overall silhouette – geometry reduced enough to translate into physical applications, from metal objects to clothing. “Eventually we reached a point where we knew the word would no longer be immediately readable at first glance. But once you know what it says, the letters suddenly fall into place,” he continues."
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-04.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-03.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“It became a symbol you decode once and then recognise. This is obviously not something you can or should do with every brand. A logo needs to communicate, and readability is usually an important part of that. But we felt that a club can push those boundaries,” Boyd explains. “Especially today, when AI can generate endless variations of perfectly readable futuristic logos in seconds, we felt there was room to push in the opposite direction. We wanted to create something that asks a little more from the viewer.” It is the part of the identity that stands out most for Gugac, too."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-06.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-07.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The system organises artist communication, monthly programmes, social assets and event graphics. Photography is largely supplied by the artists, so consistency cannot come from the imagery. Recognition comes instead from the grid, typography, information hierarchy and a layer of fine lines and interface elements that reference timelines, players and DJ equipment. Those elements organise dates, artist names, ticket information and the PARK mark, but can also become visible graphic elements themselves."
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-08.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-11_2026-09-15-080859_rnxb.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Futurist, from Fuego Fonts, carries the headlines and the large-scale messages; its rounded forms and softer edges set against the rigid grid, while Arame, designed by Dimitre Lima, is used mainly at small sizes, where it works almost like a technical annotation. The base is black and white with technical greys, interrupted by pink, blue, red, green and violet. Artists and events often come with their own colours, imagery and visual worlds, and the grids, boxes and graphic elements can pick up those colours. “So in a way, PARK has no colours and all the colours at the same time,” Boyd notes. The imagery that the system crops and arranges on the grid comes from the night – artists, bodies, crowds, trails of light, proximity, blur and movement."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-12.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-15.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "With the programme changing constantly, the system had to keep producing visual content without every asset going back through the studio, so Hochburg built its own tool. It works with almost any source material, from stock footage and pre-made VJ loops to clips shot inside the club. The software processes that material into cuts, transitions and loops, and the PARK mark can react and animate in real time to the sound being played. “The individual lines can react to sound and music, break apart, move, expand and come back together. Sometimes you see the full wordmark, sometimes just fragments of it,” Boyd details. “The logo shouldn’t just sit on top of the club’s visuals. It should become part of them.” Hochburg’s tool also works as a social media content generator, so the club team can make branded content without producing every asset from scratch. For individual events, visual artists can create their own live or pre-recorded visuals, which can be fed directly onto the club’s screens."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-13.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-14.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“We definitely notice a divide in how the change is perceived,” Gugac reveals. “There are people who have known Perkins Park for decades and have a very strong emotional connection to what the club used to be, even if some of them haven’t actually been inside for years. And then there is a much younger audience that goes out regularly and simply wants to have a great night. Especially for people who have known Perkins Park for many years, the change can feel quite radical. The identity needs to make that transformation visible.”"
+        }
+      ],
+      "caseStudyText": "Perkins Park has been part of Stuttgart’s nightlife since 1980. In 2026, it took a new name, PARK , along with a programme led by house and techno, more international bookings and a club reconfigured for larger-scale nights and a new audience. Local design studio Hochburg , in a long-standing collaboration with club operator Denis Gugac, was commissioned to create the new identity.\n\nThe musical direction and the ambition to book more international artists were settled long before any design work started. “When I took over the club, it was clear that a new logo alone wouldn’t be enough,” Gugac tells us. “I want it to look big. I know we are in Stuttgart, but I wanted to create something that could just as easily exist and be celebrated in Barcelona or Ibiza.” From that brief, the scope grew to cover artist communication, social media, motion and the LED screens inside the club. “What people see before an event should feel like the same world they enter when they walk into PARK,” he adds.\n\n“The programme is diverse and will continue to evolve, so the identity needed to evolve with it rather than define one fixed visual style,” Gugac explains. Hochburg looked outside Stuttgart for its reference points, at international clubs and at the visual cultures around house, techno, fashion and contemporary nightlife.\n\nThe reduction from Perkins Park to PARK became the starting point for the identity. Hochburg set the four remaining letters on a tight, almost square grid and kept stripping them back version by version, removing more of the detail that identifies a letter and working on the form and silhouette of the logo as a whole. “The hardest and probably most controversial letter was the ‘P,’” Creative Director Florian Boyd tells us. The result is a mark that keeps the letters inside one shape, sharing forms, lines and negative space and receding behind the overall silhouette – geometry reduced enough to translate into physical applications, from metal objects to clothing. “Eventually we reached a point where we knew the word would no longer be immediately readable at first glance. But once you know what it says, the letters suddenly fall into place,” he continues.\n\n“It became a symbol you decode once and then recognise. This is obviously not something you can or should do with every brand. A logo needs to communicate, and readability is usually an important part of that. But we felt that a club can push those boundaries,” Boyd explains. “Especially today, when AI can generate endless variations of perfectly readable futuristic logos in seconds, we felt there was room to push in the opposite direction. We wanted to create something that asks a little more from the viewer.” It is the part of the identity that stands out most for Gugac, too.\n\nThe system organises artist communication, monthly programmes, social assets and event graphics. Photography is largely supplied by the artists, so consistency cannot come from the imagery. Recognition comes instead from the grid, typography, information hierarchy and a layer of fine lines and interface elements that reference timelines, players and DJ equipment. Those elements organise dates, artist names, ticket information and the PARK mark, but can also become visible graphic elements themselves.\n\nFuturist, from Fuego Fonts, carries the headlines and the large-scale messages; its rounded forms and softer edges set against the rigid grid, while Arame, designed by Dimitre Lima, is used mainly at small sizes, where it works almost like a technical annotation. The base is black and white with technical greys, interrupted by pink, blue, red, green and violet. Artists and events often come with their own colours, imagery and visual worlds, and the grids, boxes and graphic elements can pick up those colours. “So in a way, PARK has no colours and all the colours at the same time,” Boyd notes. The imagery that the system crops and arranges on the grid comes from the night – artists, bodies, crowds, trails of light, proximity, blur and movement.\n\nWith the programme changing constantly, the system had to keep producing visual content without every asset going back through the studio, so Hochburg built its own tool. It works with almost any source material, from stock footage and pre-made VJ loops to clips shot inside the club. The software processes that material into cuts, transitions and loops, and the PARK mark can react and animate in real time to the sound being played. “The individual lines can react to sound and music, break apart, move, expand and come back together. Sometimes you see the full wordmark, sometimes just fragments of it,” Boyd details. “The logo shouldn’t just sit on top of the club’s visuals. It should become part of them.” Hochburg’s tool also works as a social media content generator, so the club team can make branded content without producing every asset from scratch. For individual events, visual artists can create their own live or pre-recorded visuals, which can be fed directly onto the club’s screens.\n\n“We definitely notice a divide in how the change is perceived,” Gugac reveals. “There are people who have known Perkins Park for decades and have a very strong emotional connection to what the club used to be, even if some of them haven’t actually been inside for years. And then there is a much younger audience that goes out regularly and simply wants to have a great night. Especially for people who have known Perkins Park for many years, the change can feel quite radical. The identity needs to make that transformation visible.”",
+      "caseStudyMedia": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-01.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-02.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-05.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-04.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-03.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-06.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-07.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-08.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-11_2026-09-15-080859_rnxb.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-12.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-15.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-13.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-14.jpg"
+        }
+      ]
+    },
+    {
+      "canonicalUrl": "https://the-brandidentity.com/project/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua",
+      "titleOriginal": "Mexico meets Japan across AH Work’s colourful identity for Salsa Mutua",
+      "textOriginal": "Salsa Mutua is a Mexican brand of ‘crispy chilli oil made with salsa and chilli crisp. “We had an initial idea of a name for the sauce: ‘Rayito.’ But we quickly learned that this name was going to be impossible to register as a trademark,” Founders Sebastian and Alejandro tell us. The name they landed on instead comes from the Spanish ‘mutuo,’ meaning something reciprocal between two parts, or something balanced. “It can also be something like a shared experience, like sharing a meal,” they note. “Sebastian’s brother suggested chilli crisp. We noticed the parallelism with that and figured out the similarities with the Asian chilli crisp and the Mexican salsa macha. That is when we decided to create the ‘first Mexican Chili Crisp.’”\n\nWith the name settled, they commissioned Mexico City-based creative office AH Work , led by Andrés Higueros, to design the identity. “We really liked Andrés’ work,” the founders explain, “especially because we noticed that he had worked on many projects that involved typeface design.” The references Higueros worked from for the identity are Mexican and Japanese, as Salsa Mutua is built on both Mexican and Asian cooking. “The name became the starting point: the idea of exchange, of different ingredients and cultural influences coming together to create something new. That gave us a world to build through the two cats, the custom lettering and the colour combinations,” he details. “We started by looking at the local market and noticed that many sauce brands relied on similar visual cues: chilli illustrations, flames and familiar Mexican imagery. We wanted to move beyond those conventions and tell a story specific to Mutua,” he continues. “On the shelf, we wanted Mutua to feel bold, playful and distinctive, with a personality that would draw people in and make them curious about the sauces.”",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-01.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-01.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "Salsa Mutua is a Mexican brand of ‘crispy chilli oil made with salsa and chilli crisp. “We had an initial idea of a name for the sauce: ‘Rayito.’ But we quickly learned that this name was going to be impossible to register as a trademark,” Founders Sebastian and Alejandro tell us. The name they landed on instead comes from the Spanish ‘mutuo,’ meaning something reciprocal between two parts, or something balanced. “It can also be something like a shared experience, like sharing a meal,” they note. “Sebastian’s brother suggested chilli crisp. We noticed the parallelism with that and figured out the similarities with the Asian chilli crisp and the Mexican salsa macha. That is when we decided to create the ‘first Mexican Chili Crisp.’”"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-02.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "With the name settled, they commissioned Mexico City-based creative office AH Work , led by Andrés Higueros, to design the identity. “We really liked Andrés’ work,” the founders explain, “especially because we noticed that he had worked on many projects that involved typeface design.” The references Higueros worked from for the identity are Mexican and Japanese, as Salsa Mutua is built on both Mexican and Asian cooking. “The name became the starting point: the idea of exchange, of different ingredients and cultural influences coming together to create something new. That gave us a world to build through the two cats, the custom lettering and the colour combinations,” he details. “We started by looking at the local market and noticed that many sauce brands relied on similar visual cues: chilli illustrations, flames and familiar Mexican imagery. We wanted to move beyond those conventions and tell a story specific to Mutua,” he continues. “On the shelf, we wanted Mutua to feel bold, playful and distinctive, with a personality that would draw people in and make them curious about the sauces.”"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-04.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-03.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "SALSA is set in Compacta Black Poster. “I drew the MUTUA wordmark from scratch. I was interested in the curved endings of certain Japanese characters and explored how that quality could inform the contours and terminals of the Latin letterforms. Those subtle curves sit within bold, substantial shapes, drawing on the visual strength of Mexican hand-painted signage,” Higueros tells us. “The vertical composition was another deliberate choice, referencing vertical writing in Japanese,” he notes. American Grotesk, restrained and functional, sets the descriptions and supporting information. “Compacta brings the weight and immediate impact I wanted for the main headlines,” he explains. “The system also allows the lettering to be stretched horizontally or vertically, giving the typography an expressive, adaptable role within each composition.”"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-07.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“The cats came from a fairly intuitive place. I liked how endearing they were and how familiar they felt in the everyday world of markets and small shops in both Mexico and Japan. The Japanese lucky cat was also a reference I had in mind, so they felt like a natural connection between the two cultures,” Higueros reveals. “Within Mutua’s world, the striped cat represents the Mexican side, while the plain-coated cat, with its more serious expression, represents the Japanese side. Their contrasting personalities gave me a way to express cultural exchange through the relationship between two characters.” Higueros drew the pair in different poses and activities. “Because of Mexican labelling norms, we cannot show them in the primary packaging,” Sebastian and Alejandro tell us. “Nevertheless, we would like to include them in the packaging targeted to international markets. Right now, we still use them on our website, stickers, merch and presentations.”"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-09.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-10.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“I used the ingredients as a starting point for each colour pairing,” Higueros notes of the four labels, “but the main intention was always to create something bold and eye-catching.” The Chili Crisp Original label is yellow and red, and the Chili Crisp Extra Picante label is orange and brown. The other two names pair a Mexican chilli with an Asian place – Morita Siam in pale pink, Habanero Katong in yellow and red."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-05.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-06.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The images are by Mexico City-based photographer Alberto Pinto – a friend who Higueros has worked with on projects before. Adrián Zarraga, who he has also collaborated with, made the motion graphics. “I led the art direction, aiming for an urban, market-inspired atmosphere with an editorial sensibility. I wanted to move away from the polished commercial imagery often used by food brands and bring Mutua closer to the street and the everyday environments that inspired its identity. The photography gave us a way to place the packaging within that broader world,” Higueros explains. “For the motion graphics, my direction was to bring the identity to life through animation, extending its playful character beyond the printed labels.”"
+        }
+      ],
+      "caseStudyText": "Salsa Mutua is a Mexican brand of ‘crispy chilli oil made with salsa and chilli crisp. “We had an initial idea of a name for the sauce: ‘Rayito.’ But we quickly learned that this name was going to be impossible to register as a trademark,” Founders Sebastian and Alejandro tell us. The name they landed on instead comes from the Spanish ‘mutuo,’ meaning something reciprocal between two parts, or something balanced. “It can also be something like a shared experience, like sharing a meal,” they note. “Sebastian’s brother suggested chilli crisp. We noticed the parallelism with that and figured out the similarities with the Asian chilli crisp and the Mexican salsa macha. That is when we decided to create the ‘first Mexican Chili Crisp.’”\n\nWith the name settled, they commissioned Mexico City-based creative office AH Work , led by Andrés Higueros, to design the identity. “We really liked Andrés’ work,” the founders explain, “especially because we noticed that he had worked on many projects that involved typeface design.” The references Higueros worked from for the identity are Mexican and Japanese, as Salsa Mutua is built on both Mexican and Asian cooking. “The name became the starting point: the idea of exchange, of different ingredients and cultural influences coming together to create something new. That gave us a world to build through the two cats, the custom lettering and the colour combinations,” he details. “We started by looking at the local market and noticed that many sauce brands relied on similar visual cues: chilli illustrations, flames and familiar Mexican imagery. We wanted to move beyond those conventions and tell a story specific to Mutua,” he continues. “On the shelf, we wanted Mutua to feel bold, playful and distinctive, with a personality that would draw people in and make them curious about the sauces.”\n\nSALSA is set in Compacta Black Poster. “I drew the MUTUA wordmark from scratch. I was interested in the curved endings of certain Japanese characters and explored how that quality could inform the contours and terminals of the Latin letterforms. Those subtle curves sit within bold, substantial shapes, drawing on the visual strength of Mexican hand-painted signage,” Higueros tells us. “The vertical composition was another deliberate choice, referencing vertical writing in Japanese,” he notes. American Grotesk, restrained and functional, sets the descriptions and supporting information. “Compacta brings the weight and immediate impact I wanted for the main headlines,” he explains. “The system also allows the lettering to be stretched horizontally or vertically, giving the typography an expressive, adaptable role within each composition.”\n\n“The cats came from a fairly intuitive place. I liked how endearing they were and how familiar they felt in the everyday world of markets and small shops in both Mexico and Japan. The Japanese lucky cat was also a reference I had in mind, so they felt like a natural connection between the two cultures,” Higueros reveals. “Within Mutua’s world, the striped cat represents the Mexican side, while the plain-coated cat, with its more serious expression, represents the Japanese side. Their contrasting personalities gave me a way to express cultural exchange through the relationship between two characters.” Higueros drew the pair in different poses and activities. “Because of Mexican labelling norms, we cannot show them in the primary packaging,” Sebastian and Alejandro tell us. “Nevertheless, we would like to include them in the packaging targeted to international markets. Right now, we still use them on our website, stickers, merch and presentations.”\n\n“I used the ingredients as a starting point for each colour pairing,” Higueros notes of the four labels, “but the main intention was always to create something bold and eye-catching.” The Chili Crisp Original label is yellow and red, and the Chili Crisp Extra Picante label is orange and brown. The other two names pair a Mexican chilli with an Asian place – Morita Siam in pale pink, Habanero Katong in yellow and red.\n\nThe images are by Mexico City-based photographer Alberto Pinto – a friend who Higueros has worked with on projects before. Adrián Zarraga, who he has also collaborated with, made the motion graphics. “I led the art direction, aiming for an urban, market-inspired atmosphere with an editorial sensibility. I wanted to move away from the polished commercial imagery often used by food brands and bring Mutua closer to the street and the everyday environments that inspired its identity. The photography gave us a way to place the packaging within that broader world,” Higueros explains. “For the motion graphics, my direction was to bring the identity to life through animation, extending its playful character beyond the printed labels.”",
+      "caseStudyMedia": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-01.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-02.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-04.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-03.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-07.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-09.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-10.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-05.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-06.jpg"
         }
       ]
     }
