@@ -44,6 +44,26 @@ export default {
       });
     }
 
+    if(path==="/status/the-brand-identity"){
+      try{
+        const [lastRunRaw,lastErrorRaw]=await Promise.all([
+          env.IDENTITY_KV?.get("source:the-brand-identity:last-run"),
+          env.IDENTITY_KV?.get("source:the-brand-identity:last-error")
+        ]);
+        const source=WEB_SOURCES.find(x=>x.config.id==="the-brand-identity");
+        const cards=source?await source.scan():[];
+        return json({
+          ok:true,
+          source:"the-brand-identity",
+          cardsFound:cards.length,
+          lastRun:lastRunRaw?JSON.parse(lastRunRaw):null,
+          lastError:lastErrorRaw?JSON.parse(lastErrorRaw):null
+        });
+      }catch(e){
+        return json({ok:false,error:String(e?.message||e)},500);
+      }
+    }
+
     if(path==="/test-send/the-brand-identity"){
       try{
         return json(await sendTheBrandIdentityTest(env));
