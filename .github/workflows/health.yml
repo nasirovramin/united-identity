@@ -5,6 +5,8 @@ on:
     branches: [main.ru]
     paths:
       - ".github/workflows/health.yml"
+      - "src/**"
+      - "wrangler.jsonc"
   schedule:
     - cron: "15 * * * *"
   workflow_dispatch:
