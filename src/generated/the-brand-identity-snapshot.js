@@ -7,6 +7,133 @@ const snapshot={
   },
   "items": [
     {
+      "canonicalUrl": "https://the-brandidentity.com/project/studio-hi-ho-pairs-kraft-and-butter-yellow-in-madeleines-packaging",
+      "titleOriginal": "Studio Hi Ho pairs kraft and butter yellow in Madeleine’s packaging",
+      "textOriginal": "Madeleine is a Melbourne-based cultured butter maker founded by Jack Gaffney, who returned to Australia after many years living in France with a dream to make butter using traditional methods. The malaxer, a historic butter-making machine that slowly kneads, folds and works the butter, is at the centre of its process. Malaxers were once commonplace in dairies, but they largely disappeared as butter production industrialised. Madeleine’s process is deliberately slower – grass-fed Jersey cow cream from West Gippsland is fermented, batch churned in the Yarra Valley and malaxed. Each portion is paddled and shaped by hand.\n\n“My malaxer is a modern rendition of a very traditional machine – and something I saw as necessary for crafting the finest butter possible,” Gaffney explains. “Madeleine is one of only two producers in the world to use a malaxer.” Melbourne-based Studio Hi Ho designed the identity and packaging, beginning with Gaffney’s first meeting with the studio’s Director, Cam Norris. “I already had certain parts nailed down and had developed a very small presentation – but I had no starting point for design,” he recalls. He took Norris through the initial concepts of the brand, the reasons behind the name, the product and process, and his ambition. Norris then returned with an identity presentation.",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/studio-hi-ho-pairs-kraft-and-butter-yellow-in-madeleines-packaging/Madeleine-Studio-Hi-Ho-01.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/studio-hi-ho-pairs-kraft-and-butter-yellow-in-madeleines-packaging/Madeleine-Studio-Hi-Ho-01.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "Madeleine is a Melbourne-based cultured butter maker founded by Jack Gaffney, who returned to Australia after many years living in France with a dream to make butter using traditional methods. The malaxer, a historic butter-making machine that slowly kneads, folds and works the butter, is at the centre of its process. Malaxers were once commonplace in dairies, but they largely disappeared as butter production industrialised. Madeleine’s process is deliberately slower – grass-fed Jersey cow cream from West Gippsland is fermented, batch churned in the Yarra Valley and malaxed. Each portion is paddled and shaped by hand."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/studio-hi-ho-pairs-kraft-and-butter-yellow-in-madeleines-packaging/Madeleine-Studio-Hi-Ho-07_2026-10-12-114832_xdpe.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“My malaxer is a modern rendition of a very traditional machine – and something I saw as necessary for crafting the finest butter possible,” Gaffney explains. “Madeleine is one of only two producers in the world to use a malaxer.” Melbourne-based Studio Hi Ho designed the identity and packaging, beginning with Gaffney’s first meeting with the studio’s Director, Cam Norris. “I already had certain parts nailed down and had developed a very small presentation – but I had no starting point for design,” he recalls. He took Norris through the initial concepts of the brand, the reasons behind the name, the product and process, and his ambition. Norris then returned with an identity presentation."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The name comes from the madeleine, the small French cake, and the simple pleasure of taking the time to enjoy something properly. The idea of slowing down and savouring the moment became a starting point for the brand. “We agreed fairly early that anything overtly ‘French’ would risk feeling passé and a little inauthentic,” Norris explains. Gaffney “isn’t French, and the butter itself is made here in Victoria. So rather than treating France as an aesthetic theme, we wanted it to sit more quietly within the brand. It appears where it has a genuine connection to the product – the name, Jack’s story, the traditional process and ingredients such as Sel de Guérande,” he continues, naming the hand-harvested grey Celtic salt used in the butter."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/studio-hi-ho-pairs-kraft-and-butter-yellow-in-madeleines-packaging/Madeleine-Studio-Hi-Ho-08_2026-10-12-115036_qzqu.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/studio-hi-ho-pairs-kraft-and-butter-yellow-in-madeleines-packaging/Madeleine-Studio-Hi-Ho-04.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Studio Hi Ho set the logotype in Highway Gothic, a typeface first released in 1948. “We were drawn to the slightly awkward charm of its letterforms – the proportions and shapes feel a little unusual, which gives the wordmark a memorable quality,” Norris tells us. “We added the decorative underline to give it more of a ‘logo’ quality; to us, it feels a little like a badge you might find on the side of an old French tractor.” The body copy is set in Plantin, legible at small sizes and, in Norris’s words, “a trusty serif workhorse.” “Butter is yellow, so it felt silly not to lean into that as the hero colour of the brand,” he adds."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Illustrator Pat Rogasch drew the butter-kneading process for the identity. “Our brief was to create something that felt as though it could have been plucked from the past, but would still feel contemporary well into the future,” Norris details. The linework is slightly blown out, giving the image “a nostalgic, reproduced quality, almost as though it has been printed, scanned and reinterpreted over many years.” An ‘M’ on the apron of a figure in the drawing is “a small reference back to the Madeleine logotype.”"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/studio-hi-ho-pairs-kraft-and-butter-yellow-in-madeleines-packaging/Madeleine-Studio-Hi-Ho-06.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/studio-hi-ho-pairs-kraft-and-butter-yellow-in-madeleines-packaging/Madeleine-Studio-Hi-Ho-03.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Waxed on one side so the butter doesn’t stick to it, the kraft paper wrapper “began as a functional requirement,” Norris notes. “But once we began working with it, the natural brown of the kraft became an important part of the packaging. There’s something extremely satisfying about the combination of brown kraft and butter yellow.” The core butter has a yellow label with black type, while other butters and collaborations use a white label with coloured type, so repeat customers can “recognise their favourite variety quickly within a line-up.” When Gaffney introduced the idea of a Limited Release range, Norris saw it as “an opportunity to stretch that language a little further.” The studio added a hand-drawn typeface alongside the existing typography for the range, and the Outback butter’s label has a second line reading Limited Release."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The packaging also has room for collaborations with other makers and producers, and Gaffney is often approached with ideas for collaboration butters. Chef Guillaume Brahimi wanted a Piment d’Espelette cultured butter for a special event. “It ended up being so delicious, it’s now part of Madeleine’s core range,” he tells us."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/studio-hi-ho-pairs-kraft-and-butter-yellow-in-madeleines-packaging/Madeleine-Studio-Hi-Ho-02.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/studio-hi-ho-pairs-kraft-and-butter-yellow-in-madeleines-packaging/Madeleine-Studio-Hi-Ho-05.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Gaffney worked farmers’ markets every weekend for about two years, and comments on the packaging were common. “I’ve heard people say that they thought the packaging was too beautiful to open,” he remembers. The markets also led to introductions with “some of Melbourne’s most revered chefs.” The butter is served at establishments including Yiaga, Attica and Omnia, and sold in retail blocks at grocers including Meatsmith, Morning Market and Toscano’s. “Madeleine can sit comfortably alongside names such as Maker & Monger, Portside or Queen’s Harvest while still remaining immediately recognisable,” Norris observes of the brands it can now be compared to."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "INTO IT art directed and styled the brand’s shoot with photographer Shelley Horan, setting tightly cropped, tactile details beside more playful, composed images. In one, the butter is shaped into a cube, cone and sphere. “There’s something slightly unexpected about treating butter almost as a sculptural material, while leaving the paddle marks visible keeps the image grounded in the handmade nature of the product,” Norris concludes."
+        }
+      ],
+      "caseStudyText": "Madeleine is a Melbourne-based cultured butter maker founded by Jack Gaffney, who returned to Australia after many years living in France with a dream to make butter using traditional methods. The malaxer, a historic butter-making machine that slowly kneads, folds and works the butter, is at the centre of its process. Malaxers were once commonplace in dairies, but they largely disappeared as butter production industrialised. Madeleine’s process is deliberately slower – grass-fed Jersey cow cream from West Gippsland is fermented, batch churned in the Yarra Valley and malaxed. Each portion is paddled and shaped by hand.\n\n“My malaxer is a modern rendition of a very traditional machine – and something I saw as necessary for crafting the finest butter possible,” Gaffney explains. “Madeleine is one of only two producers in the world to use a malaxer.” Melbourne-based Studio Hi Ho designed the identity and packaging, beginning with Gaffney’s first meeting with the studio’s Director, Cam Norris. “I already had certain parts nailed down and had developed a very small presentation – but I had no starting point for design,” he recalls. He took Norris through the initial concepts of the brand, the reasons behind the name, the product and process, and his ambition. Norris then returned with an identity presentation.\n\nThe name comes from the madeleine, the small French cake, and the simple pleasure of taking the time to enjoy something properly. The idea of slowing down and savouring the moment became a starting point for the brand. “We agreed fairly early that anything overtly ‘French’ would risk feeling passé and a little inauthentic,” Norris explains. Gaffney “isn’t French, and the butter itself is made here in Victoria. So rather than treating France as an aesthetic theme, we wanted it to sit more quietly within the brand. It appears where it has a genuine connection to the product – the name, Jack’s story, the traditional process and ingredients such as Sel de Guérande,” he continues, naming the hand-harvested grey Celtic salt used in the butter.\n\nStudio Hi Ho set the logotype in Highway Gothic, a typeface first released in 1948. “We were drawn to the slightly awkward charm of its letterforms – the proportions and shapes feel a little unusual, which gives the wordmark a memorable quality,” Norris tells us. “We added the decorative underline to give it more of a ‘logo’ quality; to us, it feels a little like a badge you might find on the side of an old French tractor.” The body copy is set in Plantin, legible at small sizes and, in Norris’s words, “a trusty serif workhorse.” “Butter is yellow, so it felt silly not to lean into that as the hero colour of the brand,” he adds.\n\nIllustrator Pat Rogasch drew the butter-kneading process for the identity. “Our brief was to create something that felt as though it could have been plucked from the past, but would still feel contemporary well into the future,” Norris details. The linework is slightly blown out, giving the image “a nostalgic, reproduced quality, almost as though it has been printed, scanned and reinterpreted over many years.” An ‘M’ on the apron of a figure in the drawing is “a small reference back to the Madeleine logotype.”\n\nWaxed on one side so the butter doesn’t stick to it, the kraft paper wrapper “began as a functional requirement,” Norris notes. “But once we began working with it, the natural brown of the kraft became an important part of the packaging. There’s something extremely satisfying about the combination of brown kraft and butter yellow.” The core butter has a yellow label with black type, while other butters and collaborations use a white label with coloured type, so repeat customers can “recognise their favourite variety quickly within a line-up.” When Gaffney introduced the idea of a Limited Release range, Norris saw it as “an opportunity to stretch that language a little further.” The studio added a hand-drawn typeface alongside the existing typography for the range, and the Outback butter’s label has a second line reading Limited Release.\n\nThe packaging also has room for collaborations with other makers and producers, and Gaffney is often approached with ideas for collaboration butters. Chef Guillaume Brahimi wanted a Piment d’Espelette cultured butter for a special event. “It ended up being so delicious, it’s now part of Madeleine’s core range,” he tells us.\n\nGaffney worked farmers’ markets every weekend for about two years, and comments on the packaging were common. “I’ve heard people say that they thought the packaging was too beautiful to open,” he remembers. The markets also led to introductions with “some of Melbourne’s most revered chefs.” The butter is served at establishments including Yiaga, Attica and Omnia, and sold in retail blocks at grocers including Meatsmith, Morning Market and Toscano’s. “Madeleine can sit comfortably alongside names such as Maker & Monger, Portside or Queen’s Harvest while still remaining immediately recognisable,” Norris observes of the brands it can now be compared to.\n\nINTO IT art directed and styled the brand’s shoot with photographer Shelley Horan, setting tightly cropped, tactile details beside more playful, composed images. In one, the butter is shaped into a cube, cone and sphere. “There’s something slightly unexpected about treating butter almost as a sculptural material, while leaving the paddle marks visible keeps the image grounded in the handmade nature of the product,” Norris concludes.",
+      "caseStudyMedia": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/studio-hi-ho-pairs-kraft-and-butter-yellow-in-madeleines-packaging/Madeleine-Studio-Hi-Ho-01.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/studio-hi-ho-pairs-kraft-and-butter-yellow-in-madeleines-packaging/Madeleine-Studio-Hi-Ho-07_2026-10-12-114832_xdpe.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/studio-hi-ho-pairs-kraft-and-butter-yellow-in-madeleines-packaging/Madeleine-Studio-Hi-Ho-08_2026-10-12-115036_qzqu.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/studio-hi-ho-pairs-kraft-and-butter-yellow-in-madeleines-packaging/Madeleine-Studio-Hi-Ho-04.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/studio-hi-ho-pairs-kraft-and-butter-yellow-in-madeleines-packaging/Madeleine-Studio-Hi-Ho-06.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/studio-hi-ho-pairs-kraft-and-butter-yellow-in-madeleines-packaging/Madeleine-Studio-Hi-Ho-03.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/studio-hi-ho-pairs-kraft-and-butter-yellow-in-madeleines-packaging/Madeleine-Studio-Hi-Ho-02.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/studio-hi-ho-pairs-kraft-and-butter-yellow-in-madeleines-packaging/Madeleine-Studio-Hi-Ho-05.jpg"
+        }
+      ]
+    },
+    {
       "canonicalUrl": "https://the-brandidentity.com/project/together-gives-clusia-a-four-petal-mark-showing-ai-and-people-at-work",
       "titleOriginal": "Together gives Clusia a four-petal mark showing AI and people at work",
       "textOriginal": "Clusia is a US assurance firm for companies that move money, using AI to complete the audits and independent testing that banks and fintechs are required to perform every year. Clusia’s software drafts each audit from the client’s connected systems, showing the source behind every answer, and an accredited professional then reviews and signs it. London-based design and technology agency Together was commissioned to create the identity, spanning the mark, typography, colour, photography, illustration, outdoor advertising, website and product interface.\n\nWhen the design work began, Clusia was two people, and both worked closely with Together throughout. “We wanted something that felt modern and more in line with the best software brands, while still feeling credible to banks and fintechs,” explains Clusia’s Co-founder Reed Switzer. “We also wanted the brand to champion the people behind the work, both at Clusia and at the companies we work with.” Apart from its name, Clusia had no brand to build on.",
@@ -3618,293 +3745,6 @@ const snapshot={
         {
           "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/09/auge-design-sets-pear-brand-eden-golds-identity-in-a-garden-of-eden/EDEN-GOLD-AUGE-Design-09.jpg"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club",
-      "titleOriginal": "Hochburg designs the identity for PARK, the renamed Stuttgart club",
-      "textOriginal": "Perkins Park has been part of Stuttgart’s nightlife since 1980. In 2026, it took a new name, PARK , along with a programme led by house and techno, more international bookings and a club reconfigured for larger-scale nights and a new audience. Local design studio Hochburg , in a long-standing collaboration with club operator Denis Gugac, was commissioned to create the new identity.\n\nThe musical direction and the ambition to book more international artists were settled long before any design work started. “When I took over the club, it was clear that a new logo alone wouldn’t be enough,” Gugac tells us. “I want it to look big. I know we are in Stuttgart, but I wanted to create something that could just as easily exist and be celebrated in Barcelona or Ibiza.” From that brief, the scope grew to cover artist communication, social media, motion and the LED screens inside the club. “What people see before an event should feel like the same world they enter when they walk into PARK,” he adds.",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-01.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-01.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "Perkins Park has been part of Stuttgart’s nightlife since 1980. In 2026, it took a new name, PARK , along with a programme led by house and techno, more international bookings and a club reconfigured for larger-scale nights and a new audience. Local design studio Hochburg , in a long-standing collaboration with club operator Denis Gugac, was commissioned to create the new identity."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-02.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The musical direction and the ambition to book more international artists were settled long before any design work started. “When I took over the club, it was clear that a new logo alone wouldn’t be enough,” Gugac tells us. “I want it to look big. I know we are in Stuttgart, but I wanted to create something that could just as easily exist and be celebrated in Barcelona or Ibiza.” From that brief, the scope grew to cover artist communication, social media, motion and the LED screens inside the club. “What people see before an event should feel like the same world they enter when they walk into PARK,” he adds."
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“The programme is diverse and will continue to evolve, so the identity needed to evolve with it rather than define one fixed visual style,” Gugac explains. Hochburg looked outside Stuttgart for its reference points, at international clubs and at the visual cultures around house, techno, fashion and contemporary nightlife."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-05.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The reduction from Perkins Park to PARK became the starting point for the identity. Hochburg set the four remaining letters on a tight, almost square grid and kept stripping them back version by version, removing more of the detail that identifies a letter and working on the form and silhouette of the logo as a whole. “The hardest and probably most controversial letter was the ‘P,’” Creative Director Florian Boyd tells us. The result is a mark that keeps the letters inside one shape, sharing forms, lines and negative space and receding behind the overall silhouette – geometry reduced enough to translate into physical applications, from metal objects to clothing. “Eventually we reached a point where we knew the word would no longer be immediately readable at first glance. But once you know what it says, the letters suddenly fall into place,” he continues."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-04.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-03.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“It became a symbol you decode once and then recognise. This is obviously not something you can or should do with every brand. A logo needs to communicate, and readability is usually an important part of that. But we felt that a club can push those boundaries,” Boyd explains. “Especially today, when AI can generate endless variations of perfectly readable futuristic logos in seconds, we felt there was room to push in the opposite direction. We wanted to create something that asks a little more from the viewer.” It is the part of the identity that stands out most for Gugac, too."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-06.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-07.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The system organises artist communication, monthly programmes, social assets and event graphics. Photography is largely supplied by the artists, so consistency cannot come from the imagery. Recognition comes instead from the grid, typography, information hierarchy and a layer of fine lines and interface elements that reference timelines, players and DJ equipment. Those elements organise dates, artist names, ticket information and the PARK mark, but can also become visible graphic elements themselves."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-08.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-11_2026-09-15-080859_rnxb.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Futurist, from Fuego Fonts, carries the headlines and the large-scale messages; its rounded forms and softer edges set against the rigid grid, while Arame, designed by Dimitre Lima, is used mainly at small sizes, where it works almost like a technical annotation. The base is black and white with technical greys, interrupted by pink, blue, red, green and violet. Artists and events often come with their own colours, imagery and visual worlds, and the grids, boxes and graphic elements can pick up those colours. “So in a way, PARK has no colours and all the colours at the same time,” Boyd notes. The imagery that the system crops and arranges on the grid comes from the night – artists, bodies, crowds, trails of light, proximity, blur and movement."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-12.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-15.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "With the programme changing constantly, the system had to keep producing visual content without every asset going back through the studio, so Hochburg built its own tool. It works with almost any source material, from stock footage and pre-made VJ loops to clips shot inside the club. The software processes that material into cuts, transitions and loops, and the PARK mark can react and animate in real time to the sound being played. “The individual lines can react to sound and music, break apart, move, expand and come back together. Sometimes you see the full wordmark, sometimes just fragments of it,” Boyd details. “The logo shouldn’t just sit on top of the club’s visuals. It should become part of them.” Hochburg’s tool also works as a social media content generator, so the club team can make branded content without producing every asset from scratch. For individual events, visual artists can create their own live or pre-recorded visuals, which can be fed directly onto the club’s screens."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-13.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-14.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“We definitely notice a divide in how the change is perceived,” Gugac reveals. “There are people who have known Perkins Park for decades and have a very strong emotional connection to what the club used to be, even if some of them haven’t actually been inside for years. And then there is a much younger audience that goes out regularly and simply wants to have a great night. Especially for people who have known Perkins Park for many years, the change can feel quite radical. The identity needs to make that transformation visible.”"
-        }
-      ],
-      "caseStudyText": "Perkins Park has been part of Stuttgart’s nightlife since 1980. In 2026, it took a new name, PARK , along with a programme led by house and techno, more international bookings and a club reconfigured for larger-scale nights and a new audience. Local design studio Hochburg , in a long-standing collaboration with club operator Denis Gugac, was commissioned to create the new identity.\n\nThe musical direction and the ambition to book more international artists were settled long before any design work started. “When I took over the club, it was clear that a new logo alone wouldn’t be enough,” Gugac tells us. “I want it to look big. I know we are in Stuttgart, but I wanted to create something that could just as easily exist and be celebrated in Barcelona or Ibiza.” From that brief, the scope grew to cover artist communication, social media, motion and the LED screens inside the club. “What people see before an event should feel like the same world they enter when they walk into PARK,” he adds.\n\n“The programme is diverse and will continue to evolve, so the identity needed to evolve with it rather than define one fixed visual style,” Gugac explains. Hochburg looked outside Stuttgart for its reference points, at international clubs and at the visual cultures around house, techno, fashion and contemporary nightlife.\n\nThe reduction from Perkins Park to PARK became the starting point for the identity. Hochburg set the four remaining letters on a tight, almost square grid and kept stripping them back version by version, removing more of the detail that identifies a letter and working on the form and silhouette of the logo as a whole. “The hardest and probably most controversial letter was the ‘P,’” Creative Director Florian Boyd tells us. The result is a mark that keeps the letters inside one shape, sharing forms, lines and negative space and receding behind the overall silhouette – geometry reduced enough to translate into physical applications, from metal objects to clothing. “Eventually we reached a point where we knew the word would no longer be immediately readable at first glance. But once you know what it says, the letters suddenly fall into place,” he continues.\n\n“It became a symbol you decode once and then recognise. This is obviously not something you can or should do with every brand. A logo needs to communicate, and readability is usually an important part of that. But we felt that a club can push those boundaries,” Boyd explains. “Especially today, when AI can generate endless variations of perfectly readable futuristic logos in seconds, we felt there was room to push in the opposite direction. We wanted to create something that asks a little more from the viewer.” It is the part of the identity that stands out most for Gugac, too.\n\nThe system organises artist communication, monthly programmes, social assets and event graphics. Photography is largely supplied by the artists, so consistency cannot come from the imagery. Recognition comes instead from the grid, typography, information hierarchy and a layer of fine lines and interface elements that reference timelines, players and DJ equipment. Those elements organise dates, artist names, ticket information and the PARK mark, but can also become visible graphic elements themselves.\n\nFuturist, from Fuego Fonts, carries the headlines and the large-scale messages; its rounded forms and softer edges set against the rigid grid, while Arame, designed by Dimitre Lima, is used mainly at small sizes, where it works almost like a technical annotation. The base is black and white with technical greys, interrupted by pink, blue, red, green and violet. Artists and events often come with their own colours, imagery and visual worlds, and the grids, boxes and graphic elements can pick up those colours. “So in a way, PARK has no colours and all the colours at the same time,” Boyd notes. The imagery that the system crops and arranges on the grid comes from the night – artists, bodies, crowds, trails of light, proximity, blur and movement.\n\nWith the programme changing constantly, the system had to keep producing visual content without every asset going back through the studio, so Hochburg built its own tool. It works with almost any source material, from stock footage and pre-made VJ loops to clips shot inside the club. The software processes that material into cuts, transitions and loops, and the PARK mark can react and animate in real time to the sound being played. “The individual lines can react to sound and music, break apart, move, expand and come back together. Sometimes you see the full wordmark, sometimes just fragments of it,” Boyd details. “The logo shouldn’t just sit on top of the club’s visuals. It should become part of them.” Hochburg’s tool also works as a social media content generator, so the club team can make branded content without producing every asset from scratch. For individual events, visual artists can create their own live or pre-recorded visuals, which can be fed directly onto the club’s screens.\n\n“We definitely notice a divide in how the change is perceived,” Gugac reveals. “There are people who have known Perkins Park for decades and have a very strong emotional connection to what the club used to be, even if some of them haven’t actually been inside for years. And then there is a much younger audience that goes out regularly and simply wants to have a great night. Especially for people who have known Perkins Park for many years, the change can feel quite radical. The identity needs to make that transformation visible.”",
-      "caseStudyMedia": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-01.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-02.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-05.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-04.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-03.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-06.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-07.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-08.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-11_2026-09-15-080859_rnxb.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-12.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-15.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-13.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/hochburg-designs-the-identity-for-park-the-renamed-stuttgart-club/Park-Hochburg-14.jpg"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua",
-      "titleOriginal": "Mexico meets Japan across AH Work’s colourful identity for Salsa Mutua",
-      "textOriginal": "Salsa Mutua is a Mexican brand of ‘crispy chilli oil made with salsa and chilli crisp. “We had an initial idea of a name for the sauce: ‘Rayito.’ But we quickly learned that this name was going to be impossible to register as a trademark,” Founders Sebastian and Alejandro tell us. The name they landed on instead comes from the Spanish ‘mutuo,’ meaning something reciprocal between two parts, or something balanced. “It can also be something like a shared experience, like sharing a meal,” they note. “Sebastian’s brother suggested chilli crisp. We noticed the parallelism with that and figured out the similarities with the Asian chilli crisp and the Mexican salsa macha. That is when we decided to create the ‘first Mexican Chili Crisp.’”\n\nWith the name settled, they commissioned Mexico City-based creative office AH Work , led by Andrés Higueros, to design the identity. “We really liked Andrés’ work,” the founders explain, “especially because we noticed that he had worked on many projects that involved typeface design.” The references Higueros worked from for the identity are Mexican and Japanese, as Salsa Mutua is built on both Mexican and Asian cooking. “The name became the starting point: the idea of exchange, of different ingredients and cultural influences coming together to create something new. That gave us a world to build through the two cats, the custom lettering and the colour combinations,” he details. “We started by looking at the local market and noticed that many sauce brands relied on similar visual cues: chilli illustrations, flames and familiar Mexican imagery. We wanted to move beyond those conventions and tell a story specific to Mutua,” he continues. “On the shelf, we wanted Mutua to feel bold, playful and distinctive, with a personality that would draw people in and make them curious about the sauces.”",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-01.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-01.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "Salsa Mutua is a Mexican brand of ‘crispy chilli oil made with salsa and chilli crisp. “We had an initial idea of a name for the sauce: ‘Rayito.’ But we quickly learned that this name was going to be impossible to register as a trademark,” Founders Sebastian and Alejandro tell us. The name they landed on instead comes from the Spanish ‘mutuo,’ meaning something reciprocal between two parts, or something balanced. “It can also be something like a shared experience, like sharing a meal,” they note. “Sebastian’s brother suggested chilli crisp. We noticed the parallelism with that and figured out the similarities with the Asian chilli crisp and the Mexican salsa macha. That is when we decided to create the ‘first Mexican Chili Crisp.’”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-02.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "With the name settled, they commissioned Mexico City-based creative office AH Work , led by Andrés Higueros, to design the identity. “We really liked Andrés’ work,” the founders explain, “especially because we noticed that he had worked on many projects that involved typeface design.” The references Higueros worked from for the identity are Mexican and Japanese, as Salsa Mutua is built on both Mexican and Asian cooking. “The name became the starting point: the idea of exchange, of different ingredients and cultural influences coming together to create something new. That gave us a world to build through the two cats, the custom lettering and the colour combinations,” he details. “We started by looking at the local market and noticed that many sauce brands relied on similar visual cues: chilli illustrations, flames and familiar Mexican imagery. We wanted to move beyond those conventions and tell a story specific to Mutua,” he continues. “On the shelf, we wanted Mutua to feel bold, playful and distinctive, with a personality that would draw people in and make them curious about the sauces.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-04.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-03.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "SALSA is set in Compacta Black Poster. “I drew the MUTUA wordmark from scratch. I was interested in the curved endings of certain Japanese characters and explored how that quality could inform the contours and terminals of the Latin letterforms. Those subtle curves sit within bold, substantial shapes, drawing on the visual strength of Mexican hand-painted signage,” Higueros tells us. “The vertical composition was another deliberate choice, referencing vertical writing in Japanese,” he notes. American Grotesk, restrained and functional, sets the descriptions and supporting information. “Compacta brings the weight and immediate impact I wanted for the main headlines,” he explains. “The system also allows the lettering to be stretched horizontally or vertically, giving the typography an expressive, adaptable role within each composition.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-07.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“The cats came from a fairly intuitive place. I liked how endearing they were and how familiar they felt in the everyday world of markets and small shops in both Mexico and Japan. The Japanese lucky cat was also a reference I had in mind, so they felt like a natural connection between the two cultures,” Higueros reveals. “Within Mutua’s world, the striped cat represents the Mexican side, while the plain-coated cat, with its more serious expression, represents the Japanese side. Their contrasting personalities gave me a way to express cultural exchange through the relationship between two characters.” Higueros drew the pair in different poses and activities. “Because of Mexican labelling norms, we cannot show them in the primary packaging,” Sebastian and Alejandro tell us. “Nevertheless, we would like to include them in the packaging targeted to international markets. Right now, we still use them on our website, stickers, merch and presentations.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-09.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-10.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“I used the ingredients as a starting point for each colour pairing,” Higueros notes of the four labels, “but the main intention was always to create something bold and eye-catching.” The Chili Crisp Original label is yellow and red, and the Chili Crisp Extra Picante label is orange and brown. The other two names pair a Mexican chilli with an Asian place – Morita Siam in pale pink, Habanero Katong in yellow and red."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-05.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-06.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The images are by Mexico City-based photographer Alberto Pinto – a friend who Higueros has worked with on projects before. Adrián Zarraga, who he has also collaborated with, made the motion graphics. “I led the art direction, aiming for an urban, market-inspired atmosphere with an editorial sensibility. I wanted to move away from the polished commercial imagery often used by food brands and bring Mutua closer to the street and the everyday environments that inspired its identity. The photography gave us a way to place the packaging within that broader world,” Higueros explains. “For the motion graphics, my direction was to bring the identity to life through animation, extending its playful character beyond the printed labels.”"
-        }
-      ],
-      "caseStudyText": "Salsa Mutua is a Mexican brand of ‘crispy chilli oil made with salsa and chilli crisp. “We had an initial idea of a name for the sauce: ‘Rayito.’ But we quickly learned that this name was going to be impossible to register as a trademark,” Founders Sebastian and Alejandro tell us. The name they landed on instead comes from the Spanish ‘mutuo,’ meaning something reciprocal between two parts, or something balanced. “It can also be something like a shared experience, like sharing a meal,” they note. “Sebastian’s brother suggested chilli crisp. We noticed the parallelism with that and figured out the similarities with the Asian chilli crisp and the Mexican salsa macha. That is when we decided to create the ‘first Mexican Chili Crisp.’”\n\nWith the name settled, they commissioned Mexico City-based creative office AH Work , led by Andrés Higueros, to design the identity. “We really liked Andrés’ work,” the founders explain, “especially because we noticed that he had worked on many projects that involved typeface design.” The references Higueros worked from for the identity are Mexican and Japanese, as Salsa Mutua is built on both Mexican and Asian cooking. “The name became the starting point: the idea of exchange, of different ingredients and cultural influences coming together to create something new. That gave us a world to build through the two cats, the custom lettering and the colour combinations,” he details. “We started by looking at the local market and noticed that many sauce brands relied on similar visual cues: chilli illustrations, flames and familiar Mexican imagery. We wanted to move beyond those conventions and tell a story specific to Mutua,” he continues. “On the shelf, we wanted Mutua to feel bold, playful and distinctive, with a personality that would draw people in and make them curious about the sauces.”\n\nSALSA is set in Compacta Black Poster. “I drew the MUTUA wordmark from scratch. I was interested in the curved endings of certain Japanese characters and explored how that quality could inform the contours and terminals of the Latin letterforms. Those subtle curves sit within bold, substantial shapes, drawing on the visual strength of Mexican hand-painted signage,” Higueros tells us. “The vertical composition was another deliberate choice, referencing vertical writing in Japanese,” he notes. American Grotesk, restrained and functional, sets the descriptions and supporting information. “Compacta brings the weight and immediate impact I wanted for the main headlines,” he explains. “The system also allows the lettering to be stretched horizontally or vertically, giving the typography an expressive, adaptable role within each composition.”\n\n“The cats came from a fairly intuitive place. I liked how endearing they were and how familiar they felt in the everyday world of markets and small shops in both Mexico and Japan. The Japanese lucky cat was also a reference I had in mind, so they felt like a natural connection between the two cultures,” Higueros reveals. “Within Mutua’s world, the striped cat represents the Mexican side, while the plain-coated cat, with its more serious expression, represents the Japanese side. Their contrasting personalities gave me a way to express cultural exchange through the relationship between two characters.” Higueros drew the pair in different poses and activities. “Because of Mexican labelling norms, we cannot show them in the primary packaging,” Sebastian and Alejandro tell us. “Nevertheless, we would like to include them in the packaging targeted to international markets. Right now, we still use them on our website, stickers, merch and presentations.”\n\n“I used the ingredients as a starting point for each colour pairing,” Higueros notes of the four labels, “but the main intention was always to create something bold and eye-catching.” The Chili Crisp Original label is yellow and red, and the Chili Crisp Extra Picante label is orange and brown. The other two names pair a Mexican chilli with an Asian place – Morita Siam in pale pink, Habanero Katong in yellow and red.\n\nThe images are by Mexico City-based photographer Alberto Pinto – a friend who Higueros has worked with on projects before. Adrián Zarraga, who he has also collaborated with, made the motion graphics. “I led the art direction, aiming for an urban, market-inspired atmosphere with an editorial sensibility. I wanted to move away from the polished commercial imagery often used by food brands and bring Mutua closer to the street and the everyday environments that inspired its identity. The photography gave us a way to place the packaging within that broader world,” Higueros explains. “For the motion graphics, my direction was to bring the identity to life through animation, extending its playful character beyond the printed labels.”",
-      "caseStudyMedia": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-01.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-02.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-04.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-03.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-07.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-09.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-10.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-05.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/mexico-meets-japan-across-ah-works-colourful-identity-for-salsa-mutua/Salsa-Mutua-Andre%CC%81s-Higueros-06.jpg"
         }
       ]
     }
