@@ -202,52 +202,82 @@ async function runTheBrandIdentityCycle(env){
     return {ok:true,published:false,reason:"no_unseen"};
   }
 
-  // Snapshot is newest-first. Publish the newest unseen item first so the
-  // channel stays current while the expanded backlog is drained gradually.
-  const next=unseen[0];
-  const article=await source.readArticle(next.item.canonicalUrl);
+  // Snapshot is newest-first. Try a few unseen candidates in order so one
+  // malformed project cannot block the entire daily queue. A shared Workers AI
+  // quota error is different: stop immediately and wait for the daily reset.
+  const attemptErrors=[];
+  for(const next of unseen.slice(0,4)){
+    const article=await source.readArticle(next.item.canonicalUrl);
 
-  const translator=new AzerbaijaniTranslator(env);
-  const telegraph=new TelegraphService(env);
-  const checker=new CheckModule({
-    translate:(text,opts)=>translator.translate(text,opts),
-    translateBlocks:(blocks)=>translator.translateBlocks(blocks),
-    telegraph:(data)=>telegraph.createFromBlocks(data)
-  });
+    const translator=new AzerbaijaniTranslator(env);
+    const telegraph=new TelegraphService(env);
+    const checker=new CheckModule({
+      translate:(text,opts)=>translator.translate(text,opts),
+      translateBlocks:(blocks)=>translator.translateBlocks(blocks),
+      telegraph:(data)=>telegraph.createFromBlocks(data)
+    });
 
-  const checked=await checker.process(article);
-  if(!checked.ok||!checked.post){
-    await env.IDENTITY_KV?.put("source:the-brand-identity:last-error",JSON.stringify({
+    const checked=await checker.process(article);
+    if(!checked.ok||!checked.post){
+      const errors=checked.errors||checked.visual||checked.technical||[];
+      const message=JSON.stringify(errors);
+      const quota=/daily free allocation|10,000 neurons|4006|3036|account limited/i.test(message);
+
+      const failure={
+        at:new Date().toISOString(),
+        url:next.item.canonicalUrl,
+        stage:checked.stage,
+        errors
+      };
+      await env.IDENTITY_KV?.put("source:the-brand-identity:last-error",JSON.stringify(failure),{expirationTtl:60*60*24*7});
+
+      if(quota){
+        await env.IDENTITY_KV?.put("source:the-brand-identity:last-run",JSON.stringify({
+          at:new Date().toISOString(),
+          status:"ai_quota_exhausted",
+          url:next.item.canonicalUrl,
+          unseenRemaining:unseen.length
+        }),{expirationTtl:60*60*24*30});
+        return {ok:false,published:false,reason:"ai_quota_exhausted",stage:checked.stage};
+      }
+
+      attemptErrors.push(failure);
+      continue;
+    }
+
+    const publisher=new PublishModule(env);
+    const sent=await publisher.publish(checked);
+
+    const messageId=Array.isArray(sent)?sent[0]?.message_id:sent?.message_id;
+    const detailsUrl=Array.isArray(sent)?"":(sent?.detailsUrl||checked.post.detailsUrl||"");
+
+    await markPublished(env,next.item.canonicalUrl,{
+      message_id:messageId||null,
+      detailsUrl,
+      title:checked.post.title,
+      publishedAt:new Date().toISOString()
+    });
+
+    await env.IDENTITY_KV?.delete("source:the-brand-identity:last-error");
+    await env.IDENTITY_KV?.put("source:the-brand-identity:last-run",JSON.stringify({
       at:new Date().toISOString(),
+      status:"published",
       url:next.item.canonicalUrl,
-      stage:checked.stage,
-      errors:checked.errors||checked.visual||checked.technical||[]
-    }),{expirationTtl:60*60*24*7});
-    return {ok:false,published:false,stage:checked.stage};
+      message_id:messageId||null,
+      unseenRemaining:Math.max(0,unseen.length-1)
+    }),{expirationTtl:60*60*24*30});
+
+    return {ok:true,published:true,url:next.item.canonicalUrl,message_id:messageId||null};
   }
-
-  const publisher=new PublishModule(env);
-  const sent=await publisher.publish(checked);
-
-  const messageId=Array.isArray(sent)?sent[0]?.message_id:sent?.message_id;
-  const detailsUrl=Array.isArray(sent)?"":(sent?.detailsUrl||checked.post.detailsUrl||"");
-
-  await markPublished(env,next.item.canonicalUrl,{
-    message_id:messageId||null,
-    detailsUrl,
-    title:checked.post.title,
-    publishedAt:new Date().toISOString()
-  });
 
   await env.IDENTITY_KV?.put("source:the-brand-identity:last-run",JSON.stringify({
     at:new Date().toISOString(),
-    status:"published",
-    url:next.item.canonicalUrl,
-    message_id:messageId||null,
-    unseenRemaining:Math.max(0,unseen.length-1)
+    status:"candidate_failures",
+    unseenRemaining:unseen.length,
+    errors:attemptErrors.slice(0,4)
   }),{expirationTtl:60*60*24*30});
+  return {ok:false,published:false,reason:"candidate_failures",errors:attemptErrors.slice(0,4)};
 
-  return {ok:true,published:true,url:next.item.canonicalUrl,message_id:messageId||null};
 }
 
 async function isPublished(env,url){
