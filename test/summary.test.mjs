@@ -13,8 +13,45 @@ test("single cached AI call for a case study",async()=>{
  const s=new CaseStudySummarizer(env);
  assert.equal(await s.summarize(item),brief);assert.equal(await s.summarize(item),brief);assert.equal(calls,1);
 });
-test("Telegram uses same summary and detail page has fewer images",async()=>{
- let details;const n=new PostNormalizer({translate:async s=>"AZ "+s,summarize:async()=>brief,telegraph:async d=>{details=d;return "https://united-identity-viewer.nasirovramin.workers.dev/article/test"}});
- const post=await n.prepare({source:{name:"The Brand Identity"},item:{titleOriginal:"New design",textOriginal:"Original intro",hasCaseStudy:true,canonicalUrl:"https://the-brandidentity.com/project/test",media:[{type:"image",url:"https://example.com/main.jpg"}],caseStudyBlocks:Array.from({length:9},(_,i)=>({type:"image",url:"https://example.com/"+i+".jpg"}))}});
- assert.equal(post.paragraphs.length,2);assert.equal(details.blocks.filter(b=>b.type==="text").length,3);assert.equal(details.blocks.filter(b=>b.type==="image").length,6);assert.equal(post.media.length,1);
+test("all source images and videos are retained in the original order",async()=>{
+ let details;let translations=0;let summaries=0;
+ const n=new PostNormalizer({
+  translate:async s=>{translations++;return "AZ "+s;},
+  summarize:async()=>{summaries++;return brief;},
+  telegraph:async d=>{details=d;return "https://united-identity-viewer.nasirovramin.workers.dev/article/test";}
+ });
+ const media=[
+  ...Array.from({length:12},(_,i)=>({type:"image",url:"https://example.com/"+i+".jpg"})),
+  {type:"video",url:"https://example.com/showreel.mp4"},
+  {type:"iframe",url:"https://player.vimeo.com/video/123"},
+  {type:"gif",url:"https://example.com/animated.gif"},
+  {type:"video",url:"https://example.com/second.mp4"}
+ ];
+ const sourceBlocks=[
+  {type:"text",text:"Brand background"},...media.slice(0,5),
+  {type:"text",text:"Design challenge"},...media.slice(5,11),
+  {type:"text",text:"Visual decisions"},...media.slice(11,14),
+  {type:"text",text:"Outcome"},...media.slice(14)
+ ];
+ const post=await n.prepare({
+  source:{name:"The Brand Identity"},
+  item:{
+   titleOriginal:"New design",textOriginal:"Do not translate this again",
+   hasCaseStudy:true,canonicalUrl:"https://the-brandidentity.com/project/test",
+   media:[{type:"image",url:"https://example.com/main.jpg"}],
+   caseStudyBlocks:sourceBlocks
+  }
+ });
+ assert.equal(summaries,1);
+ assert.equal(translations,1); // headline only, no second intro translation
+ assert.equal(post.paragraphs.length,2);
+ assert.equal(details.blocks.filter(b=>b.type==="text").length,3);
+ const actualMedia=details.blocks.filter(b=>b.type!=="text");
+ assert.deepEqual(actualMedia,media);
+ assert.equal(details.blocks.length,media.length+3);
+ assert.equal(details.blocks[0].type,"text");
+ assert.equal(details.blocks[1].url,media[0].url);
+ assert.equal(details.blocks.filter(b=>b.type==="video").length,2);
+ assert.equal(details.blocks.filter(b=>b.type==="iframe").length,1);
+ assert.equal(post.media.length,1);
 });

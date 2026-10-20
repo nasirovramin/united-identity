@@ -23,11 +23,12 @@ export class PostNormalizer {
       const briefParagraphs=toParagraphs(brief);
       paragraphs=briefParagraphs.slice(0,2);
 
-      const textBlocks=briefParagraphs.map(text=>({type:"text",tag:"p",text}));
-      const mediaBlocks=selectVisuals(item.caseStudyBlocks||[]);
+      // Shorten ONLY the written content. Preserve every source image, GIF,
+      // video and embedded player in its original order and relative position.
+      const contentBlocks=mergeSummaryWithOriginalMedia(briefParagraphs,item.caseStudyBlocks||[]);
       detailsUrl=await this.telegraph({
         title,
-        blocks:[...textBlocks,...mediaBlocks],
+        blocks:contentBlocks,
         sourceUrl:item.canonicalUrl,
         sourceName:packet.source.name,
         agency:item.agency||""
@@ -51,16 +52,42 @@ export class PostNormalizer {
   }
 }
 
-function selectVisuals(blocks=[]){
-  const all=blocks.map((b,i)=>({b,i})).filter(x=>["image","gif","video","iframe"].includes(x.b?.type));
-  if(all.length<=6) return all.map(x=>({...x.b}));
-  // Keep representative real source imagery and any film/embed. No new media
-  // hosting, proxy or AI image generation is introduced.
-  const priority=all.filter(x=>["video","iframe"].includes(x.b.type)).slice(0,2);
-  const pictures=all.filter(x=>["image","gif"].includes(x.b.type));
-  const count=Math.min(6-priority.length,pictures.length);
-  const chosen=count===1?[pictures[0]]:Array.from({length:count},(_,i)=>pictures[Math.round(i*(pictures.length-1)/(count-1))]);
-  return [...priority,...chosen].sort((a,b)=>a.i-b.i).map(x=>({...x.b}));
+function mergeSummaryWithOriginalMedia(paragraphs=[],sourceBlocks=[]){
+  const sourceTexts=sourceBlocks.filter(block=>block?.type==="text").length;
+  const summary=(paragraphs||[]).filter(Boolean);
+  if(!sourceTexts){
+    return [
+      ...summary.map(text=>({type:"text",tag:"p",text})),
+      ...sourceBlocks.filter(block=>isSourceMedia(block)).map(block=>({...block}))
+    ];
+  }
+
+  // Place summary paragraphs into the original article's text positions,
+  // without moving, skipping or imposing any upper limit on the media.
+  const placements=new Map();
+  summary.forEach((text,index)=>{
+    const slot=Math.floor(index*sourceTexts/summary.length);
+    if(!placements.has(slot))placements.set(slot,[]);
+    placements.get(slot).push({type:"text",tag:"p",text});
+  });
+
+  const result=[];
+  let textSlot=0;
+  for(const block of sourceBlocks){
+    if(block?.type==="text"){
+      result.push(...(placements.get(textSlot)||[]));
+      textSlot++;
+    }else if(isSourceMedia(block)){
+      result.push({...block});
+    }
+  }
+  return result;
+}
+
+function isSourceMedia(block){
+  const url=String(block?.url||"");
+  return ["image","gif","video","iframe"].includes(block?.type)
+    && (url.startsWith("https://")||url.startsWith("http://"));
 }
 
 function toParagraphs(text=""){
