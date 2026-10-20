@@ -2,6 +2,7 @@ import { ALL_SOURCES, WEB_SOURCES, TELEGRAM_SOURCES } from "./sources/registry.j
 import { CheckModule } from "./checker/index.js";
 import { PublishModule } from "./publisher/index.js";
 import { AzerbaijaniTranslator } from "./services/translation.js";
+import { CaseStudySummarizer } from "./services/summary.js";
 import { TelegraphService } from "./services/telegraph.js";
 
 function json(data,status=200){
@@ -35,7 +36,7 @@ export default {
         automaticScanning:true,
         publishing:true,
         schedule:"10 posts/day across Baku daytime",
-        policy:"The Brand Identity: up to 10 unseen projects per day, one per scheduled slot, full Azerbaijani article, deduplicated project media"
+        policy:"The Brand Identity: up to 10 unseen projects per day, one per scheduled slot, grounded Azerbaijani case-study brief, deduplicated project media"
       });
     }
 
@@ -127,7 +128,7 @@ export default {
         const telegraph=new TelegraphService(env);
         const checker=new CheckModule({
           translate:(text,opts)=>translator.translate(text,opts),
-          translateBlocks:(blocks)=>translator.translateBlocks(blocks),
+          summarize:(item)=>new CaseStudySummarizer(env).summarize(item),
           telegraph:(data)=>telegraph.createFromBlocks(data)
         });
         const checked=await checker.process(article);
@@ -213,7 +214,7 @@ async function runTheBrandIdentityCycle(env){
     const telegraph=new TelegraphService(env);
     const checker=new CheckModule({
       translate:(text,opts)=>translator.translate(text,opts),
-      translateBlocks:(blocks)=>translator.translateBlocks(blocks),
+      summarize:(item)=>new CaseStudySummarizer(env).summarize(item),
       telegraph:(data)=>telegraph.createFromBlocks(data)
     });
 
@@ -317,7 +318,7 @@ async function repairTheBrandIdentityTest(env){
   const telegraph=new TelegraphService(env);
   const checker=new CheckModule({
     translate:(text,opts)=>translator.translate(text,opts),
-    translateBlocks:(blocks)=>translator.translateBlocks(blocks),
+    summarize:(item)=>new CaseStudySummarizer(env).summarize(item),
     telegraph:(data)=>telegraph.createFromBlocks(data)
   });
   const checked=await checker.process(article);
