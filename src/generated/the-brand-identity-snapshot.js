@@ -7,6 +7,123 @@ const snapshot={
   },
   "items": [
     {
+      "canonicalUrl": "https://the-brandidentity.com/project/ancient-wisdom-modern-mark-the-identity-for-s%C5%8Dms-daily-elixir-shots",
+      "titleOriginal": "Ancient wisdom, modern mark: the identity for SŌM’s daily elixir shots",
+      "textOriginal": "SŌM is a Belgian brand of functional elixirs, and its flagship – the SŌM Power Elixir – is a daily shot for steady energy and mental clarity. It blends traditional ingredients from Colombia, including chontaduro and pitaya, with modern formulation. “The Colombian origin isn’t something we layered on at the end; it’s why the product exists,” explains Founder Laurenzo Van Mello.\n\nSŌM’s founders spent two years getting the formula right before bringing in Ljubljana-based creative collective .raw to create the identity. For the brand, mental performance is the foundation rather than physical output, moving it away from the sports drink category. “We needed an identity that was honest about what we’d built rather than borrowing the visual language of a category we don’t belong to,” Van Mello tells us. “SŌM comes from SOMA, the ancient sacred ritual drink, and also stands for State of Mind,” he adds.",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-raw-gave-s%C5%8Dms-daily-elixir-shots-a-mystical-yet-immediate-look/So%CC%84M-.raw-Creative-Hub-01.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-raw-gave-s%C5%8Dms-daily-elixir-shots-a-mystical-yet-immediate-look/So%CC%84M-.raw-Creative-Hub-01.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "SŌM is a Belgian brand of functional elixirs, and its flagship – the SŌM Power Elixir – is a daily shot for steady energy and mental clarity. It blends traditional ingredients from Colombia, including chontaduro and pitaya, with modern formulation. “The Colombian origin isn’t something we layered on at the end; it’s why the product exists,” explains Founder Laurenzo Van Mello."
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/ancient-wisdom-modern-mark-the-identity-for-s%C5%8Dms-daily-elixir-shots/So%CC%84M-.raw-Creative-Hub-02.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "SŌM’s founders spent two years getting the formula right before bringing in Ljubljana-based creative collective .raw to create the identity. For the brand, mental performance is the foundation rather than physical output, moving it away from the sports drink category. “We needed an identity that was honest about what we’d built rather than borrowing the visual language of a category we don’t belong to,” Van Mello tells us. “SŌM comes from SOMA, the ancient sacred ritual drink, and also stands for State of Mind,” he adds."
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/ancient-wisdom-modern-mark-the-identity-for-s%C5%8Dms-daily-elixir-shots/So%CC%84M-.raw-Creative-Hub-03-online-video-cutter.com-1.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/ancient-wisdom-modern-mark-the-identity-for-s%C5%8Dms-daily-elixir-shots/So%CC%84M-.raw-Creative-Hub-07.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The visual anchor for the identity is a concept called Focused Stillness, which .raw’s Founder & CEO Tamir Morris Grays describes as a brand direction that “sits at the intersection of natural vitality and contemporary mysticism.”"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“We pulled from references that know how to communicate an internal feeling: modern apothecary, fragrance, premium skincare. Those categories don’t show effort – they suggest a state. That’s the right territory for SŌM,” Grays explains. “‘Modern elixir from ancient wisdom’ is a real line from the brand – and it only works if the identity actually looks like it means it.”"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/ancient-wisdom-modern-mark-the-identity-for-s%C5%8Dms-daily-elixir-shots/So%CC%84M-.raw-Creative-Hub-08.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The photography ranges from macro details to fog, woods and blurred motion, pairing human intimacy with natural atmospheres under a modern, dream-like light. The tone is “minimal and precise, but not cold,” he notes. “There’s genuine warmth in the cultural origins.” When it came to picturing that origin, “the temptation is always a map, a plant, a landscape,” he continues. “We kept the Colombian origin in the product story and let the visual language carry the atmosphere – the texture and ritual of that culture, rather than depicting it.”"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/ancient-wisdom-modern-mark-the-identity-for-s%C5%8Dms-daily-elixir-shots/So%CC%84M-.raw-Creative-Hub-04-online-video-cutter.com.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/ancient-wisdom-modern-mark-the-identity-for-s%C5%8Dms-daily-elixir-shots/So%CC%84M-.raw-Creative-Hub-06.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The primary mark is made up of a geometric symbol, wordmark and the ‘State of Mind’ tagline, with a modular approach that allows the latter two components to drop out when needed. The typography combines Commercial Type’s Druk Heavy with Dinamo’s sans serif ABC Diatype, which is used for longer reading. The biggest challenge, Grays tells us, was “making sure ‘mystical’ didn’t tip into precious or inaccessible. Ritual can tip into something you admire from a distance rather than use every day; that’s the wrong outcome for a daily product. Druk Heavy on product names pulled it back. It’s a heavy, intense typeface. It grounds everything and makes the brand feel immediate rather than untouchable.” He adds that “each product also has its own colour, so the system stays unified while the range feels distinct across Power, Balance, Beauty, Vitality and Core.”"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/ancient-wisdom-modern-mark-the-identity-for-s%C5%8Dms-daily-elixir-shots/So%CC%84M-.raw-Creative-Hub-09.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The SŌM Power Elixer comes in single-dose ampoules. “The ampoule format creates a natural pause. You have to hold it, break it open deliberately. That’s already a ritual and our job was to make the object worthy of that moment,” Grays explains. Beyond the main brand symbol, .raw designed a geometric icon for each elixir. “They’re minimal, slightly mystical in character and built on a construction grid that keeps them precise and consistent at every scale. They give the object something to say before anyone reads a word,” he concludes."
+        }
+      ],
+      "caseStudyText": "SŌM is a Belgian brand of functional elixirs, and its flagship – the SŌM Power Elixir – is a daily shot for steady energy and mental clarity. It blends traditional ingredients from Colombia, including chontaduro and pitaya, with modern formulation. “The Colombian origin isn’t something we layered on at the end; it’s why the product exists,” explains Founder Laurenzo Van Mello.\n\nSŌM’s founders spent two years getting the formula right before bringing in Ljubljana-based creative collective .raw to create the identity. For the brand, mental performance is the foundation rather than physical output, moving it away from the sports drink category. “We needed an identity that was honest about what we’d built rather than borrowing the visual language of a category we don’t belong to,” Van Mello tells us. “SŌM comes from SOMA, the ancient sacred ritual drink, and also stands for State of Mind,” he adds.\n\nThe visual anchor for the identity is a concept called Focused Stillness, which .raw’s Founder & CEO Tamir Morris Grays describes as a brand direction that “sits at the intersection of natural vitality and contemporary mysticism.”\n\n“We pulled from references that know how to communicate an internal feeling: modern apothecary, fragrance, premium skincare. Those categories don’t show effort – they suggest a state. That’s the right territory for SŌM,” Grays explains. “‘Modern elixir from ancient wisdom’ is a real line from the brand – and it only works if the identity actually looks like it means it.”\n\nThe photography ranges from macro details to fog, woods and blurred motion, pairing human intimacy with natural atmospheres under a modern, dream-like light. The tone is “minimal and precise, but not cold,” he notes. “There’s genuine warmth in the cultural origins.” When it came to picturing that origin, “the temptation is always a map, a plant, a landscape,” he continues. “We kept the Colombian origin in the product story and let the visual language carry the atmosphere – the texture and ritual of that culture, rather than depicting it.”\n\nThe primary mark is made up of a geometric symbol, wordmark and the ‘State of Mind’ tagline, with a modular approach that allows the latter two components to drop out when needed. The typography combines Commercial Type’s Druk Heavy with Dinamo’s sans serif ABC Diatype, which is used for longer reading. The biggest challenge, Grays tells us, was “making sure ‘mystical’ didn’t tip into precious or inaccessible. Ritual can tip into something you admire from a distance rather than use every day; that’s the wrong outcome for a daily product. Druk Heavy on product names pulled it back. It’s a heavy, intense typeface. It grounds everything and makes the brand feel immediate rather than untouchable.” He adds that “each product also has its own colour, so the system stays unified while the range feels distinct across Power, Balance, Beauty, Vitality and Core.”\n\nThe SŌM Power Elixer comes in single-dose ampoules. “The ampoule format creates a natural pause. You have to hold it, break it open deliberately. That’s already a ritual and our job was to make the object worthy of that moment,” Grays explains. Beyond the main brand symbol, .raw designed a geometric icon for each elixir. “They’re minimal, slightly mystical in character and built on a construction grid that keeps them precise and consistent at every scale. They give the object something to say before anyone reads a word,” he concludes.",
+      "caseStudyMedia": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-raw-gave-s%C5%8Dms-daily-elixir-shots-a-mystical-yet-immediate-look/So%CC%84M-.raw-Creative-Hub-01.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/ancient-wisdom-modern-mark-the-identity-for-s%C5%8Dms-daily-elixir-shots/So%CC%84M-.raw-Creative-Hub-02.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/ancient-wisdom-modern-mark-the-identity-for-s%C5%8Dms-daily-elixir-shots/So%CC%84M-.raw-Creative-Hub-03-online-video-cutter.com-1.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/ancient-wisdom-modern-mark-the-identity-for-s%C5%8Dms-daily-elixir-shots/So%CC%84M-.raw-Creative-Hub-07.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/ancient-wisdom-modern-mark-the-identity-for-s%C5%8Dms-daily-elixir-shots/So%CC%84M-.raw-Creative-Hub-08.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/ancient-wisdom-modern-mark-the-identity-for-s%C5%8Dms-daily-elixir-shots/So%CC%84M-.raw-Creative-Hub-04-online-video-cutter.com.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/ancient-wisdom-modern-mark-the-identity-for-s%C5%8Dms-daily-elixir-shots/So%CC%84M-.raw-Creative-Hub-06.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/ancient-wisdom-modern-mark-the-identity-for-s%C5%8Dms-daily-elixir-shots/So%CC%84M-.raw-Creative-Hub-09.mp4"
+        }
+      ]
+    },
+    {
       "canonicalUrl": "https://the-brandidentity.com/project/studio-hi-ho-pairs-kraft-and-butter-yellow-in-madeleines-packaging",
       "titleOriginal": "Studio Hi Ho pairs kraft and butter yellow in Madeleine’s packaging",
       "textOriginal": "Madeleine is a Melbourne-based cultured butter maker founded by Jack Gaffney, who returned to Australia after many years living in France with a dream to make butter using traditional methods. The malaxer, a historic butter-making machine that slowly kneads, folds and works the butter, is at the centre of its process. Malaxers were once commonplace in dairies, but they largely disappeared as butter production industrialised. Madeleine’s process is deliberately slower – grass-fed Jersey cow cream from West Gippsland is fermented, batch churned in the Yarra Valley and malaxed. Each portion is paddled and shaped by hand.\n\n“My malaxer is a modern rendition of a very traditional machine – and something I saw as necessary for crafting the finest butter possible,” Gaffney explains. “Madeleine is one of only two producers in the world to use a malaxer.” Melbourne-based Studio Hi Ho designed the identity and packaging, beginning with Gaffney’s first meeting with the studio’s Director, Cam Norris. “I already had certain parts nailed down and had developed a very small presentation – but I had no starting point for design,” he recalls. He took Norris through the initial concepts of the brand, the reasons behind the name, the product and process, and his ambition. Norris then returned with an identity presentation.",
@@ -3138,340 +3255,6 @@ const snapshot={
         {
           "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/09/convoy-art-directs-nike-ateliers-campaign-for-footballer-d%C3%A9sir%C3%A9-dou%C3%A9/De%CC%81sire%CC%81-Doue%CC%81-for-Nike-Atelier-Convoy-09_2026-09-17-104722_eolv.jpg"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out",
-      "titleOriginal": "Oro is a water brand redefining hydration, engineered inside and out",
-      "textOriginal": "Oro is a mineral water bottled in Jordan by Oro Labs®, drawn from a desert aquifer around 400 metres down. It runs through a 17-stage filtration process that rebuilds it to a fixed specification so that every bottle is exactly the same. Paris and Ljubljana-based creative collective .raw took on the social, imagery and film, building on the strategy, naming, identity, packaging and digital that was created by London-based studio Two Times Elliott . “Extreme industrial complexity on the inside; complete minimalism on the outside. Four words: design, brutalism, minimalism, industrialism,” Oro’s Founder & CEO Omar Alsadi tells us.\n\n“Oro was born out of necessity. Because a source cannot promise the same water twice,” he explains. “Water directly from a source will change depending on seasonality. Our goal was to create the most consistent water. And only engineering can achieve that.” The process uses double-stage reverse osmosis, mineral redosing and UV sterilisation. “A substance that fundamental deserves to be authored rather than accepted,” Alsadi details. “Nature provides. Precision perfects.”",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/12978655.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-01.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "Oro is a mineral water bottled in Jordan by Oro Labs®, drawn from a desert aquifer around 400 metres down. It runs through a 17-stage filtration process that rebuilds it to a fixed specification so that every bottle is exactly the same. Paris and Ljubljana-based creative collective .raw took on the social, imagery and film, building on the strategy, naming, identity, packaging and digital that was created by London-based studio Two Times Elliott . “Extreme industrial complexity on the inside; complete minimalism on the outside. Four words: design, brutalism, minimalism, industrialism,” Oro’s Founder & CEO Omar Alsadi tells us."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-02_2026-09-22-125154_qgvt.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“Oro was born out of necessity. Because a source cannot promise the same water twice,” he explains. “Water directly from a source will change depending on seasonality. Our goal was to create the most consistent water. And only engineering can achieve that.” The process uses double-stage reverse osmosis, mineral redosing and UV sterilisation. “A substance that fundamental deserves to be authored rather than accepted,” Alsadi details. “Nature provides. Precision perfects.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-03.png"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-04.png"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“The same necessity that built the process built the identity. What defines Oro is what happens to the water afterwards. The design is minimal. The work is scientific. The origin is brutal. The restraint on the outside is what those conditions produced,” notes .raw’s Founder & CEO Tamir Morris Grays. “Design follows the same logic as the water. Both are authored to a specification rather than inherited from a source,” he continues. “A fixed composition demands a fixed visual language. The identity holds the same discipline. One system, applied without variation.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-05.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-06.png"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Two Times Elliott set the brand idea ‘Engineered beyond nature’ and the positioning line ‘Precision-made hydration.’ The wordmark is drawn in custom geometric rounded-rectangle letterforms, with margins across the system derived from its safe zone rather than the page edge. The palette is deliberately restricted to black, graphite and white. White leads across communications, with black and graphite used selectively for type, print finishes, interface states and emphasis. Three material finishes extend the palette beyond flat colour – a silver for precision, a textured black for depth and durability and a translucency for mineral clarity – and each is monochromatic."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-07.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-13_2026-09-23-103553_eyhs.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "For the wordmark, a custom version of Katalog by Edito Type was used, while for headlines and brand messaging, Two Times Elliott chose Kimera’s KMR Melange Grotesk – a sans serif with balanced geometry and a neutral, confident presence. General Type Studio’s General Grotesque Mono is used for the mineral specification data, technical content, navigation and metadata – “set the way you’d read figures off a spec sheet, not a tasting note,” Grays explains. It never appears in body copy or primary messaging. Both typefaces are kept to a single Regular weight, so hierarchy comes from scale, spacing and colour contrast. Where the two appear together, the sans headline is three to five times the size of the mono beneath it. “The only embellishment is precision itself: tight alignment, generous spacing, a grid the bottle never breaks from,” he details."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-13.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The bottle was modelled in raw clay, iteration after iteration. Top-heavy, tapering into a slim reinforced base, it has an organic silhouette shaped for the hand, so every moving part of the production line had to be customised around it. The type is printed directly onto the glass, with no separate label – the wordmark near the shoulder and a mono specification block near the base. “That’s a material decision that argues the same case as the copy: nothing applied, nothing removable; the information is part of the object, not stuck onto it,” Grays notes. Still and Sparkling come in 750ml and 330ml, differentiated by cap shade and pad print. Still has a silver aluminium cap with dark grey text; Sparkling’s is black with off-white. “The packaging features a sense of discovery and exploration,” he explains."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-10.jpeg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-08.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“The line between ‘engineered’ and ‘sterile’ is thin,” Grays tells us. “Say ‘process’ and ‘specification’ too plainly and the brand reads like a lab report, not something you want to hold. The solve was restraint, not decoration. We didn’t warm the brand up with soft visuals or friendly copy; we made the precision itself the luxury cue. A brand this disciplined, this consistent, this unwilling to cut a corner, reads as premium the same way a well-made watch or technical outerwear does. Confidence, not comfort. Material choice does a lot of the work copy can’t: glass over plastic, considered proportion, nothing loud.” The identity works at two very different scales at once – “a 330ml label held in one hand and a five-star hospitality table next to the category’s established players. Most water identities are built for one of those, not both,” Grays adds."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-12_2026-09-18-083740_yssd.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-14_2026-09-23-104325_uwgm.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": ".raw kept the bottle as the main design object. Its job was to turn a system with one grid, one palette and no origin storytelling into imagery that “has to feel alive,” he continues. The photography direction in the guidelines has two moods. The engineered half is macro and clinical, with the subject isolated under controlled lighting, precision ahead of atmosphere. The human half is calm, restorative portraiture with natural skin texture, and nothing performative or drawn from fitness imagery. “Lab environments, process documentation, the product as a precision-designed object, never a tank, a well or a facility. Brand-led content, not sales content. The hard part is a direct consequence of how restrained the system is. We can’t lean on decoration or loose interpretation to keep a feed interesting. Every render, every post has to hold the same standard the bottle does,” Grays details."
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“Still and Sparkling are the foundation. The architecture behind them is built to expand,” Alsadi explains. “Oro Labs is committed to sustainable water production, and that commitment governs every format the brand will ever take.”"
-        }
-      ],
-      "caseStudyText": "Oro is a mineral water bottled in Jordan by Oro Labs®, drawn from a desert aquifer around 400 metres down. It runs through a 17-stage filtration process that rebuilds it to a fixed specification so that every bottle is exactly the same. Paris and Ljubljana-based creative collective .raw took on the social, imagery and film, building on the strategy, naming, identity, packaging and digital that was created by London-based studio Two Times Elliott . “Extreme industrial complexity on the inside; complete minimalism on the outside. Four words: design, brutalism, minimalism, industrialism,” Oro’s Founder & CEO Omar Alsadi tells us.\n\n“Oro was born out of necessity. Because a source cannot promise the same water twice,” he explains. “Water directly from a source will change depending on seasonality. Our goal was to create the most consistent water. And only engineering can achieve that.” The process uses double-stage reverse osmosis, mineral redosing and UV sterilisation. “A substance that fundamental deserves to be authored rather than accepted,” Alsadi details. “Nature provides. Precision perfects.”\n\n“The same necessity that built the process built the identity. What defines Oro is what happens to the water afterwards. The design is minimal. The work is scientific. The origin is brutal. The restraint on the outside is what those conditions produced,” notes .raw’s Founder & CEO Tamir Morris Grays. “Design follows the same logic as the water. Both are authored to a specification rather than inherited from a source,” he continues. “A fixed composition demands a fixed visual language. The identity holds the same discipline. One system, applied without variation.”\n\nTwo Times Elliott set the brand idea ‘Engineered beyond nature’ and the positioning line ‘Precision-made hydration.’ The wordmark is drawn in custom geometric rounded-rectangle letterforms, with margins across the system derived from its safe zone rather than the page edge. The palette is deliberately restricted to black, graphite and white. White leads across communications, with black and graphite used selectively for type, print finishes, interface states and emphasis. Three material finishes extend the palette beyond flat colour – a silver for precision, a textured black for depth and durability and a translucency for mineral clarity – and each is monochromatic.\n\nFor the wordmark, a custom version of Katalog by Edito Type was used, while for headlines and brand messaging, Two Times Elliott chose Kimera’s KMR Melange Grotesk – a sans serif with balanced geometry and a neutral, confident presence. General Type Studio’s General Grotesque Mono is used for the mineral specification data, technical content, navigation and metadata – “set the way you’d read figures off a spec sheet, not a tasting note,” Grays explains. It never appears in body copy or primary messaging. Both typefaces are kept to a single Regular weight, so hierarchy comes from scale, spacing and colour contrast. Where the two appear together, the sans headline is three to five times the size of the mono beneath it. “The only embellishment is precision itself: tight alignment, generous spacing, a grid the bottle never breaks from,” he details.\n\nThe bottle was modelled in raw clay, iteration after iteration. Top-heavy, tapering into a slim reinforced base, it has an organic silhouette shaped for the hand, so every moving part of the production line had to be customised around it. The type is printed directly onto the glass, with no separate label – the wordmark near the shoulder and a mono specification block near the base. “That’s a material decision that argues the same case as the copy: nothing applied, nothing removable; the information is part of the object, not stuck onto it,” Grays notes. Still and Sparkling come in 750ml and 330ml, differentiated by cap shade and pad print. Still has a silver aluminium cap with dark grey text; Sparkling’s is black with off-white. “The packaging features a sense of discovery and exploration,” he explains.\n\n“The line between ‘engineered’ and ‘sterile’ is thin,” Grays tells us. “Say ‘process’ and ‘specification’ too plainly and the brand reads like a lab report, not something you want to hold. The solve was restraint, not decoration. We didn’t warm the brand up with soft visuals or friendly copy; we made the precision itself the luxury cue. A brand this disciplined, this consistent, this unwilling to cut a corner, reads as premium the same way a well-made watch or technical outerwear does. Confidence, not comfort. Material choice does a lot of the work copy can’t: glass over plastic, considered proportion, nothing loud.” The identity works at two very different scales at once – “a 330ml label held in one hand and a five-star hospitality table next to the category’s established players. Most water identities are built for one of those, not both,” Grays adds.\n\n.raw kept the bottle as the main design object. Its job was to turn a system with one grid, one palette and no origin storytelling into imagery that “has to feel alive,” he continues. The photography direction in the guidelines has two moods. The engineered half is macro and clinical, with the subject isolated under controlled lighting, precision ahead of atmosphere. The human half is calm, restorative portraiture with natural skin texture, and nothing performative or drawn from fitness imagery. “Lab environments, process documentation, the product as a precision-designed object, never a tank, a well or a facility. Brand-led content, not sales content. The hard part is a direct consequence of how restrained the system is. We can’t lean on decoration or loose interpretation to keep a feed interesting. Every render, every post has to hold the same standard the bottle does,” Grays details.\n\n“Still and Sparkling are the foundation. The architecture behind them is built to expand,” Alsadi explains. “Oro Labs is committed to sustainable water production, and that commitment governs every format the brand will ever take.”",
-      "caseStudyMedia": [
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-01.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-02_2026-09-22-125154_qgvt.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-03.png"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-04.png"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-05.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-06.png"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-07.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-13_2026-09-23-103553_eyhs.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-13.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-10.jpeg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-08.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-12_2026-09-18-083740_yssd.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-14_2026-09-23-104325_uwgm.mp4"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/jean-michel-merciers-identity-for-berto-reworks-the-osterias-codes",
-      "titleOriginal": "Jean-Michel Mercier’s identity for Berto reworks the osteria’s codes",
-      "textOriginal": "Berto is the first restaurant from chef Riccardo Bertolino and sommelier Isabel Bordeleau, who settled on Montreal’s Villeray area for its neighbourhood life and closeness to Jean-Talon Market. It is an osteria, the warm, convivial and generous kind of Italian neighbourhood restaurant – the cooking is traditional with a contemporary approach. Montreal-based freelance designer and art director Jean-Michel Mercier was commissioned to create the identity and its applications, from the custom wordmark, typographic system and colour through the printed pieces and signage.\n\n“When we began working with Jean-Michel, Berto was still largely undefined. We had the name, restaurant plans and a few material directions, but no complete vision,” Bertolino and Bordeleau tell us. “We knew the identity would be central to both Berto’s character and longevity, so we gave him wide creative freedom – describing the feeling we wanted rather than a fixed aesthetic. The goal was an Italian-rooted restaurant that felt accessible, comfortable and welcoming, while still distinct, chef-driven, timeless and free from cliché.”",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/jean-michel-merciers-identity-for-berto-reworks-the-osterias-codes/Berto-Jean-Michel-Mercier-01.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/jean-michel-merciers-identity-for-berto-reworks-the-osterias-codes/Berto-Jean-Michel-Mercier-01.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "Berto is the first restaurant from chef Riccardo Bertolino and sommelier Isabel Bordeleau, who settled on Montreal’s Villeray area for its neighbourhood life and closeness to Jean-Talon Market. It is an osteria, the warm, convivial and generous kind of Italian neighbourhood restaurant – the cooking is traditional with a contemporary approach. Montreal-based freelance designer and art director Jean-Michel Mercier was commissioned to create the identity and its applications, from the custom wordmark, typographic system and colour through the printed pieces and signage."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/jean-michel-merciers-identity-for-berto-reworks-the-osterias-codes/Berto-Jean-Michel-Mercier-02.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“When we began working with Jean-Michel, Berto was still largely undefined. We had the name, restaurant plans and a few material directions, but no complete vision,” Bertolino and Bordeleau tell us. “We knew the identity would be central to both Berto’s character and longevity, so we gave him wide creative freedom – describing the feeling we wanted rather than a fixed aesthetic. The goal was an Italian-rooted restaurant that felt accessible, comfortable and welcoming, while still distinct, chef-driven, timeless and free from cliché.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/jean-michel-merciers-identity-for-berto-reworks-the-osterias-codes/Berto-Jean-Michel-Mercier-05.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“The idea of an osteria naturally reflected the restaurant we wanted to create. Rooted in the notion of the host, it places hospitality at the heart of Berto,” Bertolino and Bordeleau explain. “From the start, the food, space and identity were developed together, balancing tradition and modernity, simplicity and refinement.” The interior is the work of architecture firm Mise à jour, whose concept was about 70–80% developed by the time Mercier came to the project, with the materials, textures and patterns of the room already settled."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/jean-michel-merciers-identity-for-berto-reworks-the-osterias-codes/Berto-Jean-Michel-Mercier-06.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“From the beginning, I understood Berto as an elevated osteria concept, so I proposed directions that would not feel overly loud at every level. The architecture already carries a rich material presence, which allowed the identity to be more restrained in some moments,” Mercier notes. “I deliberately avoided some of the familiar visual cues often associated with Italian restaurant branding, particularly the expected geometric sans serif approach and overly literal references to Italy.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/jean-michel-merciers-identity-for-berto-reworks-the-osterias-codes/Berto-Jean-Michel-Mercier-10.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/jean-michel-merciers-identity-for-berto-reworks-the-osterias-codes/Berto-Jean-Michel-Mercier-09.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Mercier drew the wordmark as a monoline geometric script. “From the initial research, I knew I wanted the wordmark to feel distinctive and unexpected, but I couldn’t find an existing typeface that captured the right spirit. So I began drawing the foundation of what would become the final logo,” he tells us. The refinements to it were made by type designer Alexandre Saumier Demers. “Once the direction was approved by the owners, I knew it needed the eye of a specialist to bring it to its full potential. The logo was about 90% there, but the final 10% is what gave it its meaning and precision. Together, we tested different letter combinations and refined the details to find the right balance between freshness and elegance.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/jean-michel-merciers-identity-for-berto-reworks-the-osterias-codes/Berto-Jean-Michel-Mercier-08.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/jean-michel-merciers-identity-for-berto-reworks-the-osterias-codes/Berto-Jean-Michel-Mercier-07.jpeg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The mark has two formats, one horizontal and one diagonal, seen on the menu and wine list. “The idea was to avoid making the identity feel static across the pieces guests encounter throughout their experience. By varying the format from one application to another, the different elements feel connected when seen together – like a family – rather than simply repeating the same logo in the same way,” Mercier explains. “Jean-Michel’s unique and unexpected proposal was one of the first things he presented, and the rest of the identity grew from it,” Bertolino and Bordeleau note."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/jean-michel-merciers-identity-for-berto-reworks-the-osterias-codes/Berto-Jean-Michel-Mercier-13_2026-09-16-070715_cizi.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The typography is set in two styles of Bull-5 – Bull-5 Typewriter and Bull-5 Mono – a family from the foundry TIGHTYPE that type designer David Einwaller drew from a style of 1960s typewriter lettering, which was introduced through the Italian office-products manufacturer Olivetti. “Since the architecture was designed around the convivial spirit of an osteria, I wanted the typography to bring a different energy to the identity while still feeling natural within the space. The custom geometric script already carried a strong sense of warmth and personality, so I chose two monospaced typefaces to create contrast and evoke the feeling of a small neighbourhood restaurant, with a touch of old-school charm,” Mercier details."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/jean-michel-merciers-identity-for-berto-reworks-the-osterias-codes/Berto-Jean-Michel-Mercier-11.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/jean-michel-merciers-identity-for-berto-reworks-the-osterias-codes/Berto-Jean-Michel-Mercier-12.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Words are broken across lines and spread over the sheet or sign that they sit on. ‘OSTE’ sits over ‘RIA’ in deep red on the window glass, casting its own shadow onto the sheer curtain behind. A menu page sets ‘PIATTO’ as six widely separated capitals running round the edges of a pale blue sheet, with ‘RAVIOLI’ and its description in Bull-5 in the middle. “The word breaks were considered carefully, both as graphic gestures and as readable compositions. They create a sense of rhythm and scale without competing with the space,” Mercier adds. “I wanted the sign to catch people’s attention through a less familiar typographic choice – something that would make them curious before they even entered. The monospaced typeface used throughout the identity also contributes to that feeling. It gives the brand a more intimate, personal character.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/jean-michel-merciers-identity-for-berto-reworks-the-osterias-codes/Berto-Jean-Michel-Mercier-04_2026-09-16-065526_dows.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/jean-michel-merciers-identity-for-berto-reworks-the-osterias-codes/Berto-Jean-Michel-Mercier-03.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Inspired by the materials already in the restaurant, the palette is a pale blue, strong blue, deep red, pale sage and cream. “I developed a five-colour palette that could complement and balance the interior rather than compete with it,” Mercier explains. “The deep red and pale blue became the two principal colours because they offered a strong contrast while still feeling warm, refined and connected to the space. I mainly used the pale blue as a background because of its lightness: relying too heavily on the deep red would have made the overall identity feel too dark and heavy.” The printed and physical pieces include the menus and wine list, coasters, matchboxes, aprons and glassware. The content imagery is by photographer Eliane Cadieux. “I wanted the photography to feel true, warm and authentic – to capture the reality of a moment at Berto rather than something overly polished or perfect,” Mercier tells us. There is also an icon, two interlocking ‘B’s. “The icon engraved on the glasses also marks the pour level,” Bertolino and Bordeleau conclude."
-        }
-      ],
-      "caseStudyText": "Berto is the first restaurant from chef Riccardo Bertolino and sommelier Isabel Bordeleau, who settled on Montreal’s Villeray area for its neighbourhood life and closeness to Jean-Talon Market. It is an osteria, the warm, convivial and generous kind of Italian neighbourhood restaurant – the cooking is traditional with a contemporary approach. Montreal-based freelance designer and art director Jean-Michel Mercier was commissioned to create the identity and its applications, from the custom wordmark, typographic system and colour through the printed pieces and signage.\n\n“When we began working with Jean-Michel, Berto was still largely undefined. We had the name, restaurant plans and a few material directions, but no complete vision,” Bertolino and Bordeleau tell us. “We knew the identity would be central to both Berto’s character and longevity, so we gave him wide creative freedom – describing the feeling we wanted rather than a fixed aesthetic. The goal was an Italian-rooted restaurant that felt accessible, comfortable and welcoming, while still distinct, chef-driven, timeless and free from cliché.”\n\n“The idea of an osteria naturally reflected the restaurant we wanted to create. Rooted in the notion of the host, it places hospitality at the heart of Berto,” Bertolino and Bordeleau explain. “From the start, the food, space and identity were developed together, balancing tradition and modernity, simplicity and refinement.” The interior is the work of architecture firm Mise à jour, whose concept was about 70–80% developed by the time Mercier came to the project, with the materials, textures and patterns of the room already settled.\n\n“From the beginning, I understood Berto as an elevated osteria concept, so I proposed directions that would not feel overly loud at every level. The architecture already carries a rich material presence, which allowed the identity to be more restrained in some moments,” Mercier notes. “I deliberately avoided some of the familiar visual cues often associated with Italian restaurant branding, particularly the expected geometric sans serif approach and overly literal references to Italy.”\n\nMercier drew the wordmark as a monoline geometric script. “From the initial research, I knew I wanted the wordmark to feel distinctive and unexpected, but I couldn’t find an existing typeface that captured the right spirit. So I began drawing the foundation of what would become the final logo,” he tells us. The refinements to it were made by type designer Alexandre Saumier Demers. “Once the direction was approved by the owners, I knew it needed the eye of a specialist to bring it to its full potential. The logo was about 90% there, but the final 10% is what gave it its meaning and precision. Together, we tested different letter combinations and refined the details to find the right balance between freshness and elegance.”\n\nThe mark has two formats, one horizontal and one diagonal, seen on the menu and wine list. “The idea was to avoid making the identity feel static across the pieces guests encounter throughout their experience. By varying the format from one application to another, the different elements feel connected when seen together – like a family – rather than simply repeating the same logo in the same way,” Mercier explains. “Jean-Michel’s unique and unexpected proposal was one of the first things he presented, and the rest of the identity grew from it,” Bertolino and Bordeleau note.\n\nThe typography is set in two styles of Bull-5 – Bull-5 Typewriter and Bull-5 Mono – a family from the foundry TIGHTYPE that type designer David Einwaller drew from a style of 1960s typewriter lettering, which was introduced through the Italian office-products manufacturer Olivetti. “Since the architecture was designed around the convivial spirit of an osteria, I wanted the typography to bring a different energy to the identity while still feeling natural within the space. The custom geometric script already carried a strong sense of warmth and personality, so I chose two monospaced typefaces to create contrast and evoke the feeling of a small neighbourhood restaurant, with a touch of old-school charm,” Mercier details.\n\nWords are broken across lines and spread over the sheet or sign that they sit on. ‘OSTE’ sits over ‘RIA’ in deep red on the window glass, casting its own shadow onto the sheer curtain behind. A menu page sets ‘PIATTO’ as six widely separated capitals running round the edges of a pale blue sheet, with ‘RAVIOLI’ and its description in Bull-5 in the middle. “The word breaks were considered carefully, both as graphic gestures and as readable compositions. They create a sense of rhythm and scale without competing with the space,” Mercier adds. “I wanted the sign to catch people’s attention through a less familiar typographic choice – something that would make them curious before they even entered. The monospaced typeface used throughout the identity also contributes to that feeling. It gives the brand a more intimate, personal character.”\n\nInspired by the materials already in the restaurant, the palette is a pale blue, strong blue, deep red, pale sage and cream. “I developed a five-colour palette that could complement and balance the interior rather than compete with it,” Mercier explains. “The deep red and pale blue became the two principal colours because they offered a strong contrast while still feeling warm, refined and connected to the space. I mainly used the pale blue as a background because of its lightness: relying too heavily on the deep red would have made the overall identity feel too dark and heavy.” The printed and physical pieces include the menus and wine list, coasters, matchboxes, aprons and glassware. The content imagery is by photographer Eliane Cadieux. “I wanted the photography to feel true, warm and authentic – to capture the reality of a moment at Berto rather than something overly polished or perfect,” Mercier tells us. There is also an icon, two interlocking ‘B’s. “The icon engraved on the glasses also marks the pour level,” Bertolino and Bordeleau conclude.",
-      "caseStudyMedia": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/jean-michel-merciers-identity-for-berto-reworks-the-osterias-codes/Berto-Jean-Michel-Mercier-01.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/jean-michel-merciers-identity-for-berto-reworks-the-osterias-codes/Berto-Jean-Michel-Mercier-02.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/jean-michel-merciers-identity-for-berto-reworks-the-osterias-codes/Berto-Jean-Michel-Mercier-05.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/jean-michel-merciers-identity-for-berto-reworks-the-osterias-codes/Berto-Jean-Michel-Mercier-06.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/jean-michel-merciers-identity-for-berto-reworks-the-osterias-codes/Berto-Jean-Michel-Mercier-10.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/jean-michel-merciers-identity-for-berto-reworks-the-osterias-codes/Berto-Jean-Michel-Mercier-09.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/jean-michel-merciers-identity-for-berto-reworks-the-osterias-codes/Berto-Jean-Michel-Mercier-08.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/jean-michel-merciers-identity-for-berto-reworks-the-osterias-codes/Berto-Jean-Michel-Mercier-07.jpeg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/jean-michel-merciers-identity-for-berto-reworks-the-osterias-codes/Berto-Jean-Michel-Mercier-13_2026-09-16-070715_cizi.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/jean-michel-merciers-identity-for-berto-reworks-the-osterias-codes/Berto-Jean-Michel-Mercier-11.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/jean-michel-merciers-identity-for-berto-reworks-the-osterias-codes/Berto-Jean-Michel-Mercier-12.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/jean-michel-merciers-identity-for-berto-reworks-the-osterias-codes/Berto-Jean-Michel-Mercier-04_2026-09-16-065526_dows.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/jean-michel-merciers-identity-for-berto-reworks-the-osterias-codes/Berto-Jean-Michel-Mercier-03.jpg"
         }
       ]
     }
