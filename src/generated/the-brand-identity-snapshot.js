@@ -1037,178 +1037,6 @@ const snapshot={
       ]
     },
     {
-      "canonicalUrl": "https://the-brandidentity.com/project/frequency-leads-lotipa-and-imaginaryfriends-identity-for-a-djs-matcha",
-      "titleOriginal": "Frequency leads LOTIPA and ImaginaryFriend’s identity for a DJ’s matcha",
-      "textOriginal": "Matchalita is a brand of high-grade ceremonial matcha, founded by DJ and artist Carlita. US-based creative company ImaginaryFriend came on board to lead the creative direction for its identity, while Brazil and Portugal-based design studio LOTIPA developed the graphic design system, extending it into motion. “There wasn’t really a moment where ‘our bit’ ended and ‘their bit’ began,” ImaginaryFriend’s Co-Chief Creative Officer Dave Brown tells us.\n\n“Matchalita started from something that was already a very real part of Carlita’s life. She travels constantly for music, moving between cities and time zones, and matcha had become part of her daily ritual – something she genuinely loved, sought out wherever she was and had developed a real point of view around,” explains ImaginaryFriend’s other Co-Chief Creative Officer, Daniel Bonder. “When we came into the project, the name, beginnings of the product and Carlita’s relationship with matcha were already there. Our brief was to turn that into a distinctive brand world.”",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/13885755.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/frequency-leads-lotipa-and-imaginaryfriends-identity-for-a-djs-matcha/MATCHALITA-LOTIPA-01.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "Matchalita is a brand of high-grade ceremonial matcha, founded by DJ and artist Carlita. US-based creative company ImaginaryFriend came on board to lead the creative direction for its identity, while Brazil and Portugal-based design studio LOTIPA developed the graphic design system, extending it into motion. “There wasn’t really a moment where ‘our bit’ ended and ‘their bit’ began,” ImaginaryFriend’s Co-Chief Creative Officer Dave Brown tells us."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/frequency-leads-lotipa-and-imaginaryfriends-identity-for-a-djs-matcha/MATCHALITA-LOTIPA-04.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“Matchalita started from something that was already a very real part of Carlita’s life. She travels constantly for music, moving between cities and time zones, and matcha had become part of her daily ritual – something she genuinely loved, sought out wherever she was and had developed a real point of view around,” explains ImaginaryFriend’s other Co-Chief Creative Officer, Daniel Bonder. “When we came into the project, the name, beginnings of the product and Carlita’s relationship with matcha were already there. Our brief was to turn that into a distinctive brand world.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/frequency-leads-lotipa-and-imaginaryfriends-identity-for-a-djs-matcha/MATCHALITA-LOTIPA-10.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/frequency-leads-lotipa-and-imaginaryfriends-identity-for-a-djs-matcha/MATCHALITA-LOTIPA-11.jpeg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Carlita has travelled to Japan to learn how matcha is made and to meet people who grow and produce it. Bonder notes that the trip reinforced “an important principle for the brand: the expression can be playful, contemporary and culturally progressive, but the product can’t be a shortcut.” “We saw the opportunity at the intersection of Japanese matcha culture and Carlita’s world of music, fashion and nightlife,” Bonder continues. ImaginaryFriend’s creative question was a simple one: “What does matcha look and feel like when it’s built for a generation whose day doesn’t necessarily run from 9 to 5?”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/frequency-leads-lotipa-and-imaginaryfriends-identity-for-a-djs-matcha/MATCHALITA-LOTIPA-03.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“We kept coming back to the idea of frequency,” LOTIPA’s Founder & Creative Director, Antoniel Felaínne, tells us. “Matcha changes your energy; music changes your energy, and Carlita’s world sits right at the intersection of those two things. So sound felt like a much more interesting place to start than the obvious visual codes of tea.” LOTIPA’s Brand Designer Alex Monteiro notes that “the brand needed to feel equally at home backstage at 2am as it did making matcha the next morning.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/frequency-leads-lotipa-and-imaginaryfriends-identity-for-a-djs-matcha/MATCHALITA-LOTIPA-05.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The wordmark is a reworked version of Adam Ladd’s typeface Gopher Display. “We wanted something condensed, graphic and slightly utilitarian – almost like typography you might find on a Japanese product label crossed with an underground club flyer,” Monteiro details. Around the wordmark, the system uses three typefaces: Noto Serif KR for headlines, with Colophon Foundry’s DM Mono for subheadings and DM Sans for copy."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/frequency-leads-lotipa-and-imaginaryfriends-identity-for-a-djs-matcha/MATCHALITA-LOTIPA-12.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/frequency-leads-lotipa-and-imaginaryfriends-identity-for-a-djs-matcha/MATCHALITA-LOTIPA-09_2026-10-06-095726_pfbt.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Alongside the wordmark and those three typefaces, the identity has custom Japanese typography, built using Rasmus Andersson’s Inter as a base. “Rather than treating it as a translation that always had to sit politely underneath the English, we used it much more expressively – sometimes informational, sometimes almost as texture or punctuation,” Monteiro notes. “We deliberately didn’t create one sacred lock-up that had to appear exactly the same way everywhere,” Monteiro continues. “The English wordmark tends to do the heavy lifting in terms of immediate recognition, while the Japanese typography can change scale and function depending on the application.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/frequency-leads-lotipa-and-imaginaryfriends-identity-for-a-djs-matcha/MATCHALITA-LOTIPA-06.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "LOTIPA turned the frequency idea into a waveform symbol, drawn from the negative of the ‘M’ in the wordmark. “What’s useful is that it isn’t really a logo in the traditional sense,” Felaínne explains. “It can expand, contract, repeat and behave almost like a piece of visual music. Sometimes it becomes a pattern; sometimes a little badge or signature; sometimes it takes over an entire object. That flexibility was important because we always imagined Matchalita extending beyond a canister. It needed to work on cups, cans and packets, but also stickers, merch, posters, events and eventually spaces. The waveform gives all of those things a shared frequency without having to stamp the logo everywhere.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/frequency-leads-lotipa-and-imaginaryfriends-identity-for-a-djs-matcha/MATCHALITA-LOTIPA-13.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“We didn’t want to make another beautiful object designed to sit quietly on a kitchen counter,” Brown notes. The packaging has simple forms, but typography, colour and pattern make those forms “feel more like cultural objects than traditional wellness products,” Monteiro adds."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/frequency-leads-lotipa-and-imaginaryfriends-identity-for-a-djs-matcha/MATCHALITA-LOTIPA-07.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/frequency-leads-lotipa-and-imaginaryfriends-identity-for-a-djs-matcha/MATCHALITA-LOTIPA-08.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“Black and ivory are really the grounding mechanism,” he details. “They give us enough restraint that we can be much more aggressive with colour elsewhere.” Against that base, the brighter colours operate like different frequencies or moods. “Chartreuse obviously has a natural relationship to matcha, but we didn’t want green to own the brand. Flamingo, scarlet, violet and orange take it somewhere much less expected and connect it back to fashion, music and nightlife. There isn’t a rigid ‘orange means X, violet means Y’ system. It’s more about energy and context. A quieter product moment might be predominantly black and ivory with one hit of colour; a poster, party or social piece can turn the volume right up.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/frequency-leads-lotipa-and-imaginaryfriends-identity-for-a-djs-matcha/MATCHALITA-LOTIPA-02.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“The photography needed to feel like you’re inside Carlita’s life rather than observing a campaign about it – backstage, getting ready, travelling, friends around, cups sitting amongst sunglasses and headphones, flash photography, movement, imperfections,” Bonder explains."
-        }
-      ],
-      "caseStudyText": "Matchalita is a brand of high-grade ceremonial matcha, founded by DJ and artist Carlita. US-based creative company ImaginaryFriend came on board to lead the creative direction for its identity, while Brazil and Portugal-based design studio LOTIPA developed the graphic design system, extending it into motion. “There wasn’t really a moment where ‘our bit’ ended and ‘their bit’ began,” ImaginaryFriend’s Co-Chief Creative Officer Dave Brown tells us.\n\n“Matchalita started from something that was already a very real part of Carlita’s life. She travels constantly for music, moving between cities and time zones, and matcha had become part of her daily ritual – something she genuinely loved, sought out wherever she was and had developed a real point of view around,” explains ImaginaryFriend’s other Co-Chief Creative Officer, Daniel Bonder. “When we came into the project, the name, beginnings of the product and Carlita’s relationship with matcha were already there. Our brief was to turn that into a distinctive brand world.”\n\nCarlita has travelled to Japan to learn how matcha is made and to meet people who grow and produce it. Bonder notes that the trip reinforced “an important principle for the brand: the expression can be playful, contemporary and culturally progressive, but the product can’t be a shortcut.” “We saw the opportunity at the intersection of Japanese matcha culture and Carlita’s world of music, fashion and nightlife,” Bonder continues. ImaginaryFriend’s creative question was a simple one: “What does matcha look and feel like when it’s built for a generation whose day doesn’t necessarily run from 9 to 5?”\n\n“We kept coming back to the idea of frequency,” LOTIPA’s Founder & Creative Director, Antoniel Felaínne, tells us. “Matcha changes your energy; music changes your energy, and Carlita’s world sits right at the intersection of those two things. So sound felt like a much more interesting place to start than the obvious visual codes of tea.” LOTIPA’s Brand Designer Alex Monteiro notes that “the brand needed to feel equally at home backstage at 2am as it did making matcha the next morning.”\n\nThe wordmark is a reworked version of Adam Ladd’s typeface Gopher Display. “We wanted something condensed, graphic and slightly utilitarian – almost like typography you might find on a Japanese product label crossed with an underground club flyer,” Monteiro details. Around the wordmark, the system uses three typefaces: Noto Serif KR for headlines, with Colophon Foundry’s DM Mono for subheadings and DM Sans for copy.\n\nAlongside the wordmark and those three typefaces, the identity has custom Japanese typography, built using Rasmus Andersson’s Inter as a base. “Rather than treating it as a translation that always had to sit politely underneath the English, we used it much more expressively – sometimes informational, sometimes almost as texture or punctuation,” Monteiro notes. “We deliberately didn’t create one sacred lock-up that had to appear exactly the same way everywhere,” Monteiro continues. “The English wordmark tends to do the heavy lifting in terms of immediate recognition, while the Japanese typography can change scale and function depending on the application.”\n\nLOTIPA turned the frequency idea into a waveform symbol, drawn from the negative of the ‘M’ in the wordmark. “What’s useful is that it isn’t really a logo in the traditional sense,” Felaínne explains. “It can expand, contract, repeat and behave almost like a piece of visual music. Sometimes it becomes a pattern; sometimes a little badge or signature; sometimes it takes over an entire object. That flexibility was important because we always imagined Matchalita extending beyond a canister. It needed to work on cups, cans and packets, but also stickers, merch, posters, events and eventually spaces. The waveform gives all of those things a shared frequency without having to stamp the logo everywhere.”\n\n“We didn’t want to make another beautiful object designed to sit quietly on a kitchen counter,” Brown notes. The packaging has simple forms, but typography, colour and pattern make those forms “feel more like cultural objects than traditional wellness products,” Monteiro adds.\n\n“Black and ivory are really the grounding mechanism,” he details. “They give us enough restraint that we can be much more aggressive with colour elsewhere.” Against that base, the brighter colours operate like different frequencies or moods. “Chartreuse obviously has a natural relationship to matcha, but we didn’t want green to own the brand. Flamingo, scarlet, violet and orange take it somewhere much less expected and connect it back to fashion, music and nightlife. There isn’t a rigid ‘orange means X, violet means Y’ system. It’s more about energy and context. A quieter product moment might be predominantly black and ivory with one hit of colour; a poster, party or social piece can turn the volume right up.”\n\n“The photography needed to feel like you’re inside Carlita’s life rather than observing a campaign about it – backstage, getting ready, travelling, friends around, cups sitting amongst sunglasses and headphones, flash photography, movement, imperfections,” Bonder explains.",
-      "caseStudyMedia": [
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/frequency-leads-lotipa-and-imaginaryfriends-identity-for-a-djs-matcha/MATCHALITA-LOTIPA-01.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/frequency-leads-lotipa-and-imaginaryfriends-identity-for-a-djs-matcha/MATCHALITA-LOTIPA-04.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/frequency-leads-lotipa-and-imaginaryfriends-identity-for-a-djs-matcha/MATCHALITA-LOTIPA-10.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/frequency-leads-lotipa-and-imaginaryfriends-identity-for-a-djs-matcha/MATCHALITA-LOTIPA-11.jpeg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/frequency-leads-lotipa-and-imaginaryfriends-identity-for-a-djs-matcha/MATCHALITA-LOTIPA-03.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/frequency-leads-lotipa-and-imaginaryfriends-identity-for-a-djs-matcha/MATCHALITA-LOTIPA-05.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/frequency-leads-lotipa-and-imaginaryfriends-identity-for-a-djs-matcha/MATCHALITA-LOTIPA-12.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/frequency-leads-lotipa-and-imaginaryfriends-identity-for-a-djs-matcha/MATCHALITA-LOTIPA-09_2026-10-06-095726_pfbt.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/frequency-leads-lotipa-and-imaginaryfriends-identity-for-a-djs-matcha/MATCHALITA-LOTIPA-06.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/frequency-leads-lotipa-and-imaginaryfriends-identity-for-a-djs-matcha/MATCHALITA-LOTIPA-13.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/frequency-leads-lotipa-and-imaginaryfriends-identity-for-a-djs-matcha/MATCHALITA-LOTIPA-07.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/frequency-leads-lotipa-and-imaginaryfriends-identity-for-a-djs-matcha/MATCHALITA-LOTIPA-08.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/frequency-leads-lotipa-and-imaginaryfriends-identity-for-a-djs-matcha/MATCHALITA-LOTIPA-02.mp4"
-        }
-      ]
-    },
-    {
       "canonicalUrl": "https://the-brandidentity.com/project/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays",
       "titleOriginal": "Why Carolanebel Studio turned a fleur-de-lys into a bird for Club Pays",
       "textOriginal": "Club Pays is a café on Montréal’s Plaza Saint-Hubert that becomes a room for shows, open mics, reading circles and talks in the evening. It is run by OUI Québec, a non-partisan umbrella organisation for the Québec independence movement, and its model comes from the casals of Catalonia and the herriko tabernas of the Basque Country – citizen-run bars that work as meeting places, mobilisation centres and fundraisers. Surpluses from Club Pays’ coffee, beer and events go back into the movement.\n\nMontréal-based Carolanebel Studio was commissioned to design the space’s identity. OUI Québec has worked with the studio’s Founder & Creative Director, Carolane Bélanger, for nearly five years, and gave her full creative freedom on Club Pays. “Politics and independence can sometimes feel intimidating, so our goal was to create an inviting atmosphere where anyone would feel at home, while maintaining a bold, contemporary edge,” explains the organisation’s Communications Manager Alex Valiquette.",
@@ -3255,6 +3083,173 @@ const snapshot={
         {
           "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/09/convoy-art-directs-nike-ateliers-campaign-for-footballer-d%C3%A9sir%C3%A9-dou%C3%A9/De%CC%81sire%CC%81-Doue%CC%81-for-Nike-Atelier-Convoy-09_2026-09-17-104722_eolv.jpg"
+        }
+      ]
+    },
+    {
+      "canonicalUrl": "https://the-brandidentity.com/project/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out",
+      "titleOriginal": "Oro is a water brand redefining hydration, engineered inside and out",
+      "textOriginal": "Oro is a mineral water bottled in Jordan by Oro Labs®, drawn from a desert aquifer around 400 metres down. It runs through a 17-stage filtration process that rebuilds it to a fixed specification so that every bottle is exactly the same. Paris and Ljubljana-based creative collective .raw took on the social, imagery and film, building on the strategy, naming, identity, packaging and digital that was created by London-based studio Two Times Elliott . “Extreme industrial complexity on the inside; complete minimalism on the outside. Four words: design, brutalism, minimalism, industrialism,” Oro’s Founder & CEO Omar Alsadi tells us.\n\n“Oro was born out of necessity. Because a source cannot promise the same water twice,” he explains. “Water directly from a source will change depending on seasonality. Our goal was to create the most consistent water. And only engineering can achieve that.” The process uses double-stage reverse osmosis, mineral redosing and UV sterilisation. “A substance that fundamental deserves to be authored rather than accepted,” Alsadi details. “Nature provides. Precision perfects.”",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/videos/12978655.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-01.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "Oro is a mineral water bottled in Jordan by Oro Labs®, drawn from a desert aquifer around 400 metres down. It runs through a 17-stage filtration process that rebuilds it to a fixed specification so that every bottle is exactly the same. Paris and Ljubljana-based creative collective .raw took on the social, imagery and film, building on the strategy, naming, identity, packaging and digital that was created by London-based studio Two Times Elliott . “Extreme industrial complexity on the inside; complete minimalism on the outside. Four words: design, brutalism, minimalism, industrialism,” Oro’s Founder & CEO Omar Alsadi tells us."
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-02_2026-09-22-125154_qgvt.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“Oro was born out of necessity. Because a source cannot promise the same water twice,” he explains. “Water directly from a source will change depending on seasonality. Our goal was to create the most consistent water. And only engineering can achieve that.” The process uses double-stage reverse osmosis, mineral redosing and UV sterilisation. “A substance that fundamental deserves to be authored rather than accepted,” Alsadi details. “Nature provides. Precision perfects.”"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-03.png"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-04.png"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“The same necessity that built the process built the identity. What defines Oro is what happens to the water afterwards. The design is minimal. The work is scientific. The origin is brutal. The restraint on the outside is what those conditions produced,” notes .raw’s Founder & CEO Tamir Morris Grays. “Design follows the same logic as the water. Both are authored to a specification rather than inherited from a source,” he continues. “A fixed composition demands a fixed visual language. The identity holds the same discipline. One system, applied without variation.”"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-05.jpeg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-06.png"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Two Times Elliott set the brand idea ‘Engineered beyond nature’ and the positioning line ‘Precision-made hydration.’ The wordmark is drawn in custom geometric rounded-rectangle letterforms, with margins across the system derived from its safe zone rather than the page edge. The palette is deliberately restricted to black, graphite and white. White leads across communications, with black and graphite used selectively for type, print finishes, interface states and emphasis. Three material finishes extend the palette beyond flat colour – a silver for precision, a textured black for depth and durability and a translucency for mineral clarity – and each is monochromatic."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-07.jpeg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-13_2026-09-23-103553_eyhs.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "For the wordmark, a custom version of Katalog by Edito Type was used, while for headlines and brand messaging, Two Times Elliott chose Kimera’s KMR Melange Grotesk – a sans serif with balanced geometry and a neutral, confident presence. General Type Studio’s General Grotesque Mono is used for the mineral specification data, technical content, navigation and metadata – “set the way you’d read figures off a spec sheet, not a tasting note,” Grays explains. It never appears in body copy or primary messaging. Both typefaces are kept to a single Regular weight, so hierarchy comes from scale, spacing and colour contrast. Where the two appear together, the sans headline is three to five times the size of the mono beneath it. “The only embellishment is precision itself: tight alignment, generous spacing, a grid the bottle never breaks from,” he details."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-13.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The bottle was modelled in raw clay, iteration after iteration. Top-heavy, tapering into a slim reinforced base, it has an organic silhouette shaped for the hand, so every moving part of the production line had to be customised around it. The type is printed directly onto the glass, with no separate label – the wordmark near the shoulder and a mono specification block near the base. “That’s a material decision that argues the same case as the copy: nothing applied, nothing removable; the information is part of the object, not stuck onto it,” Grays notes. Still and Sparkling come in 750ml and 330ml, differentiated by cap shade and pad print. Still has a silver aluminium cap with dark grey text; Sparkling’s is black with off-white. “The packaging features a sense of discovery and exploration,” he explains."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-10.jpeg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-08.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“The line between ‘engineered’ and ‘sterile’ is thin,” Grays tells us. “Say ‘process’ and ‘specification’ too plainly and the brand reads like a lab report, not something you want to hold. The solve was restraint, not decoration. We didn’t warm the brand up with soft visuals or friendly copy; we made the precision itself the luxury cue. A brand this disciplined, this consistent, this unwilling to cut a corner, reads as premium the same way a well-made watch or technical outerwear does. Confidence, not comfort. Material choice does a lot of the work copy can’t: glass over plastic, considered proportion, nothing loud.” The identity works at two very different scales at once – “a 330ml label held in one hand and a five-star hospitality table next to the category’s established players. Most water identities are built for one of those, not both,” Grays adds."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-12_2026-09-18-083740_yssd.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-14_2026-09-23-104325_uwgm.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": ".raw kept the bottle as the main design object. Its job was to turn a system with one grid, one palette and no origin storytelling into imagery that “has to feel alive,” he continues. The photography direction in the guidelines has two moods. The engineered half is macro and clinical, with the subject isolated under controlled lighting, precision ahead of atmosphere. The human half is calm, restorative portraiture with natural skin texture, and nothing performative or drawn from fitness imagery. “Lab environments, process documentation, the product as a precision-designed object, never a tank, a well or a facility. Brand-led content, not sales content. The hard part is a direct consequence of how restrained the system is. We can’t lean on decoration or loose interpretation to keep a feed interesting. Every render, every post has to hold the same standard the bottle does,” Grays details."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“Still and Sparkling are the foundation. The architecture behind them is built to expand,” Alsadi explains. “Oro Labs is committed to sustainable water production, and that commitment governs every format the brand will ever take.”"
+        }
+      ],
+      "caseStudyText": "Oro is a mineral water bottled in Jordan by Oro Labs®, drawn from a desert aquifer around 400 metres down. It runs through a 17-stage filtration process that rebuilds it to a fixed specification so that every bottle is exactly the same. Paris and Ljubljana-based creative collective .raw took on the social, imagery and film, building on the strategy, naming, identity, packaging and digital that was created by London-based studio Two Times Elliott . “Extreme industrial complexity on the inside; complete minimalism on the outside. Four words: design, brutalism, minimalism, industrialism,” Oro’s Founder & CEO Omar Alsadi tells us.\n\n“Oro was born out of necessity. Because a source cannot promise the same water twice,” he explains. “Water directly from a source will change depending on seasonality. Our goal was to create the most consistent water. And only engineering can achieve that.” The process uses double-stage reverse osmosis, mineral redosing and UV sterilisation. “A substance that fundamental deserves to be authored rather than accepted,” Alsadi details. “Nature provides. Precision perfects.”\n\n“The same necessity that built the process built the identity. What defines Oro is what happens to the water afterwards. The design is minimal. The work is scientific. The origin is brutal. The restraint on the outside is what those conditions produced,” notes .raw’s Founder & CEO Tamir Morris Grays. “Design follows the same logic as the water. Both are authored to a specification rather than inherited from a source,” he continues. “A fixed composition demands a fixed visual language. The identity holds the same discipline. One system, applied without variation.”\n\nTwo Times Elliott set the brand idea ‘Engineered beyond nature’ and the positioning line ‘Precision-made hydration.’ The wordmark is drawn in custom geometric rounded-rectangle letterforms, with margins across the system derived from its safe zone rather than the page edge. The palette is deliberately restricted to black, graphite and white. White leads across communications, with black and graphite used selectively for type, print finishes, interface states and emphasis. Three material finishes extend the palette beyond flat colour – a silver for precision, a textured black for depth and durability and a translucency for mineral clarity – and each is monochromatic.\n\nFor the wordmark, a custom version of Katalog by Edito Type was used, while for headlines and brand messaging, Two Times Elliott chose Kimera’s KMR Melange Grotesk – a sans serif with balanced geometry and a neutral, confident presence. General Type Studio’s General Grotesque Mono is used for the mineral specification data, technical content, navigation and metadata – “set the way you’d read figures off a spec sheet, not a tasting note,” Grays explains. It never appears in body copy or primary messaging. Both typefaces are kept to a single Regular weight, so hierarchy comes from scale, spacing and colour contrast. Where the two appear together, the sans headline is three to five times the size of the mono beneath it. “The only embellishment is precision itself: tight alignment, generous spacing, a grid the bottle never breaks from,” he details.\n\nThe bottle was modelled in raw clay, iteration after iteration. Top-heavy, tapering into a slim reinforced base, it has an organic silhouette shaped for the hand, so every moving part of the production line had to be customised around it. The type is printed directly onto the glass, with no separate label – the wordmark near the shoulder and a mono specification block near the base. “That’s a material decision that argues the same case as the copy: nothing applied, nothing removable; the information is part of the object, not stuck onto it,” Grays notes. Still and Sparkling come in 750ml and 330ml, differentiated by cap shade and pad print. Still has a silver aluminium cap with dark grey text; Sparkling’s is black with off-white. “The packaging features a sense of discovery and exploration,” he explains.\n\n“The line between ‘engineered’ and ‘sterile’ is thin,” Grays tells us. “Say ‘process’ and ‘specification’ too plainly and the brand reads like a lab report, not something you want to hold. The solve was restraint, not decoration. We didn’t warm the brand up with soft visuals or friendly copy; we made the precision itself the luxury cue. A brand this disciplined, this consistent, this unwilling to cut a corner, reads as premium the same way a well-made watch or technical outerwear does. Confidence, not comfort. Material choice does a lot of the work copy can’t: glass over plastic, considered proportion, nothing loud.” The identity works at two very different scales at once – “a 330ml label held in one hand and a five-star hospitality table next to the category’s established players. Most water identities are built for one of those, not both,” Grays adds.\n\n.raw kept the bottle as the main design object. Its job was to turn a system with one grid, one palette and no origin storytelling into imagery that “has to feel alive,” he continues. The photography direction in the guidelines has two moods. The engineered half is macro and clinical, with the subject isolated under controlled lighting, precision ahead of atmosphere. The human half is calm, restorative portraiture with natural skin texture, and nothing performative or drawn from fitness imagery. “Lab environments, process documentation, the product as a precision-designed object, never a tank, a well or a facility. Brand-led content, not sales content. The hard part is a direct consequence of how restrained the system is. We can’t lean on decoration or loose interpretation to keep a feed interesting. Every render, every post has to hold the same standard the bottle does,” Grays details.\n\n“Still and Sparkling are the foundation. The architecture behind them is built to expand,” Alsadi explains. “Oro Labs is committed to sustainable water production, and that commitment governs every format the brand will ever take.”",
+      "caseStudyMedia": [
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-01.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-02_2026-09-22-125154_qgvt.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-03.png"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-04.png"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-05.jpeg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-06.png"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-07.jpeg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-13_2026-09-23-103553_eyhs.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-13.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-10.jpeg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-08.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-12_2026-09-18-083740_yssd.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-14_2026-09-23-104325_uwgm.mp4"
         }
       ]
     }
