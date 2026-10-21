@@ -39,21 +39,26 @@ jobs:
         run: node scripts/refresh-tbi-source.mjs
 
       - name: Commit refreshed snapshot when changed
+        id: snapshot
         run: |
           if git diff --quiet -- src/generated/the-brand-identity-snapshot.js; then
             echo "No source changes."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             git config user.name "United Identity Source Bot"
             git config user.email "actions@users.noreply.github.com"
             git add src/generated/the-brand-identity-snapshot.js
             git commit -m "Refresh The Brand Identity source snapshot"
             git push origin HEAD:main.ru
+            echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
 
       - name: Install dependencies
+        if: steps.snapshot.outputs.changed == 'true' || github.event_name != 'schedule'
         run: npm install
 
       - name: Deploy refreshed Worker
+        if: steps.snapshot.outputs.changed == 'true' || github.event_name != 'schedule'
         run: npx wrangler deploy
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
