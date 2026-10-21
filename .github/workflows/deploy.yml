@@ -4,6 +4,10 @@ on:
   push:
     branches:
       - main.ru
+    paths-ignore:
+      # The hourly source refresh workflow deploys this snapshot itself.
+      - "src/generated/the-brand-identity-snapshot.js"
+      - ".github/workflows/health.yml"
   workflow_dispatch:
 
 permissions:
