@@ -7,6 +7,183 @@ const snapshot={
   },
   "items": [
     {
+      "canonicalUrl": "https://the-brandidentity.com/project/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme",
+      "titleOriginal": "N2 Albiino’s Vuoden Huiput identity expands on the craftsmanship theme",
+      "textOriginal": "Founded by designers in 1980, Vuoden Huiput is an annual design competition run by Grafia, the Association of Visual Communication Designers in Finland. Every year, Grafia invites one agency to design the competition’s identity around its pyramid emblem. For the 2025 edition, whose winners were celebrated at a gala in spring 2026, the invitation went to Helsinki-based brand and marketing agency N2 Albiino , which treated creativity as a metamorphosis and let the familiar pyramid break apart.\n\n“Each year the agency designing the Vuoden Huiput identity is given a fairly free hand to develop its own interpretation of the competition’s identity,” explains Grafia’s Executive Director Katri Soramäki. “One of the key points, however, is that the identity should include the agency’s own interpretation of the Vuoden Huiput pyramid.” The commission “can offer more room for experimentation than a typical client brief,” she adds. “One of the unique aspects is that the target audience consists of the designers’ own colleagues and peers.”",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/videos/14373716.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-08.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "Founded by designers in 1980, Vuoden Huiput is an annual design competition run by Grafia, the Association of Visual Communication Designers in Finland. Every year, Grafia invites one agency to design the competition’s identity around its pyramid emblem. For the 2025 edition, whose winners were celebrated at a gala in spring 2026, the invitation went to Helsinki-based brand and marketing agency N2 Albiino , which treated creativity as a metamorphosis and let the familiar pyramid break apart."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-05.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“Each year the agency designing the Vuoden Huiput identity is given a fairly free hand to develop its own interpretation of the competition’s identity,” explains Grafia’s Executive Director Katri Soramäki. “One of the key points, however, is that the identity should include the agency’s own interpretation of the Vuoden Huiput pyramid.” The commission “can offer more room for experimentation than a typical client brief,” she adds. “One of the unique aspects is that the target audience consists of the designers’ own colleagues and peers.”"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-13.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“Our idea was to cause a small disruption. We wanted to shake things up rather than doing what people would normally expect from a Vuoden Huiput identity,” N2 Albiino’s Designer Ville Sainio tells us. “This was the 46th year of the competition, hence the pyramid and recurring elements had already become familiar within the industry. Because of that, we dared to do something that felt a bit unconventional.” N2 Albiino also took inspiration from the theme of the Wild Card, one of the competition’s categories. The head of juries chooses that theme each year, and for 2025, that was Lotta Nieminen, who chose craftsmanship – a theme about handwork, technical skill and a high level of finish. “It was a subject that was personally important to her and is also reflected in her own work,” notes Grafia’s Producer Julia Valanne."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-01.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The pyramid is made up of separate pieces. In most of the images, they are joined together in a pyramid-like shape, but they also appear on their own, as though the pyramid has broken up. The pyramid was modelled in 3D in Cinema 4D, along with every image and graphic around it, and rendered with Octane to look like modelling clay. N2 Albiino combined textures from Greyscalegorilla’s asset library on each piece, shifting their position and rotation. “The goal was to make every piece unique rather than repeating the same texture over and over,” Sainio details. “I wanted an organic look, so the pieces would feel like modelling clay that had been moulded one by one.”"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-07.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-06.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Some of the pieces have a metal finish. “The metallic shapes were carved and engraved with the pyramid logo, which was also my take on this year’s craftsmanship theme,” he continues. “Funnily enough, many people have thought the pyramid is real and asked whether it was actually made from modelling clay and if we have one sitting on a cabinet shelf somewhere.” At Grafia, Soramäki recalls that “N2 Albiino initially developed a broad visual concept, which we then refined together as the work progressed into a clearer and more cohesive system. During the process, the modelling-clay pyramid really stood out as the strongest conceptually.”"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-11_2026-10-19-042435_yeun.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The colours started with sketches by Creative Director Mikko Männistö. Sainio then rendered a white version of the pyramid and coloured it section by section in Photoshop to see which colours worked where, before combining colours and textures in Cinema 4D. The pieces are mainly in primary colours, such as shades of blue, yellow, green and red, with pink and some purple here and there. Black and white are also used, “since we wanted to avoid looking too playful,” Sainio reveals. “A brighter colour palette seemed fitting in contrast to the previous year’s identity, which was darker in tone.”"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-03.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The typography is set almost exclusively in one cut of Pangram Pangram’s PP Neue Montreal, with other cuts in the yearbook, which collects the winning work. Once the main visual was finished, the first piece to follow was a social media post and ad announcing the identity and the competition dates. “At first, it was hard to find a way to combine text and visuals as there was already so much going on,” Sainio recalls. “I had to find a way for the chosen typography to not pull away too much attention from the key visual.” Placing the text along the bottom edge “didn’t look particularly interesting,” so he repeated it three times over the image, “and something clicked.” Set at the top, middle and bottom, the text sits in a frame that the team called the “matrix,” which works on top of any visual. Sainio describes the repetition as “the connecting thread between all images,” one that gives the identity “a serial quality.”"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-09.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Showing the pieces on their own came later. “The concept started with the main pyramid, used in social media and print ads, so by the time we began breaking it apart and showing different sides of it, the identity was already established and recognised by the audience,” Sainio tells us. “The consistent use of the text matrix also helped tie everything together nicely.”"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-12_2026-10-19-042415_xogd.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "In motion, the camera moves around the pyramid. “It makes it feel more real, like an actual object that has been carefully crafted from every angle,” Sainio notes. “It’s almost as if the viewer is turning it around, looking at it, playing with it.” On the gala’s screens and in the social posts, the text rises from the bottom of the screen, repeating to cover most of it before settling into the position used in the still versions. It always moves upward as it enters or leaves, “which gives a feeling of momentum and positivity,” Sainio explains. Every name and award category on the event screen repeats three times “to preserve the visual language present throughout the whole identity.”"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-02.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“The yearbook tradition follows Grafia’s own system of only awarding Gold and Silver, so silver and gold pieces were all that was needed to express that,” Männistö details. “The jury itself is pictured as though they too were up for evaluation, sitting in a row with the camera turned back on them.”"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-14.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-15.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The concept “worked especially well at the awards gala, where the same idea could be brought into a live event – from the floral arrangements to the presentation of the dessert,” Valanne tells us. N2 Albiino designed printed, personalised and hand-stitched menu booklets for the gala, and “many guests took theirs home as a keepsake,” she concludes."
+        }
+      ],
+      "caseStudyText": "Founded by designers in 1980, Vuoden Huiput is an annual design competition run by Grafia, the Association of Visual Communication Designers in Finland. Every year, Grafia invites one agency to design the competition’s identity around its pyramid emblem. For the 2025 edition, whose winners were celebrated at a gala in spring 2026, the invitation went to Helsinki-based brand and marketing agency N2 Albiino , which treated creativity as a metamorphosis and let the familiar pyramid break apart.\n\n“Each year the agency designing the Vuoden Huiput identity is given a fairly free hand to develop its own interpretation of the competition’s identity,” explains Grafia’s Executive Director Katri Soramäki. “One of the key points, however, is that the identity should include the agency’s own interpretation of the Vuoden Huiput pyramid.” The commission “can offer more room for experimentation than a typical client brief,” she adds. “One of the unique aspects is that the target audience consists of the designers’ own colleagues and peers.”\n\n“Our idea was to cause a small disruption. We wanted to shake things up rather than doing what people would normally expect from a Vuoden Huiput identity,” N2 Albiino’s Designer Ville Sainio tells us. “This was the 46th year of the competition, hence the pyramid and recurring elements had already become familiar within the industry. Because of that, we dared to do something that felt a bit unconventional.” N2 Albiino also took inspiration from the theme of the Wild Card, one of the competition’s categories. The head of juries chooses that theme each year, and for 2025, that was Lotta Nieminen, who chose craftsmanship – a theme about handwork, technical skill and a high level of finish. “It was a subject that was personally important to her and is also reflected in her own work,” notes Grafia’s Producer Julia Valanne.\n\nThe pyramid is made up of separate pieces. In most of the images, they are joined together in a pyramid-like shape, but they also appear on their own, as though the pyramid has broken up. The pyramid was modelled in 3D in Cinema 4D, along with every image and graphic around it, and rendered with Octane to look like modelling clay. N2 Albiino combined textures from Greyscalegorilla’s asset library on each piece, shifting their position and rotation. “The goal was to make every piece unique rather than repeating the same texture over and over,” Sainio details. “I wanted an organic look, so the pieces would feel like modelling clay that had been moulded one by one.”\n\nSome of the pieces have a metal finish. “The metallic shapes were carved and engraved with the pyramid logo, which was also my take on this year’s craftsmanship theme,” he continues. “Funnily enough, many people have thought the pyramid is real and asked whether it was actually made from modelling clay and if we have one sitting on a cabinet shelf somewhere.” At Grafia, Soramäki recalls that “N2 Albiino initially developed a broad visual concept, which we then refined together as the work progressed into a clearer and more cohesive system. During the process, the modelling-clay pyramid really stood out as the strongest conceptually.”\n\nThe colours started with sketches by Creative Director Mikko Männistö. Sainio then rendered a white version of the pyramid and coloured it section by section in Photoshop to see which colours worked where, before combining colours and textures in Cinema 4D. The pieces are mainly in primary colours, such as shades of blue, yellow, green and red, with pink and some purple here and there. Black and white are also used, “since we wanted to avoid looking too playful,” Sainio reveals. “A brighter colour palette seemed fitting in contrast to the previous year’s identity, which was darker in tone.”\n\nThe typography is set almost exclusively in one cut of Pangram Pangram’s PP Neue Montreal, with other cuts in the yearbook, which collects the winning work. Once the main visual was finished, the first piece to follow was a social media post and ad announcing the identity and the competition dates. “At first, it was hard to find a way to combine text and visuals as there was already so much going on,” Sainio recalls. “I had to find a way for the chosen typography to not pull away too much attention from the key visual.” Placing the text along the bottom edge “didn’t look particularly interesting,” so he repeated it three times over the image, “and something clicked.” Set at the top, middle and bottom, the text sits in a frame that the team called the “matrix,” which works on top of any visual. Sainio describes the repetition as “the connecting thread between all images,” one that gives the identity “a serial quality.”\n\nShowing the pieces on their own came later. “The concept started with the main pyramid, used in social media and print ads, so by the time we began breaking it apart and showing different sides of it, the identity was already established and recognised by the audience,” Sainio tells us. “The consistent use of the text matrix also helped tie everything together nicely.”\n\nIn motion, the camera moves around the pyramid. “It makes it feel more real, like an actual object that has been carefully crafted from every angle,” Sainio notes. “It’s almost as if the viewer is turning it around, looking at it, playing with it.” On the gala’s screens and in the social posts, the text rises from the bottom of the screen, repeating to cover most of it before settling into the position used in the still versions. It always moves upward as it enters or leaves, “which gives a feeling of momentum and positivity,” Sainio explains. Every name and award category on the event screen repeats three times “to preserve the visual language present throughout the whole identity.”\n\n“The yearbook tradition follows Grafia’s own system of only awarding Gold and Silver, so silver and gold pieces were all that was needed to express that,” Männistö details. “The jury itself is pictured as though they too were up for evaluation, sitting in a row with the camera turned back on them.”\n\nThe concept “worked especially well at the awards gala, where the same idea could be brought into a live event – from the floral arrangements to the presentation of the dessert,” Valanne tells us. N2 Albiino designed printed, personalised and hand-stitched menu booklets for the gala, and “many guests took theirs home as a keepsake,” she concludes.",
+      "caseStudyMedia": [
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-08.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-05.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-13.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-01.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-07.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-06.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-11_2026-10-19-042435_yeun.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-03.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-09.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-12_2026-10-19-042415_xogd.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-02.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-14.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-15.jpg"
+        }
+      ]
+    },
+    {
       "canonicalUrl": "https://the-brandidentity.com/project/ancient-wisdom-modern-mark-the-identity-for-s%C5%8Dms-daily-elixir-shots",
       "titleOriginal": "Ancient wisdom, modern mark: the identity for SŌM’s daily elixir shots",
       "textOriginal": "SŌM is a Belgian brand of functional elixirs, and its flagship – the SŌM Power Elixir – is a daily shot for steady energy and mental clarity. It blends traditional ingredients from Colombia, including chontaduro and pitaya, with modern formulation. “The Colombian origin isn’t something we layered on at the end; it’s why the product exists,” explains Founder Laurenzo Van Mello.\n\nSŌM’s founders spent two years getting the formula right before bringing in Ljubljana-based creative collective .raw to create the identity. For the brand, mental performance is the foundation rather than physical output, moving it away from the sports drink category. “We needed an identity that was honest about what we’d built rather than borrowing the visual language of a category we don’t belong to,” Van Mello tells us. “SŌM comes from SOMA, the ancient sacred ritual drink, and also stands for State of Mind,” he adds.",
@@ -2968,288 +3145,6 @@ const snapshot={
         {
           "type": "video",
           "url": "https://the-brandidentity.com/uploads/articles/2026/09/six-designers-seven-charms-one-bracelet-this-is-fcklcks-anti-charm/FCKLCK-Anti-Charm-FCKLCK.STUDIO-18.mp4"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/convoy-art-directs-nike-ateliers-campaign-for-footballer-d%C3%A9sir%C3%A9-dou%C3%A9",
-      "titleOriginal": "Convoy art directs Nike Atelier’s campaign for footballer Désiré Doué",
-      "textOriginal": "Nike Atelier is a high-end, handcrafted line built around one athlete at a time, with a wardrobe of apparel tailored exactly to their measurements. Désiré Doué is its first footballer to receive this treatment, and the third athlete after tennis players Maria Sharapova and Jannik Sinner. For his 2026 World Cup debut with France, Nike produced a collection it calls Nike Atelier’s Merc Premium for Désiré Doué: a custom jacket, made-to-measure shorts and the Merc Premium boots. Paris-based agency Convoy was commissioned to art direct the campaign that launched them.\n\n“The couture framing provided a clear starting point: craftsmanship, expressed through a more minimal and elevated approach. We worked with Nike to move away from the usual football-launch codes of speed, technology and spectacle,” Co-founder Nordine Benotmane tells us, “creating more space around the athlete and the product. The specificity began with what Nike had created for Doué, from the tailored fit to the bespoke elements. Together, we built the campaign around those details, making the Atelier codes central to his story and giving the work a character that felt unmistakably his.”",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/convoy-art-directs-nike-ateliers-campaign-for-footballer-d%C3%A9sir%C3%A9-dou%C3%A9/De%CC%81sire%CC%81-Doue%CC%81-for-Nike-Atelier-Convoy-01.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/convoy-art-directs-nike-ateliers-campaign-for-footballer-d%C3%A9sir%C3%A9-dou%C3%A9/De%CC%81sire%CC%81-Doue%CC%81-for-Nike-Atelier-Convoy-01.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "Nike Atelier is a high-end, handcrafted line built around one athlete at a time, with a wardrobe of apparel tailored exactly to their measurements. Désiré Doué is its first footballer to receive this treatment, and the third athlete after tennis players Maria Sharapova and Jannik Sinner. For his 2026 World Cup debut with France, Nike produced a collection it calls Nike Atelier’s Merc Premium for Désiré Doué: a custom jacket, made-to-measure shorts and the Merc Premium boots. Paris-based agency Convoy was commissioned to art direct the campaign that launched them."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/convoy-art-directs-nike-ateliers-campaign-for-footballer-d%C3%A9sir%C3%A9-dou%C3%A9/De%CC%81sire%CC%81-Doue%CC%81-for-Nike-Atelier-Convoy-04_2026-09-17-105546_gpdn.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/convoy-art-directs-nike-ateliers-campaign-for-footballer-d%C3%A9sir%C3%A9-dou%C3%A9/De%CC%81sire%CC%81-Doue%CC%81-for-Nike-Atelier-Convoy-08.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“The couture framing provided a clear starting point: craftsmanship, expressed through a more minimal and elevated approach. We worked with Nike to move away from the usual football-launch codes of speed, technology and spectacle,” Co-founder Nordine Benotmane tells us, “creating more space around the athlete and the product. The specificity began with what Nike had created for Doué, from the tailored fit to the bespoke elements. Together, we built the campaign around those details, making the Atelier codes central to his story and giving the work a character that felt unmistakably his.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/convoy-art-directs-nike-ateliers-campaign-for-footballer-d%C3%A9sir%C3%A9-dou%C3%A9/De%CC%81sire%CC%81-Doue%CC%81-for-Nike-Atelier-Convoy-10.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/convoy-art-directs-nike-ateliers-campaign-for-footballer-d%C3%A9sir%C3%A9-dou%C3%A9/De%CC%81sire%CC%81-Doue%CC%81-for-Nike-Atelier-Convoy-05.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "For the Merc Premium, Nike took the leather upper of the original 1998 Mercurial R9, a football boot, and set it on the royal blue sole of the Pegasus Premium, a running shoe. “The product already held that tension between Nike’s archive and something distinctly contemporary, and that became the basis for the art direction. We approached the shoe through a more artistic and pared-back lens,” Benotmane explains, “focusing on its form, materials and construction rather than explicitly referencing the past.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/convoy-art-directs-nike-ateliers-campaign-for-footballer-d%C3%A9sir%C3%A9-dou%C3%A9/De%CC%81sire%CC%81-Doue%CC%81-for-Nike-Atelier-Convoy-02.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/convoy-art-directs-nike-ateliers-campaign-for-footballer-d%C3%A9sir%C3%A9-dou%C3%A9/De%CC%81sire%CC%81-Doue%CC%81-for-Nike-Atelier-Convoy-06_2026-09-17-104552_yump.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Inside a stripped-back, off-white studio, the campaign puts Doué in the middle of the design process. Around him, the tools and rituals of a workshop are remade as graphic, sculptural forms. “For each Nike Atelier campaign, we worked with photographers who have their own experimental and tactile approach to image-making. From there, the photographer becomes part of that creative dialogue, interpreting the idea of craft in their own way, sometimes through literal, handmade techniques and sometimes through more subtle choices within the image-making process,” Benotmane notes."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/convoy-art-directs-nike-ateliers-campaign-for-footballer-d%C3%A9sir%C3%A9-dou%C3%A9/De%CC%81sire%CC%81-Doue%CC%81-for-Nike-Atelier-Convoy-11.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/convoy-art-directs-nike-ateliers-campaign-for-footballer-d%C3%A9sir%C3%A9-dou%C3%A9/De%CC%81sire%CC%81-Doue%CC%81-for-Nike-Atelier-Convoy-09_2026-09-17-104722_eolv.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Convoy also developed a wordmark and icon for Atelier, creating a visual identity rooted in Nike’s history. “It was important to create a distinct language that still felt inherently part of the Nike world. We drew on Greco-Roman lettering and the Nike archive,” Benotmane explains, “developing a customised version of Moulin Light for the wordmark. Its sculptural, flared forms gave Atelier a sophisticated and refined identity.” An icon drawn from the same history sits alongside it, taking its cue from an ancient Greek coin that shows the goddess Nike placing a wreath on a trophy."
-        }
-      ],
-      "caseStudyText": "Nike Atelier is a high-end, handcrafted line built around one athlete at a time, with a wardrobe of apparel tailored exactly to their measurements. Désiré Doué is its first footballer to receive this treatment, and the third athlete after tennis players Maria Sharapova and Jannik Sinner. For his 2026 World Cup debut with France, Nike produced a collection it calls Nike Atelier’s Merc Premium for Désiré Doué: a custom jacket, made-to-measure shorts and the Merc Premium boots. Paris-based agency Convoy was commissioned to art direct the campaign that launched them.\n\n“The couture framing provided a clear starting point: craftsmanship, expressed through a more minimal and elevated approach. We worked with Nike to move away from the usual football-launch codes of speed, technology and spectacle,” Co-founder Nordine Benotmane tells us, “creating more space around the athlete and the product. The specificity began with what Nike had created for Doué, from the tailored fit to the bespoke elements. Together, we built the campaign around those details, making the Atelier codes central to his story and giving the work a character that felt unmistakably his.”\n\nFor the Merc Premium, Nike took the leather upper of the original 1998 Mercurial R9, a football boot, and set it on the royal blue sole of the Pegasus Premium, a running shoe. “The product already held that tension between Nike’s archive and something distinctly contemporary, and that became the basis for the art direction. We approached the shoe through a more artistic and pared-back lens,” Benotmane explains, “focusing on its form, materials and construction rather than explicitly referencing the past.”\n\nInside a stripped-back, off-white studio, the campaign puts Doué in the middle of the design process. Around him, the tools and rituals of a workshop are remade as graphic, sculptural forms. “For each Nike Atelier campaign, we worked with photographers who have their own experimental and tactile approach to image-making. From there, the photographer becomes part of that creative dialogue, interpreting the idea of craft in their own way, sometimes through literal, handmade techniques and sometimes through more subtle choices within the image-making process,” Benotmane notes.\n\nConvoy also developed a wordmark and icon for Atelier, creating a visual identity rooted in Nike’s history. “It was important to create a distinct language that still felt inherently part of the Nike world. We drew on Greco-Roman lettering and the Nike archive,” Benotmane explains, “developing a customised version of Moulin Light for the wordmark. Its sculptural, flared forms gave Atelier a sophisticated and refined identity.” An icon drawn from the same history sits alongside it, taking its cue from an ancient Greek coin that shows the goddess Nike placing a wreath on a trophy.",
-      "caseStudyMedia": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/convoy-art-directs-nike-ateliers-campaign-for-footballer-d%C3%A9sir%C3%A9-dou%C3%A9/De%CC%81sire%CC%81-Doue%CC%81-for-Nike-Atelier-Convoy-01.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/convoy-art-directs-nike-ateliers-campaign-for-footballer-d%C3%A9sir%C3%A9-dou%C3%A9/De%CC%81sire%CC%81-Doue%CC%81-for-Nike-Atelier-Convoy-04_2026-09-17-105546_gpdn.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/convoy-art-directs-nike-ateliers-campaign-for-footballer-d%C3%A9sir%C3%A9-dou%C3%A9/De%CC%81sire%CC%81-Doue%CC%81-for-Nike-Atelier-Convoy-08.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/convoy-art-directs-nike-ateliers-campaign-for-footballer-d%C3%A9sir%C3%A9-dou%C3%A9/De%CC%81sire%CC%81-Doue%CC%81-for-Nike-Atelier-Convoy-10.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/convoy-art-directs-nike-ateliers-campaign-for-footballer-d%C3%A9sir%C3%A9-dou%C3%A9/De%CC%81sire%CC%81-Doue%CC%81-for-Nike-Atelier-Convoy-05.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/convoy-art-directs-nike-ateliers-campaign-for-footballer-d%C3%A9sir%C3%A9-dou%C3%A9/De%CC%81sire%CC%81-Doue%CC%81-for-Nike-Atelier-Convoy-02.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/convoy-art-directs-nike-ateliers-campaign-for-footballer-d%C3%A9sir%C3%A9-dou%C3%A9/De%CC%81sire%CC%81-Doue%CC%81-for-Nike-Atelier-Convoy-06_2026-09-17-104552_yump.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/convoy-art-directs-nike-ateliers-campaign-for-footballer-d%C3%A9sir%C3%A9-dou%C3%A9/De%CC%81sire%CC%81-Doue%CC%81-for-Nike-Atelier-Convoy-11.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/convoy-art-directs-nike-ateliers-campaign-for-footballer-d%C3%A9sir%C3%A9-dou%C3%A9/De%CC%81sire%CC%81-Doue%CC%81-for-Nike-Atelier-Convoy-09_2026-09-17-104722_eolv.jpg"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out",
-      "titleOriginal": "Oro is a water brand redefining hydration, engineered inside and out",
-      "textOriginal": "Oro is a mineral water bottled in Jordan by Oro Labs®, drawn from a desert aquifer around 400 metres down. It runs through a 17-stage filtration process that rebuilds it to a fixed specification so that every bottle is exactly the same. Paris and Ljubljana-based creative collective .raw took on the social, imagery and film, building on the strategy, naming, identity, packaging and digital that was created by London-based studio Two Times Elliott . “Extreme industrial complexity on the inside; complete minimalism on the outside. Four words: design, brutalism, minimalism, industrialism,” Oro’s Founder & CEO Omar Alsadi tells us.\n\n“Oro was born out of necessity. Because a source cannot promise the same water twice,” he explains. “Water directly from a source will change depending on seasonality. Our goal was to create the most consistent water. And only engineering can achieve that.” The process uses double-stage reverse osmosis, mineral redosing and UV sterilisation. “A substance that fundamental deserves to be authored rather than accepted,” Alsadi details. “Nature provides. Precision perfects.”",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/12978655.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-01.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "Oro is a mineral water bottled in Jordan by Oro Labs®, drawn from a desert aquifer around 400 metres down. It runs through a 17-stage filtration process that rebuilds it to a fixed specification so that every bottle is exactly the same. Paris and Ljubljana-based creative collective .raw took on the social, imagery and film, building on the strategy, naming, identity, packaging and digital that was created by London-based studio Two Times Elliott . “Extreme industrial complexity on the inside; complete minimalism on the outside. Four words: design, brutalism, minimalism, industrialism,” Oro’s Founder & CEO Omar Alsadi tells us."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-02_2026-09-22-125154_qgvt.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“Oro was born out of necessity. Because a source cannot promise the same water twice,” he explains. “Water directly from a source will change depending on seasonality. Our goal was to create the most consistent water. And only engineering can achieve that.” The process uses double-stage reverse osmosis, mineral redosing and UV sterilisation. “A substance that fundamental deserves to be authored rather than accepted,” Alsadi details. “Nature provides. Precision perfects.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-03.png"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-04.png"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“The same necessity that built the process built the identity. What defines Oro is what happens to the water afterwards. The design is minimal. The work is scientific. The origin is brutal. The restraint on the outside is what those conditions produced,” notes .raw’s Founder & CEO Tamir Morris Grays. “Design follows the same logic as the water. Both are authored to a specification rather than inherited from a source,” he continues. “A fixed composition demands a fixed visual language. The identity holds the same discipline. One system, applied without variation.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-05.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-06.png"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Two Times Elliott set the brand idea ‘Engineered beyond nature’ and the positioning line ‘Precision-made hydration.’ The wordmark is drawn in custom geometric rounded-rectangle letterforms, with margins across the system derived from its safe zone rather than the page edge. The palette is deliberately restricted to black, graphite and white. White leads across communications, with black and graphite used selectively for type, print finishes, interface states and emphasis. Three material finishes extend the palette beyond flat colour – a silver for precision, a textured black for depth and durability and a translucency for mineral clarity – and each is monochromatic."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-07.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-13_2026-09-23-103553_eyhs.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "For the wordmark, a custom version of Katalog by Edito Type was used, while for headlines and brand messaging, Two Times Elliott chose Kimera’s KMR Melange Grotesk – a sans serif with balanced geometry and a neutral, confident presence. General Type Studio’s General Grotesque Mono is used for the mineral specification data, technical content, navigation and metadata – “set the way you’d read figures off a spec sheet, not a tasting note,” Grays explains. It never appears in body copy or primary messaging. Both typefaces are kept to a single Regular weight, so hierarchy comes from scale, spacing and colour contrast. Where the two appear together, the sans headline is three to five times the size of the mono beneath it. “The only embellishment is precision itself: tight alignment, generous spacing, a grid the bottle never breaks from,” he details."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-13.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The bottle was modelled in raw clay, iteration after iteration. Top-heavy, tapering into a slim reinforced base, it has an organic silhouette shaped for the hand, so every moving part of the production line had to be customised around it. The type is printed directly onto the glass, with no separate label – the wordmark near the shoulder and a mono specification block near the base. “That’s a material decision that argues the same case as the copy: nothing applied, nothing removable; the information is part of the object, not stuck onto it,” Grays notes. Still and Sparkling come in 750ml and 330ml, differentiated by cap shade and pad print. Still has a silver aluminium cap with dark grey text; Sparkling’s is black with off-white. “The packaging features a sense of discovery and exploration,” he explains."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-10.jpeg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-08.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“The line between ‘engineered’ and ‘sterile’ is thin,” Grays tells us. “Say ‘process’ and ‘specification’ too plainly and the brand reads like a lab report, not something you want to hold. The solve was restraint, not decoration. We didn’t warm the brand up with soft visuals or friendly copy; we made the precision itself the luxury cue. A brand this disciplined, this consistent, this unwilling to cut a corner, reads as premium the same way a well-made watch or technical outerwear does. Confidence, not comfort. Material choice does a lot of the work copy can’t: glass over plastic, considered proportion, nothing loud.” The identity works at two very different scales at once – “a 330ml label held in one hand and a five-star hospitality table next to the category’s established players. Most water identities are built for one of those, not both,” Grays adds."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-12_2026-09-18-083740_yssd.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-14_2026-09-23-104325_uwgm.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": ".raw kept the bottle as the main design object. Its job was to turn a system with one grid, one palette and no origin storytelling into imagery that “has to feel alive,” he continues. The photography direction in the guidelines has two moods. The engineered half is macro and clinical, with the subject isolated under controlled lighting, precision ahead of atmosphere. The human half is calm, restorative portraiture with natural skin texture, and nothing performative or drawn from fitness imagery. “Lab environments, process documentation, the product as a precision-designed object, never a tank, a well or a facility. Brand-led content, not sales content. The hard part is a direct consequence of how restrained the system is. We can’t lean on decoration or loose interpretation to keep a feed interesting. Every render, every post has to hold the same standard the bottle does,” Grays details."
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“Still and Sparkling are the foundation. The architecture behind them is built to expand,” Alsadi explains. “Oro Labs is committed to sustainable water production, and that commitment governs every format the brand will ever take.”"
-        }
-      ],
-      "caseStudyText": "Oro is a mineral water bottled in Jordan by Oro Labs®, drawn from a desert aquifer around 400 metres down. It runs through a 17-stage filtration process that rebuilds it to a fixed specification so that every bottle is exactly the same. Paris and Ljubljana-based creative collective .raw took on the social, imagery and film, building on the strategy, naming, identity, packaging and digital that was created by London-based studio Two Times Elliott . “Extreme industrial complexity on the inside; complete minimalism on the outside. Four words: design, brutalism, minimalism, industrialism,” Oro’s Founder & CEO Omar Alsadi tells us.\n\n“Oro was born out of necessity. Because a source cannot promise the same water twice,” he explains. “Water directly from a source will change depending on seasonality. Our goal was to create the most consistent water. And only engineering can achieve that.” The process uses double-stage reverse osmosis, mineral redosing and UV sterilisation. “A substance that fundamental deserves to be authored rather than accepted,” Alsadi details. “Nature provides. Precision perfects.”\n\n“The same necessity that built the process built the identity. What defines Oro is what happens to the water afterwards. The design is minimal. The work is scientific. The origin is brutal. The restraint on the outside is what those conditions produced,” notes .raw’s Founder & CEO Tamir Morris Grays. “Design follows the same logic as the water. Both are authored to a specification rather than inherited from a source,” he continues. “A fixed composition demands a fixed visual language. The identity holds the same discipline. One system, applied without variation.”\n\nTwo Times Elliott set the brand idea ‘Engineered beyond nature’ and the positioning line ‘Precision-made hydration.’ The wordmark is drawn in custom geometric rounded-rectangle letterforms, with margins across the system derived from its safe zone rather than the page edge. The palette is deliberately restricted to black, graphite and white. White leads across communications, with black and graphite used selectively for type, print finishes, interface states and emphasis. Three material finishes extend the palette beyond flat colour – a silver for precision, a textured black for depth and durability and a translucency for mineral clarity – and each is monochromatic.\n\nFor the wordmark, a custom version of Katalog by Edito Type was used, while for headlines and brand messaging, Two Times Elliott chose Kimera’s KMR Melange Grotesk – a sans serif with balanced geometry and a neutral, confident presence. General Type Studio’s General Grotesque Mono is used for the mineral specification data, technical content, navigation and metadata – “set the way you’d read figures off a spec sheet, not a tasting note,” Grays explains. It never appears in body copy or primary messaging. Both typefaces are kept to a single Regular weight, so hierarchy comes from scale, spacing and colour contrast. Where the two appear together, the sans headline is three to five times the size of the mono beneath it. “The only embellishment is precision itself: tight alignment, generous spacing, a grid the bottle never breaks from,” he details.\n\nThe bottle was modelled in raw clay, iteration after iteration. Top-heavy, tapering into a slim reinforced base, it has an organic silhouette shaped for the hand, so every moving part of the production line had to be customised around it. The type is printed directly onto the glass, with no separate label – the wordmark near the shoulder and a mono specification block near the base. “That’s a material decision that argues the same case as the copy: nothing applied, nothing removable; the information is part of the object, not stuck onto it,” Grays notes. Still and Sparkling come in 750ml and 330ml, differentiated by cap shade and pad print. Still has a silver aluminium cap with dark grey text; Sparkling’s is black with off-white. “The packaging features a sense of discovery and exploration,” he explains.\n\n“The line between ‘engineered’ and ‘sterile’ is thin,” Grays tells us. “Say ‘process’ and ‘specification’ too plainly and the brand reads like a lab report, not something you want to hold. The solve was restraint, not decoration. We didn’t warm the brand up with soft visuals or friendly copy; we made the precision itself the luxury cue. A brand this disciplined, this consistent, this unwilling to cut a corner, reads as premium the same way a well-made watch or technical outerwear does. Confidence, not comfort. Material choice does a lot of the work copy can’t: glass over plastic, considered proportion, nothing loud.” The identity works at two very different scales at once – “a 330ml label held in one hand and a five-star hospitality table next to the category’s established players. Most water identities are built for one of those, not both,” Grays adds.\n\n.raw kept the bottle as the main design object. Its job was to turn a system with one grid, one palette and no origin storytelling into imagery that “has to feel alive,” he continues. The photography direction in the guidelines has two moods. The engineered half is macro and clinical, with the subject isolated under controlled lighting, precision ahead of atmosphere. The human half is calm, restorative portraiture with natural skin texture, and nothing performative or drawn from fitness imagery. “Lab environments, process documentation, the product as a precision-designed object, never a tank, a well or a facility. Brand-led content, not sales content. The hard part is a direct consequence of how restrained the system is. We can’t lean on decoration or loose interpretation to keep a feed interesting. Every render, every post has to hold the same standard the bottle does,” Grays details.\n\n“Still and Sparkling are the foundation. The architecture behind them is built to expand,” Alsadi explains. “Oro Labs is committed to sustainable water production, and that commitment governs every format the brand will ever take.”",
-      "caseStudyMedia": [
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-01.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-02_2026-09-22-125154_qgvt.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-03.png"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-04.png"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-05.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-06.png"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-07.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-13_2026-09-23-103553_eyhs.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-13.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-10.jpeg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-08.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-12_2026-09-18-083740_yssd.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/oro-is-a-water-brand-redefining-hydration-engineered-inside-and-out/Oro-Water-.raw-Creative-Hub-14_2026-09-23-104325_uwgm.mp4"
         }
       ]
     }
