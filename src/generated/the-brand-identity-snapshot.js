@@ -7,6 +7,223 @@ const snapshot={
   },
   "items": [
     {
+      "canonicalUrl": "https://the-brandidentity.com/project/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity",
+      "titleOriginal": "Why Maniac Studio put a cat at the centre of The Pagoda’s identity",
+      "textOriginal": "The Pagoda is a riverside café in Chiang Mai, Thailand, across from a historic pagoda. Mexican design agency Maniac Studio was commissioned to redesign its identity, in part in response to a concern founder Pimpawan Laprabang shared with the studio. “Many tourists visited the café alone and often experienced a sense of melancholy, or saw being alone as something negative,”\n\nThere was a practical reason, too – the old logo’s thin line made it hard to recognise and use on cups, merchandise and signage. Laprabang asked the studio for “a modern, minimal identity that would feel calm, soulful and creative, and that didn’t rely too heavily on the physical pagoda, so it could grow with us.” The café had been open for about two years when the work began, and it was growing into an art space and a home for lifestyle products. It now runs self-guided painting sessions and sells its own roasted beans, drip coffee bags and canned coffee, and it has since partnered with an airline to serve its coffee on board.",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-01.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-01.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "The Pagoda is a riverside café in Chiang Mai, Thailand, across from a historic pagoda. Mexican design agency Maniac Studio was commissioned to redesign its identity, in part in response to a concern founder Pimpawan Laprabang shared with the studio. “Many tourists visited the café alone and often experienced a sense of melancholy, or saw being alone as something negative,”"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-02.JPG"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-03.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "There was a practical reason, too – the old logo’s thin line made it hard to recognise and use on cups, merchandise and signage. Laprabang asked the studio for “a modern, minimal identity that would feel calm, soulful and creative, and that didn’t rely too heavily on the physical pagoda, so it could grow with us.” The café had been open for about two years when the work began, and it was growing into an art space and a home for lifestyle products. It now runs self-guided painting sessions and sells its own roasted beans, drip coffee bags and canned coffee, and it has since partnered with an airline to serve its coffee on board."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-17.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-07.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The studio worked with Laprabang from its base in Mérida, Mexico, building its understanding of the café from her brief, photographs and conversations. “We didn’t need to force a cultural connection between Chiang Mai and Mérida,” Domínguez notes. “She was, quite possibly, one of the best clients we have worked with.”"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The name had originally been a reference to the café’s proximity to the pagoda, but Maniac Studio chose to treat it as a symbol instead. Beyond religion, the studio sees a pagoda as standing for elevation, stillness and spiritual grounding – a structure that connects earth and sky, rooted yet reaching upward. This thinking gave the brand its central concept, The Pursuit of Balance. At its heart is learning to enjoy one’s own presence."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-04.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-18.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Maniac Studio put a cat at the centre of the identity as a kind of teacher for The Pursuit of Balance. “Cats embody a sense of independence, self-assurance and calm. They can enjoy their own company, interact with others on their own terms and find comfort in simply being themselves,” Flores explains. “We saw an opportunity to use these qualities to reframe solitude as something positive.”"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-16.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Maniac Studio drew the cat with smooth, delicate lines, and its poses grew out of characteristic feline behaviours, such as resting, being curious, adapting to different spaces and social situations, and occasionally doing things on its own terms. “We approached the process playfully, experimenting with different poses until the character began to take shape,” Domínguez notes."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-19.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-05.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "To put The Pursuit of Balance into words, the studio wrote five ‘Cat Lessons’ – simple principles for living, inspired by the way cats behave. The first, ‘Enjoy Yourself,’ sees true richness in taking a moment to enjoy your own company. ‘Look with Curiosity’ and ‘Break the Rules’ ask people to notice what usually goes unseen and to defy the rules that limit who they are. ‘Be Coffee, My Friend’ is about adapting to every situation while staying authentic, summed up as ‘Fit the cup, keep the flavour.’ The last, ‘Rest Like It’s Your Job,’ treats time to pause and recharge as a way to build the strength to tackle challenges. The lessons are spread across the identity, with the studio sometimes choosing intuitively which one went where. “This approach helped us avoid monotony and gave the identity more room to breathe,” Flores explains. “The idea was to make discovering these messages feel like a small, unexpected part of the experience.”"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-11.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-08.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "In the old logo, the letter ‘A’ echoed both the shape of a pagoda and a traditional Thai greeting. “We decided to preserve that underlying form and reinterpret it as a pointed arch, allowing us to carry an element of the original concept into the new identity,” Domínguez details. The café’s slogan, ‘Nature’s Perfect Blend,’ was already part of the brand, and Laprabang wanted to keep it. The new logo is an emblem that sets the name and slogan inside that pointed arch. For Laprabang, the reshaped ‘A’ “feels fresh and modern but still keeps the touch of the original.” To give the slogan a stronger presence, Maniac Studio created an illustration of stacked cups that features it, with the cups sitting on the cat’s head in one of its many poses."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-12.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-13.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "For the typography, the studio paired Displaay’s geometric sans serif Avantt with Lineto’s serif LL Bradford, which “feels neutral at first glance, yet has plenty of personality.” Together, the two typefaces “create a balance between maturity and playfulness.” The palette of grey, white and black is kept from the café’s existing identity – a restrained palette the studio sees as suiting the “spirituality, serenity and neutrality” of The Pagoda’s name ."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-10.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-06.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The identity is now used across the café’s cups, menus, window, packaging, merchandise and signage. Laprabang tells us that many of the café’s guests “notice the small details and take photos in front of our window, which has become the café’s favourite photo spot.” Guests often describe the brand as “calm and thoughtful, just like the space itself.”"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-14.JPG"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-15.JPG"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“At Maniac, we believe a brand needs a solid concept, and that the visual elements should make sense within that framework. But we don’t believe every single decision needs to be justified down to the smallest detail. Sometimes, something simply looks good, works well graphically or brings a sense of fun and memorability to the identity,” the studio concludes."
+        }
+      ],
+      "caseStudyText": "The Pagoda is a riverside café in Chiang Mai, Thailand, across from a historic pagoda. Mexican design agency Maniac Studio was commissioned to redesign its identity, in part in response to a concern founder Pimpawan Laprabang shared with the studio. “Many tourists visited the café alone and often experienced a sense of melancholy, or saw being alone as something negative,”\n\nThere was a practical reason, too – the old logo’s thin line made it hard to recognise and use on cups, merchandise and signage. Laprabang asked the studio for “a modern, minimal identity that would feel calm, soulful and creative, and that didn’t rely too heavily on the physical pagoda, so it could grow with us.” The café had been open for about two years when the work began, and it was growing into an art space and a home for lifestyle products. It now runs self-guided painting sessions and sells its own roasted beans, drip coffee bags and canned coffee, and it has since partnered with an airline to serve its coffee on board.\n\nThe studio worked with Laprabang from its base in Mérida, Mexico, building its understanding of the café from her brief, photographs and conversations. “We didn’t need to force a cultural connection between Chiang Mai and Mérida,” Domínguez notes. “She was, quite possibly, one of the best clients we have worked with.”\n\nThe name had originally been a reference to the café’s proximity to the pagoda, but Maniac Studio chose to treat it as a symbol instead. Beyond religion, the studio sees a pagoda as standing for elevation, stillness and spiritual grounding – a structure that connects earth and sky, rooted yet reaching upward. This thinking gave the brand its central concept, The Pursuit of Balance. At its heart is learning to enjoy one’s own presence.\n\nManiac Studio put a cat at the centre of the identity as a kind of teacher for The Pursuit of Balance. “Cats embody a sense of independence, self-assurance and calm. They can enjoy their own company, interact with others on their own terms and find comfort in simply being themselves,” Flores explains. “We saw an opportunity to use these qualities to reframe solitude as something positive.”\n\nManiac Studio drew the cat with smooth, delicate lines, and its poses grew out of characteristic feline behaviours, such as resting, being curious, adapting to different spaces and social situations, and occasionally doing things on its own terms. “We approached the process playfully, experimenting with different poses until the character began to take shape,” Domínguez notes.\n\nTo put The Pursuit of Balance into words, the studio wrote five ‘Cat Lessons’ – simple principles for living, inspired by the way cats behave. The first, ‘Enjoy Yourself,’ sees true richness in taking a moment to enjoy your own company. ‘Look with Curiosity’ and ‘Break the Rules’ ask people to notice what usually goes unseen and to defy the rules that limit who they are. ‘Be Coffee, My Friend’ is about adapting to every situation while staying authentic, summed up as ‘Fit the cup, keep the flavour.’ The last, ‘Rest Like It’s Your Job,’ treats time to pause and recharge as a way to build the strength to tackle challenges. The lessons are spread across the identity, with the studio sometimes choosing intuitively which one went where. “This approach helped us avoid monotony and gave the identity more room to breathe,” Flores explains. “The idea was to make discovering these messages feel like a small, unexpected part of the experience.”\n\nIn the old logo, the letter ‘A’ echoed both the shape of a pagoda and a traditional Thai greeting. “We decided to preserve that underlying form and reinterpret it as a pointed arch, allowing us to carry an element of the original concept into the new identity,” Domínguez details. The café’s slogan, ‘Nature’s Perfect Blend,’ was already part of the brand, and Laprabang wanted to keep it. The new logo is an emblem that sets the name and slogan inside that pointed arch. For Laprabang, the reshaped ‘A’ “feels fresh and modern but still keeps the touch of the original.” To give the slogan a stronger presence, Maniac Studio created an illustration of stacked cups that features it, with the cups sitting on the cat’s head in one of its many poses.\n\nFor the typography, the studio paired Displaay’s geometric sans serif Avantt with Lineto’s serif LL Bradford, which “feels neutral at first glance, yet has plenty of personality.” Together, the two typefaces “create a balance between maturity and playfulness.” The palette of grey, white and black is kept from the café’s existing identity – a restrained palette the studio sees as suiting the “spirituality, serenity and neutrality” of The Pagoda’s name .\n\nThe identity is now used across the café’s cups, menus, window, packaging, merchandise and signage. Laprabang tells us that many of the café’s guests “notice the small details and take photos in front of our window, which has become the café’s favourite photo spot.” Guests often describe the brand as “calm and thoughtful, just like the space itself.”\n\n“At Maniac, we believe a brand needs a solid concept, and that the visual elements should make sense within that framework. But we don’t believe every single decision needs to be justified down to the smallest detail. Sometimes, something simply looks good, works well graphically or brings a sense of fun and memorability to the identity,” the studio concludes.",
+      "caseStudyMedia": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-01.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-02.JPG"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-03.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-17.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-07.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-04.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-18.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-16.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-19.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-05.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-11.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-08.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-12.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-13.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-10.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-06.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-14.JPG"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-15.JPG"
+        }
+      ]
+    },
+    {
       "canonicalUrl": "https://the-brandidentity.com/project/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme",
       "titleOriginal": "N2 Albiino’s Vuoden Huiput identity expands on the craftsmanship theme",
       "textOriginal": "Founded by designers in 1980, Vuoden Huiput is an annual design competition run by Grafia, the Association of Visual Communication Designers in Finland. Every year, Grafia invites one agency to design the competition’s identity around its pyramid emblem. For the 2025 edition, whose winners were celebrated at a gala in spring 2026, the invitation went to Helsinki-based brand and marketing agency N2 Albiino , which treated creativity as a metamorphosis and let the familiar pyramid break apart.\n\n“Each year the agency designing the Vuoden Huiput identity is given a fairly free hand to develop its own interpretation of the competition’s identity,” explains Grafia’s Executive Director Katri Soramäki. “One of the key points, however, is that the identity should include the agency’s own interpretation of the Vuoden Huiput pyramid.” The commission “can offer more room for experimentation than a typical client brief,” she adds. “One of the unique aspects is that the target audience consists of the designers’ own colleagues and peers.”",
@@ -2910,241 +3127,6 @@ const snapshot={
         {
           "type": "video",
           "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-06.mp4"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/six-designers-seven-charms-one-bracelet-this-is-fcklcks-anti-charm",
-      "titleOriginal": "Six designers on your wrist. Introducing the FCKLCK Anti Charm.",
-      "textOriginal": "The Anti Charm is a six-letter charm bracelet which spells FCKLCK – the name of the Antwerp-based branding and creative studio that made it. Charms are thought to have begun as amulets worn to ward off bad luck, which is the tradition this one is written against.\n\nFrom the start, the FCKLCK team has wanted an even split between client projects and experiments of its own, using those experiments to explore areas they know nothing about and materials they barely understand. The Anti Charm had sat on the studio's list of ideas for years, parked because a bootstrapped, self-funded start-up counts every cent, and it was taken on in the end at a riskier moment than it would once have been, after the price of silver and gold had climbed. Six designers and artists each created a letter for the bracelet, working from six cities across five countries. “So far, the biggest learning curve was being OK with letting go,” Co-founder & Creative Director James Krüger tells us. “We designed none of the letters and told none of the collaborators how to design theirs.”",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/13153090.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/six-designers-seven-charms-one-bracelet-this-is-fcklcks-anti-charm/FCKLCK-Anti-Charm-FCKLCK.STUDIO-01.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "The Anti Charm is a six-letter charm bracelet which spells FCKLCK – the name of the Antwerp-based branding and creative studio that made it. Charms are thought to have begun as amulets worn to ward off bad luck, which is the tradition this one is written against."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/six-designers-seven-charms-one-bracelet-this-is-fcklcks-anti-charm/FCKLCK-Anti-Charm-FCKLCK.STUDIO-02.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "From the start, the FCKLCK team has wanted an even split between client projects and experiments of its own, using those experiments to explore areas they know nothing about and materials they barely understand. The Anti Charm had sat on the studio's list of ideas for years, parked because a bootstrapped, self-funded start-up counts every cent, and it was taken on in the end at a riskier moment than it would once have been, after the price of silver and gold had climbed. Six designers and artists each created a letter for the bracelet, working from six cities across five countries. “So far, the biggest learning curve was being OK with letting go,” Co-founder & Creative Director James Krüger tells us. “We designed none of the letters and told none of the collaborators how to design theirs.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/six-designers-seven-charms-one-bracelet-this-is-fcklcks-anti-charm/FCKLCK-Anti-Charm-FCKLCK.STUDIO-03.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "A seventh charm hangs on the Anti Charm alongside the six letters – a three-leaf clover, which is the only piece on it that FCKLCK Studio drew itself. “The three-leaf clover has been a symbol of FCKLCK since day one. If you choose to, you can find them everywhere. Four-leaf ones require luck to spot. We believe you make your own luck,” Partner & Brand Strategist Aäron Windels explains. “The brief was simple,” Krüger adds, “we wanted to make an unlucky lucky charm out of type. Here are the six letters of FCKLCK – first come, first served. Do whatever you like, and we’ll make it an eclectic collision of styles in one object.” The studio approached 16 parties and went ahead with the first six who showed interest. “We work with type every day in our branding projects, so we reached out to foundries, type designers and graphic designers whose work inspires us and has an element of experimentation,” Krüger notes."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/six-designers-seven-charms-one-bracelet-this-is-fcklcks-anti-charm/FCKLCK-Anti-Charm-FCKLCK.STUDIO-13.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/six-designers-seven-charms-one-bracelet-this-is-fcklcks-anti-charm/FCKLCK-Anti-Charm-FCKLCK.STUDIO-06.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/six-designers-seven-charms-one-bracelet-this-is-fcklcks-anti-charm/FCKLCK-Anti-Charm-FCKLCK.STUDIO-05.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Jewellery is never seen from a fixed angle, since it moves with the body. Type designer Tanguy Vanlaeys, of the Lyon-based foundry 205TF, started there and drew the ‘F’ to be legible whichever way up it lands. It’s built from a sphere repeated along the structure of the letter, which gives it rhythm, texture and volume and turns a flat form into a sculptural one. Over in Prague, type designer Alex Slobzheninov, who founded the curated font shop Contemporary Type and the foundry Flight Mode Type, wanted a letter that would repel luck while staying readable, and took the first ‘C’ as the best one to strip back into something closer to a symbol. It is four circles that sit on a coin the size of a 10-cent piece, coarsely brushed. The counter inside it – the enclosed space at the middle of the letter – is held up by a joint narrow enough to snap, and Slobzheninov built that weak point in on purpose so that the charm can fail. By his reckoning, a ‘C’ that has lost its middle is the charm operating as expected."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/six-designers-seven-charms-one-bracelet-this-is-fcklcks-anti-charm/FCKLCK-Anti-Charm-FCKLCK.STUDIO-21.png"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The first ‘K’ already existed. It comes from Mov, a typeface family from Studio Feixen Fonts – the type foundry of Lucerne-based Studio Feixen. Every character in Mov was treated as its own small experiment, each one exploring a different kind of transformation. Graphic designer Felix Pfäffli, who founded Studio Feixen, had pushed the ‘K’ as far towards roundness as it would go, so that it shifts between a soft, inflated state and a sharper, more rigid one. A third stroke comes out of its centre. He calls that stroke completely unnecessary and thinks the ‘K’ would work better without it. That small, irrational gesture is the part of the letter Pfäffli remembers it by, and it moves the ‘K’ away from a functional glyph and towards a logo. Graphic designer Stephanie Specht of Specht Studio, based in Antwerp like FCKLCK, drew the ‘L’ with a 3D pen for its organic, experimental quality, then photographed the result and took it into Illustrator. She liked the round trip: three dimensions from the pen, two on the screen, then back to three once the rendering and the casting passed into other hands. Specht made a run of letterforms that way and kept the best."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/six-designers-seven-charms-one-bracelet-this-is-fcklcks-anti-charm/FCKLCK-Anti-Charm-FCKLCK.STUDIO-23.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/six-designers-seven-charms-one-bracelet-this-is-fcklcks-anti-charm/FCKLCK-Anti-Charm-FCKLCK.STUDIO-22.jpeg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "In Minnesota, artist and designer Michael Cina chose the second ‘C’ and sketched it while travelling, so the letter moved through three cities and about 50 variations, which ran from organic forms to stiff geometric ones. He landed on a question: what would an object look like if it stacked and turned in space as it grew? That reframed the ‘C’ as a piece of architecture. From the side, it is structural and clean; from above, it is geometric and quiet; from another angle, it is gold bars stacked on one another. Not yet knowing how much detail the casting and the metal could hold, Cina erred towards restraint. In Chicago, artist and graphic designer Crystal Zapata took the second ‘K’ from 16th-century illuminated manuscripts that lean on extreme embellishment and work elements of nature into the lettering; hers is a simplified riff on them. It is the only letter held inside a shape, and it is enamelled. To Zapata, it feels like a drop cap opening a story."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/six-designers-seven-charms-one-bracelet-this-is-fcklcks-anti-charm/FCKLCK-Anti-Charm-FCKLCK.STUDIO-04.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“Casting in metal was never the problem. Every collaborator’s vector went into 3D intuitively, because each letter determined its own volumes and shape,\" explains Head of Design Marc Ferrer Vives. “The real challenge was how to arrange and connect six distinctly different styles of letters into a single bracelet,” Krüger adds. Size was the biggest hurdle, and the finishing had to be settled letter by letter, each one needing its own polish, brush or texture. Zapata’s ‘K’ needed a supplier that could cast the letters and enamel as well. Not every workshop could do both, so the studio searched hard and long for one that could. Nine rounds of prototypes, three jewellers, two production partners and 15 months went into the Anti Charm before FCKLCK Studio had one that it was happy with."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/six-designers-seven-charms-one-bracelet-this-is-fcklcks-anti-charm/FCKLCK-Anti-Charm-FCKLCK.STUDIO-24.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/six-designers-seven-charms-one-bracelet-this-is-fcklcks-anti-charm/FCKLCK-Anti-Charm-FCKLCK.STUDIO-25.jpeg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Cast directly into the letters, O-rings join them to each other on a chain of 13 links that adjusts to most wrists, and the long end of it finishes on the three-leaf clover – double-sided, with FCK and LCK hand-drawn into it, three letters to a face and one nesting in each leaf. Every letter has its designer’s initials engraved on it in PP Neue Montreal Bold. FCKLCK Studio has set its work in the sans serif PP Neue Montreal since it started, in Regular before it moved to Bold. The six letters and the clover will each be sold on their own as well, as pendants with their own loops, and again on a necklace strung on a thicker version of the same chain. That makes nine production-ready pieces in all: the bracelet, the necklace and seven charms. They are cast from moulds and made in limited batches by jewellers in Antwerp."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/six-designers-seven-charms-one-bracelet-this-is-fcklcks-anti-charm/FCKLCK-Anti-Charm-FCKLCK.STUDIO-15.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/six-designers-seven-charms-one-bracelet-this-is-fcklcks-anti-charm/FCKLCK-Anti-Charm-FCKLCK.STUDIO-14.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The same six letterforms went into a second object: a set of ceramic bookends. FCKLCK Studio came across artist Curtis Baigent of London-based Mattering Studio while admiring a mutual connection’s work on LinkedIn. A first attempt at printing them in clay elsewhere had fallen short, and the studio was then introduced to Unfold, a ceramics studio 2km from its own Antwerp office. Wanting to explore the push and pull between control and uncertainty, Baigent built a system that generates the bookends in Cinema 4D – using a set of rules that drops the six letterforms into a physics simulation, works them together in space, then grows each resulting arrangement upwards into a stacked, monolithic tower. The artistic choices sit in the design of the system itself, which fixes the range of shapes it can produce, and every tower is different. Unfold's founders Claire Warnier and Dries Verbruggen 3D printed a curated selection of those towers in clay before firing and glazing them, organic processes with a life of their own, which adds another layer of letting go. For these, Unfold printed with a deliberately thick profile so that the movement of the machine is visible in the coils. The object’s character comes from the point where the digital toolpath fails, and the clay goes its own way."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/six-designers-seven-charms-one-bracelet-this-is-fcklcks-anti-charm/FCKLCK-Anti-Charm-FCKLCK.STUDIO-17.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/six-designers-seven-charms-one-bracelet-this-is-fcklcks-anti-charm/FCKLCK-Anti-Charm-FCKLCK.STUDIO-16.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Bert Depuydt, a former graphic designer with strong feelings about paper, texture and colour, made the packaging at Afreux in Antwerp, using solid grey cardboard, screen printed and embossed, then cut, folded and stapled by hand, with a pouch vacuum-sealed around the piece inside."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/six-designers-seven-charms-one-bracelet-this-is-fcklcks-anti-charm/FCKLCK-Anti-Charm-FCKLCK.STUDIO-20.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Photography and direction for the Anti Charm came from Willem Volker, who built a story around a cult that has lost the charm and gone looking for it, since finding it would put its members back in control of their own luck. Volker has always lived on a medieval monastery farm next to a forest, and mixing that world with street influences sparked the shoot."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/six-designers-seven-charms-one-bracelet-this-is-fcklcks-anti-charm/FCKLCK-Anti-Charm-FCKLCK.STUDIO-19.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/six-designers-seven-charms-one-bracelet-this-is-fcklcks-anti-charm/FCKLCK-Anti-Charm-FCKLCK.STUDIO-18.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The chain is built to hold more charms alongside the clover. A list of weird ones is already written, along with the artists and illustrators to approach about them, to be briefed the same way the six were. “It’s been the plan from the start,” Windels concludes. “We’d love nothing more than to launch a bunch of (make your own luck) charms. And possibly to make the bracelet again with six totally different designers. But we’ll first have to see how much interest this one gets.”"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "Anti Charm is available as a bracelet, necklace or individual charms in sterling silver, gold-plated silver or solid 14k gold. Beat the puzzle on the site and win any of nine Anti Charm collectables. Play as many times as you want until 23:59 CEST on 11 October 2026."
-        }
-      ],
-      "caseStudyText": "The Anti Charm is a six-letter charm bracelet which spells FCKLCK – the name of the Antwerp-based branding and creative studio that made it. Charms are thought to have begun as amulets worn to ward off bad luck, which is the tradition this one is written against.\n\nFrom the start, the FCKLCK team has wanted an even split between client projects and experiments of its own, using those experiments to explore areas they know nothing about and materials they barely understand. The Anti Charm had sat on the studio's list of ideas for years, parked because a bootstrapped, self-funded start-up counts every cent, and it was taken on in the end at a riskier moment than it would once have been, after the price of silver and gold had climbed. Six designers and artists each created a letter for the bracelet, working from six cities across five countries. “So far, the biggest learning curve was being OK with letting go,” Co-founder & Creative Director James Krüger tells us. “We designed none of the letters and told none of the collaborators how to design theirs.”\n\nA seventh charm hangs on the Anti Charm alongside the six letters – a three-leaf clover, which is the only piece on it that FCKLCK Studio drew itself. “The three-leaf clover has been a symbol of FCKLCK since day one. If you choose to, you can find them everywhere. Four-leaf ones require luck to spot. We believe you make your own luck,” Partner & Brand Strategist Aäron Windels explains. “The brief was simple,” Krüger adds, “we wanted to make an unlucky lucky charm out of type. Here are the six letters of FCKLCK – first come, first served. Do whatever you like, and we’ll make it an eclectic collision of styles in one object.” The studio approached 16 parties and went ahead with the first six who showed interest. “We work with type every day in our branding projects, so we reached out to foundries, type designers and graphic designers whose work inspires us and has an element of experimentation,” Krüger notes.\n\nJewellery is never seen from a fixed angle, since it moves with the body. Type designer Tanguy Vanlaeys, of the Lyon-based foundry 205TF, started there and drew the ‘F’ to be legible whichever way up it lands. It’s built from a sphere repeated along the structure of the letter, which gives it rhythm, texture and volume and turns a flat form into a sculptural one. Over in Prague, type designer Alex Slobzheninov, who founded the curated font shop Contemporary Type and the foundry Flight Mode Type, wanted a letter that would repel luck while staying readable, and took the first ‘C’ as the best one to strip back into something closer to a symbol. It is four circles that sit on a coin the size of a 10-cent piece, coarsely brushed. The counter inside it – the enclosed space at the middle of the letter – is held up by a joint narrow enough to snap, and Slobzheninov built that weak point in on purpose so that the charm can fail. By his reckoning, a ‘C’ that has lost its middle is the charm operating as expected.\n\nThe first ‘K’ already existed. It comes from Mov, a typeface family from Studio Feixen Fonts – the type foundry of Lucerne-based Studio Feixen. Every character in Mov was treated as its own small experiment, each one exploring a different kind of transformation. Graphic designer Felix Pfäffli, who founded Studio Feixen, had pushed the ‘K’ as far towards roundness as it would go, so that it shifts between a soft, inflated state and a sharper, more rigid one. A third stroke comes out of its centre. He calls that stroke completely unnecessary and thinks the ‘K’ would work better without it. That small, irrational gesture is the part of the letter Pfäffli remembers it by, and it moves the ‘K’ away from a functional glyph and towards a logo. Graphic designer Stephanie Specht of Specht Studio, based in Antwerp like FCKLCK, drew the ‘L’ with a 3D pen for its organic, experimental quality, then photographed the result and took it into Illustrator. She liked the round trip: three dimensions from the pen, two on the screen, then back to three once the rendering and the casting passed into other hands. Specht made a run of letterforms that way and kept the best.\n\nIn Minnesota, artist and designer Michael Cina chose the second ‘C’ and sketched it while travelling, so the letter moved through three cities and about 50 variations, which ran from organic forms to stiff geometric ones. He landed on a question: what would an object look like if it stacked and turned in space as it grew? That reframed the ‘C’ as a piece of architecture. From the side, it is structural and clean; from above, it is geometric and quiet; from another angle, it is gold bars stacked on one another. Not yet knowing how much detail the casting and the metal could hold, Cina erred towards restraint. In Chicago, artist and graphic designer Crystal Zapata took the second ‘K’ from 16th-century illuminated manuscripts that lean on extreme embellishment and work elements of nature into the lettering; hers is a simplified riff on them. It is the only letter held inside a shape, and it is enamelled. To Zapata, it feels like a drop cap opening a story.\n\n“Casting in metal was never the problem. Every collaborator’s vector went into 3D intuitively, because each letter determined its own volumes and shape,\" explains Head of Design Marc Ferrer Vives. “The real challenge was how to arrange and connect six distinctly different styles of letters into a single bracelet,” Krüger adds. Size was the biggest hurdle, and the finishing had to be settled letter by letter, each one needing its own polish, brush or texture. Zapata’s ‘K’ needed a supplier that could cast the letters and enamel as well. Not every workshop could do both, so the studio searched hard and long for one that could. Nine rounds of prototypes, three jewellers, two production partners and 15 months went into the Anti Charm before FCKLCK Studio had one that it was happy with.\n\nCast directly into the letters, O-rings join them to each other on a chain of 13 links that adjusts to most wrists, and the long end of it finishes on the three-leaf clover – double-sided, with FCK and LCK hand-drawn into it, three letters to a face and one nesting in each leaf. Every letter has its designer’s initials engraved on it in PP Neue Montreal Bold. FCKLCK Studio has set its work in the sans serif PP Neue Montreal since it started, in Regular before it moved to Bold. The six letters and the clover will each be sold on their own as well, as pendants with their own loops, and again on a necklace strung on a thicker version of the same chain. That makes nine production-ready pieces in all: the bracelet, the necklace and seven charms. They are cast from moulds and made in limited batches by jewellers in Antwerp.\n\nThe same six letterforms went into a second object: a set of ceramic bookends. FCKLCK Studio came across artist Curtis Baigent of London-based Mattering Studio while admiring a mutual connection’s work on LinkedIn. A first attempt at printing them in clay elsewhere had fallen short, and the studio was then introduced to Unfold, a ceramics studio 2km from its own Antwerp office. Wanting to explore the push and pull between control and uncertainty, Baigent built a system that generates the bookends in Cinema 4D – using a set of rules that drops the six letterforms into a physics simulation, works them together in space, then grows each resulting arrangement upwards into a stacked, monolithic tower. The artistic choices sit in the design of the system itself, which fixes the range of shapes it can produce, and every tower is different. Unfold's founders Claire Warnier and Dries Verbruggen 3D printed a curated selection of those towers in clay before firing and glazing them, organic processes with a life of their own, which adds another layer of letting go. For these, Unfold printed with a deliberately thick profile so that the movement of the machine is visible in the coils. The object’s character comes from the point where the digital toolpath fails, and the clay goes its own way.\n\nBert Depuydt, a former graphic designer with strong feelings about paper, texture and colour, made the packaging at Afreux in Antwerp, using solid grey cardboard, screen printed and embossed, then cut, folded and stapled by hand, with a pouch vacuum-sealed around the piece inside.\n\nPhotography and direction for the Anti Charm came from Willem Volker, who built a story around a cult that has lost the charm and gone looking for it, since finding it would put its members back in control of their own luck. Volker has always lived on a medieval monastery farm next to a forest, and mixing that world with street influences sparked the shoot.\n\nThe chain is built to hold more charms alongside the clover. A list of weird ones is already written, along with the artists and illustrators to approach about them, to be briefed the same way the six were. “It’s been the plan from the start,” Windels concludes. “We’d love nothing more than to launch a bunch of (make your own luck) charms. And possibly to make the bracelet again with six totally different designers. But we’ll first have to see how much interest this one gets.”\n\nAnti Charm is available as a bracelet, necklace or individual charms in sterling silver, gold-plated silver or solid 14k gold. Beat the puzzle on the site and win any of nine Anti Charm collectables. Play as many times as you want until 23:59 CEST on 11 October 2026.",
-      "caseStudyMedia": [
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/six-designers-seven-charms-one-bracelet-this-is-fcklcks-anti-charm/FCKLCK-Anti-Charm-FCKLCK.STUDIO-01.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/six-designers-seven-charms-one-bracelet-this-is-fcklcks-anti-charm/FCKLCK-Anti-Charm-FCKLCK.STUDIO-02.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/six-designers-seven-charms-one-bracelet-this-is-fcklcks-anti-charm/FCKLCK-Anti-Charm-FCKLCK.STUDIO-03.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/six-designers-seven-charms-one-bracelet-this-is-fcklcks-anti-charm/FCKLCK-Anti-Charm-FCKLCK.STUDIO-13.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/six-designers-seven-charms-one-bracelet-this-is-fcklcks-anti-charm/FCKLCK-Anti-Charm-FCKLCK.STUDIO-06.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/six-designers-seven-charms-one-bracelet-this-is-fcklcks-anti-charm/FCKLCK-Anti-Charm-FCKLCK.STUDIO-05.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/six-designers-seven-charms-one-bracelet-this-is-fcklcks-anti-charm/FCKLCK-Anti-Charm-FCKLCK.STUDIO-21.png"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/six-designers-seven-charms-one-bracelet-this-is-fcklcks-anti-charm/FCKLCK-Anti-Charm-FCKLCK.STUDIO-23.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/six-designers-seven-charms-one-bracelet-this-is-fcklcks-anti-charm/FCKLCK-Anti-Charm-FCKLCK.STUDIO-22.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/six-designers-seven-charms-one-bracelet-this-is-fcklcks-anti-charm/FCKLCK-Anti-Charm-FCKLCK.STUDIO-04.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/six-designers-seven-charms-one-bracelet-this-is-fcklcks-anti-charm/FCKLCK-Anti-Charm-FCKLCK.STUDIO-24.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/six-designers-seven-charms-one-bracelet-this-is-fcklcks-anti-charm/FCKLCK-Anti-Charm-FCKLCK.STUDIO-25.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/six-designers-seven-charms-one-bracelet-this-is-fcklcks-anti-charm/FCKLCK-Anti-Charm-FCKLCK.STUDIO-15.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/six-designers-seven-charms-one-bracelet-this-is-fcklcks-anti-charm/FCKLCK-Anti-Charm-FCKLCK.STUDIO-14.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/six-designers-seven-charms-one-bracelet-this-is-fcklcks-anti-charm/FCKLCK-Anti-Charm-FCKLCK.STUDIO-17.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/six-designers-seven-charms-one-bracelet-this-is-fcklcks-anti-charm/FCKLCK-Anti-Charm-FCKLCK.STUDIO-16.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/six-designers-seven-charms-one-bracelet-this-is-fcklcks-anti-charm/FCKLCK-Anti-Charm-FCKLCK.STUDIO-20.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/six-designers-seven-charms-one-bracelet-this-is-fcklcks-anti-charm/FCKLCK-Anti-Charm-FCKLCK.STUDIO-19.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/six-designers-seven-charms-one-bracelet-this-is-fcklcks-anti-charm/FCKLCK-Anti-Charm-FCKLCK.STUDIO-18.mp4"
         }
       ]
     }
