@@ -1779,6 +1779,896 @@ const snapshot={
       ]
     },
     {
+      "canonicalUrl": "https://the-brandidentity.com/project/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront",
+      "titleOriginal": "The idea of home shapes Base Design’s identity for Ray’s Waterfront",
+      "textOriginal": "Ray’s Waterfront is a family-run restaurant and bar on the Small Boat Harbor on Resurrection Bay, in Seward, Alaska – a town of fewer than 3,000 people. Ray Simutis, a former New York taxi driver turned commercial fisherman, and Leslie Simutis, a trained cook, opened it in 1988, Ray working the bar and Leslie the kitchen. After both passed, the restaurant passed to their daughters, Anna and Janina.\n\nIn the years after 1988, the restaurant accumulated several signs, typefaces and illustrations, spread over menus, printed materials, hats and sweatshirts. “The Ray’s building, food and people were well known for being warm, welcoming and classic. There hadn’t really ever been a brand created, though,” explains Owner & Operator Anna Nozaki. She approached Base Design’s Melbourne studio for an identity that would highlight the history and spirit of Ray’s, spanning the logo, signage, menus, website and merchandise. The studio started from a neon tube sign in a window box, which reads ‘Ray’s Waterfront Bar & Grill’ and has a simple halibut illustration on it. It “was the only consistent branding that remained intact since opening,” she notes. An old hat was the only other thing left with the original lettering on it.",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/videos/13593439.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-01.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "Ray’s Waterfront is a family-run restaurant and bar on the Small Boat Harbor on Resurrection Bay, in Seward, Alaska – a town of fewer than 3,000 people. Ray Simutis, a former New York taxi driver turned commercial fisherman, and Leslie Simutis, a trained cook, opened it in 1988, Ray working the bar and Leslie the kitchen. After both passed, the restaurant passed to their daughters, Anna and Janina."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-07.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-12.jpeg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "In the years after 1988, the restaurant accumulated several signs, typefaces and illustrations, spread over menus, printed materials, hats and sweatshirts. “The Ray’s building, food and people were well known for being warm, welcoming and classic. There hadn’t really ever been a brand created, though,” explains Owner & Operator Anna Nozaki. She approached Base Design’s Melbourne studio for an identity that would highlight the history and spirit of Ray’s, spanning the logo, signage, menus, website and merchandise. The studio started from a neon tube sign in a window box, which reads ‘Ray’s Waterfront Bar & Grill’ and has a simple halibut illustration on it. It “was the only consistent branding that remained intact since opening,” she notes. An old hat was the only other thing left with the original lettering on it."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-14.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-13_2026-10-05-151617_tono.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“It was important that the brand look classic and not ‘cool,’” Nozaki details. “It needed to be humble and historic. I wanted the fact that this long-standing restaurant was started and continually operated by local families to be apparent immediately before even setting foot inside.”"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“The idea of home holds everything together,” explains Base Design’s Partner & Creative Director Caroline Cox. “Walking into Ray’s feels like being in a home. Homes can be messy and noisy. A home accumulates photographs, patterns, keepsakes and objects over time, each with a connection to the people who live there. That became a way of thinking about Ray’s as both an individual and an institution.”"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-02.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Base Design redrew the logotype from the window box sign’s lettering, which was thin and loose, with a large looping ‘R,’ a slant and a sweep on the ‘y.’ Those thin lines became a fuller, more confident mark, with heavier, more defined letters, deliberate curves, sharper terminals and closer connections across the word. “The restaurant itself was our reference for knowing how far to go,” Cox notes. “Ray’s is already full of character, and the logo needed to sit comfortably among everything that was there. It needed enough refinement to work across a contemporary identity, while still feeling like the name people had known for years.” A rope version of the mark, drawn with a custom rope brush, came out of the same window box lettering. “It picks up on the maritime references that run through Ray’s, from the harbour setting to the family’s history in commercial fishing,” Cox tells us. “It’s a secondary, more playful expression of the brand. We use it in communications where an extra layer of personality feels right. The primary logotype gives the identity its everyday recognition.”"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-04-new.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“We paired Caslon Egyptian for headlines with Affix for body copy,” Cox details. “Caslon Egyptian has roots in early sans serif lettering and the vernacular of buildings, engravings and printed material. It brings a straightforward, slightly unusual character that feels comfortable in Ray’s world. Affix has the utilitarian qualities of typewriter lettering, with warmth and playful details that come through in its italics and alternate characters. Together, they give us a practical hierarchy for the menus and website while holding their own beside the expressive logotype.”"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-10-new.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Drawings by illustrator Jake Foreman and photographs from the family's archive appear across menus, interiors and printed ephemera, which includes a matchbook, postcard of local recommendations and coasters. “Jake’s illustrations reinterpret lived memories: Anna’s childhood, family fishing trips, her mother in the kitchen and meals together at the restaurant,” Cox explains. “Patterns such as gingham and nautical stripes bring familiar, domestic textures, while the frames and borders draw on photographic albums and maritime references.”"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-03-new.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“The palette came directly from the restaurant and its surroundings,” Cox notes. “Red was already everywhere: the original lights and sconces, the burgundy carpet and the warm mahogany inside. We drew those qualities into a family of bright red, deep red and burgundy.” Red leads the palette, appearing on the menus in borders, patterns and covers, with the lunch and dinner menus set in different red tones. A connection to the Alaskan flag brings in blue, navy and yellow. Blue and navy appear on other pieces, including the dessert menu, and yellow is a smaller accent in the framing. The website uses the same palette, with beige in place of off-white paper. “That distinction is deliberate: in print, the paper stock supplies that colour; digitally, we reproduce it,” Cox explains."
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-05.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Family photographs from the 80s show a big red ‘Ray’s’ above the front doors, made of dimensional, individual channel letters. The sign glowed and was visible from a distance as people drove into town along the main road. Weather damage brought it down, and burgundy fabric awnings went up in its place. The studio designed a replacement. “After we created our concepts, we searched extensively for a manufacturer who would be able to deliver on the job,” Cox recalls. That search ended with National Sign Corporation in Seattle, and with Tim Zamberlin of the company. “When we first spoke with Tim, he was so knowledgeable we immediately felt comfortable in his hands,” Cox adds. Seward is remote, so getting people and materials there took careful coordination. Installed on an old building with a traditional shingled roof, the signage also had to survive Alaskan weather. “We wanted to preserve traditional sign-making methods and respect the building’s character, with the durability the location demands,” Cox details. The sign that went back up uses the custom Ray’s lettering."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-11.jpeg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-08.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "To document Ray’s for the next generation, the studio commissioned photographer Jack Bool to spend time in the restaurant, out on the bay, on the glaciers, around Seward and alongside the people who have given their working lives to the place, the commercial fisheries among them. “We wanted him to experience it before photographing it, leaving room for things a shot list couldn’t anticipate,” Cox notes. “There’s warmth and immediacy in the family archive that we wanted the new photographs to sit comfortably alongside.”"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“It's made the locals feel cared for by honouring the past while spiffing it up,” Nozaki concludes of the identity. “The illustrated stories on the coasters are collected by people who knew our parents.”"
+        }
+      ],
+      "caseStudyText": "Ray’s Waterfront is a family-run restaurant and bar on the Small Boat Harbor on Resurrection Bay, in Seward, Alaska – a town of fewer than 3,000 people. Ray Simutis, a former New York taxi driver turned commercial fisherman, and Leslie Simutis, a trained cook, opened it in 1988, Ray working the bar and Leslie the kitchen. After both passed, the restaurant passed to their daughters, Anna and Janina.\n\nIn the years after 1988, the restaurant accumulated several signs, typefaces and illustrations, spread over menus, printed materials, hats and sweatshirts. “The Ray’s building, food and people were well known for being warm, welcoming and classic. There hadn’t really ever been a brand created, though,” explains Owner & Operator Anna Nozaki. She approached Base Design’s Melbourne studio for an identity that would highlight the history and spirit of Ray’s, spanning the logo, signage, menus, website and merchandise. The studio started from a neon tube sign in a window box, which reads ‘Ray’s Waterfront Bar & Grill’ and has a simple halibut illustration on it. It “was the only consistent branding that remained intact since opening,” she notes. An old hat was the only other thing left with the original lettering on it.\n\n“It was important that the brand look classic and not ‘cool,’” Nozaki details. “It needed to be humble and historic. I wanted the fact that this long-standing restaurant was started and continually operated by local families to be apparent immediately before even setting foot inside.”\n\n“The idea of home holds everything together,” explains Base Design’s Partner & Creative Director Caroline Cox. “Walking into Ray’s feels like being in a home. Homes can be messy and noisy. A home accumulates photographs, patterns, keepsakes and objects over time, each with a connection to the people who live there. That became a way of thinking about Ray’s as both an individual and an institution.”\n\nBase Design redrew the logotype from the window box sign’s lettering, which was thin and loose, with a large looping ‘R,’ a slant and a sweep on the ‘y.’ Those thin lines became a fuller, more confident mark, with heavier, more defined letters, deliberate curves, sharper terminals and closer connections across the word. “The restaurant itself was our reference for knowing how far to go,” Cox notes. “Ray’s is already full of character, and the logo needed to sit comfortably among everything that was there. It needed enough refinement to work across a contemporary identity, while still feeling like the name people had known for years.” A rope version of the mark, drawn with a custom rope brush, came out of the same window box lettering. “It picks up on the maritime references that run through Ray’s, from the harbour setting to the family’s history in commercial fishing,” Cox tells us. “It’s a secondary, more playful expression of the brand. We use it in communications where an extra layer of personality feels right. The primary logotype gives the identity its everyday recognition.”\n\n“We paired Caslon Egyptian for headlines with Affix for body copy,” Cox details. “Caslon Egyptian has roots in early sans serif lettering and the vernacular of buildings, engravings and printed material. It brings a straightforward, slightly unusual character that feels comfortable in Ray’s world. Affix has the utilitarian qualities of typewriter lettering, with warmth and playful details that come through in its italics and alternate characters. Together, they give us a practical hierarchy for the menus and website while holding their own beside the expressive logotype.”\n\nDrawings by illustrator Jake Foreman and photographs from the family's archive appear across menus, interiors and printed ephemera, which includes a matchbook, postcard of local recommendations and coasters. “Jake’s illustrations reinterpret lived memories: Anna’s childhood, family fishing trips, her mother in the kitchen and meals together at the restaurant,” Cox explains. “Patterns such as gingham and nautical stripes bring familiar, domestic textures, while the frames and borders draw on photographic albums and maritime references.”\n\n“The palette came directly from the restaurant and its surroundings,” Cox notes. “Red was already everywhere: the original lights and sconces, the burgundy carpet and the warm mahogany inside. We drew those qualities into a family of bright red, deep red and burgundy.” Red leads the palette, appearing on the menus in borders, patterns and covers, with the lunch and dinner menus set in different red tones. A connection to the Alaskan flag brings in blue, navy and yellow. Blue and navy appear on other pieces, including the dessert menu, and yellow is a smaller accent in the framing. The website uses the same palette, with beige in place of off-white paper. “That distinction is deliberate: in print, the paper stock supplies that colour; digitally, we reproduce it,” Cox explains.\n\nFamily photographs from the 80s show a big red ‘Ray’s’ above the front doors, made of dimensional, individual channel letters. The sign glowed and was visible from a distance as people drove into town along the main road. Weather damage brought it down, and burgundy fabric awnings went up in its place. The studio designed a replacement. “After we created our concepts, we searched extensively for a manufacturer who would be able to deliver on the job,” Cox recalls. That search ended with National Sign Corporation in Seattle, and with Tim Zamberlin of the company. “When we first spoke with Tim, he was so knowledgeable we immediately felt comfortable in his hands,” Cox adds. Seward is remote, so getting people and materials there took careful coordination. Installed on an old building with a traditional shingled roof, the signage also had to survive Alaskan weather. “We wanted to preserve traditional sign-making methods and respect the building’s character, with the durability the location demands,” Cox details. The sign that went back up uses the custom Ray’s lettering.\n\nTo document Ray’s for the next generation, the studio commissioned photographer Jack Bool to spend time in the restaurant, out on the bay, on the glaciers, around Seward and alongside the people who have given their working lives to the place, the commercial fisheries among them. “We wanted him to experience it before photographing it, leaving room for things a shot list couldn’t anticipate,” Cox notes. “There’s warmth and immediacy in the family archive that we wanted the new photographs to sit comfortably alongside.”\n\n“It's made the locals feel cared for by honouring the past while spiffing it up,” Nozaki concludes of the identity. “The illustrated stories on the coasters are collected by people who knew our parents.”",
+      "caseStudyMedia": [
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-01.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-07.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-12.jpeg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-14.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-13_2026-10-05-151617_tono.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-02.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-04-new.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-10-new.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-03-new.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-05.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-11.jpeg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-08.jpg"
+        }
+      ]
+    },
+    {
+      "canonicalUrl": "https://the-brandidentity.com/project/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb",
+      "titleOriginal": "Holographik designs the identity for Bottone’s furniture show in Zagreb",
+      "textOriginal": "Every object that Bottone releases arrives with its own original music, and for Objects & Frequencies, the Berlin-based furniture brand’s first exhibition in Croatia, Zagreb-based design studio Holographik was asked to make those tracks visible. The tracks come from the two brothers who founded the brand, who have been making music together since the 90s. “The object always comes first. Once its form, material and character are defined, we try to understand what that object might become in sound,” Founders Michele and Daniele Luciano Ferrazzano tell us. “We don’t approach the track as a soundtrack or an explanation of the design. It is more like translating the same intuition into another medium. Sometimes the connection comes through rhythm, sometimes through atmosphere, repetition or texture.”\n\nThe three-day exhibition ran on 16–18 September 2026 at Holographik Space – the studio’s own venue in Zagreb. Bottone brought selected works, new colours and two pieces that had not been released anywhere – the Hold A140 TV Stand and the Hold C22 Coat Rack. Wednesday opened with a Design Talk with soba.hr , a Zagreb-based furniture and homeware retailer, and Friday closed the run with a live DJ set. The TV stand played a heritage video that was filmed in the 90s in Apulia, where the brothers’ family comes from. Holographik created the identity, motion and art direction.",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/videos/13675770.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-01.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "Every object that Bottone releases arrives with its own original music, and for Objects & Frequencies, the Berlin-based furniture brand’s first exhibition in Croatia, Zagreb-based design studio Holographik was asked to make those tracks visible. The tracks come from the two brothers who founded the brand, who have been making music together since the 90s. “The object always comes first. Once its form, material and character are defined, we try to understand what that object might become in sound,” Founders Michele and Daniele Luciano Ferrazzano tell us. “We don’t approach the track as a soundtrack or an explanation of the design. It is more like translating the same intuition into another medium. Sometimes the connection comes through rhythm, sometimes through atmosphere, repetition or texture.”"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-02.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The three-day exhibition ran on 16–18 September 2026 at Holographik Space – the studio’s own venue in Zagreb. Bottone brought selected works, new colours and two pieces that had not been released anywhere – the Hold A140 TV Stand and the Hold C22 Coat Rack. Wednesday opened with a Design Talk with soba.hr , a Zagreb-based furniture and homeware retailer, and Friday closed the run with a live DJ set. The TV stand played a heritage video that was filmed in the 90s in Apulia, where the brothers’ family comes from. Holographik created the identity, motion and art direction."
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-08.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-09.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“The objects, their individual tracks and the idea of bringing these different layers together into one experience came from Bottone. What we didn”t want to do was hand Holographik a fixed visual brief and ask them to simply translate it into graphics,” the Ferrazzanos explain. “We wanted them to interpret the concept through their own visual language. There was a lot of trust from the beginning and a shared understanding that the identity should become another layer of the experience, rather than just communicate it.” The identity has two layers. One is typographic, short lines of copy in a strict grid that state the information. The other is driven by sound, and in it each object’s silhouette breaks into the waveform of its track and rebuilds."
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-03.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-04.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Bottone sits between the Bauhaus and Italian postmodernism – clarity and construction from one, colour, boldness and humour from the other. “We split the job between structure and energy. The structure came from the Bauhaus side: one typeface, a strict grid, all caps and information stated plainly. Nothing in the layout is decorative, and every element has a reason to be there,” details Holographik’s Founder Hrvoje Grubišić. “The energy came from the other side: Bottone’s red and the motion layer. That is the playful, expressive part, and it only works because the structure around it stays calm. Neither side leads on its own. The typography keeps the motion from becoming decoration, and the motion keeps the typography from feeling cold. That tension is also how Bottone describes its own objects, precise in construction and expressive in character, so the identity reads as them rather than as a reference to either movement.”"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The palette is Bottone red, set against the aluminium, steel, wood and textile that the objects are made from. “Objects & Frequencies was a collaboration, a design exhibition and audiovisual experience built with Bottone, so we wanted the brand to be recognisable the moment you saw anything from it,” Grubišić notes. “Colour was the most direct way to do that, so the red stays Bottone’s.”"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-07.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The identity uses one typeface, STK Bureau Sans. “We were looking for something contemporary and functional that still had character, and Bureau Sans has a clear stance of its own. That gave us the balance we needed between identity and function,” Grubišić explains. “On small screens, it stays very legible. The open forms help a lot; the ‘C,’ ‘O’ and ‘S’ keep their openness even at small sizes. At large scale, especially in all caps, what struck us was how even and solid the weights feel from letter to letter,” Grubišić continues. “Because we also used it in motion, projected across the room, that evenness gave it an almost sculptural quality. At that scale, the capitals start to behave like physical objects in the space, which tied the type directly to the idea of the exhibition.”"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-05.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-06.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“The motion system we created connects the tracks – consisting of remixed sound and noise created by interacting with the objects, their materiality and form – with the graphic silhouettes of the objects,” Grubišić details. “Bottone produced these ‘soundtracks’ in such a way that the sounds at times disintegrate into abstract rhythms and beats, and at other times are clearer and more representational of the interactions and materials of the objects themselves. In the same way, the black silhouettes are at certain points in the track more solid, clearly recognisable forms and at others, distorted and deconstructed almost into particles. We rigged the waveforms of the tracks to the distortion system, so the animations are fully responsive to the beat of the tracks, the intensity and frequency.” The Zooom Rug’s silhouette breaks apart on its own track. “You can lie on the rug while listening to its track, so the object and sound are experienced simultaneously,” the Ferrazzanos tell us. “The music adds another, immersive dimension to something that would otherwise be purely physical.”"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-12.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-11.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Motion graphics announced the show across social media, online and digital billboards, with the shapes of the objects zoomed in and intentionally obscured. Posters and graphics on the studio’s display windows invited people in from the street. The identity was printed on t-shirts that guests could take home. “For the DJ set, the visuals had to inhabit a bigger space,” Grubišić concludes. “We used the established motion system as the base, and played around with it, similar to the way you would remix a music track – playing with rhythm, repetition, time, scale, cutting them up and putting them together again.”"
+        }
+      ],
+      "caseStudyText": "Every object that Bottone releases arrives with its own original music, and for Objects & Frequencies, the Berlin-based furniture brand’s first exhibition in Croatia, Zagreb-based design studio Holographik was asked to make those tracks visible. The tracks come from the two brothers who founded the brand, who have been making music together since the 90s. “The object always comes first. Once its form, material and character are defined, we try to understand what that object might become in sound,” Founders Michele and Daniele Luciano Ferrazzano tell us. “We don’t approach the track as a soundtrack or an explanation of the design. It is more like translating the same intuition into another medium. Sometimes the connection comes through rhythm, sometimes through atmosphere, repetition or texture.”\n\nThe three-day exhibition ran on 16–18 September 2026 at Holographik Space – the studio’s own venue in Zagreb. Bottone brought selected works, new colours and two pieces that had not been released anywhere – the Hold A140 TV Stand and the Hold C22 Coat Rack. Wednesday opened with a Design Talk with soba.hr , a Zagreb-based furniture and homeware retailer, and Friday closed the run with a live DJ set. The TV stand played a heritage video that was filmed in the 90s in Apulia, where the brothers’ family comes from. Holographik created the identity, motion and art direction.\n\n“The objects, their individual tracks and the idea of bringing these different layers together into one experience came from Bottone. What we didn”t want to do was hand Holographik a fixed visual brief and ask them to simply translate it into graphics,” the Ferrazzanos explain. “We wanted them to interpret the concept through their own visual language. There was a lot of trust from the beginning and a shared understanding that the identity should become another layer of the experience, rather than just communicate it.” The identity has two layers. One is typographic, short lines of copy in a strict grid that state the information. The other is driven by sound, and in it each object’s silhouette breaks into the waveform of its track and rebuilds.\n\nBottone sits between the Bauhaus and Italian postmodernism – clarity and construction from one, colour, boldness and humour from the other. “We split the job between structure and energy. The structure came from the Bauhaus side: one typeface, a strict grid, all caps and information stated plainly. Nothing in the layout is decorative, and every element has a reason to be there,” details Holographik’s Founder Hrvoje Grubišić. “The energy came from the other side: Bottone’s red and the motion layer. That is the playful, expressive part, and it only works because the structure around it stays calm. Neither side leads on its own. The typography keeps the motion from becoming decoration, and the motion keeps the typography from feeling cold. That tension is also how Bottone describes its own objects, precise in construction and expressive in character, so the identity reads as them rather than as a reference to either movement.”\n\nThe palette is Bottone red, set against the aluminium, steel, wood and textile that the objects are made from. “Objects & Frequencies was a collaboration, a design exhibition and audiovisual experience built with Bottone, so we wanted the brand to be recognisable the moment you saw anything from it,” Grubišić notes. “Colour was the most direct way to do that, so the red stays Bottone’s.”\n\nThe identity uses one typeface, STK Bureau Sans. “We were looking for something contemporary and functional that still had character, and Bureau Sans has a clear stance of its own. That gave us the balance we needed between identity and function,” Grubišić explains. “On small screens, it stays very legible. The open forms help a lot; the ‘C,’ ‘O’ and ‘S’ keep their openness even at small sizes. At large scale, especially in all caps, what struck us was how even and solid the weights feel from letter to letter,” Grubišić continues. “Because we also used it in motion, projected across the room, that evenness gave it an almost sculptural quality. At that scale, the capitals start to behave like physical objects in the space, which tied the type directly to the idea of the exhibition.”\n\n“The motion system we created connects the tracks – consisting of remixed sound and noise created by interacting with the objects, their materiality and form – with the graphic silhouettes of the objects,” Grubišić details. “Bottone produced these ‘soundtracks’ in such a way that the sounds at times disintegrate into abstract rhythms and beats, and at other times are clearer and more representational of the interactions and materials of the objects themselves. In the same way, the black silhouettes are at certain points in the track more solid, clearly recognisable forms and at others, distorted and deconstructed almost into particles. We rigged the waveforms of the tracks to the distortion system, so the animations are fully responsive to the beat of the tracks, the intensity and frequency.” The Zooom Rug’s silhouette breaks apart on its own track. “You can lie on the rug while listening to its track, so the object and sound are experienced simultaneously,” the Ferrazzanos tell us. “The music adds another, immersive dimension to something that would otherwise be purely physical.”\n\nMotion graphics announced the show across social media, online and digital billboards, with the shapes of the objects zoomed in and intentionally obscured. Posters and graphics on the studio’s display windows invited people in from the street. The identity was printed on t-shirts that guests could take home. “For the DJ set, the visuals had to inhabit a bigger space,” Grubišić concludes. “We used the established motion system as the base, and played around with it, similar to the way you would remix a music track – playing with rhythm, repetition, time, scale, cutting them up and putting them together again.”",
+      "caseStudyMedia": [
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-01.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-02.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-08.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-09.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-03.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-04.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-07.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-05.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-06.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-12.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-11.mp4"
+        }
+      ]
+    },
+    {
+      "canonicalUrl": "https://the-brandidentity.com/project/estudio-cari%C3%B1o-invents-house-of-callaghan-an-irish-stout-brand",
+      "titleOriginal": "Estudio Cariño invents HOUSE of CALLAGHAN, an Irish stout brand",
+      "textOriginal": "Estudio Cariño designed HOUSE of CALLAGHAN, a brand of Irish stout from Cork, for nobody. “This project originated from a rejected proposal for a beer-related client, but we liked it too much to leave it there, so we kept working on it,” Co-founders José Pablo Salazar and Iván Soto Camba tell us. “Once there was no client involved, there was also no brief to follow and nobody asking us to tone anything down.” Between them, the Mexican design duo came up with the name, story, identity and label design.\n\nCork is home to two long-established stouts, Murphy's and Beamish. HOUSE of CALLAGHAN was designed to look like it had always been the third. “We borrowed a little from the language of Game of Thrones and used ‘House’ in the name because it suggested family history and, indirectly, something made on a smaller, more traditional scale,” Salazar and Soto Camba explain. “Callaghan is a common surname in the region, so it also helped ground the brand in Cork. We wanted the name to sound like it could have been there for a long while.” The label sets out an invented Callaghan family history, signed by a brewer who does not exist either. “We wanted it to look less like a new identity and more like a brand we had somehow found,” the duo adds.",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/estudio-cari%C3%B1o-invents-house-of-callaghan-an-irish-stout-brand/HOUSE-of-CALLAGHAN-Carin%CC%83o-01.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/estudio-cari%C3%B1o-invents-house-of-callaghan-an-irish-stout-brand/HOUSE-of-CALLAGHAN-Carin%CC%83o-01.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "Estudio Cariño designed HOUSE of CALLAGHAN, a brand of Irish stout from Cork, for nobody. “This project originated from a rejected proposal for a beer-related client, but we liked it too much to leave it there, so we kept working on it,” Co-founders José Pablo Salazar and Iván Soto Camba tell us. “Once there was no client involved, there was also no brief to follow and nobody asking us to tone anything down.” Between them, the Mexican design duo came up with the name, story, identity and label design."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/estudio-cari%C3%B1o-invents-house-of-callaghan-an-irish-stout-brand/HOUSE-of-CALLAGHAN-Carin%CC%83o-03.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Cork is home to two long-established stouts, Murphy's and Beamish. HOUSE of CALLAGHAN was designed to look like it had always been the third. “We borrowed a little from the language of Game of Thrones and used ‘House’ in the name because it suggested family history and, indirectly, something made on a smaller, more traditional scale,” Salazar and Soto Camba explain. “Callaghan is a common surname in the region, so it also helped ground the brand in Cork. We wanted the name to sound like it could have been there for a long while.” The label sets out an invented Callaghan family history, signed by a brewer who does not exist either. “We wanted it to look less like a new identity and more like a brand we had somehow found,” the duo adds."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/estudio-cari%C3%B1o-invents-house-of-callaghan-an-irish-stout-brand/HOUSE-of-CALLAGHAN-Carin%CC%83o-02.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“It’s very easy for an Irish beer brand to stop looking Irish and start looking Irish-themed,” they detail. “The shamrock was the most obvious problem. We still used it, but only as a small decorative element.” The studio wanted to work from beer, a big part of Irish culture, rather than from a collection of Irish symbols. The Celtic-looking type is another familiar reference, and it sits next to muted colours and metal finishes that are inspired by the medieval era. “The starting point was something classic, but not old-fashioned,” they explain. “We wanted local references to be recognisable without making the brand look nostalgic.”"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/estudio-cari%C3%B1o-invents-house-of-callaghan-an-irish-stout-brand/HOUSE-of-CALLAGHAN-Carin%CC%83o-04.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Almost like an old coin, the main emblem has embossed details and a metallic finish – as if it had been attached to the label. An illustration on the label is contemporary even though the treatment looks older. A knight on the label has a giant beer mug instead of a shield. “That part was important to keep the project fun and modern,” the duo notes."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/estudio-cari%C3%B1o-invents-house-of-callaghan-an-irish-stout-brand/HOUSE-of-CALLAGHAN-Carin%CC%83o-05.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“We spent a lot of time choosing the fonts, their hierarchy and how they worked together,” Salazar and Soto Camba detail. Gothic Manus is used for the logo at its most expressive. Its Gothic, almost Celtic character works with the traditional side of the identity. “We kept some of its awkwardness instead of correcting everything,” they add. “It helped make the logo look less new.” The second main typeface, Griffon, is more elegant and controlled, so it balances with Gothic Manus. It appears in the arched wordmark, subtitles and some of the brand phrases. Trattatello adds the handwritten, historical part. Highway Gothic sets the secondary copy and technical information, reminding the studio a little of old factory signage. Manchester Signature is the brewer’s signature – another small piece of the fiction behind the brand."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/estudio-cari%C3%B1o-invents-house-of-callaghan-an-irish-stout-brand/HOUSE-of-CALLAGHAN-Carin%CC%83o-06.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“We kept the palette quite restrained. There are already plenty of loud colours in beer packaging, so we were more interested in the contrast between colour and material,” Salazar and Soto Camba note. “The warm beige worked well with the metallic emblem and gave the packaging a slightly unexpected softness.” Green is the main accent and the most direct connection to Ireland. “We tried imagining it without the green. It didn’t work,” they conclude."
+        }
+      ],
+      "caseStudyText": "Estudio Cariño designed HOUSE of CALLAGHAN, a brand of Irish stout from Cork, for nobody. “This project originated from a rejected proposal for a beer-related client, but we liked it too much to leave it there, so we kept working on it,” Co-founders José Pablo Salazar and Iván Soto Camba tell us. “Once there was no client involved, there was also no brief to follow and nobody asking us to tone anything down.” Between them, the Mexican design duo came up with the name, story, identity and label design.\n\nCork is home to two long-established stouts, Murphy's and Beamish. HOUSE of CALLAGHAN was designed to look like it had always been the third. “We borrowed a little from the language of Game of Thrones and used ‘House’ in the name because it suggested family history and, indirectly, something made on a smaller, more traditional scale,” Salazar and Soto Camba explain. “Callaghan is a common surname in the region, so it also helped ground the brand in Cork. We wanted the name to sound like it could have been there for a long while.” The label sets out an invented Callaghan family history, signed by a brewer who does not exist either. “We wanted it to look less like a new identity and more like a brand we had somehow found,” the duo adds.\n\n“It’s very easy for an Irish beer brand to stop looking Irish and start looking Irish-themed,” they detail. “The shamrock was the most obvious problem. We still used it, but only as a small decorative element.” The studio wanted to work from beer, a big part of Irish culture, rather than from a collection of Irish symbols. The Celtic-looking type is another familiar reference, and it sits next to muted colours and metal finishes that are inspired by the medieval era. “The starting point was something classic, but not old-fashioned,” they explain. “We wanted local references to be recognisable without making the brand look nostalgic.”\n\nAlmost like an old coin, the main emblem has embossed details and a metallic finish – as if it had been attached to the label. An illustration on the label is contemporary even though the treatment looks older. A knight on the label has a giant beer mug instead of a shield. “That part was important to keep the project fun and modern,” the duo notes.\n\n“We spent a lot of time choosing the fonts, their hierarchy and how they worked together,” Salazar and Soto Camba detail. Gothic Manus is used for the logo at its most expressive. Its Gothic, almost Celtic character works with the traditional side of the identity. “We kept some of its awkwardness instead of correcting everything,” they add. “It helped make the logo look less new.” The second main typeface, Griffon, is more elegant and controlled, so it balances with Gothic Manus. It appears in the arched wordmark, subtitles and some of the brand phrases. Trattatello adds the handwritten, historical part. Highway Gothic sets the secondary copy and technical information, reminding the studio a little of old factory signage. Manchester Signature is the brewer’s signature – another small piece of the fiction behind the brand.\n\n“We kept the palette quite restrained. There are already plenty of loud colours in beer packaging, so we were more interested in the contrast between colour and material,” Salazar and Soto Camba note. “The warm beige worked well with the metallic emblem and gave the packaging a slightly unexpected softness.” Green is the main accent and the most direct connection to Ireland. “We tried imagining it without the green. It didn’t work,” they conclude.",
+      "caseStudyMedia": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/estudio-cari%C3%B1o-invents-house-of-callaghan-an-irish-stout-brand/HOUSE-of-CALLAGHAN-Carin%CC%83o-01.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/estudio-cari%C3%B1o-invents-house-of-callaghan-an-irish-stout-brand/HOUSE-of-CALLAGHAN-Carin%CC%83o-03.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/estudio-cari%C3%B1o-invents-house-of-callaghan-an-irish-stout-brand/HOUSE-of-CALLAGHAN-Carin%CC%83o-02.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/estudio-cari%C3%B1o-invents-house-of-callaghan-an-irish-stout-brand/HOUSE-of-CALLAGHAN-Carin%CC%83o-04.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/estudio-cari%C3%B1o-invents-house-of-callaghan-an-irish-stout-brand/HOUSE-of-CALLAGHAN-Carin%CC%83o-05.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/estudio-cari%C3%B1o-invents-house-of-callaghan-an-irish-stout-brand/HOUSE-of-CALLAGHAN-Carin%CC%83o-06.jpg"
+        }
+      ]
+    },
+    {
+      "canonicalUrl": "https://the-brandidentity.com/project/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance",
+      "titleOriginal": "For fatty15’s AFEX packaging, Design Dept® looked to fine fragrance",
+      "textOriginal": "fatty15 is a supplement brand from Seraphina Therapeutics, built on the fatty acid C15:0 and positioned on healthy ageing at the cellular level. Healthcare providers had been asking the company for a supplement that they could give their patients, so it developed AFEX, or Advanced Formula Extra Strength – a provider-specific version at a higher dose. Los Angeles-based studio Design Dept® had designed the original fatty15 packaging. For AFEX, the studio was commissioned again, and the brief was an initial kit with a refillable bottle and a refill design.\n\nAFEX was made for healthcare professionals and high-end wellness environments, so the packaging had to be credible to a clinician. “We looked to fine fragrance because the best fragrance houses use packaging to express the product before you ever experience what’s inside. They obsess over materiality, colour, proportion, weight and the ritual of opening the package,” Founder & Creative Director Ali Martín Carrillo Filsoof tells us. “fatty15 is fundamentally about strengthening and supporting our cells, so the cellular reference felt like a natural place to begin.”",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-01.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-01.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "fatty15 is a supplement brand from Seraphina Therapeutics, built on the fatty acid C15:0 and positioned on healthy ageing at the cellular level. Healthcare providers had been asking the company for a supplement that they could give their patients, so it developed AFEX, or Advanced Formula Extra Strength – a provider-specific version at a higher dose. Los Angeles-based studio Design Dept® had designed the original fatty15 packaging. For AFEX, the studio was commissioned again, and the brief was an initial kit with a refillable bottle and a refill design."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-05.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-04.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "AFEX was made for healthcare professionals and high-end wellness environments, so the packaging had to be credible to a clinician. “We looked to fine fragrance because the best fragrance houses use packaging to express the product before you ever experience what’s inside. They obsess over materiality, colour, proportion, weight and the ritual of opening the package,” Founder & Creative Director Ali Martín Carrillo Filsoof tells us. “fatty15 is fundamentally about strengthening and supporting our cells, so the cellular reference felt like a natural place to begin.”"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“The bottle isn’t something you buy, empty and throw away every month. It’s an object you keep and refill with fresh Pure C15:0 capsules,” Filsoof continues. “The challenge was bringing the beauty, permanence and ritual of fine fragrance into the experience without sacrificing scientific credibility.”"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-07.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-06.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The bottle is recyclable glass, its label textured and reduced to the essentials, its cap reusable. “We started by looking at the cap at roughly 50% of the height of the superflint glass vessel, then pushed that proportion until it was almost equal to the height of the glass itself,” Filsoof details. “The cap stopped feeling like a closure and became something novel and ownable to fatty15.” A cap that size gives a generous grip, so the bottle is easier to open. The cap’s rounded shape subtly references the structure of a human cell. “We wanted the science to inform the form without illustrating it,” he adds. The cap is natural walnut. “It gives each bottle individuality and warmth, creating an intentional contrast with the precision of the superflint glass and the clinical science behind fatty15.”"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-02-new.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-03.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The kit’s box is telescoping and rigid, finished in a deep moss green. The lid lifts away and the front panel folds forward, revealing the bottle on a raised platform. “We live in a world where we’re constantly overstimulated by our digital devices,” Filsoof tells us, “so we wanted to create an unboxing ritual that deliberately slows you down and introduces a sense of ceremony to the experience.” Underneath, a drawer holds refill pouches, educational materials and a short poem. Filsoof wrote the poem, which is about cells, light, health and a brighter path forward. “It’s a reminder that behind all of the research, data and science is something very human: helping people live healthier, longer lives,” notes Seraphina Therapeutics’ Co-CEO & Co-founder Eric Venn-Watson."
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-08.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-09.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Across the AFEX system, a graphic language of cellular shapes and patterns is derived from the cap’s silhouette. The cover of the educational booklet is die-cut in the same outline. Milieu Grotesque’s sans serif Maison Neue is the foundation of the system. “Its clarity and neutrality give the information structure and credibility, which was especially important with such restrained labelling,” Filsoof details. Meanwhile, Maison Neue Mono appears across the educational collateral. “With so few elements on the packaging, every typographic decision becomes more visible. Rather than adding more graphics to communicate science, we let the typography do much of that work,” he concludes."
+        }
+      ],
+      "caseStudyText": "fatty15 is a supplement brand from Seraphina Therapeutics, built on the fatty acid C15:0 and positioned on healthy ageing at the cellular level. Healthcare providers had been asking the company for a supplement that they could give their patients, so it developed AFEX, or Advanced Formula Extra Strength – a provider-specific version at a higher dose. Los Angeles-based studio Design Dept® had designed the original fatty15 packaging. For AFEX, the studio was commissioned again, and the brief was an initial kit with a refillable bottle and a refill design.\n\nAFEX was made for healthcare professionals and high-end wellness environments, so the packaging had to be credible to a clinician. “We looked to fine fragrance because the best fragrance houses use packaging to express the product before you ever experience what’s inside. They obsess over materiality, colour, proportion, weight and the ritual of opening the package,” Founder & Creative Director Ali Martín Carrillo Filsoof tells us. “fatty15 is fundamentally about strengthening and supporting our cells, so the cellular reference felt like a natural place to begin.”\n\n“The bottle isn’t something you buy, empty and throw away every month. It’s an object you keep and refill with fresh Pure C15:0 capsules,” Filsoof continues. “The challenge was bringing the beauty, permanence and ritual of fine fragrance into the experience without sacrificing scientific credibility.”\n\nThe bottle is recyclable glass, its label textured and reduced to the essentials, its cap reusable. “We started by looking at the cap at roughly 50% of the height of the superflint glass vessel, then pushed that proportion until it was almost equal to the height of the glass itself,” Filsoof details. “The cap stopped feeling like a closure and became something novel and ownable to fatty15.” A cap that size gives a generous grip, so the bottle is easier to open. The cap’s rounded shape subtly references the structure of a human cell. “We wanted the science to inform the form without illustrating it,” he adds. The cap is natural walnut. “It gives each bottle individuality and warmth, creating an intentional contrast with the precision of the superflint glass and the clinical science behind fatty15.”\n\nThe kit’s box is telescoping and rigid, finished in a deep moss green. The lid lifts away and the front panel folds forward, revealing the bottle on a raised platform. “We live in a world where we’re constantly overstimulated by our digital devices,” Filsoof tells us, “so we wanted to create an unboxing ritual that deliberately slows you down and introduces a sense of ceremony to the experience.” Underneath, a drawer holds refill pouches, educational materials and a short poem. Filsoof wrote the poem, which is about cells, light, health and a brighter path forward. “It’s a reminder that behind all of the research, data and science is something very human: helping people live healthier, longer lives,” notes Seraphina Therapeutics’ Co-CEO & Co-founder Eric Venn-Watson.\n\nAcross the AFEX system, a graphic language of cellular shapes and patterns is derived from the cap’s silhouette. The cover of the educational booklet is die-cut in the same outline. Milieu Grotesque’s sans serif Maison Neue is the foundation of the system. “Its clarity and neutrality give the information structure and credibility, which was especially important with such restrained labelling,” Filsoof details. Meanwhile, Maison Neue Mono appears across the educational collateral. “With so few elements on the packaging, every typographic decision becomes more visible. Rather than adding more graphics to communicate science, we let the typography do much of that work,” he concludes.",
+      "caseStudyMedia": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-01.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-05.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-04.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-07.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-06.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-02-new.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-03.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-08.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-09.jpg"
+        }
+      ]
+    },
+    {
+      "canonicalUrl": "https://the-brandidentity.com/project/how-faena-studio-based-alternas-identity-on-a-living-journal",
+      "titleOriginal": "How FAENA Studio based Alterna’s identity on a ‘living journal’",
+      "textOriginal": "Mexico City-based FAENA Studio was commissioned to design the identity for Alterna, a contemporary fine-dining restaurant in the city’s Colonia Condesa neighborhood that brings Italian-rooted cooking together with international influences, Mexican ingredients and the changing seasons.\n\n“The name comes from the fact that it is our alternate proposal. Within our portfolio of brands, we already had a restaurant, a trattoria and a wine bar; Alterna would be a new project, completely different from anything we had done so far,” explain the Cesarano brothers – the owners of Alterna, who come from a family of restaurateurs who have helped shape the Italian dining scene in Mexico City. Faena Studio’s task was “to build a brand that presented itself boldly, without shyness, and at the same time, with sobriety and restraint,” he tells us. “We wanted it to reflect our cuisine and our space.”",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/videos/13632225.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-01.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "Mexico City-based FAENA Studio was commissioned to design the identity for Alterna, a contemporary fine-dining restaurant in the city’s Colonia Condesa neighborhood that brings Italian-rooted cooking together with international influences, Mexican ingredients and the changing seasons."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-02.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“The name comes from the fact that it is our alternate proposal. Within our portfolio of brands, we already had a restaurant, a trattoria and a wine bar; Alterna would be a new project, completely different from anything we had done so far,” explain the Cesarano brothers – the owners of Alterna, who come from a family of restaurateurs who have helped shape the Italian dining scene in Mexico City. Faena Studio’s task was “to build a brand that presented itself boldly, without shyness, and at the same time, with sobriety and restraint,” he tells us. “We wanted it to reflect our cuisine and our space.”"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-04_2026-10-02-040255_udfy.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-09.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "FAENA Studio’s Design Director Hugo Villa explains that they “started from an elegant typographic base and altered the direction of some strokes, especially in the ‘e’ and the final ‘a.’ Thus, the idea of alternating appears within the wordmark itself: the letters change direction at certain moments, but the logo maintains its balance.” In the studio’s reading, the wordmark’s changes of direction also represent how “Alterna’s Italian foundations take on new character in their Mexican context.” The monogram, Villa notes, “was built from the abbreviation of Alterna, taking cues from classic monograms. We sought to convey character and personality, reinterpreting that language in a contemporary context.”"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-03.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Beyond the name, FAENA Studio built the wider system around the idea of Alterna as a ‘living journal,’ whose entries are its dishes and services, each of which “marks a moment in the restaurant’s evolution, shaped by the season, the kitchen’s observations and the ideas it chooses to pursue.” The journal, the studio explains, is a way to “notice what changes from one season to the next” and to “trace an idea from its origins to the plate.” “The visual language is built to hold those entries.”"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-08.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-07.png"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "For Alterna’s typography, FAENA Studio chose GT Pantheon Micro, an editorial serif with classic proportions, fine strokes and defined terminals, whose “humanist gestures,” Villa tells us, “add warmth and help build a system that expresses Alterna’s duality between rigour and sensitivity.” On the palette, he adds that “we used muted tones as a base and reserved vibrant ones to highlight information or bring energy to the composition. In particular, orange served as an accent to call out key details.” The result is “a flexible identity that feels familiar without belonging to a single place or era.”"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-05.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "In the studio’s words, Alterna’s menus, images and printed pieces “become pages of this same journal,” together documenting “a restaurant in motion always changing.” FAENA Studio’s Archive & Content Coordinator Regina Ochoa describes how “printed and handwritten pieces are underlined, and small notes are added to evoke a personal log, as if each piece held traces of what is observed and happens at Alterna.”"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-06_2026-10-02-040351_vpbe.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The journal is also, as FAENA Studio puts it, “the way the project is documented.” For its own case study of Alterna, the studio combined mixed media with photographs and footage of the space and food by Comedor.Studios, a photography and film studio with a culinary focus. FAENA Studio describes the identity’s photography as editorial, and its compositions as having “moments of controlled spontaneity.” “The photographs were key to telling the story,” Ochoa tells us, “as they allowed us to imagine how the dishes are created and developed. From them, we did a visual exercise: we imagined that the printed photos were part of a logbook where the chefs recorded their creative process.”"
+        }
+      ],
+      "caseStudyText": "Mexico City-based FAENA Studio was commissioned to design the identity for Alterna, a contemporary fine-dining restaurant in the city’s Colonia Condesa neighborhood that brings Italian-rooted cooking together with international influences, Mexican ingredients and the changing seasons.\n\n“The name comes from the fact that it is our alternate proposal. Within our portfolio of brands, we already had a restaurant, a trattoria and a wine bar; Alterna would be a new project, completely different from anything we had done so far,” explain the Cesarano brothers – the owners of Alterna, who come from a family of restaurateurs who have helped shape the Italian dining scene in Mexico City. Faena Studio’s task was “to build a brand that presented itself boldly, without shyness, and at the same time, with sobriety and restraint,” he tells us. “We wanted it to reflect our cuisine and our space.”\n\nFAENA Studio’s Design Director Hugo Villa explains that they “started from an elegant typographic base and altered the direction of some strokes, especially in the ‘e’ and the final ‘a.’ Thus, the idea of alternating appears within the wordmark itself: the letters change direction at certain moments, but the logo maintains its balance.” In the studio’s reading, the wordmark’s changes of direction also represent how “Alterna’s Italian foundations take on new character in their Mexican context.” The monogram, Villa notes, “was built from the abbreviation of Alterna, taking cues from classic monograms. We sought to convey character and personality, reinterpreting that language in a contemporary context.”\n\nBeyond the name, FAENA Studio built the wider system around the idea of Alterna as a ‘living journal,’ whose entries are its dishes and services, each of which “marks a moment in the restaurant’s evolution, shaped by the season, the kitchen’s observations and the ideas it chooses to pursue.” The journal, the studio explains, is a way to “notice what changes from one season to the next” and to “trace an idea from its origins to the plate.” “The visual language is built to hold those entries.”\n\nFor Alterna’s typography, FAENA Studio chose GT Pantheon Micro, an editorial serif with classic proportions, fine strokes and defined terminals, whose “humanist gestures,” Villa tells us, “add warmth and help build a system that expresses Alterna’s duality between rigour and sensitivity.” On the palette, he adds that “we used muted tones as a base and reserved vibrant ones to highlight information or bring energy to the composition. In particular, orange served as an accent to call out key details.” The result is “a flexible identity that feels familiar without belonging to a single place or era.”\n\nIn the studio’s words, Alterna’s menus, images and printed pieces “become pages of this same journal,” together documenting “a restaurant in motion always changing.” FAENA Studio’s Archive & Content Coordinator Regina Ochoa describes how “printed and handwritten pieces are underlined, and small notes are added to evoke a personal log, as if each piece held traces of what is observed and happens at Alterna.”\n\nThe journal is also, as FAENA Studio puts it, “the way the project is documented.” For its own case study of Alterna, the studio combined mixed media with photographs and footage of the space and food by Comedor.Studios, a photography and film studio with a culinary focus. FAENA Studio describes the identity’s photography as editorial, and its compositions as having “moments of controlled spontaneity.” “The photographs were key to telling the story,” Ochoa tells us, “as they allowed us to imagine how the dishes are created and developed. From them, we did a visual exercise: we imagined that the printed photos were part of a logbook where the chefs recorded their creative process.”",
+      "caseStudyMedia": [
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-01.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-02.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-04_2026-10-02-040255_udfy.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-09.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-03.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-08.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-07.png"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-05.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-06_2026-10-02-040351_vpbe.jpg"
+        }
+      ]
+    },
+    {
+      "canonicalUrl": "https://the-brandidentity.com/project/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores",
+      "titleOriginal": "CHROMA’s packaging by Marc Atlan is made to work in Target’s stores",
+      "textOriginal": "CHROMA by Corpus is an aluminium-free deodorant and a moisturising body wash, sold in three fragrances with a trio of colours each. Where its parent brand Corpus is quiet, premium body care built on mint green, CHROMA was made for mass retail, debuting through Target Beauty Studio in 611 locations. “I wanted to explore a more expressive world of fragrance and colour, but I did not want to change Corpus in order to do it,” Founder Jean-Pierre Mastey explains.\n\nMastey commissioned the packaging design from Marc Atlan – a close friend whom he has known for almost 20 years. CHROMA is Greek for colour. “As soon as I heard the brand name, I felt that the design was contained within the name itself. The word gave me the brief,” Atlan tells us. “The physical packaging architecture was already established, but very little else was fixed. The brief was really about using colour in a way that felt unexpected for body care – expressive and emotional, but still disciplined,” Mastey notes.",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-01.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-01.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "CHROMA by Corpus is an aluminium-free deodorant and a moisturising body wash, sold in three fragrances with a trio of colours each. Where its parent brand Corpus is quiet, premium body care built on mint green, CHROMA was made for mass retail, debuting through Target Beauty Studio in 611 locations. “I wanted to explore a more expressive world of fragrance and colour, but I did not want to change Corpus in order to do it,” Founder Jean-Pierre Mastey explains."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-02.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-03.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Mastey commissioned the packaging design from Marc Atlan – a close friend whom he has known for almost 20 years. CHROMA is Greek for colour. “As soon as I heard the brand name, I felt that the design was contained within the name itself. The word gave me the brief,” Atlan tells us. “The physical packaging architecture was already established, but very little else was fixed. The brief was really about using colour in a way that felt unexpected for body care – expressive and emotional, but still disciplined,” Mastey notes."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“Corpus had established a recognisable visual world around its distinctive mint green,” Atlan details. “Additional colours had been explored, but they remained within that same muted, soft and delicate territory. For CHROMA, that felt simply too timid.” “I thought it should be ‘A Celebration of Colour.’ An unapologetic celebration not of one colour, but of all of them. The main idea was to use colour as a language,” he continues. “Beauty and fragrance have historically used colour as a shortcut. Certain colours are coded as feminine, others as masculine,” he adds. “Pink tells you one story, blue a different one. None of that interested me.”"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The three fragrances are DUNE, THORN and PETAL. “A fragrance is never really one note, so it felt wrong to reduce each scent to one colour,” Atlan explains. “I approached them almost as three different colour compositions rather than three conventional fragrance codes,” he continues. “Colour is not decoration. It is the design language itself.” For DUNE, he went with “a burnished cognac caramel, complemented by a powdery blush rose, anchored by a luscious cherry red.” For THORN, he came up with “a rich black-cherry aubergine, mixed with an electric fuchsia pink, highlighted with an acid chartreuse green.” For PETAL, he chose “an opulent moss green, contrasting with a misty Wedgwood blue, tempered with a dusty mauve lavender.”"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-04.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-05.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“I drew inspiration for each palette from the evocative power of the fragrance names themselves. I created a very personal mental image for each name and went on to illustrate that vision,” Atlan details. “I was influenced, in no particular order, by Italian Renaissance paintings, dishes created by my favourite chefs around the world, lucha libre masks, vintage Formula 1 racing suits, flea-market fishing lures, Japanese candy wrappers, and hues from my wife’s jewellery box. I have always believed in leaving enough room in the design process for what I call ‘happy accidents.’ Sometimes, an unexpected combination immediately creates an energy that you could never have conceived intellectually.”"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The saturated colour sits on a minimal, highly structured packaging system. “My approach was to treat the deodorant and body wash as two different canvases governed by the same visual grammar,” Atlan explains. Each deodorant is made from three parts – the body, cap and dial. “The particular geometry of the deodorant screamed for three distinct colours. All three components had to be customised anyway, so why not push it one step further and give each one its own colour?” he continues. “I chose the body colour first, complemented it with the cap hue, and then introduced a contrasting note for the dial. I thought of that third colour almost like bold eyeliner in makeup.”"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-07.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-06.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“I elected to retain Benton, the primary Corpus typeface, as well as much of its distinctive typographic structure,” Atlan details. “I wanted the surprise to come from the colours, not from the typography, so I introduced Times New Roman as a secondary typeface, primarily for headlines and titles in communications beyond the packaging. The familiarity and ubiquity of Times create a grounding counterpoint to the severity and precision of Benton without competing with it.”"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“For as long as I can remember, I have wanted to design packaging that is truly mass and truly popular,” he tells us. “This was not an object that could rely on the reverential display it would receive in a luxury boutique. It had to communicate immediately in a large retail environment, from a distance, surrounded by hundreds of competing products,” he continues. “Colour without apology. Beauty for everyone.”"
+        }
+      ],
+      "caseStudyText": "CHROMA by Corpus is an aluminium-free deodorant and a moisturising body wash, sold in three fragrances with a trio of colours each. Where its parent brand Corpus is quiet, premium body care built on mint green, CHROMA was made for mass retail, debuting through Target Beauty Studio in 611 locations. “I wanted to explore a more expressive world of fragrance and colour, but I did not want to change Corpus in order to do it,” Founder Jean-Pierre Mastey explains.\n\nMastey commissioned the packaging design from Marc Atlan – a close friend whom he has known for almost 20 years. CHROMA is Greek for colour. “As soon as I heard the brand name, I felt that the design was contained within the name itself. The word gave me the brief,” Atlan tells us. “The physical packaging architecture was already established, but very little else was fixed. The brief was really about using colour in a way that felt unexpected for body care – expressive and emotional, but still disciplined,” Mastey notes.\n\n“Corpus had established a recognisable visual world around its distinctive mint green,” Atlan details. “Additional colours had been explored, but they remained within that same muted, soft and delicate territory. For CHROMA, that felt simply too timid.” “I thought it should be ‘A Celebration of Colour.’ An unapologetic celebration not of one colour, but of all of them. The main idea was to use colour as a language,” he continues. “Beauty and fragrance have historically used colour as a shortcut. Certain colours are coded as feminine, others as masculine,” he adds. “Pink tells you one story, blue a different one. None of that interested me.”\n\nThe three fragrances are DUNE, THORN and PETAL. “A fragrance is never really one note, so it felt wrong to reduce each scent to one colour,” Atlan explains. “I approached them almost as three different colour compositions rather than three conventional fragrance codes,” he continues. “Colour is not decoration. It is the design language itself.” For DUNE, he went with “a burnished cognac caramel, complemented by a powdery blush rose, anchored by a luscious cherry red.” For THORN, he came up with “a rich black-cherry aubergine, mixed with an electric fuchsia pink, highlighted with an acid chartreuse green.” For PETAL, he chose “an opulent moss green, contrasting with a misty Wedgwood blue, tempered with a dusty mauve lavender.”\n\n“I drew inspiration for each palette from the evocative power of the fragrance names themselves. I created a very personal mental image for each name and went on to illustrate that vision,” Atlan details. “I was influenced, in no particular order, by Italian Renaissance paintings, dishes created by my favourite chefs around the world, lucha libre masks, vintage Formula 1 racing suits, flea-market fishing lures, Japanese candy wrappers, and hues from my wife’s jewellery box. I have always believed in leaving enough room in the design process for what I call ‘happy accidents.’ Sometimes, an unexpected combination immediately creates an energy that you could never have conceived intellectually.”\n\nThe saturated colour sits on a minimal, highly structured packaging system. “My approach was to treat the deodorant and body wash as two different canvases governed by the same visual grammar,” Atlan explains. Each deodorant is made from three parts – the body, cap and dial. “The particular geometry of the deodorant screamed for three distinct colours. All three components had to be customised anyway, so why not push it one step further and give each one its own colour?” he continues. “I chose the body colour first, complemented it with the cap hue, and then introduced a contrasting note for the dial. I thought of that third colour almost like bold eyeliner in makeup.”\n\n“I elected to retain Benton, the primary Corpus typeface, as well as much of its distinctive typographic structure,” Atlan details. “I wanted the surprise to come from the colours, not from the typography, so I introduced Times New Roman as a secondary typeface, primarily for headlines and titles in communications beyond the packaging. The familiarity and ubiquity of Times create a grounding counterpoint to the severity and precision of Benton without competing with it.”\n\n“For as long as I can remember, I have wanted to design packaging that is truly mass and truly popular,” he tells us. “This was not an object that could rely on the reverential display it would receive in a luxury boutique. It had to communicate immediately in a large retail environment, from a distance, surrounded by hundreds of competing products,” he continues. “Colour without apology. Beauty for everyone.”",
+      "caseStudyMedia": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-01.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-02.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-03.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-04.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-05.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-07.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-06.jpg"
+        }
+      ]
+    },
+    {
+      "canonicalUrl": "https://the-brandidentity.com/project/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo",
+      "titleOriginal": "Polar is its own client at P.A.C., an artisanal bakery in São Paulo",
+      "textOriginal": "P.A.C. is an artisanal bakery in São Paulo with a menu that changes week to week. Polar, Ltda. created its identity to change just as often, across the packaging, ceramics, printed menus and the space itself. The Brazilian design studio has four partners. Two of them – Founders & Creative Directors Bruno Ribeiro and Ralph Mayer – are also partners in the bakery, while the other two are regulars there as well.\n\n“When we started P.A.C., there wasn’t really a brand yet,” Ribeiro tells us. “There was the bakery, the sourdough starter, a space taking shape and a lot of enthusiasm around bread, but none of us had experience running a professional kitchen.” The menu, service and space were also still being worked out, and the identity had to change as they did. “We knew things were going to change a lot in the beginning,” Mayer explains, “so we didn’t want to create something that felt finished too early. The identity needed to be flexible enough to adapt as we learned what P.A.C. was going to become.”",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-01.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-01.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "P.A.C. is an artisanal bakery in São Paulo with a menu that changes week to week. Polar, Ltda. created its identity to change just as often, across the packaging, ceramics, printed menus and the space itself. The Brazilian design studio has four partners. Two of them – Founders & Creative Directors Bruno Ribeiro and Ralph Mayer – are also partners in the bakery, while the other two are regulars there as well."
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-02.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“When we started P.A.C., there wasn’t really a brand yet,” Ribeiro tells us. “There was the bakery, the sourdough starter, a space taking shape and a lot of enthusiasm around bread, but none of us had experience running a professional kitchen.” The menu, service and space were also still being worked out, and the identity had to change as they did. “We knew things were going to change a lot in the beginning,” Mayer explains, “so we didn’t want to create something that felt finished too early. The identity needed to be flexible enough to adapt as we learned what P.A.C. was going to become.”"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-03.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-04.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“We don’t really have the distance you would normally have between a studio and a client, so decisions and feedback happen very quickly,” Ribeiro notes. “It also gives us more freedom to test things that might be harder to introduce in a more traditional client relationship.” That closeness lets the identity keep changing. Polar designed all the assets, from uniforms to bathroom signage and counter labels. “Most of it was made in-house and often in response to what we needed at the time,” Mayer details. “That was important to us because it meant we could keep making and changing things as the bakery evolved, instead of having to define everything in advance.”"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-06.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-07.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Polar keeps two typefaces fixed so that everything else can change: Muhittin Güneş’s Gronland and Kyiv Type Foundry’s KTF Rublena. “The identity started with Gronland, a typeface that felt reliable and quiet, but still had some character,” Ribeiro explains. “The two typefaces ended up working in different directions, with Gronland handling the more everyday, structural applications and Rublena bringing more personality and recognition to the identity.” Polar added Rublena later, as the bakery grew. “Rublena gave the identity a face of its own,” Mayer notes. “It has a certain weight and presence that makes something feel like P.A.C. even before you read the name. Typography became one of the main anchors of the identity, more than the logo or the colour palette.”"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-05.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-09.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "For four years, Polar has worked with illustrator Beatriz Batisteli on drawings that go from a paper bag to a wall. Her playful and direct linework is plain and open in some cases, while others build it into dense, abstract compositions. Many of them are as much about the people around P.A.C. as about what it sells. “Bia is a close friend and has been around since the beginning,” Ribeiro tells us. “She lives near the bakery and is very much part of the community, so her drawings naturally come from that context.”"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-08.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Polar designs the weekend menus for a receipt printer. The slips are monochrome, coarse in resolution and on paper with a low opacity, printed on demand and lasting a single weekend. The bakery puts out new breads, pastries and specials every week. “The menus, illustrations and other printed pieces can be different from one week to the next,” Mayer explains, “but they still follow the same overall approach. It feels closer to making a series of small publications than maintaining a fixed set of branded assets.” People take a lot of the menus home with them. “It’s a bit of a problem from the bakery’s point of view, but as designers, we find it pretty amusing,” Ribeiro concludes."
+        }
+      ],
+      "caseStudyText": "P.A.C. is an artisanal bakery in São Paulo with a menu that changes week to week. Polar, Ltda. created its identity to change just as often, across the packaging, ceramics, printed menus and the space itself. The Brazilian design studio has four partners. Two of them – Founders & Creative Directors Bruno Ribeiro and Ralph Mayer – are also partners in the bakery, while the other two are regulars there as well.\n\n“When we started P.A.C., there wasn’t really a brand yet,” Ribeiro tells us. “There was the bakery, the sourdough starter, a space taking shape and a lot of enthusiasm around bread, but none of us had experience running a professional kitchen.” The menu, service and space were also still being worked out, and the identity had to change as they did. “We knew things were going to change a lot in the beginning,” Mayer explains, “so we didn’t want to create something that felt finished too early. The identity needed to be flexible enough to adapt as we learned what P.A.C. was going to become.”\n\n“We don’t really have the distance you would normally have between a studio and a client, so decisions and feedback happen very quickly,” Ribeiro notes. “It also gives us more freedom to test things that might be harder to introduce in a more traditional client relationship.” That closeness lets the identity keep changing. Polar designed all the assets, from uniforms to bathroom signage and counter labels. “Most of it was made in-house and often in response to what we needed at the time,” Mayer details. “That was important to us because it meant we could keep making and changing things as the bakery evolved, instead of having to define everything in advance.”\n\nPolar keeps two typefaces fixed so that everything else can change: Muhittin Güneş’s Gronland and Kyiv Type Foundry’s KTF Rublena. “The identity started with Gronland, a typeface that felt reliable and quiet, but still had some character,” Ribeiro explains. “The two typefaces ended up working in different directions, with Gronland handling the more everyday, structural applications and Rublena bringing more personality and recognition to the identity.” Polar added Rublena later, as the bakery grew. “Rublena gave the identity a face of its own,” Mayer notes. “It has a certain weight and presence that makes something feel like P.A.C. even before you read the name. Typography became one of the main anchors of the identity, more than the logo or the colour palette.”\n\nFor four years, Polar has worked with illustrator Beatriz Batisteli on drawings that go from a paper bag to a wall. Her playful and direct linework is plain and open in some cases, while others build it into dense, abstract compositions. Many of them are as much about the people around P.A.C. as about what it sells. “Bia is a close friend and has been around since the beginning,” Ribeiro tells us. “She lives near the bakery and is very much part of the community, so her drawings naturally come from that context.”\n\nPolar designs the weekend menus for a receipt printer. The slips are monochrome, coarse in resolution and on paper with a low opacity, printed on demand and lasting a single weekend. The bakery puts out new breads, pastries and specials every week. “The menus, illustrations and other printed pieces can be different from one week to the next,” Mayer explains, “but they still follow the same overall approach. It feels closer to making a series of small publications than maintaining a fixed set of branded assets.” People take a lot of the menus home with them. “It’s a bit of a problem from the bakery’s point of view, but as designers, we find it pretty amusing,” Ribeiro concludes.",
+      "caseStudyMedia": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-01.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-02.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-03.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-04.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-06.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-07.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-05.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-09.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-08.mp4"
+        }
+      ]
+    },
+    {
       "canonicalUrl": "https://the-brandidentity.com/project/under-afters-nurture-identity-blends-hand-drawn-and-generative-design",
       "titleOriginal": "Under After’s Nurture identity blends hand-drawn and generative design",
       "textOriginal": "Nurture builds the infrastructure for epigenomics – the science of the chemical tags and structural changes across a genome that control gene expression without altering the DNA beneath them. Its tools read the epigenome, software interprets it, and systems remodel it. The customers are biology companies, and within them, the scientists who handle epigenomic data. Tellus is the company’s platform. For the brand strategy and identity, Nurture’s founders turned to New York-based creative studio Under After .\n\n“All of our brand work started with a story of what we wanted to build, how we saw the world and the narratives we used to translate the deep technical concepts to a general audience. We didn’t have any pre-existing brand content to build on,” Co-founder & CEO Chuck Frazier tells us. The company works across all of biology, from plants and fungi to human health. “Our brand captures the magic of why the epigenome is a powerful layer of biology: it is the layer where all organisms adapt and encode memory,” Co-founder & CTO Savannah Dearden explains.",
@@ -2458,896 +3348,6 @@ const snapshot={
         {
           "type": "video",
           "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-06.mp4"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance",
-      "titleOriginal": "For fatty15’s AFEX packaging, Design Dept® looked to fine fragrance",
-      "textOriginal": "fatty15 is a supplement brand from Seraphina Therapeutics, built on the fatty acid C15:0 and positioned on healthy ageing at the cellular level. Healthcare providers had been asking the company for a supplement that they could give their patients, so it developed AFEX, or Advanced Formula Extra Strength – a provider-specific version at a higher dose. Los Angeles-based studio Design Dept® had designed the original fatty15 packaging. For AFEX, the studio was commissioned again, and the brief was an initial kit with a refillable bottle and a refill design.\n\nAFEX was made for healthcare professionals and high-end wellness environments, so the packaging had to be credible to a clinician. “We looked to fine fragrance because the best fragrance houses use packaging to express the product before you ever experience what’s inside. They obsess over materiality, colour, proportion, weight and the ritual of opening the package,” Founder & Creative Director Ali Martín Carrillo Filsoof tells us. “fatty15 is fundamentally about strengthening and supporting our cells, so the cellular reference felt like a natural place to begin.”",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-01.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-01.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "fatty15 is a supplement brand from Seraphina Therapeutics, built on the fatty acid C15:0 and positioned on healthy ageing at the cellular level. Healthcare providers had been asking the company for a supplement that they could give their patients, so it developed AFEX, or Advanced Formula Extra Strength – a provider-specific version at a higher dose. Los Angeles-based studio Design Dept® had designed the original fatty15 packaging. For AFEX, the studio was commissioned again, and the brief was an initial kit with a refillable bottle and a refill design."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-05.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-04.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "AFEX was made for healthcare professionals and high-end wellness environments, so the packaging had to be credible to a clinician. “We looked to fine fragrance because the best fragrance houses use packaging to express the product before you ever experience what’s inside. They obsess over materiality, colour, proportion, weight and the ritual of opening the package,” Founder & Creative Director Ali Martín Carrillo Filsoof tells us. “fatty15 is fundamentally about strengthening and supporting our cells, so the cellular reference felt like a natural place to begin.”"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“The bottle isn’t something you buy, empty and throw away every month. It’s an object you keep and refill with fresh Pure C15:0 capsules,” Filsoof continues. “The challenge was bringing the beauty, permanence and ritual of fine fragrance into the experience without sacrificing scientific credibility.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-07.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-06.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The bottle is recyclable glass, its label textured and reduced to the essentials, its cap reusable. “We started by looking at the cap at roughly 50% of the height of the superflint glass vessel, then pushed that proportion until it was almost equal to the height of the glass itself,” Filsoof details. “The cap stopped feeling like a closure and became something novel and ownable to fatty15.” A cap that size gives a generous grip, so the bottle is easier to open. The cap’s rounded shape subtly references the structure of a human cell. “We wanted the science to inform the form without illustrating it,” he adds. The cap is natural walnut. “It gives each bottle individuality and warmth, creating an intentional contrast with the precision of the superflint glass and the clinical science behind fatty15.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-02-new.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-03.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The kit’s box is telescoping and rigid, finished in a deep moss green. The lid lifts away and the front panel folds forward, revealing the bottle on a raised platform. “We live in a world where we’re constantly overstimulated by our digital devices,” Filsoof tells us, “so we wanted to create an unboxing ritual that deliberately slows you down and introduces a sense of ceremony to the experience.” Underneath, a drawer holds refill pouches, educational materials and a short poem. Filsoof wrote the poem, which is about cells, light, health and a brighter path forward. “It’s a reminder that behind all of the research, data and science is something very human: helping people live healthier, longer lives,” notes Seraphina Therapeutics’ Co-CEO & Co-founder Eric Venn-Watson."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-08.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-09.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Across the AFEX system, a graphic language of cellular shapes and patterns is derived from the cap’s silhouette. The cover of the educational booklet is die-cut in the same outline. Milieu Grotesque’s sans serif Maison Neue is the foundation of the system. “Its clarity and neutrality give the information structure and credibility, which was especially important with such restrained labelling,” Filsoof details. Meanwhile, Maison Neue Mono appears across the educational collateral. “With so few elements on the packaging, every typographic decision becomes more visible. Rather than adding more graphics to communicate science, we let the typography do much of that work,” he concludes."
-        }
-      ],
-      "caseStudyText": "fatty15 is a supplement brand from Seraphina Therapeutics, built on the fatty acid C15:0 and positioned on healthy ageing at the cellular level. Healthcare providers had been asking the company for a supplement that they could give their patients, so it developed AFEX, or Advanced Formula Extra Strength – a provider-specific version at a higher dose. Los Angeles-based studio Design Dept® had designed the original fatty15 packaging. For AFEX, the studio was commissioned again, and the brief was an initial kit with a refillable bottle and a refill design.\n\nAFEX was made for healthcare professionals and high-end wellness environments, so the packaging had to be credible to a clinician. “We looked to fine fragrance because the best fragrance houses use packaging to express the product before you ever experience what’s inside. They obsess over materiality, colour, proportion, weight and the ritual of opening the package,” Founder & Creative Director Ali Martín Carrillo Filsoof tells us. “fatty15 is fundamentally about strengthening and supporting our cells, so the cellular reference felt like a natural place to begin.”\n\n“The bottle isn’t something you buy, empty and throw away every month. It’s an object you keep and refill with fresh Pure C15:0 capsules,” Filsoof continues. “The challenge was bringing the beauty, permanence and ritual of fine fragrance into the experience without sacrificing scientific credibility.”\n\nThe bottle is recyclable glass, its label textured and reduced to the essentials, its cap reusable. “We started by looking at the cap at roughly 50% of the height of the superflint glass vessel, then pushed that proportion until it was almost equal to the height of the glass itself,” Filsoof details. “The cap stopped feeling like a closure and became something novel and ownable to fatty15.” A cap that size gives a generous grip, so the bottle is easier to open. The cap’s rounded shape subtly references the structure of a human cell. “We wanted the science to inform the form without illustrating it,” he adds. The cap is natural walnut. “It gives each bottle individuality and warmth, creating an intentional contrast with the precision of the superflint glass and the clinical science behind fatty15.”\n\nThe kit’s box is telescoping and rigid, finished in a deep moss green. The lid lifts away and the front panel folds forward, revealing the bottle on a raised platform. “We live in a world where we’re constantly overstimulated by our digital devices,” Filsoof tells us, “so we wanted to create an unboxing ritual that deliberately slows you down and introduces a sense of ceremony to the experience.” Underneath, a drawer holds refill pouches, educational materials and a short poem. Filsoof wrote the poem, which is about cells, light, health and a brighter path forward. “It’s a reminder that behind all of the research, data and science is something very human: helping people live healthier, longer lives,” notes Seraphina Therapeutics’ Co-CEO & Co-founder Eric Venn-Watson.\n\nAcross the AFEX system, a graphic language of cellular shapes and patterns is derived from the cap’s silhouette. The cover of the educational booklet is die-cut in the same outline. Milieu Grotesque’s sans serif Maison Neue is the foundation of the system. “Its clarity and neutrality give the information structure and credibility, which was especially important with such restrained labelling,” Filsoof details. Meanwhile, Maison Neue Mono appears across the educational collateral. “With so few elements on the packaging, every typographic decision becomes more visible. Rather than adding more graphics to communicate science, we let the typography do much of that work,” he concludes.",
-      "caseStudyMedia": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-01.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-05.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-04.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-07.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-06.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-02-new.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-03.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-08.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-09.jpg"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/how-faena-studio-based-alternas-identity-on-a-living-journal",
-      "titleOriginal": "How FAENA Studio based Alterna’s identity on a ‘living journal’",
-      "textOriginal": "Mexico City-based FAENA Studio was commissioned to design the identity for Alterna, a contemporary fine-dining restaurant in the city’s Colonia Condesa neighborhood that brings Italian-rooted cooking together with international influences, Mexican ingredients and the changing seasons.\n\n“The name comes from the fact that it is our alternate proposal. Within our portfolio of brands, we already had a restaurant, a trattoria and a wine bar; Alterna would be a new project, completely different from anything we had done so far,” explain the Cesarano brothers – the owners of Alterna, who come from a family of restaurateurs who have helped shape the Italian dining scene in Mexico City. Faena Studio’s task was “to build a brand that presented itself boldly, without shyness, and at the same time, with sobriety and restraint,” he tells us. “We wanted it to reflect our cuisine and our space.”",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/13632225.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-01.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "Mexico City-based FAENA Studio was commissioned to design the identity for Alterna, a contemporary fine-dining restaurant in the city’s Colonia Condesa neighborhood that brings Italian-rooted cooking together with international influences, Mexican ingredients and the changing seasons."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-02.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“The name comes from the fact that it is our alternate proposal. Within our portfolio of brands, we already had a restaurant, a trattoria and a wine bar; Alterna would be a new project, completely different from anything we had done so far,” explain the Cesarano brothers – the owners of Alterna, who come from a family of restaurateurs who have helped shape the Italian dining scene in Mexico City. Faena Studio’s task was “to build a brand that presented itself boldly, without shyness, and at the same time, with sobriety and restraint,” he tells us. “We wanted it to reflect our cuisine and our space.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-04_2026-10-02-040255_udfy.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-09.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "FAENA Studio’s Design Director Hugo Villa explains that they “started from an elegant typographic base and altered the direction of some strokes, especially in the ‘e’ and the final ‘a.’ Thus, the idea of alternating appears within the wordmark itself: the letters change direction at certain moments, but the logo maintains its balance.” In the studio’s reading, the wordmark’s changes of direction also represent how “Alterna’s Italian foundations take on new character in their Mexican context.” The monogram, Villa notes, “was built from the abbreviation of Alterna, taking cues from classic monograms. We sought to convey character and personality, reinterpreting that language in a contemporary context.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-03.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Beyond the name, FAENA Studio built the wider system around the idea of Alterna as a ‘living journal,’ whose entries are its dishes and services, each of which “marks a moment in the restaurant’s evolution, shaped by the season, the kitchen’s observations and the ideas it chooses to pursue.” The journal, the studio explains, is a way to “notice what changes from one season to the next” and to “trace an idea from its origins to the plate.” “The visual language is built to hold those entries.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-08.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-07.png"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "For Alterna’s typography, FAENA Studio chose GT Pantheon Micro, an editorial serif with classic proportions, fine strokes and defined terminals, whose “humanist gestures,” Villa tells us, “add warmth and help build a system that expresses Alterna’s duality between rigour and sensitivity.” On the palette, he adds that “we used muted tones as a base and reserved vibrant ones to highlight information or bring energy to the composition. In particular, orange served as an accent to call out key details.” The result is “a flexible identity that feels familiar without belonging to a single place or era.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-05.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "In the studio’s words, Alterna’s menus, images and printed pieces “become pages of this same journal,” together documenting “a restaurant in motion always changing.” FAENA Studio’s Archive & Content Coordinator Regina Ochoa describes how “printed and handwritten pieces are underlined, and small notes are added to evoke a personal log, as if each piece held traces of what is observed and happens at Alterna.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-06_2026-10-02-040351_vpbe.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The journal is also, as FAENA Studio puts it, “the way the project is documented.” For its own case study of Alterna, the studio combined mixed media with photographs and footage of the space and food by Comedor.Studios, a photography and film studio with a culinary focus. FAENA Studio describes the identity’s photography as editorial, and its compositions as having “moments of controlled spontaneity.” “The photographs were key to telling the story,” Ochoa tells us, “as they allowed us to imagine how the dishes are created and developed. From them, we did a visual exercise: we imagined that the printed photos were part of a logbook where the chefs recorded their creative process.”"
-        }
-      ],
-      "caseStudyText": "Mexico City-based FAENA Studio was commissioned to design the identity for Alterna, a contemporary fine-dining restaurant in the city’s Colonia Condesa neighborhood that brings Italian-rooted cooking together with international influences, Mexican ingredients and the changing seasons.\n\n“The name comes from the fact that it is our alternate proposal. Within our portfolio of brands, we already had a restaurant, a trattoria and a wine bar; Alterna would be a new project, completely different from anything we had done so far,” explain the Cesarano brothers – the owners of Alterna, who come from a family of restaurateurs who have helped shape the Italian dining scene in Mexico City. Faena Studio’s task was “to build a brand that presented itself boldly, without shyness, and at the same time, with sobriety and restraint,” he tells us. “We wanted it to reflect our cuisine and our space.”\n\nFAENA Studio’s Design Director Hugo Villa explains that they “started from an elegant typographic base and altered the direction of some strokes, especially in the ‘e’ and the final ‘a.’ Thus, the idea of alternating appears within the wordmark itself: the letters change direction at certain moments, but the logo maintains its balance.” In the studio’s reading, the wordmark’s changes of direction also represent how “Alterna’s Italian foundations take on new character in their Mexican context.” The monogram, Villa notes, “was built from the abbreviation of Alterna, taking cues from classic monograms. We sought to convey character and personality, reinterpreting that language in a contemporary context.”\n\nBeyond the name, FAENA Studio built the wider system around the idea of Alterna as a ‘living journal,’ whose entries are its dishes and services, each of which “marks a moment in the restaurant’s evolution, shaped by the season, the kitchen’s observations and the ideas it chooses to pursue.” The journal, the studio explains, is a way to “notice what changes from one season to the next” and to “trace an idea from its origins to the plate.” “The visual language is built to hold those entries.”\n\nFor Alterna’s typography, FAENA Studio chose GT Pantheon Micro, an editorial serif with classic proportions, fine strokes and defined terminals, whose “humanist gestures,” Villa tells us, “add warmth and help build a system that expresses Alterna’s duality between rigour and sensitivity.” On the palette, he adds that “we used muted tones as a base and reserved vibrant ones to highlight information or bring energy to the composition. In particular, orange served as an accent to call out key details.” The result is “a flexible identity that feels familiar without belonging to a single place or era.”\n\nIn the studio’s words, Alterna’s menus, images and printed pieces “become pages of this same journal,” together documenting “a restaurant in motion always changing.” FAENA Studio’s Archive & Content Coordinator Regina Ochoa describes how “printed and handwritten pieces are underlined, and small notes are added to evoke a personal log, as if each piece held traces of what is observed and happens at Alterna.”\n\nThe journal is also, as FAENA Studio puts it, “the way the project is documented.” For its own case study of Alterna, the studio combined mixed media with photographs and footage of the space and food by Comedor.Studios, a photography and film studio with a culinary focus. FAENA Studio describes the identity’s photography as editorial, and its compositions as having “moments of controlled spontaneity.” “The photographs were key to telling the story,” Ochoa tells us, “as they allowed us to imagine how the dishes are created and developed. From them, we did a visual exercise: we imagined that the printed photos were part of a logbook where the chefs recorded their creative process.”",
-      "caseStudyMedia": [
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-01.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-02.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-04_2026-10-02-040255_udfy.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-09.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-03.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-08.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-07.png"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-05.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-06_2026-10-02-040351_vpbe.jpg"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores",
-      "titleOriginal": "CHROMA’s packaging by Marc Atlan is made to work in Target’s stores",
-      "textOriginal": "CHROMA by Corpus is an aluminium-free deodorant and a moisturising body wash, sold in three fragrances with a trio of colours each. Where its parent brand Corpus is quiet, premium body care built on mint green, CHROMA was made for mass retail, debuting through Target Beauty Studio in 611 locations. “I wanted to explore a more expressive world of fragrance and colour, but I did not want to change Corpus in order to do it,” Founder Jean-Pierre Mastey explains.\n\nMastey commissioned the packaging design from Marc Atlan – a close friend whom he has known for almost 20 years. CHROMA is Greek for colour. “As soon as I heard the brand name, I felt that the design was contained within the name itself. The word gave me the brief,” Atlan tells us. “The physical packaging architecture was already established, but very little else was fixed. The brief was really about using colour in a way that felt unexpected for body care – expressive and emotional, but still disciplined,” Mastey notes.",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-01.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-01.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "CHROMA by Corpus is an aluminium-free deodorant and a moisturising body wash, sold in three fragrances with a trio of colours each. Where its parent brand Corpus is quiet, premium body care built on mint green, CHROMA was made for mass retail, debuting through Target Beauty Studio in 611 locations. “I wanted to explore a more expressive world of fragrance and colour, but I did not want to change Corpus in order to do it,” Founder Jean-Pierre Mastey explains."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-02.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-03.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Mastey commissioned the packaging design from Marc Atlan – a close friend whom he has known for almost 20 years. CHROMA is Greek for colour. “As soon as I heard the brand name, I felt that the design was contained within the name itself. The word gave me the brief,” Atlan tells us. “The physical packaging architecture was already established, but very little else was fixed. The brief was really about using colour in a way that felt unexpected for body care – expressive and emotional, but still disciplined,” Mastey notes."
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“Corpus had established a recognisable visual world around its distinctive mint green,” Atlan details. “Additional colours had been explored, but they remained within that same muted, soft and delicate territory. For CHROMA, that felt simply too timid.” “I thought it should be ‘A Celebration of Colour.’ An unapologetic celebration not of one colour, but of all of them. The main idea was to use colour as a language,” he continues. “Beauty and fragrance have historically used colour as a shortcut. Certain colours are coded as feminine, others as masculine,” he adds. “Pink tells you one story, blue a different one. None of that interested me.”"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The three fragrances are DUNE, THORN and PETAL. “A fragrance is never really one note, so it felt wrong to reduce each scent to one colour,” Atlan explains. “I approached them almost as three different colour compositions rather than three conventional fragrance codes,” he continues. “Colour is not decoration. It is the design language itself.” For DUNE, he went with “a burnished cognac caramel, complemented by a powdery blush rose, anchored by a luscious cherry red.” For THORN, he came up with “a rich black-cherry aubergine, mixed with an electric fuchsia pink, highlighted with an acid chartreuse green.” For PETAL, he chose “an opulent moss green, contrasting with a misty Wedgwood blue, tempered with a dusty mauve lavender.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-04.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-05.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“I drew inspiration for each palette from the evocative power of the fragrance names themselves. I created a very personal mental image for each name and went on to illustrate that vision,” Atlan details. “I was influenced, in no particular order, by Italian Renaissance paintings, dishes created by my favourite chefs around the world, lucha libre masks, vintage Formula 1 racing suits, flea-market fishing lures, Japanese candy wrappers, and hues from my wife’s jewellery box. I have always believed in leaving enough room in the design process for what I call ‘happy accidents.’ Sometimes, an unexpected combination immediately creates an energy that you could never have conceived intellectually.”"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The saturated colour sits on a minimal, highly structured packaging system. “My approach was to treat the deodorant and body wash as two different canvases governed by the same visual grammar,” Atlan explains. Each deodorant is made from three parts – the body, cap and dial. “The particular geometry of the deodorant screamed for three distinct colours. All three components had to be customised anyway, so why not push it one step further and give each one its own colour?” he continues. “I chose the body colour first, complemented it with the cap hue, and then introduced a contrasting note for the dial. I thought of that third colour almost like bold eyeliner in makeup.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-07.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-06.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“I elected to retain Benton, the primary Corpus typeface, as well as much of its distinctive typographic structure,” Atlan details. “I wanted the surprise to come from the colours, not from the typography, so I introduced Times New Roman as a secondary typeface, primarily for headlines and titles in communications beyond the packaging. The familiarity and ubiquity of Times create a grounding counterpoint to the severity and precision of Benton without competing with it.”"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“For as long as I can remember, I have wanted to design packaging that is truly mass and truly popular,” he tells us. “This was not an object that could rely on the reverential display it would receive in a luxury boutique. It had to communicate immediately in a large retail environment, from a distance, surrounded by hundreds of competing products,” he continues. “Colour without apology. Beauty for everyone.”"
-        }
-      ],
-      "caseStudyText": "CHROMA by Corpus is an aluminium-free deodorant and a moisturising body wash, sold in three fragrances with a trio of colours each. Where its parent brand Corpus is quiet, premium body care built on mint green, CHROMA was made for mass retail, debuting through Target Beauty Studio in 611 locations. “I wanted to explore a more expressive world of fragrance and colour, but I did not want to change Corpus in order to do it,” Founder Jean-Pierre Mastey explains.\n\nMastey commissioned the packaging design from Marc Atlan – a close friend whom he has known for almost 20 years. CHROMA is Greek for colour. “As soon as I heard the brand name, I felt that the design was contained within the name itself. The word gave me the brief,” Atlan tells us. “The physical packaging architecture was already established, but very little else was fixed. The brief was really about using colour in a way that felt unexpected for body care – expressive and emotional, but still disciplined,” Mastey notes.\n\n“Corpus had established a recognisable visual world around its distinctive mint green,” Atlan details. “Additional colours had been explored, but they remained within that same muted, soft and delicate territory. For CHROMA, that felt simply too timid.” “I thought it should be ‘A Celebration of Colour.’ An unapologetic celebration not of one colour, but of all of them. The main idea was to use colour as a language,” he continues. “Beauty and fragrance have historically used colour as a shortcut. Certain colours are coded as feminine, others as masculine,” he adds. “Pink tells you one story, blue a different one. None of that interested me.”\n\nThe three fragrances are DUNE, THORN and PETAL. “A fragrance is never really one note, so it felt wrong to reduce each scent to one colour,” Atlan explains. “I approached them almost as three different colour compositions rather than three conventional fragrance codes,” he continues. “Colour is not decoration. It is the design language itself.” For DUNE, he went with “a burnished cognac caramel, complemented by a powdery blush rose, anchored by a luscious cherry red.” For THORN, he came up with “a rich black-cherry aubergine, mixed with an electric fuchsia pink, highlighted with an acid chartreuse green.” For PETAL, he chose “an opulent moss green, contrasting with a misty Wedgwood blue, tempered with a dusty mauve lavender.”\n\n“I drew inspiration for each palette from the evocative power of the fragrance names themselves. I created a very personal mental image for each name and went on to illustrate that vision,” Atlan details. “I was influenced, in no particular order, by Italian Renaissance paintings, dishes created by my favourite chefs around the world, lucha libre masks, vintage Formula 1 racing suits, flea-market fishing lures, Japanese candy wrappers, and hues from my wife’s jewellery box. I have always believed in leaving enough room in the design process for what I call ‘happy accidents.’ Sometimes, an unexpected combination immediately creates an energy that you could never have conceived intellectually.”\n\nThe saturated colour sits on a minimal, highly structured packaging system. “My approach was to treat the deodorant and body wash as two different canvases governed by the same visual grammar,” Atlan explains. Each deodorant is made from three parts – the body, cap and dial. “The particular geometry of the deodorant screamed for three distinct colours. All three components had to be customised anyway, so why not push it one step further and give each one its own colour?” he continues. “I chose the body colour first, complemented it with the cap hue, and then introduced a contrasting note for the dial. I thought of that third colour almost like bold eyeliner in makeup.”\n\n“I elected to retain Benton, the primary Corpus typeface, as well as much of its distinctive typographic structure,” Atlan details. “I wanted the surprise to come from the colours, not from the typography, so I introduced Times New Roman as a secondary typeface, primarily for headlines and titles in communications beyond the packaging. The familiarity and ubiquity of Times create a grounding counterpoint to the severity and precision of Benton without competing with it.”\n\n“For as long as I can remember, I have wanted to design packaging that is truly mass and truly popular,” he tells us. “This was not an object that could rely on the reverential display it would receive in a luxury boutique. It had to communicate immediately in a large retail environment, from a distance, surrounded by hundreds of competing products,” he continues. “Colour without apology. Beauty for everyone.”",
-      "caseStudyMedia": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-01.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-02.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-03.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-04.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-05.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-07.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-06.jpg"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo",
-      "titleOriginal": "Polar is its own client at P.A.C., an artisanal bakery in São Paulo",
-      "textOriginal": "P.A.C. is an artisanal bakery in São Paulo with a menu that changes week to week. Polar, Ltda. created its identity to change just as often, across the packaging, ceramics, printed menus and the space itself. The Brazilian design studio has four partners. Two of them – Founders & Creative Directors Bruno Ribeiro and Ralph Mayer – are also partners in the bakery, while the other two are regulars there as well.\n\n“When we started P.A.C., there wasn’t really a brand yet,” Ribeiro tells us. “There was the bakery, the sourdough starter, a space taking shape and a lot of enthusiasm around bread, but none of us had experience running a professional kitchen.” The menu, service and space were also still being worked out, and the identity had to change as they did. “We knew things were going to change a lot in the beginning,” Mayer explains, “so we didn’t want to create something that felt finished too early. The identity needed to be flexible enough to adapt as we learned what P.A.C. was going to become.”",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-01.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-01.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "P.A.C. is an artisanal bakery in São Paulo with a menu that changes week to week. Polar, Ltda. created its identity to change just as often, across the packaging, ceramics, printed menus and the space itself. The Brazilian design studio has four partners. Two of them – Founders & Creative Directors Bruno Ribeiro and Ralph Mayer – are also partners in the bakery, while the other two are regulars there as well."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-02.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“When we started P.A.C., there wasn’t really a brand yet,” Ribeiro tells us. “There was the bakery, the sourdough starter, a space taking shape and a lot of enthusiasm around bread, but none of us had experience running a professional kitchen.” The menu, service and space were also still being worked out, and the identity had to change as they did. “We knew things were going to change a lot in the beginning,” Mayer explains, “so we didn’t want to create something that felt finished too early. The identity needed to be flexible enough to adapt as we learned what P.A.C. was going to become.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-03.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-04.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“We don’t really have the distance you would normally have between a studio and a client, so decisions and feedback happen very quickly,” Ribeiro notes. “It also gives us more freedom to test things that might be harder to introduce in a more traditional client relationship.” That closeness lets the identity keep changing. Polar designed all the assets, from uniforms to bathroom signage and counter labels. “Most of it was made in-house and often in response to what we needed at the time,” Mayer details. “That was important to us because it meant we could keep making and changing things as the bakery evolved, instead of having to define everything in advance.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-06.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-07.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Polar keeps two typefaces fixed so that everything else can change: Muhittin Güneş’s Gronland and Kyiv Type Foundry’s KTF Rublena. “The identity started with Gronland, a typeface that felt reliable and quiet, but still had some character,” Ribeiro explains. “The two typefaces ended up working in different directions, with Gronland handling the more everyday, structural applications and Rublena bringing more personality and recognition to the identity.” Polar added Rublena later, as the bakery grew. “Rublena gave the identity a face of its own,” Mayer notes. “It has a certain weight and presence that makes something feel like P.A.C. even before you read the name. Typography became one of the main anchors of the identity, more than the logo or the colour palette.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-05.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-09.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "For four years, Polar has worked with illustrator Beatriz Batisteli on drawings that go from a paper bag to a wall. Her playful and direct linework is plain and open in some cases, while others build it into dense, abstract compositions. Many of them are as much about the people around P.A.C. as about what it sells. “Bia is a close friend and has been around since the beginning,” Ribeiro tells us. “She lives near the bakery and is very much part of the community, so her drawings naturally come from that context.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-08.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Polar designs the weekend menus for a receipt printer. The slips are monochrome, coarse in resolution and on paper with a low opacity, printed on demand and lasting a single weekend. The bakery puts out new breads, pastries and specials every week. “The menus, illustrations and other printed pieces can be different from one week to the next,” Mayer explains, “but they still follow the same overall approach. It feels closer to making a series of small publications than maintaining a fixed set of branded assets.” People take a lot of the menus home with them. “It’s a bit of a problem from the bakery’s point of view, but as designers, we find it pretty amusing,” Ribeiro concludes."
-        }
-      ],
-      "caseStudyText": "P.A.C. is an artisanal bakery in São Paulo with a menu that changes week to week. Polar, Ltda. created its identity to change just as often, across the packaging, ceramics, printed menus and the space itself. The Brazilian design studio has four partners. Two of them – Founders & Creative Directors Bruno Ribeiro and Ralph Mayer – are also partners in the bakery, while the other two are regulars there as well.\n\n“When we started P.A.C., there wasn’t really a brand yet,” Ribeiro tells us. “There was the bakery, the sourdough starter, a space taking shape and a lot of enthusiasm around bread, but none of us had experience running a professional kitchen.” The menu, service and space were also still being worked out, and the identity had to change as they did. “We knew things were going to change a lot in the beginning,” Mayer explains, “so we didn’t want to create something that felt finished too early. The identity needed to be flexible enough to adapt as we learned what P.A.C. was going to become.”\n\n“We don’t really have the distance you would normally have between a studio and a client, so decisions and feedback happen very quickly,” Ribeiro notes. “It also gives us more freedom to test things that might be harder to introduce in a more traditional client relationship.” That closeness lets the identity keep changing. Polar designed all the assets, from uniforms to bathroom signage and counter labels. “Most of it was made in-house and often in response to what we needed at the time,” Mayer details. “That was important to us because it meant we could keep making and changing things as the bakery evolved, instead of having to define everything in advance.”\n\nPolar keeps two typefaces fixed so that everything else can change: Muhittin Güneş’s Gronland and Kyiv Type Foundry’s KTF Rublena. “The identity started with Gronland, a typeface that felt reliable and quiet, but still had some character,” Ribeiro explains. “The two typefaces ended up working in different directions, with Gronland handling the more everyday, structural applications and Rublena bringing more personality and recognition to the identity.” Polar added Rublena later, as the bakery grew. “Rublena gave the identity a face of its own,” Mayer notes. “It has a certain weight and presence that makes something feel like P.A.C. even before you read the name. Typography became one of the main anchors of the identity, more than the logo or the colour palette.”\n\nFor four years, Polar has worked with illustrator Beatriz Batisteli on drawings that go from a paper bag to a wall. Her playful and direct linework is plain and open in some cases, while others build it into dense, abstract compositions. Many of them are as much about the people around P.A.C. as about what it sells. “Bia is a close friend and has been around since the beginning,” Ribeiro tells us. “She lives near the bakery and is very much part of the community, so her drawings naturally come from that context.”\n\nPolar designs the weekend menus for a receipt printer. The slips are monochrome, coarse in resolution and on paper with a low opacity, printed on demand and lasting a single weekend. The bakery puts out new breads, pastries and specials every week. “The menus, illustrations and other printed pieces can be different from one week to the next,” Mayer explains, “but they still follow the same overall approach. It feels closer to making a series of small publications than maintaining a fixed set of branded assets.” People take a lot of the menus home with them. “It’s a bit of a problem from the bakery’s point of view, but as designers, we find it pretty amusing,” Ribeiro concludes.",
-      "caseStudyMedia": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-01.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-02.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-03.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-04.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-06.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-07.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-05.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-09.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-08.mp4"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront",
-      "titleOriginal": "The idea of home shapes Base Design’s identity for Ray’s Waterfront",
-      "textOriginal": "Ray’s Waterfront is a family-run restaurant and bar on the Small Boat Harbor on Resurrection Bay, in Seward, Alaska – a town of fewer than 3,000 people. Ray Simutis, a former New York taxi driver turned commercial fisherman, and Leslie Simutis, a trained cook, opened it in 1988, Ray working the bar and Leslie the kitchen. After both passed, the restaurant passed to their daughters, Anna and Janina.\n\nIn the years after 1988, the restaurant accumulated several signs, typefaces and illustrations, spread over menus, printed materials, hats and sweatshirts. “The Ray’s building, food and people were well known for being warm, welcoming and classic. There hadn’t really ever been a brand created, though,” explains Owner & Operator Anna Nozaki. She approached Base Design’s Melbourne studio for an identity that would highlight the history and spirit of Ray’s, spanning the logo, signage, menus, website and merchandise. The studio started from a neon tube sign in a window box, which reads ‘Ray’s Waterfront Bar & Grill’ and has a simple halibut illustration on it. It “was the only consistent branding that remained intact since opening,” she notes. An old hat was the only other thing left with the original lettering on it.",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/13593439.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-01.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "Ray’s Waterfront is a family-run restaurant and bar on the Small Boat Harbor on Resurrection Bay, in Seward, Alaska – a town of fewer than 3,000 people. Ray Simutis, a former New York taxi driver turned commercial fisherman, and Leslie Simutis, a trained cook, opened it in 1988, Ray working the bar and Leslie the kitchen. After both passed, the restaurant passed to their daughters, Anna and Janina."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-07.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-12.jpeg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "In the years after 1988, the restaurant accumulated several signs, typefaces and illustrations, spread over menus, printed materials, hats and sweatshirts. “The Ray’s building, food and people were well known for being warm, welcoming and classic. There hadn’t really ever been a brand created, though,” explains Owner & Operator Anna Nozaki. She approached Base Design’s Melbourne studio for an identity that would highlight the history and spirit of Ray’s, spanning the logo, signage, menus, website and merchandise. The studio started from a neon tube sign in a window box, which reads ‘Ray’s Waterfront Bar & Grill’ and has a simple halibut illustration on it. It “was the only consistent branding that remained intact since opening,” she notes. An old hat was the only other thing left with the original lettering on it."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-14.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-13_2026-10-05-151617_tono.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“It was important that the brand look classic and not ‘cool,’” Nozaki details. “It needed to be humble and historic. I wanted the fact that this long-standing restaurant was started and continually operated by local families to be apparent immediately before even setting foot inside.”"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“The idea of home holds everything together,” explains Base Design’s Partner & Creative Director Caroline Cox. “Walking into Ray’s feels like being in a home. Homes can be messy and noisy. A home accumulates photographs, patterns, keepsakes and objects over time, each with a connection to the people who live there. That became a way of thinking about Ray’s as both an individual and an institution.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-02.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Base Design redrew the logotype from the window box sign’s lettering, which was thin and loose, with a large looping ‘R,’ a slant and a sweep on the ‘y.’ Those thin lines became a fuller, more confident mark, with heavier, more defined letters, deliberate curves, sharper terminals and closer connections across the word. “The restaurant itself was our reference for knowing how far to go,” Cox notes. “Ray’s is already full of character, and the logo needed to sit comfortably among everything that was there. It needed enough refinement to work across a contemporary identity, while still feeling like the name people had known for years.” A rope version of the mark, drawn with a custom rope brush, came out of the same window box lettering. “It picks up on the maritime references that run through Ray’s, from the harbour setting to the family’s history in commercial fishing,” Cox tells us. “It’s a secondary, more playful expression of the brand. We use it in communications where an extra layer of personality feels right. The primary logotype gives the identity its everyday recognition.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-04-new.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“We paired Caslon Egyptian for headlines with Affix for body copy,” Cox details. “Caslon Egyptian has roots in early sans serif lettering and the vernacular of buildings, engravings and printed material. It brings a straightforward, slightly unusual character that feels comfortable in Ray’s world. Affix has the utilitarian qualities of typewriter lettering, with warmth and playful details that come through in its italics and alternate characters. Together, they give us a practical hierarchy for the menus and website while holding their own beside the expressive logotype.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-10-new.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Drawings by illustrator Jake Foreman and photographs from the family's archive appear across menus, interiors and printed ephemera, which includes a matchbook, postcard of local recommendations and coasters. “Jake’s illustrations reinterpret lived memories: Anna’s childhood, family fishing trips, her mother in the kitchen and meals together at the restaurant,” Cox explains. “Patterns such as gingham and nautical stripes bring familiar, domestic textures, while the frames and borders draw on photographic albums and maritime references.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-03-new.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“The palette came directly from the restaurant and its surroundings,” Cox notes. “Red was already everywhere: the original lights and sconces, the burgundy carpet and the warm mahogany inside. We drew those qualities into a family of bright red, deep red and burgundy.” Red leads the palette, appearing on the menus in borders, patterns and covers, with the lunch and dinner menus set in different red tones. A connection to the Alaskan flag brings in blue, navy and yellow. Blue and navy appear on other pieces, including the dessert menu, and yellow is a smaller accent in the framing. The website uses the same palette, with beige in place of off-white paper. “That distinction is deliberate: in print, the paper stock supplies that colour; digitally, we reproduce it,” Cox explains."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-05.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Family photographs from the 80s show a big red ‘Ray’s’ above the front doors, made of dimensional, individual channel letters. The sign glowed and was visible from a distance as people drove into town along the main road. Weather damage brought it down, and burgundy fabric awnings went up in its place. The studio designed a replacement. “After we created our concepts, we searched extensively for a manufacturer who would be able to deliver on the job,” Cox recalls. That search ended with National Sign Corporation in Seattle, and with Tim Zamberlin of the company. “When we first spoke with Tim, he was so knowledgeable we immediately felt comfortable in his hands,” Cox adds. Seward is remote, so getting people and materials there took careful coordination. Installed on an old building with a traditional shingled roof, the signage also had to survive Alaskan weather. “We wanted to preserve traditional sign-making methods and respect the building’s character, with the durability the location demands,” Cox details. The sign that went back up uses the custom Ray’s lettering."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-11.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-08.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "To document Ray’s for the next generation, the studio commissioned photographer Jack Bool to spend time in the restaurant, out on the bay, on the glaciers, around Seward and alongside the people who have given their working lives to the place, the commercial fisheries among them. “We wanted him to experience it before photographing it, leaving room for things a shot list couldn’t anticipate,” Cox notes. “There’s warmth and immediacy in the family archive that we wanted the new photographs to sit comfortably alongside.”"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“It's made the locals feel cared for by honouring the past while spiffing it up,” Nozaki concludes of the identity. “The illustrated stories on the coasters are collected by people who knew our parents.”"
-        }
-      ],
-      "caseStudyText": "Ray’s Waterfront is a family-run restaurant and bar on the Small Boat Harbor on Resurrection Bay, in Seward, Alaska – a town of fewer than 3,000 people. Ray Simutis, a former New York taxi driver turned commercial fisherman, and Leslie Simutis, a trained cook, opened it in 1988, Ray working the bar and Leslie the kitchen. After both passed, the restaurant passed to their daughters, Anna and Janina.\n\nIn the years after 1988, the restaurant accumulated several signs, typefaces and illustrations, spread over menus, printed materials, hats and sweatshirts. “The Ray’s building, food and people were well known for being warm, welcoming and classic. There hadn’t really ever been a brand created, though,” explains Owner & Operator Anna Nozaki. She approached Base Design’s Melbourne studio for an identity that would highlight the history and spirit of Ray’s, spanning the logo, signage, menus, website and merchandise. The studio started from a neon tube sign in a window box, which reads ‘Ray’s Waterfront Bar & Grill’ and has a simple halibut illustration on it. It “was the only consistent branding that remained intact since opening,” she notes. An old hat was the only other thing left with the original lettering on it.\n\n“It was important that the brand look classic and not ‘cool,’” Nozaki details. “It needed to be humble and historic. I wanted the fact that this long-standing restaurant was started and continually operated by local families to be apparent immediately before even setting foot inside.”\n\n“The idea of home holds everything together,” explains Base Design’s Partner & Creative Director Caroline Cox. “Walking into Ray’s feels like being in a home. Homes can be messy and noisy. A home accumulates photographs, patterns, keepsakes and objects over time, each with a connection to the people who live there. That became a way of thinking about Ray’s as both an individual and an institution.”\n\nBase Design redrew the logotype from the window box sign’s lettering, which was thin and loose, with a large looping ‘R,’ a slant and a sweep on the ‘y.’ Those thin lines became a fuller, more confident mark, with heavier, more defined letters, deliberate curves, sharper terminals and closer connections across the word. “The restaurant itself was our reference for knowing how far to go,” Cox notes. “Ray’s is already full of character, and the logo needed to sit comfortably among everything that was there. It needed enough refinement to work across a contemporary identity, while still feeling like the name people had known for years.” A rope version of the mark, drawn with a custom rope brush, came out of the same window box lettering. “It picks up on the maritime references that run through Ray’s, from the harbour setting to the family’s history in commercial fishing,” Cox tells us. “It’s a secondary, more playful expression of the brand. We use it in communications where an extra layer of personality feels right. The primary logotype gives the identity its everyday recognition.”\n\n“We paired Caslon Egyptian for headlines with Affix for body copy,” Cox details. “Caslon Egyptian has roots in early sans serif lettering and the vernacular of buildings, engravings and printed material. It brings a straightforward, slightly unusual character that feels comfortable in Ray’s world. Affix has the utilitarian qualities of typewriter lettering, with warmth and playful details that come through in its italics and alternate characters. Together, they give us a practical hierarchy for the menus and website while holding their own beside the expressive logotype.”\n\nDrawings by illustrator Jake Foreman and photographs from the family's archive appear across menus, interiors and printed ephemera, which includes a matchbook, postcard of local recommendations and coasters. “Jake’s illustrations reinterpret lived memories: Anna’s childhood, family fishing trips, her mother in the kitchen and meals together at the restaurant,” Cox explains. “Patterns such as gingham and nautical stripes bring familiar, domestic textures, while the frames and borders draw on photographic albums and maritime references.”\n\n“The palette came directly from the restaurant and its surroundings,” Cox notes. “Red was already everywhere: the original lights and sconces, the burgundy carpet and the warm mahogany inside. We drew those qualities into a family of bright red, deep red and burgundy.” Red leads the palette, appearing on the menus in borders, patterns and covers, with the lunch and dinner menus set in different red tones. A connection to the Alaskan flag brings in blue, navy and yellow. Blue and navy appear on other pieces, including the dessert menu, and yellow is a smaller accent in the framing. The website uses the same palette, with beige in place of off-white paper. “That distinction is deliberate: in print, the paper stock supplies that colour; digitally, we reproduce it,” Cox explains.\n\nFamily photographs from the 80s show a big red ‘Ray’s’ above the front doors, made of dimensional, individual channel letters. The sign glowed and was visible from a distance as people drove into town along the main road. Weather damage brought it down, and burgundy fabric awnings went up in its place. The studio designed a replacement. “After we created our concepts, we searched extensively for a manufacturer who would be able to deliver on the job,” Cox recalls. That search ended with National Sign Corporation in Seattle, and with Tim Zamberlin of the company. “When we first spoke with Tim, he was so knowledgeable we immediately felt comfortable in his hands,” Cox adds. Seward is remote, so getting people and materials there took careful coordination. Installed on an old building with a traditional shingled roof, the signage also had to survive Alaskan weather. “We wanted to preserve traditional sign-making methods and respect the building’s character, with the durability the location demands,” Cox details. The sign that went back up uses the custom Ray’s lettering.\n\nTo document Ray’s for the next generation, the studio commissioned photographer Jack Bool to spend time in the restaurant, out on the bay, on the glaciers, around Seward and alongside the people who have given their working lives to the place, the commercial fisheries among them. “We wanted him to experience it before photographing it, leaving room for things a shot list couldn’t anticipate,” Cox notes. “There’s warmth and immediacy in the family archive that we wanted the new photographs to sit comfortably alongside.”\n\n“It's made the locals feel cared for by honouring the past while spiffing it up,” Nozaki concludes of the identity. “The illustrated stories on the coasters are collected by people who knew our parents.”",
-      "caseStudyMedia": [
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-01.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-07.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-12.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-14.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-13_2026-10-05-151617_tono.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-02.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-04-new.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-10-new.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-03-new.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-05.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-11.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-08.jpg"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb",
-      "titleOriginal": "Holographik designs the identity for Bottone’s furniture show in Zagreb",
-      "textOriginal": "Every object that Bottone releases arrives with its own original music, and for Objects & Frequencies, the Berlin-based furniture brand’s first exhibition in Croatia, Zagreb-based design studio Holographik was asked to make those tracks visible. The tracks come from the two brothers who founded the brand, who have been making music together since the 90s. “The object always comes first. Once its form, material and character are defined, we try to understand what that object might become in sound,” Founders Michele and Daniele Luciano Ferrazzano tell us. “We don’t approach the track as a soundtrack or an explanation of the design. It is more like translating the same intuition into another medium. Sometimes the connection comes through rhythm, sometimes through atmosphere, repetition or texture.”\n\nThe three-day exhibition ran on 16–18 September 2026 at Holographik Space – the studio’s own venue in Zagreb. Bottone brought selected works, new colours and two pieces that had not been released anywhere – the Hold A140 TV Stand and the Hold C22 Coat Rack. Wednesday opened with a Design Talk with soba.hr , a Zagreb-based furniture and homeware retailer, and Friday closed the run with a live DJ set. The TV stand played a heritage video that was filmed in the 90s in Apulia, where the brothers’ family comes from. Holographik created the identity, motion and art direction.",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/13675770.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-01.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "Every object that Bottone releases arrives with its own original music, and for Objects & Frequencies, the Berlin-based furniture brand’s first exhibition in Croatia, Zagreb-based design studio Holographik was asked to make those tracks visible. The tracks come from the two brothers who founded the brand, who have been making music together since the 90s. “The object always comes first. Once its form, material and character are defined, we try to understand what that object might become in sound,” Founders Michele and Daniele Luciano Ferrazzano tell us. “We don’t approach the track as a soundtrack or an explanation of the design. It is more like translating the same intuition into another medium. Sometimes the connection comes through rhythm, sometimes through atmosphere, repetition or texture.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-02.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The three-day exhibition ran on 16–18 September 2026 at Holographik Space – the studio’s own venue in Zagreb. Bottone brought selected works, new colours and two pieces that had not been released anywhere – the Hold A140 TV Stand and the Hold C22 Coat Rack. Wednesday opened with a Design Talk with soba.hr , a Zagreb-based furniture and homeware retailer, and Friday closed the run with a live DJ set. The TV stand played a heritage video that was filmed in the 90s in Apulia, where the brothers’ family comes from. Holographik created the identity, motion and art direction."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-08.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-09.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“The objects, their individual tracks and the idea of bringing these different layers together into one experience came from Bottone. What we didn”t want to do was hand Holographik a fixed visual brief and ask them to simply translate it into graphics,” the Ferrazzanos explain. “We wanted them to interpret the concept through their own visual language. There was a lot of trust from the beginning and a shared understanding that the identity should become another layer of the experience, rather than just communicate it.” The identity has two layers. One is typographic, short lines of copy in a strict grid that state the information. The other is driven by sound, and in it each object’s silhouette breaks into the waveform of its track and rebuilds."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-03.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-04.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Bottone sits between the Bauhaus and Italian postmodernism – clarity and construction from one, colour, boldness and humour from the other. “We split the job between structure and energy. The structure came from the Bauhaus side: one typeface, a strict grid, all caps and information stated plainly. Nothing in the layout is decorative, and every element has a reason to be there,” details Holographik’s Founder Hrvoje Grubišić. “The energy came from the other side: Bottone’s red and the motion layer. That is the playful, expressive part, and it only works because the structure around it stays calm. Neither side leads on its own. The typography keeps the motion from becoming decoration, and the motion keeps the typography from feeling cold. That tension is also how Bottone describes its own objects, precise in construction and expressive in character, so the identity reads as them rather than as a reference to either movement.”"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The palette is Bottone red, set against the aluminium, steel, wood and textile that the objects are made from. “Objects & Frequencies was a collaboration, a design exhibition and audiovisual experience built with Bottone, so we wanted the brand to be recognisable the moment you saw anything from it,” Grubišić notes. “Colour was the most direct way to do that, so the red stays Bottone’s.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-07.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The identity uses one typeface, STK Bureau Sans. “We were looking for something contemporary and functional that still had character, and Bureau Sans has a clear stance of its own. That gave us the balance we needed between identity and function,” Grubišić explains. “On small screens, it stays very legible. The open forms help a lot; the ‘C,’ ‘O’ and ‘S’ keep their openness even at small sizes. At large scale, especially in all caps, what struck us was how even and solid the weights feel from letter to letter,” Grubišić continues. “Because we also used it in motion, projected across the room, that evenness gave it an almost sculptural quality. At that scale, the capitals start to behave like physical objects in the space, which tied the type directly to the idea of the exhibition.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-05.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-06.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“The motion system we created connects the tracks – consisting of remixed sound and noise created by interacting with the objects, their materiality and form – with the graphic silhouettes of the objects,” Grubišić details. “Bottone produced these ‘soundtracks’ in such a way that the sounds at times disintegrate into abstract rhythms and beats, and at other times are clearer and more representational of the interactions and materials of the objects themselves. In the same way, the black silhouettes are at certain points in the track more solid, clearly recognisable forms and at others, distorted and deconstructed almost into particles. We rigged the waveforms of the tracks to the distortion system, so the animations are fully responsive to the beat of the tracks, the intensity and frequency.” The Zooom Rug’s silhouette breaks apart on its own track. “You can lie on the rug while listening to its track, so the object and sound are experienced simultaneously,” the Ferrazzanos tell us. “The music adds another, immersive dimension to something that would otherwise be purely physical.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-12.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-11.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Motion graphics announced the show across social media, online and digital billboards, with the shapes of the objects zoomed in and intentionally obscured. Posters and graphics on the studio’s display windows invited people in from the street. The identity was printed on t-shirts that guests could take home. “For the DJ set, the visuals had to inhabit a bigger space,” Grubišić concludes. “We used the established motion system as the base, and played around with it, similar to the way you would remix a music track – playing with rhythm, repetition, time, scale, cutting them up and putting them together again.”"
-        }
-      ],
-      "caseStudyText": "Every object that Bottone releases arrives with its own original music, and for Objects & Frequencies, the Berlin-based furniture brand’s first exhibition in Croatia, Zagreb-based design studio Holographik was asked to make those tracks visible. The tracks come from the two brothers who founded the brand, who have been making music together since the 90s. “The object always comes first. Once its form, material and character are defined, we try to understand what that object might become in sound,” Founders Michele and Daniele Luciano Ferrazzano tell us. “We don’t approach the track as a soundtrack or an explanation of the design. It is more like translating the same intuition into another medium. Sometimes the connection comes through rhythm, sometimes through atmosphere, repetition or texture.”\n\nThe three-day exhibition ran on 16–18 September 2026 at Holographik Space – the studio’s own venue in Zagreb. Bottone brought selected works, new colours and two pieces that had not been released anywhere – the Hold A140 TV Stand and the Hold C22 Coat Rack. Wednesday opened with a Design Talk with soba.hr , a Zagreb-based furniture and homeware retailer, and Friday closed the run with a live DJ set. The TV stand played a heritage video that was filmed in the 90s in Apulia, where the brothers’ family comes from. Holographik created the identity, motion and art direction.\n\n“The objects, their individual tracks and the idea of bringing these different layers together into one experience came from Bottone. What we didn”t want to do was hand Holographik a fixed visual brief and ask them to simply translate it into graphics,” the Ferrazzanos explain. “We wanted them to interpret the concept through their own visual language. There was a lot of trust from the beginning and a shared understanding that the identity should become another layer of the experience, rather than just communicate it.” The identity has two layers. One is typographic, short lines of copy in a strict grid that state the information. The other is driven by sound, and in it each object’s silhouette breaks into the waveform of its track and rebuilds.\n\nBottone sits between the Bauhaus and Italian postmodernism – clarity and construction from one, colour, boldness and humour from the other. “We split the job between structure and energy. The structure came from the Bauhaus side: one typeface, a strict grid, all caps and information stated plainly. Nothing in the layout is decorative, and every element has a reason to be there,” details Holographik’s Founder Hrvoje Grubišić. “The energy came from the other side: Bottone’s red and the motion layer. That is the playful, expressive part, and it only works because the structure around it stays calm. Neither side leads on its own. The typography keeps the motion from becoming decoration, and the motion keeps the typography from feeling cold. That tension is also how Bottone describes its own objects, precise in construction and expressive in character, so the identity reads as them rather than as a reference to either movement.”\n\nThe palette is Bottone red, set against the aluminium, steel, wood and textile that the objects are made from. “Objects & Frequencies was a collaboration, a design exhibition and audiovisual experience built with Bottone, so we wanted the brand to be recognisable the moment you saw anything from it,” Grubišić notes. “Colour was the most direct way to do that, so the red stays Bottone’s.”\n\nThe identity uses one typeface, STK Bureau Sans. “We were looking for something contemporary and functional that still had character, and Bureau Sans has a clear stance of its own. That gave us the balance we needed between identity and function,” Grubišić explains. “On small screens, it stays very legible. The open forms help a lot; the ‘C,’ ‘O’ and ‘S’ keep their openness even at small sizes. At large scale, especially in all caps, what struck us was how even and solid the weights feel from letter to letter,” Grubišić continues. “Because we also used it in motion, projected across the room, that evenness gave it an almost sculptural quality. At that scale, the capitals start to behave like physical objects in the space, which tied the type directly to the idea of the exhibition.”\n\n“The motion system we created connects the tracks – consisting of remixed sound and noise created by interacting with the objects, their materiality and form – with the graphic silhouettes of the objects,” Grubišić details. “Bottone produced these ‘soundtracks’ in such a way that the sounds at times disintegrate into abstract rhythms and beats, and at other times are clearer and more representational of the interactions and materials of the objects themselves. In the same way, the black silhouettes are at certain points in the track more solid, clearly recognisable forms and at others, distorted and deconstructed almost into particles. We rigged the waveforms of the tracks to the distortion system, so the animations are fully responsive to the beat of the tracks, the intensity and frequency.” The Zooom Rug’s silhouette breaks apart on its own track. “You can lie on the rug while listening to its track, so the object and sound are experienced simultaneously,” the Ferrazzanos tell us. “The music adds another, immersive dimension to something that would otherwise be purely physical.”\n\nMotion graphics announced the show across social media, online and digital billboards, with the shapes of the objects zoomed in and intentionally obscured. Posters and graphics on the studio’s display windows invited people in from the street. The identity was printed on t-shirts that guests could take home. “For the DJ set, the visuals had to inhabit a bigger space,” Grubišić concludes. “We used the established motion system as the base, and played around with it, similar to the way you would remix a music track – playing with rhythm, repetition, time, scale, cutting them up and putting them together again.”",
-      "caseStudyMedia": [
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-01.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-02.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-08.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-09.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-03.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-04.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-07.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-05.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-06.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-12.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-11.mp4"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/estudio-cari%C3%B1o-invents-house-of-callaghan-an-irish-stout-brand",
-      "titleOriginal": "Estudio Cariño invents HOUSE of CALLAGHAN, an Irish stout brand",
-      "textOriginal": "Estudio Cariño designed HOUSE of CALLAGHAN, a brand of Irish stout from Cork, for nobody. “This project originated from a rejected proposal for a beer-related client, but we liked it too much to leave it there, so we kept working on it,” Co-founders José Pablo Salazar and Iván Soto Camba tell us. “Once there was no client involved, there was also no brief to follow and nobody asking us to tone anything down.” Between them, the Mexican design duo came up with the name, story, identity and label design.\n\nCork is home to two long-established stouts, Murphy's and Beamish. HOUSE of CALLAGHAN was designed to look like it had always been the third. “We borrowed a little from the language of Game of Thrones and used ‘House’ in the name because it suggested family history and, indirectly, something made on a smaller, more traditional scale,” Salazar and Soto Camba explain. “Callaghan is a common surname in the region, so it also helped ground the brand in Cork. We wanted the name to sound like it could have been there for a long while.” The label sets out an invented Callaghan family history, signed by a brewer who does not exist either. “We wanted it to look less like a new identity and more like a brand we had somehow found,” the duo adds.",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/estudio-cari%C3%B1o-invents-house-of-callaghan-an-irish-stout-brand/HOUSE-of-CALLAGHAN-Carin%CC%83o-01.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/estudio-cari%C3%B1o-invents-house-of-callaghan-an-irish-stout-brand/HOUSE-of-CALLAGHAN-Carin%CC%83o-01.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "Estudio Cariño designed HOUSE of CALLAGHAN, a brand of Irish stout from Cork, for nobody. “This project originated from a rejected proposal for a beer-related client, but we liked it too much to leave it there, so we kept working on it,” Co-founders José Pablo Salazar and Iván Soto Camba tell us. “Once there was no client involved, there was also no brief to follow and nobody asking us to tone anything down.” Between them, the Mexican design duo came up with the name, story, identity and label design."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/estudio-cari%C3%B1o-invents-house-of-callaghan-an-irish-stout-brand/HOUSE-of-CALLAGHAN-Carin%CC%83o-03.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Cork is home to two long-established stouts, Murphy's and Beamish. HOUSE of CALLAGHAN was designed to look like it had always been the third. “We borrowed a little from the language of Game of Thrones and used ‘House’ in the name because it suggested family history and, indirectly, something made on a smaller, more traditional scale,” Salazar and Soto Camba explain. “Callaghan is a common surname in the region, so it also helped ground the brand in Cork. We wanted the name to sound like it could have been there for a long while.” The label sets out an invented Callaghan family history, signed by a brewer who does not exist either. “We wanted it to look less like a new identity and more like a brand we had somehow found,” the duo adds."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/estudio-cari%C3%B1o-invents-house-of-callaghan-an-irish-stout-brand/HOUSE-of-CALLAGHAN-Carin%CC%83o-02.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“It’s very easy for an Irish beer brand to stop looking Irish and start looking Irish-themed,” they detail. “The shamrock was the most obvious problem. We still used it, but only as a small decorative element.” The studio wanted to work from beer, a big part of Irish culture, rather than from a collection of Irish symbols. The Celtic-looking type is another familiar reference, and it sits next to muted colours and metal finishes that are inspired by the medieval era. “The starting point was something classic, but not old-fashioned,” they explain. “We wanted local references to be recognisable without making the brand look nostalgic.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/estudio-cari%C3%B1o-invents-house-of-callaghan-an-irish-stout-brand/HOUSE-of-CALLAGHAN-Carin%CC%83o-04.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Almost like an old coin, the main emblem has embossed details and a metallic finish – as if it had been attached to the label. An illustration on the label is contemporary even though the treatment looks older. A knight on the label has a giant beer mug instead of a shield. “That part was important to keep the project fun and modern,” the duo notes."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/estudio-cari%C3%B1o-invents-house-of-callaghan-an-irish-stout-brand/HOUSE-of-CALLAGHAN-Carin%CC%83o-05.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“We spent a lot of time choosing the fonts, their hierarchy and how they worked together,” Salazar and Soto Camba detail. Gothic Manus is used for the logo at its most expressive. Its Gothic, almost Celtic character works with the traditional side of the identity. “We kept some of its awkwardness instead of correcting everything,” they add. “It helped make the logo look less new.” The second main typeface, Griffon, is more elegant and controlled, so it balances with Gothic Manus. It appears in the arched wordmark, subtitles and some of the brand phrases. Trattatello adds the handwritten, historical part. Highway Gothic sets the secondary copy and technical information, reminding the studio a little of old factory signage. Manchester Signature is the brewer’s signature – another small piece of the fiction behind the brand."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/estudio-cari%C3%B1o-invents-house-of-callaghan-an-irish-stout-brand/HOUSE-of-CALLAGHAN-Carin%CC%83o-06.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“We kept the palette quite restrained. There are already plenty of loud colours in beer packaging, so we were more interested in the contrast between colour and material,” Salazar and Soto Camba note. “The warm beige worked well with the metallic emblem and gave the packaging a slightly unexpected softness.” Green is the main accent and the most direct connection to Ireland. “We tried imagining it without the green. It didn’t work,” they conclude."
-        }
-      ],
-      "caseStudyText": "Estudio Cariño designed HOUSE of CALLAGHAN, a brand of Irish stout from Cork, for nobody. “This project originated from a rejected proposal for a beer-related client, but we liked it too much to leave it there, so we kept working on it,” Co-founders José Pablo Salazar and Iván Soto Camba tell us. “Once there was no client involved, there was also no brief to follow and nobody asking us to tone anything down.” Between them, the Mexican design duo came up with the name, story, identity and label design.\n\nCork is home to two long-established stouts, Murphy's and Beamish. HOUSE of CALLAGHAN was designed to look like it had always been the third. “We borrowed a little from the language of Game of Thrones and used ‘House’ in the name because it suggested family history and, indirectly, something made on a smaller, more traditional scale,” Salazar and Soto Camba explain. “Callaghan is a common surname in the region, so it also helped ground the brand in Cork. We wanted the name to sound like it could have been there for a long while.” The label sets out an invented Callaghan family history, signed by a brewer who does not exist either. “We wanted it to look less like a new identity and more like a brand we had somehow found,” the duo adds.\n\n“It’s very easy for an Irish beer brand to stop looking Irish and start looking Irish-themed,” they detail. “The shamrock was the most obvious problem. We still used it, but only as a small decorative element.” The studio wanted to work from beer, a big part of Irish culture, rather than from a collection of Irish symbols. The Celtic-looking type is another familiar reference, and it sits next to muted colours and metal finishes that are inspired by the medieval era. “The starting point was something classic, but not old-fashioned,” they explain. “We wanted local references to be recognisable without making the brand look nostalgic.”\n\nAlmost like an old coin, the main emblem has embossed details and a metallic finish – as if it had been attached to the label. An illustration on the label is contemporary even though the treatment looks older. A knight on the label has a giant beer mug instead of a shield. “That part was important to keep the project fun and modern,” the duo notes.\n\n“We spent a lot of time choosing the fonts, their hierarchy and how they worked together,” Salazar and Soto Camba detail. Gothic Manus is used for the logo at its most expressive. Its Gothic, almost Celtic character works with the traditional side of the identity. “We kept some of its awkwardness instead of correcting everything,” they add. “It helped make the logo look less new.” The second main typeface, Griffon, is more elegant and controlled, so it balances with Gothic Manus. It appears in the arched wordmark, subtitles and some of the brand phrases. Trattatello adds the handwritten, historical part. Highway Gothic sets the secondary copy and technical information, reminding the studio a little of old factory signage. Manchester Signature is the brewer’s signature – another small piece of the fiction behind the brand.\n\n“We kept the palette quite restrained. There are already plenty of loud colours in beer packaging, so we were more interested in the contrast between colour and material,” Salazar and Soto Camba note. “The warm beige worked well with the metallic emblem and gave the packaging a slightly unexpected softness.” Green is the main accent and the most direct connection to Ireland. “We tried imagining it without the green. It didn’t work,” they conclude.",
-      "caseStudyMedia": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/estudio-cari%C3%B1o-invents-house-of-callaghan-an-irish-stout-brand/HOUSE-of-CALLAGHAN-Carin%CC%83o-01.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/estudio-cari%C3%B1o-invents-house-of-callaghan-an-irish-stout-brand/HOUSE-of-CALLAGHAN-Carin%CC%83o-03.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/estudio-cari%C3%B1o-invents-house-of-callaghan-an-irish-stout-brand/HOUSE-of-CALLAGHAN-Carin%CC%83o-02.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/estudio-cari%C3%B1o-invents-house-of-callaghan-an-irish-stout-brand/HOUSE-of-CALLAGHAN-Carin%CC%83o-04.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/estudio-cari%C3%B1o-invents-house-of-callaghan-an-irish-stout-brand/HOUSE-of-CALLAGHAN-Carin%CC%83o-05.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/estudio-cari%C3%B1o-invents-house-of-callaghan-an-irish-stout-brand/HOUSE-of-CALLAGHAN-Carin%CC%83o-06.jpg"
         }
       ]
     }
