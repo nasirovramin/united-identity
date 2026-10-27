@@ -7,6 +7,196 @@ const snapshot={
   },
   "items": [
     {
+      "canonicalUrl": "https://the-brandidentity.com/project/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work",
+      "titleOriginal": "Microsoft’s identity for Copilot positions it as a tool for work",
+      "textOriginal": "Microsoft has spent 50 years building the tools people use to work. So, when redesigning Copilot’s identity, the team began by asking what distinctly Microsoft point of view on work it should express. Microsoft’s in-house teams led the redesign – bringing in COLLINS to explore the mark and Koto to help expand it into the wider identity – from imagery and colour to composition and product representations.\n\nEveryone’s work spans apps, documents, websites and conversations, which at times, can be exhilarating and deeply satisfying; at others, intense, frustrating and exhausting. Often in a single day. Guided by Microsoft’s principles, which put people before technology, the new identity presents Copilot as a partner in that reality, helping people feel smarter and more capable at work.",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-01.png"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-01.png"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "Microsoft has spent 50 years building the tools people use to work. So, when redesigning Copilot’s identity, the team began by asking what distinctly Microsoft point of view on work it should express. Microsoft’s in-house teams led the redesign – bringing in COLLINS to explore the mark and Koto to help expand it into the wider identity – from imagery and colour to composition and product representations."
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-02.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Everyone’s work spans apps, documents, websites and conversations, which at times, can be exhilarating and deeply satisfying; at others, intense, frustrating and exhausting. Often in a single day. Guided by Microsoft’s principles, which put people before technology, the new identity presents Copilot as a partner in that reality, helping people feel smarter and more capable at work."
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-03.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The identity’s foundational idea is ‘the power of things coming together,’ and three principles put it to work, guiding the team wherever the brand guidelines give no literal answer. The first, ‘click into place,’ expresses the idea most directly, using collage, overlap and composition to bring documents, context and work together. ‘Intelligence with ease’ brings simplicity and calm to the complexity of work through sophisticated palettes and considered compositions, and ‘lightness with wit’ introduces moments of humour, surprise and delight. The brand also works as one system across product and marketing, so the same gestures, colours, patterns and behaviours appear across type, illustration, UI, notifications, motion, photography and advertising. “This identity is pure, simple and true, and that’s its strength. The product doesn’t need marketing to invent a world around it, and marketing doesn’t need to exaggerate what the product is,” notes Microsoft’s GM, Global Brand & Creative, Sven Seger."
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-04.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The previous icon was a recognisable part of Copilot, but it stayed still while Copilot worked through a request, even though much of the experience happens between a question and its response. “What if the icon could join the conversation?” asks Microsoft’s VP of Product Design & Creative Lucas Fitzpatrick. If the mark was going to move, it had to stay unmistakably Copilot in every frame, so the designers returned to the fundamental geometry of Microsoft’s visual language, exploring what could happen when simple forms came together and moved in relation to one another."
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-05.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Working with COLLINS, the team tested many proportions, angles and spacings before settling on two distinct forms that create a single silhouette and can separate, shift and reconnect without losing their relationship. The forms lean at 14°, with corners rounded at radii of 55px and 75px. The studio, which developed the mark and its foundational motion behaviour, describes the two shapes as a nod to the geometry of the main Microsoft logo, which it worked on years ago, and to the two kinds of intelligence that Copilot brings together – human and technological. Microsoft’s in-house teams then worked closely with COLLINS to refine the mark to its final state. Like the mark’s two forms, the typography pairs Segoe Sans, Microsoft’s familiar humanist typeface, with Segoe Serif – the sans brings openness and clarity, and the serif adds character and expression."
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-06.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "To show what Copilot is doing, the team built a shared motion language for the mark around three thinking states – the moments when Copilot is busy thinking through a request, planning the next steps or retrieving context from people’s files and work. Each state is a simple gesture in which the two forms move in relation to each other and come back as one. The gestures follow Copilot across Microsoft’s ecosystem, so one that appears in Windows looks familiar again in Word or PowerPoint. Deciding how the seconds that Copilot spends on a request should look and feel took “a room of brand, product and motion designers months,” Fitzpatrick writes."
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-07.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-08.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "What began in the mark became a behaviour for the entire identity – things move, find each other and connect. From there, the team developed two modes of motion – float and snap. Float is softer, slower and more immersive, as imagery and elements drift and rotate subtly through space, accelerating only as they approach their point of connection. Snap is quick, precise and a little witty. It appears in UI-scale moments as text arrives, a slide clicks into position, an image finds its place or elements reconfigure around the work, often with a brief hold followed by a fast transition. “Float creates possibility; snap creates resolution. They reflect the states of mind we naturally move through as we work: exploring what could be, then finding clarity and moving forward,” Microsoft’s Senior Creative Director Aleksey Fedorov tells us."
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-09.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Working with Koto, the teams grounded Copilot in the work experiences that people already know. They took the wider identity’s ingredients from Office apps such as Word, Excel, PowerPoint and Outlook, reinterpreting their menus, buttons, cells, slides, documents, shapes and grids, so that UI, patterns, imagery and textures overlap, intersect and snap into new compositions. The identity also brings in the tactility of physical offices, with their notes, printouts and paper, so familiar Office patterns appear as part-digital, part-physical objects treated with a little wit. That wit extends into the illustration, which uses simple line gestures and dimensionality. If Office grounds the identity in the reality of work, the team sees Copilot as adding intelligence, possibility and levity. “Your feet are on the ground, but your head is in the sky,” Fedorov explains."
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-10.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-11.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The palette has the same tension between grounding and possibility. The sky appears as gradients of luminous blue, from almost white to deeper, more immersive tones, evoking openness, possibility and blue-sky thinking, while fresh, grassy greens bring the system back down to earth. Together, they subtly echo the green-field-and-blue-sky imagery long associated with Microsoft and Windows. The team spent a long time finding a green that didn’t simply look like Excel green but felt distinctly Copilot – brighter and fresher. The blues and greens sit on a neutral base, while Word blue, Excel green, PowerPoint orange, Teams purple and Outlook blue appear as accents, tying Copilot to the tools of everyday work."
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-12.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Colour becomes most expressive at the points where things meet, such as where UI meets photography or pattern meets texture. In product, the palette can be quieter and more functional, and in marketing and print it can become richer, more tactile and more expressive. “It’s not one exact colour value that makes something feel like Copilot. It’s how the colours come together, and the relationships between them, that create the identity,” Seger details."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-15.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Microsoft’s point of view on work is most visible in the photography, which shows work as people experience it – real, recognisable and often imperfect – in moments that feel observed, such as someone leaning over a desk to look at something, a notification arriving during a commute, a work call taken on holiday or the slightly competitive moment when someone realises a colleague has built a better Excel spreadsheet. “People are always the heroes, not the AI,” Fedorov notes of film and storytelling. “Everything comes together around the person and the work they’re trying to do. Copilot doesn’t take over the work or define the destination.”"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Copilot-Microsoft-Design-13-updated.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "For Copilot’s global advertising campaign, Microsoft worked with its partners at Droga5 , spending a lot of time on what the world of work should look and feel like. In film, Copilot appears through minimal gestures, such as a prompt being typed, the mark moving through a thinking state or a quick snap as something resolves. On screen, it often sits towards the lower right of the frame, echoing its place in Office. “I think of the system almost as having different volumes,” Seger concludes. “In an immersive digital expression, we can turn the volume up: more UI, more intersection, more motion, more clicking together. In a global campaign, we turn some of those elements down so people, emotion and storytelling can come forward.”"
+        }
+      ],
+      "caseStudyText": "Microsoft has spent 50 years building the tools people use to work. So, when redesigning Copilot’s identity, the team began by asking what distinctly Microsoft point of view on work it should express. Microsoft’s in-house teams led the redesign – bringing in COLLINS to explore the mark and Koto to help expand it into the wider identity – from imagery and colour to composition and product representations.\n\nEveryone’s work spans apps, documents, websites and conversations, which at times, can be exhilarating and deeply satisfying; at others, intense, frustrating and exhausting. Often in a single day. Guided by Microsoft’s principles, which put people before technology, the new identity presents Copilot as a partner in that reality, helping people feel smarter and more capable at work.\n\nThe identity’s foundational idea is ‘the power of things coming together,’ and three principles put it to work, guiding the team wherever the brand guidelines give no literal answer. The first, ‘click into place,’ expresses the idea most directly, using collage, overlap and composition to bring documents, context and work together. ‘Intelligence with ease’ brings simplicity and calm to the complexity of work through sophisticated palettes and considered compositions, and ‘lightness with wit’ introduces moments of humour, surprise and delight. The brand also works as one system across product and marketing, so the same gestures, colours, patterns and behaviours appear across type, illustration, UI, notifications, motion, photography and advertising. “This identity is pure, simple and true, and that’s its strength. The product doesn’t need marketing to invent a world around it, and marketing doesn’t need to exaggerate what the product is,” notes Microsoft’s GM, Global Brand & Creative, Sven Seger.\n\nThe previous icon was a recognisable part of Copilot, but it stayed still while Copilot worked through a request, even though much of the experience happens between a question and its response. “What if the icon could join the conversation?” asks Microsoft’s VP of Product Design & Creative Lucas Fitzpatrick. If the mark was going to move, it had to stay unmistakably Copilot in every frame, so the designers returned to the fundamental geometry of Microsoft’s visual language, exploring what could happen when simple forms came together and moved in relation to one another.\n\nWorking with COLLINS, the team tested many proportions, angles and spacings before settling on two distinct forms that create a single silhouette and can separate, shift and reconnect without losing their relationship. The forms lean at 14°, with corners rounded at radii of 55px and 75px. The studio, which developed the mark and its foundational motion behaviour, describes the two shapes as a nod to the geometry of the main Microsoft logo, which it worked on years ago, and to the two kinds of intelligence that Copilot brings together – human and technological. Microsoft’s in-house teams then worked closely with COLLINS to refine the mark to its final state. Like the mark’s two forms, the typography pairs Segoe Sans, Microsoft’s familiar humanist typeface, with Segoe Serif – the sans brings openness and clarity, and the serif adds character and expression.\n\nTo show what Copilot is doing, the team built a shared motion language for the mark around three thinking states – the moments when Copilot is busy thinking through a request, planning the next steps or retrieving context from people’s files and work. Each state is a simple gesture in which the two forms move in relation to each other and come back as one. The gestures follow Copilot across Microsoft’s ecosystem, so one that appears in Windows looks familiar again in Word or PowerPoint. Deciding how the seconds that Copilot spends on a request should look and feel took “a room of brand, product and motion designers months,” Fitzpatrick writes.\n\nWhat began in the mark became a behaviour for the entire identity – things move, find each other and connect. From there, the team developed two modes of motion – float and snap. Float is softer, slower and more immersive, as imagery and elements drift and rotate subtly through space, accelerating only as they approach their point of connection. Snap is quick, precise and a little witty. It appears in UI-scale moments as text arrives, a slide clicks into position, an image finds its place or elements reconfigure around the work, often with a brief hold followed by a fast transition. “Float creates possibility; snap creates resolution. They reflect the states of mind we naturally move through as we work: exploring what could be, then finding clarity and moving forward,” Microsoft’s Senior Creative Director Aleksey Fedorov tells us.\n\nWorking with Koto, the teams grounded Copilot in the work experiences that people already know. They took the wider identity’s ingredients from Office apps such as Word, Excel, PowerPoint and Outlook, reinterpreting their menus, buttons, cells, slides, documents, shapes and grids, so that UI, patterns, imagery and textures overlap, intersect and snap into new compositions. The identity also brings in the tactility of physical offices, with their notes, printouts and paper, so familiar Office patterns appear as part-digital, part-physical objects treated with a little wit. That wit extends into the illustration, which uses simple line gestures and dimensionality. If Office grounds the identity in the reality of work, the team sees Copilot as adding intelligence, possibility and levity. “Your feet are on the ground, but your head is in the sky,” Fedorov explains.\n\nThe palette has the same tension between grounding and possibility. The sky appears as gradients of luminous blue, from almost white to deeper, more immersive tones, evoking openness, possibility and blue-sky thinking, while fresh, grassy greens bring the system back down to earth. Together, they subtly echo the green-field-and-blue-sky imagery long associated with Microsoft and Windows. The team spent a long time finding a green that didn’t simply look like Excel green but felt distinctly Copilot – brighter and fresher. The blues and greens sit on a neutral base, while Word blue, Excel green, PowerPoint orange, Teams purple and Outlook blue appear as accents, tying Copilot to the tools of everyday work.\n\nColour becomes most expressive at the points where things meet, such as where UI meets photography or pattern meets texture. In product, the palette can be quieter and more functional, and in marketing and print it can become richer, more tactile and more expressive. “It’s not one exact colour value that makes something feel like Copilot. It’s how the colours come together, and the relationships between them, that create the identity,” Seger details.\n\nMicrosoft’s point of view on work is most visible in the photography, which shows work as people experience it – real, recognisable and often imperfect – in moments that feel observed, such as someone leaning over a desk to look at something, a notification arriving during a commute, a work call taken on holiday or the slightly competitive moment when someone realises a colleague has built a better Excel spreadsheet. “People are always the heroes, not the AI,” Fedorov notes of film and storytelling. “Everything comes together around the person and the work they’re trying to do. Copilot doesn’t take over the work or define the destination.”\n\nFor Copilot’s global advertising campaign, Microsoft worked with its partners at Droga5 , spending a lot of time on what the world of work should look and feel like. In film, Copilot appears through minimal gestures, such as a prompt being typed, the mark moving through a thinking state or a quick snap as something resolves. On screen, it often sits towards the lower right of the frame, echoing its place in Office. “I think of the system almost as having different volumes,” Seger concludes. “In an immersive digital expression, we can turn the volume up: more UI, more intersection, more motion, more clicking together. In a global campaign, we turn some of those elements down so people, emotion and storytelling can come forward.”",
+      "caseStudyMedia": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-01.png"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-02.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-03.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-04.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-05.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-06.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-07.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-08.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-09.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-10.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-11.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-12.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-15.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Copilot-Microsoft-Design-13-updated.mp4"
+        }
+      ]
+    },
+    {
       "canonicalUrl": "https://the-brandidentity.com/project/saint-urbains-masani-pizza-identity-celebrates-the-family-that-owns-it",
       "titleOriginal": "Saint-Urbain’s Masani Pizza identity celebrates the family that owns it",
       "textOriginal": "Lillian Pizzeria had been an institution in Forest Hills, Queens, since 1972, and Mike Chau grew up going there with his family for Friday night dinner. He later moved back to Forest Hills and kept going to Lillian with his own children. A New York food personality, Chau has spent more than a decade documenting the city’s restaurants and runs two Instagram accounts: his personal @mikejchau and @foodbabyny, which is about New York City and his children. In 2026, he and his wife, Alexandra, bought the restaurant and renamed it as Masani Pizza , combining the names of their three children, Matty, Sammy and Nicky.\n\nTo design the identity, Chau turned to creative agency Saint-Urbain and its Founder & Creative Director, Alex Ostroff, who met the couple soon after moving to New York in 2014 and has known their children almost since they were born. The brief asked for a classic New York neighbourhood slice shop that respected Lillian Pizzeria while improving the perception of the pizza, ingredients and experience. Saint-Urbain’s remit covered strategy, positioning, copywriting, custom lettering, illustration, packaging, merchandise and signage. “For me, this whole project was a gift to my friend and his family. I wanted to create something they could have forever,” Ostroff tells us.",
@@ -3189,165 +3379,6 @@ const snapshot={
         {
           "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-studio-roses-made-a-hotel-feel-like-part-of-its-neighbourhood/Terreno-Barrio-Hotel-Studio-Roses-02-new.jpg"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues",
-      "titleOriginal": "Pentagram rebrands De Bijloke, one of Europe’s most vibrant music venues",
-      "textOriginal": "Muziekcentrum De Bijloke is one of Europe’s most vibrant music venues, and it has a history like no other. The Ghent music centre’s central performance space sits under an oak roof structure that began life in 1251 as a medieval hospital, and a major restoration and acoustic redesign turned it into the concert hall it is today. Ahead of the launch of its 26/27 season, De Bijloke asked Pentagram’s London office for a digital-first identity that would attract new music-loving visitors while still appealing to its loyal audience.\n\nFor years after that restoration, De Bijloke’s communication was about the building. “The project started from a feeling that our identity and the story we were telling about De Bijloke no longer fully reflected who we had become,” explains Lead of Public & Marketing/Communication, Shari Platteeuw. “We were not looking for a new logo in isolation,” she continues. “We wanted to rethink the brand more fundamentally: our positioning, our visual language and the way we speak about De Bijloke. Pentagram helped us translate the tension that is very specific to this place: eight centuries of history, combined with music that only truly exists in the moment it is performed.”",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/13516116.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-00.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "Muziekcentrum De Bijloke is one of Europe’s most vibrant music venues, and it has a history like no other. The Ghent music centre’s central performance space sits under an oak roof structure that began life in 1251 as a medieval hospital, and a major restoration and acoustic redesign turned it into the concert hall it is today. Ahead of the launch of its 26/27 season, De Bijloke asked Pentagram’s London office for a digital-first identity that would attract new music-loving visitors while still appealing to its loyal audience."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-02-new.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "For years after that restoration, De Bijloke’s communication was about the building. “The project started from a feeling that our identity and the story we were telling about De Bijloke no longer fully reflected who we had become,” explains Lead of Public & Marketing/Communication, Shari Platteeuw. “We were not looking for a new logo in isolation,” she continues. “We wanted to rethink the brand more fundamentally: our positioning, our visual language and the way we speak about De Bijloke. Pentagram helped us translate the tension that is very specific to this place: eight centuries of history, combined with music that only truly exists in the moment it is performed.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-03.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“That eventually became the idea behind the brand: ‘Alive in every moment. Past, present and future,’” Platteeuw adds. Pentagram delivered guidelines with the identity, setting out the principles for its verbal language, in which De Bijloke speaks as a gracious host and a thoughtful curator of its programme."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-13.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-14.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“In workshops with the clients we got to understand their programme and curatorial approach more deeply,” Pentagram’s Partner Marina Willer tells us. “In our research, we looked at many ways that music can be visualised through movement,” Willer explains, the search taking in her doodles, various dance and music notations, and the way artists trace their body movement. The logo that came out of that research is a swooping, fluid mark, drawn from the unconventional music notation methods of composer John Cage and from experiments with an oscilloscope – an analogue tool that visualises audio signals. “The objective was to move away from the ‘historical’ perceptions people already have of Bijloke’s musical programme,” she continues. “So, we avoided the obvious iconography clichés – musical clefs and classical scores.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-05.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Against the mark’s expressiveness, the typography is modern, clear and confident. Pentagram chose the sans serif Forma DJR for its simplicity, and to convey a democratic, approachable brand aimed at everyone – its plain letterforms giving the identity a neutral balance and still leaving room for creative arrangements in headlines and key messaging. The palette is drawn from features that are constant across the building: the walls, chairs and windows. Each colour taken from them is paired with a vibrant tone that stands for the contemporary eye of the programme and the modernity of the refurbished space, against the historical building around it. The team also created a series of patterns to use as supporting graphics."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-12.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-09.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "De Bijloke asked for Jazz, Family and what it calls New Music – the more experimental strand – to have a presence of their own, connected to the identity. “Three parts of the programme needed to be highlighted,” Willer details, “as current perceptions are that their programme is predominantly classical, which is not the case.” “De Bijloke presents classical music, early music, contemporary classical music, jazz, festivals and projects for younger audiences, so we needed an identity that could create strong recognition without making every programme look identical,” Platteeuw notes."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-08.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-10.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Each of the three strands has a pattern of its own, separate from the supporting graphics. Jazz and New Music take theirs from the oscilloscope work more directly than the rest of the identity does. Jazz is inspired by the improvisation in the genre, and New Music pushes the mark further than anywhere else. The Family pattern goes its own way, and it is the playful one of the three."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-07.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Pentagram also built a generative tool, which reworks the Jazz and New Music patterns. A designer adjusts the drawing of the mark on it, with scales for the intensity and movement of the lines. The output is a run of ever-changing forms, adaptable for motion and exported for any format. Sam Corijn, De Bijloke’s designer, has since been using it in the programme design."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-06.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The identity launched in May 2026 with the website, alongside the announcement of the 26/27 season. It now runs across De Bijloke’s main audience touchpoints, and the venue is translating it into the physical experience of the building gradually. “What stands out most is how naturally the new identity has been accepted, also by people who have known De Bijloke for years. Our Friends membership programme has remained very strong since the launch and has even continued to grow,” Platteeuw concludes."
-        }
-      ],
-      "caseStudyText": "Muziekcentrum De Bijloke is one of Europe’s most vibrant music venues, and it has a history like no other. The Ghent music centre’s central performance space sits under an oak roof structure that began life in 1251 as a medieval hospital, and a major restoration and acoustic redesign turned it into the concert hall it is today. Ahead of the launch of its 26/27 season, De Bijloke asked Pentagram’s London office for a digital-first identity that would attract new music-loving visitors while still appealing to its loyal audience.\n\nFor years after that restoration, De Bijloke’s communication was about the building. “The project started from a feeling that our identity and the story we were telling about De Bijloke no longer fully reflected who we had become,” explains Lead of Public & Marketing/Communication, Shari Platteeuw. “We were not looking for a new logo in isolation,” she continues. “We wanted to rethink the brand more fundamentally: our positioning, our visual language and the way we speak about De Bijloke. Pentagram helped us translate the tension that is very specific to this place: eight centuries of history, combined with music that only truly exists in the moment it is performed.”\n\n“That eventually became the idea behind the brand: ‘Alive in every moment. Past, present and future,’” Platteeuw adds. Pentagram delivered guidelines with the identity, setting out the principles for its verbal language, in which De Bijloke speaks as a gracious host and a thoughtful curator of its programme.\n\n“In workshops with the clients we got to understand their programme and curatorial approach more deeply,” Pentagram’s Partner Marina Willer tells us. “In our research, we looked at many ways that music can be visualised through movement,” Willer explains, the search taking in her doodles, various dance and music notations, and the way artists trace their body movement. The logo that came out of that research is a swooping, fluid mark, drawn from the unconventional music notation methods of composer John Cage and from experiments with an oscilloscope – an analogue tool that visualises audio signals. “The objective was to move away from the ‘historical’ perceptions people already have of Bijloke’s musical programme,” she continues. “So, we avoided the obvious iconography clichés – musical clefs and classical scores.”\n\nAgainst the mark’s expressiveness, the typography is modern, clear and confident. Pentagram chose the sans serif Forma DJR for its simplicity, and to convey a democratic, approachable brand aimed at everyone – its plain letterforms giving the identity a neutral balance and still leaving room for creative arrangements in headlines and key messaging. The palette is drawn from features that are constant across the building: the walls, chairs and windows. Each colour taken from them is paired with a vibrant tone that stands for the contemporary eye of the programme and the modernity of the refurbished space, against the historical building around it. The team also created a series of patterns to use as supporting graphics.\n\nDe Bijloke asked for Jazz, Family and what it calls New Music – the more experimental strand – to have a presence of their own, connected to the identity. “Three parts of the programme needed to be highlighted,” Willer details, “as current perceptions are that their programme is predominantly classical, which is not the case.” “De Bijloke presents classical music, early music, contemporary classical music, jazz, festivals and projects for younger audiences, so we needed an identity that could create strong recognition without making every programme look identical,” Platteeuw notes.\n\nEach of the three strands has a pattern of its own, separate from the supporting graphics. Jazz and New Music take theirs from the oscilloscope work more directly than the rest of the identity does. Jazz is inspired by the improvisation in the genre, and New Music pushes the mark further than anywhere else. The Family pattern goes its own way, and it is the playful one of the three.\n\nPentagram also built a generative tool, which reworks the Jazz and New Music patterns. A designer adjusts the drawing of the mark on it, with scales for the intensity and movement of the lines. The output is a run of ever-changing forms, adaptable for motion and exported for any format. Sam Corijn, De Bijloke’s designer, has since been using it in the programme design.\n\nThe identity launched in May 2026 with the website, alongside the announcement of the 26/27 season. It now runs across De Bijloke’s main audience touchpoints, and the venue is translating it into the physical experience of the building gradually. “What stands out most is how naturally the new identity has been accepted, also by people who have known De Bijloke for years. Our Friends membership programme has remained very strong since the launch and has even continued to grow,” Platteeuw concludes.",
-      "caseStudyMedia": [
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-00.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-02-new.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-03.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-13.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-14.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-05.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-12.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-09.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-08.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-10.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-07.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/09/pentagram-rebrands-de-bijloke-one-of-europes-most-vibrant-music-venues/De-Bijloke-Pentagram-06.mp4"
         }
       ]
     }
