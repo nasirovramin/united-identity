@@ -7,6 +7,170 @@ const snapshot={
   },
   "items": [
     {
+      "canonicalUrl": "https://the-brandidentity.com/project/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign",
+      "titleOriginal": "The New York Times turns 175 with an identity, events and a campaign",
+      "textOriginal": "For its 175th anniversary, The New York Times created a custom 175 mark and identity system to use across editorial, opinion, advertising, events and marketing. The anniversary programme also included a celebration and exhibition at Spring Studios, plus a social campaign, film series, photojournalism tour of university campuses and an identity for The Times’s NYC Marathon team. Creative Director Jessi Brattengeier led the work alongside The Times’s in-house Culture and Comms Design team and a roster of select partners.\n\n“An anniversary is an easy invitation to look backwards,” Brattengeier explains. The team wanted the 175th celebration to do “something more useful: remind people what original reporting actually takes, and why it’s worth protecting,” with every piece of the work holding “two ideas together – 175 years of history and the urgency of the journalism happening right now.”",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/The-New-York-Times-175-The-New-York-Times-02.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/The-New-York-Times-175-The-New-York-Times-02.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "For its 175th anniversary, The New York Times created a custom 175 mark and identity system to use across editorial, opinion, advertising, events and marketing. The anniversary programme also included a celebration and exhibition at Spring Studios, plus a social campaign, film series, photojournalism tour of university campuses and an identity for The Times’s NYC Marathon team. Creative Director Jessi Brattengeier led the work alongside The Times’s in-house Culture and Comms Design team and a roster of select partners."
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/NYT-TBI-Horizontal-Hero-2.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“An anniversary is an easy invitation to look backwards,” Brattengeier explains. The team wanted the 175th celebration to do “something more useful: remind people what original reporting actually takes, and why it’s worth protecting,” with every piece of the work holding “two ideas together – 175 years of history and the urgency of the journalism happening right now.”"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/The-New-York-Times-175-The-New-York-Times-04.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Custom marks are rare at The Times, whose own type families handle nearly all of its needs. Typed out in NYT Fraktur, The Times’s blackletter typeface drawn by type designer Ed Benguiat, the numerals felt a bit flat and, next to the wordmark, lacked the dynamism that the celebration needed. So The Times commissioned XYZ Type to draw a custom mark, exploring numerals that ranged from regimented blackletter forms to ornate options with frills and swashes. Co-founder Jesse Ragan found that “the quiet confidence in a plain-spoken blackletter carried The Times’s identity better than fussy details.” Each numeral nods to details of the wordmark without matching them precisely: the ‘1’ echoes the serifs of the ‘h,’ the ‘7’ ends in a calligraphic flick that follows the leg of the ‘k’ and the ‘5’ closes on a tapered arc that refers to the ‘s.’ The aim, Brattengeier notes, was for the mark and the wordmark to feel like “a family resemblance, not a logo placed next to a logo.”"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/TBI-NYT-Instagram-MenonMoonReplace.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/The-New-York-Times-175-The-New-York-Times-13.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The 175 identity first launched in motion, at the end of The Times’s New Year’s Eve video about the shared history of Times Square and The New York Times. The Times gave XYZ Type and Kiffer Keegan, who worked on the motion, the same brief and had them work together as a team, so the mark and its motion were made at the same time. Once the mark was set, The Times built out lockups that pair it with the wordmark or the standalone ‘T’ – quiet and formal on a printed section, large and graphic on a wall at an event. The identity uses two of The Times’s proprietary typefaces: Franklin for body copy, subheads and information, and Cheltenham Light as the defining typeface of the anniversary. “The lighter weight kept it feeling joyous rather than stoic,” Brattengeier tells us."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/TBI-NYT-Vertical-Editorial-Replace-1026.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/The-New-York-Times-175-The-New-York-Times-14.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The in-house team gave outside partners high-level guidelines with a light touch on the rules, leaving each to decide how much of the identity to use in their own piece. In editorial, the 175 mark’s use “had to be more restrained,” Deputy Editor for Digital News Design Gabriel Gianordoli explains. The mark had to work across different publishing pipelines and formats, and “the elements of The Times identity – colour, type and sometimes even The Times wordmark – are already present in the articles.” So the anniversary’s editorial expression expands on the identity through art direction, in the Eyewitness series of 15 pieces that The Times is publishing during the anniversary rollout. Illustrator and designer Matt Dorfman made collages that reimagine the archive for the series, each pairing at least one photo of the event it portrays with a newspaper tear sheet of the published story."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/The-New-York-Times-175-The-New-York-Times-07-update.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "For the anniversary celebration at Spring Studios, The Times designed the interiors, programming, content and an original exhibition together, working with architectural designer Ingrid Schmaedecke and event production agency Empire Entertainment. A glowing globe light, modelled on the lamps that once hung on the facade of the former New York Times Annex, was set into the venue’s exterior. Inside, the exhibition was the entry point to the night, curated so that history and the present sat side by side. Its objects included a press patch from The Times’s Iraq bureau and a Pulitzer Prize medal for public service. The cases and walls were set out in a staggered arrangement, opening up views through the space. “I was interested in immersion as a collective experience: across the room, you could see other people absorbed in the exhibition while experiencing it yourself,” Schmaedecke reflects. Since the celebration, the exhibition has moved to the lobby of The Times’s headquarters, on view until the end of 2026."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/The-New-York-Times-175-The-New-York-Times-09-update.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/The-New-York-Times-175-The-New-York-Times-15.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "In the main event room at Spring Studios, hanging vertical screens played artists’ interpretations of the ‘T,’ commissioned for T Magazine more than 20 years ago, in place of a static logo. Times journalist Michael Barbaro hosted the evening, with surprise vignettes from actors Jeremy Strong, Julia Louis-Dreyfus and Regina King among others, and a performance from singer Janelle Monáe. The soundtrack for the night and the anniversary’s brand videos started from a question that in-house composer Dan Powell asked: “What do we physically have here in the building that we could record?” With fellow composer Pat McCusker, Powell recorded Royal and Remington typewriters, IBM Wheelwriters and falling linotype sourced from the archive and turned them into the score, including for the film that The Times made with Keegan tracing how its brand has evolved."
+        },
+        {
+          "type": "iframe",
+          "url": "https://player.vimeo.com/video/1236374652?autoplay=0&loop=1&autopause=1"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "With Studio Dumbar, The Times made ‘Reporters Follow the Facts,’ a social campaign built on the idea that original reporting is essential and getting rarer. It honours every journalist doing original reporting, at The Times and elsewhere. Its centrepiece film moves through The Times’s reporting from the Pentagon Papers to Covid to #MeToo and draws on never-before-seen images from the archive, among them on-the-ground contact sheets from 9/11. At Metrograph, ‘Stop the Presses,’ a film series designed with Pentagram partner and former NYT Art Director Matt Willey, pairs five classic films about journalism with conversations featuring Times journalists. The New York Stock Exchange’s screens showed archival photos of The Times’s Wall Street coverage paired with the 175 identity. Internally, Brattengeier’s team worked with The Times’s Print Desk, led by Andrew Sondern and Keith Webb, on a special print section set with the name of every employee at the time of printing. At the NYC Marathon, Times Runners will wear 175 Marathon identity gear designed in-house as they raise money through Run for Reporting for the free-tuition campaign at CUNY’s Craig Newmark Graduate School of Journalism."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/The-New-York-Times-175-The-New-York-Times-16.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "‘Bearing Witness,’ the photojournalism tour that travels to university campuses, was curated by The Times’s Director of Photography, Meaghan Looram, and designed with Other Means around a custom delivery truck, which serves as a backdrop and title wall and turns into a screening room for behind-the-scenes footage. “It was important to acknowledge that even though most readers get their paper on a screen, for most of The Times’s 175-year history, delivering the news meant fleets of trucks dropping stacks of newspapers at newsstands around the world,” adds Other Means’ Co-founder Gary Fogelson."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“What held all of the work together was less a rulebook than a shared way of using our history: as evidence of character, not as a style,” Brattengeier concludes. “Across 175 years, the one constant has been innovation, anchored by values that haven’t changed.”"
+        }
+      ],
+      "caseStudyText": "For its 175th anniversary, The New York Times created a custom 175 mark and identity system to use across editorial, opinion, advertising, events and marketing. The anniversary programme also included a celebration and exhibition at Spring Studios, plus a social campaign, film series, photojournalism tour of university campuses and an identity for The Times’s NYC Marathon team. Creative Director Jessi Brattengeier led the work alongside The Times’s in-house Culture and Comms Design team and a roster of select partners.\n\n“An anniversary is an easy invitation to look backwards,” Brattengeier explains. The team wanted the 175th celebration to do “something more useful: remind people what original reporting actually takes, and why it’s worth protecting,” with every piece of the work holding “two ideas together – 175 years of history and the urgency of the journalism happening right now.”\n\nCustom marks are rare at The Times, whose own type families handle nearly all of its needs. Typed out in NYT Fraktur, The Times’s blackletter typeface drawn by type designer Ed Benguiat, the numerals felt a bit flat and, next to the wordmark, lacked the dynamism that the celebration needed. So The Times commissioned XYZ Type to draw a custom mark, exploring numerals that ranged from regimented blackletter forms to ornate options with frills and swashes. Co-founder Jesse Ragan found that “the quiet confidence in a plain-spoken blackletter carried The Times’s identity better than fussy details.” Each numeral nods to details of the wordmark without matching them precisely: the ‘1’ echoes the serifs of the ‘h,’ the ‘7’ ends in a calligraphic flick that follows the leg of the ‘k’ and the ‘5’ closes on a tapered arc that refers to the ‘s.’ The aim, Brattengeier notes, was for the mark and the wordmark to feel like “a family resemblance, not a logo placed next to a logo.”\n\nThe 175 identity first launched in motion, at the end of The Times’s New Year’s Eve video about the shared history of Times Square and The New York Times. The Times gave XYZ Type and Kiffer Keegan, who worked on the motion, the same brief and had them work together as a team, so the mark and its motion were made at the same time. Once the mark was set, The Times built out lockups that pair it with the wordmark or the standalone ‘T’ – quiet and formal on a printed section, large and graphic on a wall at an event. The identity uses two of The Times’s proprietary typefaces: Franklin for body copy, subheads and information, and Cheltenham Light as the defining typeface of the anniversary. “The lighter weight kept it feeling joyous rather than stoic,” Brattengeier tells us.\n\nThe in-house team gave outside partners high-level guidelines with a light touch on the rules, leaving each to decide how much of the identity to use in their own piece. In editorial, the 175 mark’s use “had to be more restrained,” Deputy Editor for Digital News Design Gabriel Gianordoli explains. The mark had to work across different publishing pipelines and formats, and “the elements of The Times identity – colour, type and sometimes even The Times wordmark – are already present in the articles.” So the anniversary’s editorial expression expands on the identity through art direction, in the Eyewitness series of 15 pieces that The Times is publishing during the anniversary rollout. Illustrator and designer Matt Dorfman made collages that reimagine the archive for the series, each pairing at least one photo of the event it portrays with a newspaper tear sheet of the published story.\n\nFor the anniversary celebration at Spring Studios, The Times designed the interiors, programming, content and an original exhibition together, working with architectural designer Ingrid Schmaedecke and event production agency Empire Entertainment. A glowing globe light, modelled on the lamps that once hung on the facade of the former New York Times Annex, was set into the venue’s exterior. Inside, the exhibition was the entry point to the night, curated so that history and the present sat side by side. Its objects included a press patch from The Times’s Iraq bureau and a Pulitzer Prize medal for public service. The cases and walls were set out in a staggered arrangement, opening up views through the space. “I was interested in immersion as a collective experience: across the room, you could see other people absorbed in the exhibition while experiencing it yourself,” Schmaedecke reflects. Since the celebration, the exhibition has moved to the lobby of The Times’s headquarters, on view until the end of 2026.\n\nIn the main event room at Spring Studios, hanging vertical screens played artists’ interpretations of the ‘T,’ commissioned for T Magazine more than 20 years ago, in place of a static logo. Times journalist Michael Barbaro hosted the evening, with surprise vignettes from actors Jeremy Strong, Julia Louis-Dreyfus and Regina King among others, and a performance from singer Janelle Monáe. The soundtrack for the night and the anniversary’s brand videos started from a question that in-house composer Dan Powell asked: “What do we physically have here in the building that we could record?” With fellow composer Pat McCusker, Powell recorded Royal and Remington typewriters, IBM Wheelwriters and falling linotype sourced from the archive and turned them into the score, including for the film that The Times made with Keegan tracing how its brand has evolved.\n\nWith Studio Dumbar, The Times made ‘Reporters Follow the Facts,’ a social campaign built on the idea that original reporting is essential and getting rarer. It honours every journalist doing original reporting, at The Times and elsewhere. Its centrepiece film moves through The Times’s reporting from the Pentagon Papers to Covid to #MeToo and draws on never-before-seen images from the archive, among them on-the-ground contact sheets from 9/11. At Metrograph, ‘Stop the Presses,’ a film series designed with Pentagram partner and former NYT Art Director Matt Willey, pairs five classic films about journalism with conversations featuring Times journalists. The New York Stock Exchange’s screens showed archival photos of The Times’s Wall Street coverage paired with the 175 identity. Internally, Brattengeier’s team worked with The Times’s Print Desk, led by Andrew Sondern and Keith Webb, on a special print section set with the name of every employee at the time of printing. At the NYC Marathon, Times Runners will wear 175 Marathon identity gear designed in-house as they raise money through Run for Reporting for the free-tuition campaign at CUNY’s Craig Newmark Graduate School of Journalism.\n\n‘Bearing Witness,’ the photojournalism tour that travels to university campuses, was curated by The Times’s Director of Photography, Meaghan Looram, and designed with Other Means around a custom delivery truck, which serves as a backdrop and title wall and turns into a screening room for behind-the-scenes footage. “It was important to acknowledge that even though most readers get their paper on a screen, for most of The Times’s 175-year history, delivering the news meant fleets of trucks dropping stacks of newspapers at newsstands around the world,” adds Other Means’ Co-founder Gary Fogelson.\n\n“What held all of the work together was less a rulebook than a shared way of using our history: as evidence of character, not as a style,” Brattengeier concludes. “Across 175 years, the one constant has been innovation, anchored by values that haven’t changed.”",
+      "caseStudyMedia": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/The-New-York-Times-175-The-New-York-Times-02.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/NYT-TBI-Horizontal-Hero-2.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/The-New-York-Times-175-The-New-York-Times-04.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/TBI-NYT-Instagram-MenonMoonReplace.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/The-New-York-Times-175-The-New-York-Times-13.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/TBI-NYT-Vertical-Editorial-Replace-1026.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/The-New-York-Times-175-The-New-York-Times-14.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/The-New-York-Times-175-The-New-York-Times-07-update.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/The-New-York-Times-175-The-New-York-Times-09-update.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/The-New-York-Times-175-The-New-York-Times-15.jpg"
+        },
+        {
+          "type": "iframe",
+          "url": "https://player.vimeo.com/video/1236374652?autoplay=0&loop=1&autopause=1"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/The-New-York-Times-175-The-New-York-Times-16.jpg"
+        }
+      ]
+    },
+    {
       "canonicalUrl": "https://the-brandidentity.com/project/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work",
       "titleOriginal": "Microsoft’s identity for Copilot positions it as a tool for work",
       "textOriginal": "Microsoft has spent 50 years building the tools people use to work. So, when redesigning Copilot’s identity, the team began by asking what distinctly Microsoft point of view on work it should express. Microsoft’s in-house teams led the redesign – bringing in COLLINS to explore the mark and Koto to help expand it into the wider identity – from imagery and colour to composition and product representations.\n\nEveryone’s work spans apps, documents, websites and conversations, which at times, can be exhilarating and deeply satisfying; at others, intense, frustrating and exhausting. Often in a single day. Guided by Microsoft’s principles, which put people before technology, the new identity presents Copilot as a partner in that reality, helping people feel smarter and more capable at work.",
@@ -3186,199 +3350,6 @@ const snapshot={
         {
           "type": "video",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/classmate-studio-reworks-the-identity-for-helsinki-restaurant-elm/Elm-Classmate-Studio-03.mp4"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/how-studio-roses-made-a-hotel-feel-like-part-of-its-neighbourhood",
-      "titleOriginal": "How Studio Roses made a hotel feel like part of its neighbourhood",
-      "textOriginal": "Terreno Barrio Hotel is hospitality group Piñero’s first urban hotel in Palma, Spain. Mallorca-based branding and graphic design studio Studio Roses was brought in early on to develop the hospitality concept itself through the strategy, naming and identity, and on to the tone of voice, brand architecture and signage. The brief asked what could be made from the character of El Terreno, the neighbourhood the site sits in.\n\nStudio Roses began with a question rather than a proposal: whether another hotel was needed at all. What it arrived at was a barrio hotel. Barrio is the Spanish for neighbourhood. The model runs in both directions – the hotel was to become part of the neighbourhood rather than simply occupy a building in it, and the neighbourhood was to carry on through the hotel’s site. El Terreno has also been Piñero’s own neighbourhood for more than 40 years, being where its offices are based. “We asked Studio Roses to explore what we could create from the identity and particular character of El Terreno,” the group’s Owner Lidia Piñero tells us. “We knew we didn’t want to create simply another hotel in Palma, but something genuinely connected to a neighbourhood with an extraordinary history and personality.”",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/13507014.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-studio-roses-made-a-hotel-feel-like-part-of-its-neighbourhood/Terreno-Barrio-Hotel-Studio-Roses-01-new.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "Terreno Barrio Hotel is hospitality group Piñero’s first urban hotel in Palma, Spain. Mallorca-based branding and graphic design studio Studio Roses was brought in early on to develop the hospitality concept itself through the strategy, naming and identity, and on to the tone of voice, brand architecture and signage. The brief asked what could be made from the character of El Terreno, the neighbourhood the site sits in."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-studio-roses-made-a-hotel-feel-like-part-of-its-neighbourhood/Terreno-Barrio-Hotel-Studio-Roses-04-new.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Studio Roses began with a question rather than a proposal: whether another hotel was needed at all. What it arrived at was a barrio hotel. Barrio is the Spanish for neighbourhood. The model runs in both directions – the hotel was to become part of the neighbourhood rather than simply occupy a building in it, and the neighbourhood was to carry on through the hotel’s site. El Terreno has also been Piñero’s own neighbourhood for more than 40 years, being where its offices are based. “We asked Studio Roses to explore what we could create from the identity and particular character of El Terreno,” the group’s Owner Lidia Piñero tells us. “We knew we didn’t want to create simply another hotel in Palma, but something genuinely connected to a neighbourhood with an extraordinary history and personality.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-studio-roses-made-a-hotel-feel-like-part-of-its-neighbourhood/Terreno-Barrio-Hotel-Studio-Roses-03.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-studio-roses-made-a-hotel-feel-like-part-of-its-neighbourhood/Terreno-Barrio-Hotel-Studio-Roses-09-new.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The starting point had come from creative consultant José Taltavull, who was living in the neighbourhood at the time. “Terreno started with an initial idea I had been discussing with the owners: the idea of a hotel built around a broader notion of circularity – not simply environmental, but social, cultural and economic,” he explains. “The idea was for the hotel to become part of the neighbourhood, with its life, culture and economy becoming part of the project, too. From there, Studio Roses and I began a collaborative process to develop and articulate that initial thinking into a conceptual framework for the project. The barrio concept emerged from that evolution.” That thinking also became the brief for the architecture. Mallorca-based architects OHLAB, led by Paloma Hernaiz and Jaime Oliver, split the hotel into two volumes, one a protected historic building and the other new construction, and cut a public passage between them through what had been its private ground."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-studio-roses-made-a-hotel-feel-like-part-of-its-neighbourhood/Terreno-Barrio-Hotel-Studio-Roses-02.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "El Terreno had its golden age between the 1950s and the 1970s, when Palma went out at night in the bars stacked up the hillside and on the terraces above the bay. Much of that era’s lettering and print has survived in plain sight: hand-made lightboxes, old posters and tickets, neon signs and shopfronts that have not changed. The studio treated what was left as source material for the identity, working through books and historical documentation and through photographs Taltavull had taken of the neighbourhood’s old signs. “The graphic history was already there, on the street and in the neighbours’ memory,” Studio Roses’ Founder & Creative Director Rafa Roses tells us. “Our job was not to invent a visual world for the hotel, but to know what to pick up.” Roses also has a personal connection to the neighbourhood: his grandfather, Pepe Roses, created Barbarella, which became an icon of European nightlife in the late 1960s and early 1970s. The family’s archive of photographs from those years became another source for the research."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-studio-roses-made-a-hotel-feel-like-part-of-its-neighbourhood/Terreno-Barrio-Hotel-Studio-Roses-08-new.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Terreno was never designed to have one logotype. It was conceived from the start as a multiple identity, on the reasoning that a neighbourhood carrying this many layers could not be defined by a single mark. There is a main wordmark, for the moments when the hotel has to appear as one recognisable brand, which lettering artist Ellmer Stefan drew from references that the studio had picked for their expressive, gestural, human and less typographic quality. Around it sits a family of wordmarks, Terreno always the dominant element and each one drawing on a different layer of the neighbourhood’s graphic memory. They appear together across the identity, including in the opening sequence of the website. Four main typefaces – Monument Extended, Blitz Script, Tiempos Text and Central Avenue – run across the system in different combinations, shifting the tone while the graphic language stays shared. “The logotypes don’t necessarily look alike, and that is intentional,” Roses notes. “What connects them is their provenance: they all come, directly or indirectly, from the graphic memory of the same neighbourhood. The coherence comes from the place rather than from imposing a single visual style.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-studio-roses-made-a-hotel-feel-like-part-of-its-neighbourhood/Terreno-Barrio-Hotel-Studio-Roses-05-new.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-studio-roses-made-a-hotel-feel-like-part-of-its-neighbourhood/Terreno-Barrio-Hotel-Studio-Roses-06-new.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Some of those personalities then extend into the hotel’s individual outlets. The brand architecture was already part of the thinking when Studio Roses developed its initial strategy, and the studio wanted the venues to answer things missing from the neighbourhood as well as serve the hotel. Sala Terreno, the screening room, came partly from there being no cinema in El Terreno, and it can host talks and other cultural programming alongside films. Most of the spaces were deliberately given plain descriptive names tied to Terreno – El Terrado is simply the Spanish for a rooftop terrace – so that not every one of them became an independent branded concept."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-studio-roses-made-a-hotel-feel-like-part-of-its-neighbourhood/Terreno-Barrio-Hotel-Studio-Roses-07-new.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Two of them took much greater independence. Destape, the main restaurant, was conceived as a public-facing destination that could live beyond the hotel, so it has a typographic language of its own in ABC Synt Medium and Book, with Monument Extended as the link back to the rest of the system, and a logotype drawn in two halves. “El Destape describes the period following Franco’s dictatorship when Spanish society began to open up: tourism was growing, social attitudes were changing, and there was a new sense of personal and sexual freedom. El Terreno was very much part of that moment,” Studio Roses’ Senior Designer Adrià Sánchez details. “But we didn’t want the identity to become a nostalgic recreation of that period. We were equally interested in the literal meaning of destapar: to uncover, reveal or open something up. That gave the name another layer connected to transparency, honesty and allowing people to see what lies behind the surface.” The halves can sit together, come apart or open up to hold images, messages and other graphic content between them, so the mark can act as a frame rather than always being the main element."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-studio-roses-made-a-hotel-feel-like-part-of-its-neighbourhood/Terreno-Barrio-Hotel-Studio-Roses-15.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-studio-roses-made-a-hotel-feel-like-part-of-its-neighbourhood/Terreno-Barrio-Hotel-Studio-Roses-14-new.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Dos Rombos, the hotel’s speakeasy, sits one floor below Destape – where the evening goes after dinner. Its name comes from the two-diamond symbol that Spanish television once used to mark content for adults – a warning that turned into something closer to an invitation. Dos Rombos’ identity takes the symbol literally: the two diamonds are the logo, and the name does not appear alongside them. The two have identities of their own and still sit inside the same cultural territory as the hotel."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-studio-roses-made-a-hotel-feel-like-part-of-its-neighbourhood/Terreno-Barrio-Hotel-Studio-Roses-05.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The signage was where the barrio could come inside the building. The identity had been drawn out of the graphic language on El Terreno’s streets, and the signs were how that language became part of the physical space rather than something applied to the architecture at the end, so the studio kept the eclecticism of the neighbourhood’s own signs instead of installing one corporate system. But Terreno is a complex site to signpost. The site has two radically different buildings, one listed and one newly built, public and hotel-only areas, a rooftop open to non-guests, and a car park accessible only through the new construction. Senior Designer Nicolás Aguirre led the work. “Once that functional layer was resolved, we could deliberately introduce different formats – neon, painted signs, lightboxes and other typologies – without compromising orientation,” he notes. “In a way, we wanted to de-corporatise the signage.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-studio-roses-made-a-hotel-feel-like-part-of-its-neighbourhood/Terreno-Barrio-Hotel-Studio-Roses-07.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-studio-roses-made-a-hotel-feel-like-part-of-its-neighbourhood/Terreno-Barrio-Hotel-Studio-Roses-10.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Before the hotel opened, Terreno had deliberately said little beyond an initial press announcement. Its first real piece of communication was a large-scale billboard that published a letter to the people of El Terreno, setting out what kind of hotel it wanted to be – not only a place for guests but a meeting point for the neighbourhood, somewhere to eat, stay, listen to music, watch films, enjoy art and spend time. The local press picked up the letter, which generated quite a lot of conversation around the project. “If the whole premise of a Barrio Hotel was that Terreno should become part of El Terreno rather than simply occupy a building within it, it felt natural that its first public gesture should be a direct conversation with its neighbours,” Roses explains. The letter ended: “We don’t want to be another hotel. We want to be part of El Terreno.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-studio-roses-made-a-hotel-feel-like-part-of-its-neighbourhood/Terreno-Barrio-Hotel-Studio-Roses-02-new.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“Neighbours come for coffee, lunch or dinner, meet friends, attend an event or simply walk through the passage between the two buildings,” Hotel Director Nabil Aguilera tells us of the period since Terreno opened. “Some people use it as part of their everyday route, without necessarily thinking of it as entering a hotel.”"
-        }
-      ],
-      "caseStudyText": "Terreno Barrio Hotel is hospitality group Piñero’s first urban hotel in Palma, Spain. Mallorca-based branding and graphic design studio Studio Roses was brought in early on to develop the hospitality concept itself through the strategy, naming and identity, and on to the tone of voice, brand architecture and signage. The brief asked what could be made from the character of El Terreno, the neighbourhood the site sits in.\n\nStudio Roses began with a question rather than a proposal: whether another hotel was needed at all. What it arrived at was a barrio hotel. Barrio is the Spanish for neighbourhood. The model runs in both directions – the hotel was to become part of the neighbourhood rather than simply occupy a building in it, and the neighbourhood was to carry on through the hotel’s site. El Terreno has also been Piñero’s own neighbourhood for more than 40 years, being where its offices are based. “We asked Studio Roses to explore what we could create from the identity and particular character of El Terreno,” the group’s Owner Lidia Piñero tells us. “We knew we didn’t want to create simply another hotel in Palma, but something genuinely connected to a neighbourhood with an extraordinary history and personality.”\n\nThe starting point had come from creative consultant José Taltavull, who was living in the neighbourhood at the time. “Terreno started with an initial idea I had been discussing with the owners: the idea of a hotel built around a broader notion of circularity – not simply environmental, but social, cultural and economic,” he explains. “The idea was for the hotel to become part of the neighbourhood, with its life, culture and economy becoming part of the project, too. From there, Studio Roses and I began a collaborative process to develop and articulate that initial thinking into a conceptual framework for the project. The barrio concept emerged from that evolution.” That thinking also became the brief for the architecture. Mallorca-based architects OHLAB, led by Paloma Hernaiz and Jaime Oliver, split the hotel into two volumes, one a protected historic building and the other new construction, and cut a public passage between them through what had been its private ground.\n\nEl Terreno had its golden age between the 1950s and the 1970s, when Palma went out at night in the bars stacked up the hillside and on the terraces above the bay. Much of that era’s lettering and print has survived in plain sight: hand-made lightboxes, old posters and tickets, neon signs and shopfronts that have not changed. The studio treated what was left as source material for the identity, working through books and historical documentation and through photographs Taltavull had taken of the neighbourhood’s old signs. “The graphic history was already there, on the street and in the neighbours’ memory,” Studio Roses’ Founder & Creative Director Rafa Roses tells us. “Our job was not to invent a visual world for the hotel, but to know what to pick up.” Roses also has a personal connection to the neighbourhood: his grandfather, Pepe Roses, created Barbarella, which became an icon of European nightlife in the late 1960s and early 1970s. The family’s archive of photographs from those years became another source for the research.\n\nTerreno was never designed to have one logotype. It was conceived from the start as a multiple identity, on the reasoning that a neighbourhood carrying this many layers could not be defined by a single mark. There is a main wordmark, for the moments when the hotel has to appear as one recognisable brand, which lettering artist Ellmer Stefan drew from references that the studio had picked for their expressive, gestural, human and less typographic quality. Around it sits a family of wordmarks, Terreno always the dominant element and each one drawing on a different layer of the neighbourhood’s graphic memory. They appear together across the identity, including in the opening sequence of the website. Four main typefaces – Monument Extended, Blitz Script, Tiempos Text and Central Avenue – run across the system in different combinations, shifting the tone while the graphic language stays shared. “The logotypes don’t necessarily look alike, and that is intentional,” Roses notes. “What connects them is their provenance: they all come, directly or indirectly, from the graphic memory of the same neighbourhood. The coherence comes from the place rather than from imposing a single visual style.”\n\nSome of those personalities then extend into the hotel’s individual outlets. The brand architecture was already part of the thinking when Studio Roses developed its initial strategy, and the studio wanted the venues to answer things missing from the neighbourhood as well as serve the hotel. Sala Terreno, the screening room, came partly from there being no cinema in El Terreno, and it can host talks and other cultural programming alongside films. Most of the spaces were deliberately given plain descriptive names tied to Terreno – El Terrado is simply the Spanish for a rooftop terrace – so that not every one of them became an independent branded concept.\n\nTwo of them took much greater independence. Destape, the main restaurant, was conceived as a public-facing destination that could live beyond the hotel, so it has a typographic language of its own in ABC Synt Medium and Book, with Monument Extended as the link back to the rest of the system, and a logotype drawn in two halves. “El Destape describes the period following Franco’s dictatorship when Spanish society began to open up: tourism was growing, social attitudes were changing, and there was a new sense of personal and sexual freedom. El Terreno was very much part of that moment,” Studio Roses’ Senior Designer Adrià Sánchez details. “But we didn’t want the identity to become a nostalgic recreation of that period. We were equally interested in the literal meaning of destapar: to uncover, reveal or open something up. That gave the name another layer connected to transparency, honesty and allowing people to see what lies behind the surface.” The halves can sit together, come apart or open up to hold images, messages and other graphic content between them, so the mark can act as a frame rather than always being the main element.\n\nDos Rombos, the hotel’s speakeasy, sits one floor below Destape – where the evening goes after dinner. Its name comes from the two-diamond symbol that Spanish television once used to mark content for adults – a warning that turned into something closer to an invitation. Dos Rombos’ identity takes the symbol literally: the two diamonds are the logo, and the name does not appear alongside them. The two have identities of their own and still sit inside the same cultural territory as the hotel.\n\nThe signage was where the barrio could come inside the building. The identity had been drawn out of the graphic language on El Terreno’s streets, and the signs were how that language became part of the physical space rather than something applied to the architecture at the end, so the studio kept the eclecticism of the neighbourhood’s own signs instead of installing one corporate system. But Terreno is a complex site to signpost. The site has two radically different buildings, one listed and one newly built, public and hotel-only areas, a rooftop open to non-guests, and a car park accessible only through the new construction. Senior Designer Nicolás Aguirre led the work. “Once that functional layer was resolved, we could deliberately introduce different formats – neon, painted signs, lightboxes and other typologies – without compromising orientation,” he notes. “In a way, we wanted to de-corporatise the signage.”\n\nBefore the hotel opened, Terreno had deliberately said little beyond an initial press announcement. Its first real piece of communication was a large-scale billboard that published a letter to the people of El Terreno, setting out what kind of hotel it wanted to be – not only a place for guests but a meeting point for the neighbourhood, somewhere to eat, stay, listen to music, watch films, enjoy art and spend time. The local press picked up the letter, which generated quite a lot of conversation around the project. “If the whole premise of a Barrio Hotel was that Terreno should become part of El Terreno rather than simply occupy a building within it, it felt natural that its first public gesture should be a direct conversation with its neighbours,” Roses explains. The letter ended: “We don’t want to be another hotel. We want to be part of El Terreno.”\n\n“Neighbours come for coffee, lunch or dinner, meet friends, attend an event or simply walk through the passage between the two buildings,” Hotel Director Nabil Aguilera tells us of the period since Terreno opened. “Some people use it as part of their everyday route, without necessarily thinking of it as entering a hotel.”",
-      "caseStudyMedia": [
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-studio-roses-made-a-hotel-feel-like-part-of-its-neighbourhood/Terreno-Barrio-Hotel-Studio-Roses-01-new.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-studio-roses-made-a-hotel-feel-like-part-of-its-neighbourhood/Terreno-Barrio-Hotel-Studio-Roses-04-new.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-studio-roses-made-a-hotel-feel-like-part-of-its-neighbourhood/Terreno-Barrio-Hotel-Studio-Roses-03.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-studio-roses-made-a-hotel-feel-like-part-of-its-neighbourhood/Terreno-Barrio-Hotel-Studio-Roses-09-new.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-studio-roses-made-a-hotel-feel-like-part-of-its-neighbourhood/Terreno-Barrio-Hotel-Studio-Roses-02.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-studio-roses-made-a-hotel-feel-like-part-of-its-neighbourhood/Terreno-Barrio-Hotel-Studio-Roses-08-new.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-studio-roses-made-a-hotel-feel-like-part-of-its-neighbourhood/Terreno-Barrio-Hotel-Studio-Roses-05-new.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-studio-roses-made-a-hotel-feel-like-part-of-its-neighbourhood/Terreno-Barrio-Hotel-Studio-Roses-06-new.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-studio-roses-made-a-hotel-feel-like-part-of-its-neighbourhood/Terreno-Barrio-Hotel-Studio-Roses-07-new.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-studio-roses-made-a-hotel-feel-like-part-of-its-neighbourhood/Terreno-Barrio-Hotel-Studio-Roses-15.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-studio-roses-made-a-hotel-feel-like-part-of-its-neighbourhood/Terreno-Barrio-Hotel-Studio-Roses-14-new.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-studio-roses-made-a-hotel-feel-like-part-of-its-neighbourhood/Terreno-Barrio-Hotel-Studio-Roses-05.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-studio-roses-made-a-hotel-feel-like-part-of-its-neighbourhood/Terreno-Barrio-Hotel-Studio-Roses-07.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-studio-roses-made-a-hotel-feel-like-part-of-its-neighbourhood/Terreno-Barrio-Hotel-Studio-Roses-10.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-studio-roses-made-a-hotel-feel-like-part-of-its-neighbourhood/Terreno-Barrio-Hotel-Studio-Roses-02-new.jpg"
         }
       ]
     }
