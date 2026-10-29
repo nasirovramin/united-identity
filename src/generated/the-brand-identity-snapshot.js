@@ -7,6 +7,147 @@ const snapshot={
   },
   "items": [
     {
+      "canonicalUrl": "https://the-brandidentity.com/project/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo",
+      "titleOriginal": "Estúdio 017’s identity for Garde refuses to tie itself to one logo",
+      "textOriginal": "Garde is a non-profit foundation for contemporary art, fashion and cinema, based in Berlin and started by a collective of anonymous independent artists. Brazilian and Portuguese studio Estúdio 017 created its brand strategy, verbal identity, visual identity and editorial system ahead of its launch.\n\nThe founders wanted Garde to arrive with the presence of an established museum of art and fashion from the start, instead of opening as a small space and growing. Estúdio 017 was asked to give an institution with no public history an identity ready for exhibitions, curatorial programmes, publications, research and the preservation and documentation of visual culture from its first day. With the founders anonymous and no names to put forward, the brand alone has to stand for Garde’s authority and its voice.",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/videos/15160118.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo/Garde-Estu%CC%81dio-017-01.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "Garde is a non-profit foundation for contemporary art, fashion and cinema, based in Berlin and started by a collective of anonymous independent artists. Brazilian and Portuguese studio Estúdio 017 created its brand strategy, verbal identity, visual identity and editorial system ahead of its launch."
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo/Garde-Estu%CC%81dio-017-02.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The founders wanted Garde to arrive with the presence of an established museum of art and fashion from the start, instead of opening as a small space and growing. Estúdio 017 was asked to give an institution with no public history an identity ready for exhibitions, curatorial programmes, publications, research and the preservation and documentation of visual culture from its first day. With the founders anonymous and no names to put forward, the brand alone has to stand for Garde’s authority and its voice."
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo/Garde-Estu%CC%81dio-017-03.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The strategy, developed by Estúdio 017’s brand strategist Rafaela Barrense, starts from the idea that culture is always changing, and sets Garde up to connect disciplines, perspectives and periods through observation, research and open access to knowledge. The studio’s aim was an editorial, flexible and long-lasting visual language to support the strategy. “The founders are anonymous by choice. They belong to a generation of artists from the 2000s, when the internet was taking off, and many artists became known for their work while staying discreet,” Founder & Creative Director Wesley Freitas explains. “That anonymity creates a sense of mystery, and the verbal identity follows the same logic. Garde speaks discreetly and gives more attention to the art than to the brand itself. When the brand does need to appear, it appears with strength, and that is where the crimson red comes in.”"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo/Garde-Estu%CC%81dio-017-04.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo/Garde-Estu%CC%81dio-017-05.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "A deep crimson is the main colour, set against black-and-white photography and portraits. “The cursive logotype came from a sense of rebellion,” Freitas tells us. “From the start, we saw Garde as a countercultural brand that would never tie itself to a single logo.” The hand-drawn lowercase logotype is one of several forms of the name, alongside a ‘G’ on its own and a version written in a sans serif, so every scale has an option – from the full logotype in large headlines to the ‘G’ in the smallest details. Monotype’s Helvetica Now Display is the main typeface, giving Garde a clear and neutral base across exhibitions, publications and research, and Mea Culpa is an ornamental typeface for more decorative moments. “Because Garde is a countercultural brand, the system also leaves room to play with other typefaces when the context calls for it,” he adds."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo/Garde-Estu%CC%81dio-017-06.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo/Garde-Estu%CC%81dio-017-09.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Starting from seals and ornaments found in public-domain books on the Internet Archive, Estúdio 017 redrew a family of seals and marks for Garde, including laurel-wreath seals, an ornamental ‘G’ monogram and illuminated ‘G’ seals, where the letter is decorated like the opening initial of an old manuscript. The identity also includes invented cataloguing details, such as the line ‘Accession No. 1990.042’ embroidered on a T-shirt. “They borrow the language of museum collections to give Garde the feel of an institution with its own archive,” Freitas notes. The 1990 in the accession number is the birth year of one of the founders, who wanted the identity to include a reference to that year."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo/Garde-Estu%CC%81dio-017-08_2026-10-27-120420_jzkc.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo/Garde-Estu%CC%81dio-017-11.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The illustrated dog that appears beside the logotype and on garments belongs to one of the founders, artists who often draw on personal references in their work, many of which go back to childhood. “Since the founders remain anonymous, the dog is one of the few personal traces of the people behind Garde that appears in the brand, and it is used with that weight in mind,” Freitas details."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo/Garde-Estu%CC%81dio-017-10.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo/Garde-Estu%CC%81dio-017-07_2026-10-27-120401_pads.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The identity is applied to editorial spreads, printed cards, business cards, a tote bag and a key medallion, and to motion pieces that motion designer Pedro Henrique developed from Freitas’ design, with Pietro Rezende adding the motion effects. “The intention was for Garde to feel new while also carrying elements of older things,” Freitas concludes. “Motion was a way to bring those two sides together.”"
+        }
+      ],
+      "caseStudyText": "Garde is a non-profit foundation for contemporary art, fashion and cinema, based in Berlin and started by a collective of anonymous independent artists. Brazilian and Portuguese studio Estúdio 017 created its brand strategy, verbal identity, visual identity and editorial system ahead of its launch.\n\nThe founders wanted Garde to arrive with the presence of an established museum of art and fashion from the start, instead of opening as a small space and growing. Estúdio 017 was asked to give an institution with no public history an identity ready for exhibitions, curatorial programmes, publications, research and the preservation and documentation of visual culture from its first day. With the founders anonymous and no names to put forward, the brand alone has to stand for Garde’s authority and its voice.\n\nThe strategy, developed by Estúdio 017’s brand strategist Rafaela Barrense, starts from the idea that culture is always changing, and sets Garde up to connect disciplines, perspectives and periods through observation, research and open access to knowledge. The studio’s aim was an editorial, flexible and long-lasting visual language to support the strategy. “The founders are anonymous by choice. They belong to a generation of artists from the 2000s, when the internet was taking off, and many artists became known for their work while staying discreet,” Founder & Creative Director Wesley Freitas explains. “That anonymity creates a sense of mystery, and the verbal identity follows the same logic. Garde speaks discreetly and gives more attention to the art than to the brand itself. When the brand does need to appear, it appears with strength, and that is where the crimson red comes in.”\n\nA deep crimson is the main colour, set against black-and-white photography and portraits. “The cursive logotype came from a sense of rebellion,” Freitas tells us. “From the start, we saw Garde as a countercultural brand that would never tie itself to a single logo.” The hand-drawn lowercase logotype is one of several forms of the name, alongside a ‘G’ on its own and a version written in a sans serif, so every scale has an option – from the full logotype in large headlines to the ‘G’ in the smallest details. Monotype’s Helvetica Now Display is the main typeface, giving Garde a clear and neutral base across exhibitions, publications and research, and Mea Culpa is an ornamental typeface for more decorative moments. “Because Garde is a countercultural brand, the system also leaves room to play with other typefaces when the context calls for it,” he adds.\n\nStarting from seals and ornaments found in public-domain books on the Internet Archive, Estúdio 017 redrew a family of seals and marks for Garde, including laurel-wreath seals, an ornamental ‘G’ monogram and illuminated ‘G’ seals, where the letter is decorated like the opening initial of an old manuscript. The identity also includes invented cataloguing details, such as the line ‘Accession No. 1990.042’ embroidered on a T-shirt. “They borrow the language of museum collections to give Garde the feel of an institution with its own archive,” Freitas notes. The 1990 in the accession number is the birth year of one of the founders, who wanted the identity to include a reference to that year.\n\nThe illustrated dog that appears beside the logotype and on garments belongs to one of the founders, artists who often draw on personal references in their work, many of which go back to childhood. “Since the founders remain anonymous, the dog is one of the few personal traces of the people behind Garde that appears in the brand, and it is used with that weight in mind,” Freitas details.\n\nThe identity is applied to editorial spreads, printed cards, business cards, a tote bag and a key medallion, and to motion pieces that motion designer Pedro Henrique developed from Freitas’ design, with Pietro Rezende adding the motion effects. “The intention was for Garde to feel new while also carrying elements of older things,” Freitas concludes. “Motion was a way to bring those two sides together.”",
+      "caseStudyMedia": [
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo/Garde-Estu%CC%81dio-017-01.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo/Garde-Estu%CC%81dio-017-02.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo/Garde-Estu%CC%81dio-017-03.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo/Garde-Estu%CC%81dio-017-04.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo/Garde-Estu%CC%81dio-017-05.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo/Garde-Estu%CC%81dio-017-06.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo/Garde-Estu%CC%81dio-017-09.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo/Garde-Estu%CC%81dio-017-08_2026-10-27-120420_jzkc.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo/Garde-Estu%CC%81dio-017-11.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo/Garde-Estu%CC%81dio-017-10.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo/Garde-Estu%CC%81dio-017-07_2026-10-27-120401_pads.jpg"
+        }
+      ]
+    },
+    {
       "canonicalUrl": "https://the-brandidentity.com/project/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit",
       "titleOriginal": "Local feel, one look: The Collected Works rebrands shuttle firm Circuit",
       "textOriginal": "Circuit is an on-demand electric shuttle service that works with cities to help people get around, often for free, mostly connecting them with local businesses, transit hubs and other nearby destinations. Founded by Alexander Esposito and James Mirras, it started in the Hamptons in 2011 and now runs in more than 50 US cities, where it has given more than 10 million rides – more than 16,000 a month in San Diego alone. New York City and New Orleans-based design studio The Collected Works was commissioned to rebrand Circuit, working across the identity, out-of-home, web, vehicle wraps, 3D, motion and copywriting.\n\n“Before the rebrand, every Circuit market had its own spin on the brand. We liked that some local voice was coming through, but it meant the locations felt like separate local initiatives rather than one trusted company,” explains Partner & Creative Director Justin Colt. TCW’s goal was to create a unified identity that could feel distinctly local in every city Circuit serves. For that local feel, TCW kept hyper-local messaging at the core of the system. The copy uses real neighbourhood names, streets, landmarks and references that people in each city recognise, like the Brooklyn-specific line ‘From Union Pool to Your Friend’s Roof.’",
@@ -3084,126 +3225,6 @@ const snapshot={
         {
           "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-06.jpg"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo",
-      "titleOriginal": "Polar is its own client at P.A.C., an artisanal bakery in São Paulo",
-      "textOriginal": "P.A.C. is an artisanal bakery in São Paulo with a menu that changes week to week. Polar, Ltda. created its identity to change just as often, across the packaging, ceramics, printed menus and the space itself. The Brazilian design studio has four partners. Two of them – Founders & Creative Directors Bruno Ribeiro and Ralph Mayer – are also partners in the bakery, while the other two are regulars there as well.\n\n“When we started P.A.C., there wasn’t really a brand yet,” Ribeiro tells us. “There was the bakery, the sourdough starter, a space taking shape and a lot of enthusiasm around bread, but none of us had experience running a professional kitchen.” The menu, service and space were also still being worked out, and the identity had to change as they did. “We knew things were going to change a lot in the beginning,” Mayer explains, “so we didn’t want to create something that felt finished too early. The identity needed to be flexible enough to adapt as we learned what P.A.C. was going to become.”",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-01.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-01.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "P.A.C. is an artisanal bakery in São Paulo with a menu that changes week to week. Polar, Ltda. created its identity to change just as often, across the packaging, ceramics, printed menus and the space itself. The Brazilian design studio has four partners. Two of them – Founders & Creative Directors Bruno Ribeiro and Ralph Mayer – are also partners in the bakery, while the other two are regulars there as well."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-02.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“When we started P.A.C., there wasn’t really a brand yet,” Ribeiro tells us. “There was the bakery, the sourdough starter, a space taking shape and a lot of enthusiasm around bread, but none of us had experience running a professional kitchen.” The menu, service and space were also still being worked out, and the identity had to change as they did. “We knew things were going to change a lot in the beginning,” Mayer explains, “so we didn’t want to create something that felt finished too early. The identity needed to be flexible enough to adapt as we learned what P.A.C. was going to become.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-03.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-04.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“We don’t really have the distance you would normally have between a studio and a client, so decisions and feedback happen very quickly,” Ribeiro notes. “It also gives us more freedom to test things that might be harder to introduce in a more traditional client relationship.” That closeness lets the identity keep changing. Polar designed all the assets, from uniforms to bathroom signage and counter labels. “Most of it was made in-house and often in response to what we needed at the time,” Mayer details. “That was important to us because it meant we could keep making and changing things as the bakery evolved, instead of having to define everything in advance.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-06.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-07.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Polar keeps two typefaces fixed so that everything else can change: Muhittin Güneş’s Gronland and Kyiv Type Foundry’s KTF Rublena. “The identity started with Gronland, a typeface that felt reliable and quiet, but still had some character,” Ribeiro explains. “The two typefaces ended up working in different directions, with Gronland handling the more everyday, structural applications and Rublena bringing more personality and recognition to the identity.” Polar added Rublena later, as the bakery grew. “Rublena gave the identity a face of its own,” Mayer notes. “It has a certain weight and presence that makes something feel like P.A.C. even before you read the name. Typography became one of the main anchors of the identity, more than the logo or the colour palette.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-05.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-09.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "For four years, Polar has worked with illustrator Beatriz Batisteli on drawings that go from a paper bag to a wall. Her playful and direct linework is plain and open in some cases, while others build it into dense, abstract compositions. Many of them are as much about the people around P.A.C. as about what it sells. “Bia is a close friend and has been around since the beginning,” Ribeiro tells us. “She lives near the bakery and is very much part of the community, so her drawings naturally come from that context.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-08.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Polar designs the weekend menus for a receipt printer. The slips are monochrome, coarse in resolution and on paper with a low opacity, printed on demand and lasting a single weekend. The bakery puts out new breads, pastries and specials every week. “The menus, illustrations and other printed pieces can be different from one week to the next,” Mayer explains, “but they still follow the same overall approach. It feels closer to making a series of small publications than maintaining a fixed set of branded assets.” People take a lot of the menus home with them. “It’s a bit of a problem from the bakery’s point of view, but as designers, we find it pretty amusing,” Ribeiro concludes."
-        }
-      ],
-      "caseStudyText": "P.A.C. is an artisanal bakery in São Paulo with a menu that changes week to week. Polar, Ltda. created its identity to change just as often, across the packaging, ceramics, printed menus and the space itself. The Brazilian design studio has four partners. Two of them – Founders & Creative Directors Bruno Ribeiro and Ralph Mayer – are also partners in the bakery, while the other two are regulars there as well.\n\n“When we started P.A.C., there wasn’t really a brand yet,” Ribeiro tells us. “There was the bakery, the sourdough starter, a space taking shape and a lot of enthusiasm around bread, but none of us had experience running a professional kitchen.” The menu, service and space were also still being worked out, and the identity had to change as they did. “We knew things were going to change a lot in the beginning,” Mayer explains, “so we didn’t want to create something that felt finished too early. The identity needed to be flexible enough to adapt as we learned what P.A.C. was going to become.”\n\n“We don’t really have the distance you would normally have between a studio and a client, so decisions and feedback happen very quickly,” Ribeiro notes. “It also gives us more freedom to test things that might be harder to introduce in a more traditional client relationship.” That closeness lets the identity keep changing. Polar designed all the assets, from uniforms to bathroom signage and counter labels. “Most of it was made in-house and often in response to what we needed at the time,” Mayer details. “That was important to us because it meant we could keep making and changing things as the bakery evolved, instead of having to define everything in advance.”\n\nPolar keeps two typefaces fixed so that everything else can change: Muhittin Güneş’s Gronland and Kyiv Type Foundry’s KTF Rublena. “The identity started with Gronland, a typeface that felt reliable and quiet, but still had some character,” Ribeiro explains. “The two typefaces ended up working in different directions, with Gronland handling the more everyday, structural applications and Rublena bringing more personality and recognition to the identity.” Polar added Rublena later, as the bakery grew. “Rublena gave the identity a face of its own,” Mayer notes. “It has a certain weight and presence that makes something feel like P.A.C. even before you read the name. Typography became one of the main anchors of the identity, more than the logo or the colour palette.”\n\nFor four years, Polar has worked with illustrator Beatriz Batisteli on drawings that go from a paper bag to a wall. Her playful and direct linework is plain and open in some cases, while others build it into dense, abstract compositions. Many of them are as much about the people around P.A.C. as about what it sells. “Bia is a close friend and has been around since the beginning,” Ribeiro tells us. “She lives near the bakery and is very much part of the community, so her drawings naturally come from that context.”\n\nPolar designs the weekend menus for a receipt printer. The slips are monochrome, coarse in resolution and on paper with a low opacity, printed on demand and lasting a single weekend. The bakery puts out new breads, pastries and specials every week. “The menus, illustrations and other printed pieces can be different from one week to the next,” Mayer explains, “but they still follow the same overall approach. It feels closer to making a series of small publications than maintaining a fixed set of branded assets.” People take a lot of the menus home with them. “It’s a bit of a problem from the bakery’s point of view, but as designers, we find it pretty amusing,” Ribeiro concludes.",
-      "caseStudyMedia": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-01.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-02.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-03.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-04.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-06.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-07.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-05.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-09.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-08.mp4"
         }
       ]
     }
