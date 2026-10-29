@@ -7,6 +7,191 @@ const snapshot={
   },
   "items": [
     {
+      "canonicalUrl": "https://the-brandidentity.com/project/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit",
+      "titleOriginal": "Local feel, one look: The Collected Works rebrands shuttle firm Circuit",
+      "textOriginal": "Circuit is an on-demand electric shuttle service that works with cities to help people get around, often for free, mostly connecting them with local businesses, transit hubs and other nearby destinations. Founded by Alexander Esposito and James Mirras, it started in the Hamptons in 2011 and now runs in more than 50 US cities, where it has given more than 10 million rides – more than 16,000 a month in San Diego alone. New York City and New Orleans-based design studio The Collected Works was commissioned to rebrand Circuit, working across the identity, out-of-home, web, vehicle wraps, 3D, motion and copywriting.\n\n“Before the rebrand, every Circuit market had its own spin on the brand. We liked that some local voice was coming through, but it meant the locations felt like separate local initiatives rather than one trusted company,” explains Partner & Creative Director Justin Colt. TCW’s goal was to create a unified identity that could feel distinctly local in every city Circuit serves. For that local feel, TCW kept hyper-local messaging at the core of the system. The copy uses real neighbourhood names, streets, landmarks and references that people in each city recognise, like the Brooklyn-specific line ‘From Union Pool to Your Friend’s Roof.’",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/videos/14878001.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-03.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "Circuit is an on-demand electric shuttle service that works with cities to help people get around, often for free, mostly connecting them with local businesses, transit hubs and other nearby destinations. Founded by Alexander Esposito and James Mirras, it started in the Hamptons in 2011 and now runs in more than 50 US cities, where it has given more than 10 million rides – more than 16,000 a month in San Diego alone. New York City and New Orleans-based design studio The Collected Works was commissioned to rebrand Circuit, working across the identity, out-of-home, web, vehicle wraps, 3D, motion and copywriting."
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-17.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“Before the rebrand, every Circuit market had its own spin on the brand. We liked that some local voice was coming through, but it meant the locations felt like separate local initiatives rather than one trusted company,” explains Partner & Creative Director Justin Colt. TCW’s goal was to create a unified identity that could feel distinctly local in every city Circuit serves. For that local feel, TCW kept hyper-local messaging at the core of the system. The copy uses real neighbourhood names, streets, landmarks and references that people in each city recognise, like the Brooklyn-specific line ‘From Union Pool to Your Friend’s Roof.’"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-12.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-04.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "During the strategy phase, TCW made an important discovery about who the identity needed to speak to. While riders were the most obvious audience, the primary decision-makers were actually local government officials, transportation departments and city leaders responsible for bringing Circuit into their communities. The studio began thinking about Circuit not simply as a transportation service, but as a visible sign of a city’s investment in its people and infrastructure."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-15.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "That thinking also shifted how TCW approached the brand itself. Rather than presenting Circuit as another disruptive start-up, the studio wanted it to feel like trusted public infrastructure. “We started thinking about things like plumbing, electricity, or gas lines. These are systems that people depend on every day. You expect them to be there and you expect them to work,” Colt explains."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-10.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The identity needed to feel like trusted urban infrastructure, rather than another start-up trying to shake up the transportation industry. The core elements remain consistent across markets, from the wordmark and icon to the typography and colour palette, while the wider system allows for flexibility and local expression. A lockup system sets each area’s name beside the wordmark, the same way in every city. Rather than replacing every element of the existing identity, TCW retained and refined Circuit’s original icon, recognising that its combination of a letter ‘C,’ a street grid and a directional path already communicated much of what the brand needed."
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-02.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“The Circuit identity leans pretty heavily on typography. This wasn’t just because we love typographic identity systems over here, which we do, but because it also made the system much easier to execute,” Colt explains. Circuit’s in-house design team needed to create assets for dozens of markets, so the identity is built around a practical toolkit of typography, colour, image masks and a handful of recognisable graphic elements."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-01.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Headlines are set in Public Type’s Stadt, a bold display sans serif with dramatic contrast between thick and thin strokes, alongside Displaay’s sans serif Haffer. The type needed “to feel like trusted urban infrastructure, closer to the New York City subway style guide than to a start-up,” he adds. TCW also defined a system of typographic animations, allowing headlines to shift, move and snap into place, layering into photography and video."
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-06-online-video-cutter.com.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-05.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "In the copy, glyphs sit between the words, as in ‘say bye ↰ to ↳ circling ↰ the block.’ “We had a great sans serif typeface with a lot of glyphs that could be used to break up content, bring in some personality and motion, and still feel utilitarian,” Colt explains. The arrows and directional symbols draw on the familiar visual language of maps, signage and transportation, introducing movement and personality directly into the typography. Together, these elements create a sense of movement throughout the identity, even in static applications."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-11.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-07-online-video-cutter.com_smaller.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Rather than inventing an entirely new graphic language, TCW looked to the visual elements people already associate with transportation. “One of my favourite things about the final system is how much it borrows from things people already associate with transportation: road signs, directional shapes, maps, lines, grids, and movement,” Colt explains. “Referencing that existing visual language connected back to this idea of Circuit feeling trusted and utilitarian, rather than like a startup that could be here today and gone tomorrow.” This thinking led to a masking system based on the silhouettes of common road signs, which could be used to crop photography and video."
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-13.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The identity also uses a continuous line, the Circuit line, that moves, turns and loops, referencing local road systems, the paths people take through a city and the idea of a circuit itself. Wanting behaviour that felt like “an actual route: always moving, never quite the same twice,” TCW built a generative tool to make the line’s patterns, which appear everywhere from the website to billboards. With the tool, the Circuit team can make new compositions independently, without needing to return to TCW each time."
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-16.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Circuit’s cars are what Colt calls “the brand’s most important piece of media,” driving around the cities it serves all day. Rolling out a new vehicle wrap design across the entire fleet takes time, so TCW’s high-fidelity renders of the cars gave Circuit something to use straight away in presentations to the local governments and communities where it wanted to launch. “Sometimes you’ll see one parked three feet away; other times it’ll pass you at 30 miles an hour,” Colt explains. “And people might see the same vehicles every day for years. So the wraps needed to be recognisable without being exhausting to look at.” The wraps balance visibility with restraint: a large wordmark makes the vehicles immediately recognisable, while the relatively subtle green and minimal graphics keep them from feeling visually overwhelming. TCW chose not to “cover every inch in graphics.” Up close, the rest of the system appears at a smaller scale, giving anyone standing next to one something more to notice."
+        }
+      ],
+      "caseStudyText": "Circuit is an on-demand electric shuttle service that works with cities to help people get around, often for free, mostly connecting them with local businesses, transit hubs and other nearby destinations. Founded by Alexander Esposito and James Mirras, it started in the Hamptons in 2011 and now runs in more than 50 US cities, where it has given more than 10 million rides – more than 16,000 a month in San Diego alone. New York City and New Orleans-based design studio The Collected Works was commissioned to rebrand Circuit, working across the identity, out-of-home, web, vehicle wraps, 3D, motion and copywriting.\n\n“Before the rebrand, every Circuit market had its own spin on the brand. We liked that some local voice was coming through, but it meant the locations felt like separate local initiatives rather than one trusted company,” explains Partner & Creative Director Justin Colt. TCW’s goal was to create a unified identity that could feel distinctly local in every city Circuit serves. For that local feel, TCW kept hyper-local messaging at the core of the system. The copy uses real neighbourhood names, streets, landmarks and references that people in each city recognise, like the Brooklyn-specific line ‘From Union Pool to Your Friend’s Roof.’\n\nDuring the strategy phase, TCW made an important discovery about who the identity needed to speak to. While riders were the most obvious audience, the primary decision-makers were actually local government officials, transportation departments and city leaders responsible for bringing Circuit into their communities. The studio began thinking about Circuit not simply as a transportation service, but as a visible sign of a city’s investment in its people and infrastructure.\n\nThat thinking also shifted how TCW approached the brand itself. Rather than presenting Circuit as another disruptive start-up, the studio wanted it to feel like trusted public infrastructure. “We started thinking about things like plumbing, electricity, or gas lines. These are systems that people depend on every day. You expect them to be there and you expect them to work,” Colt explains.\n\nThe identity needed to feel like trusted urban infrastructure, rather than another start-up trying to shake up the transportation industry. The core elements remain consistent across markets, from the wordmark and icon to the typography and colour palette, while the wider system allows for flexibility and local expression. A lockup system sets each area’s name beside the wordmark, the same way in every city. Rather than replacing every element of the existing identity, TCW retained and refined Circuit’s original icon, recognising that its combination of a letter ‘C,’ a street grid and a directional path already communicated much of what the brand needed.\n\n“The Circuit identity leans pretty heavily on typography. This wasn’t just because we love typographic identity systems over here, which we do, but because it also made the system much easier to execute,” Colt explains. Circuit’s in-house design team needed to create assets for dozens of markets, so the identity is built around a practical toolkit of typography, colour, image masks and a handful of recognisable graphic elements.\n\nHeadlines are set in Public Type’s Stadt, a bold display sans serif with dramatic contrast between thick and thin strokes, alongside Displaay’s sans serif Haffer. The type needed “to feel like trusted urban infrastructure, closer to the New York City subway style guide than to a start-up,” he adds. TCW also defined a system of typographic animations, allowing headlines to shift, move and snap into place, layering into photography and video.\n\nIn the copy, glyphs sit between the words, as in ‘say bye ↰ to ↳ circling ↰ the block.’ “We had a great sans serif typeface with a lot of glyphs that could be used to break up content, bring in some personality and motion, and still feel utilitarian,” Colt explains. The arrows and directional symbols draw on the familiar visual language of maps, signage and transportation, introducing movement and personality directly into the typography. Together, these elements create a sense of movement throughout the identity, even in static applications.\n\nRather than inventing an entirely new graphic language, TCW looked to the visual elements people already associate with transportation. “One of my favourite things about the final system is how much it borrows from things people already associate with transportation: road signs, directional shapes, maps, lines, grids, and movement,” Colt explains. “Referencing that existing visual language connected back to this idea of Circuit feeling trusted and utilitarian, rather than like a startup that could be here today and gone tomorrow.” This thinking led to a masking system based on the silhouettes of common road signs, which could be used to crop photography and video.\n\nThe identity also uses a continuous line, the Circuit line, that moves, turns and loops, referencing local road systems, the paths people take through a city and the idea of a circuit itself. Wanting behaviour that felt like “an actual route: always moving, never quite the same twice,” TCW built a generative tool to make the line’s patterns, which appear everywhere from the website to billboards. With the tool, the Circuit team can make new compositions independently, without needing to return to TCW each time.\n\nCircuit’s cars are what Colt calls “the brand’s most important piece of media,” driving around the cities it serves all day. Rolling out a new vehicle wrap design across the entire fleet takes time, so TCW’s high-fidelity renders of the cars gave Circuit something to use straight away in presentations to the local governments and communities where it wanted to launch. “Sometimes you’ll see one parked three feet away; other times it’ll pass you at 30 miles an hour,” Colt explains. “And people might see the same vehicles every day for years. So the wraps needed to be recognisable without being exhausting to look at.” The wraps balance visibility with restraint: a large wordmark makes the vehicles immediately recognisable, while the relatively subtle green and minimal graphics keep them from feeling visually overwhelming. TCW chose not to “cover every inch in graphics.” Up close, the rest of the system appears at a smaller scale, giving anyone standing next to one something more to notice.",
+      "caseStudyMedia": [
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-03.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-17.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-12.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-04.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-15.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-10.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-02.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-01.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-06-online-video-cutter.com.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-05.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-11.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-07-online-video-cutter.com_smaller.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-13.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-16.mp4"
+        }
+      ]
+    },
+    {
       "canonicalUrl": "https://the-brandidentity.com/project/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign",
       "titleOriginal": "The New York Times turns 175 with an identity, events and a campaign",
       "textOriginal": "For its 175th anniversary, The New York Times created a custom 175 mark and identity system to use across editorial, opinion, advertising, events and marketing. The anniversary programme also included a celebration and exhibition at Spring Studios, plus a social campaign, film series, photojournalism tour of university campuses and an identity for The Times’s NYC Marathon team. Creative Director Jessi Brattengeier led the work alongside The Times’s in-house Culture and Comms Design team and a roster of select partners.\n\n“An anniversary is an easy invitation to look backwards,” Brattengeier explains. The team wanted the 175th celebration to do “something more useful: remind people what original reporting actually takes, and why it’s worth protecting,” with every piece of the work holding “two ideas together – 175 years of history and the urgency of the journalism happening right now.”",
@@ -3019,337 +3204,6 @@ const snapshot={
         {
           "type": "video",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/polar-is-its-own-client-at-p-a-c-an-artisanal-bakery-in-s%C3%A3o-paulo/P.A.C.-Polar-08.mp4"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/under-afters-nurture-identity-blends-hand-drawn-and-generative-design",
-      "titleOriginal": "Under After’s Nurture identity blends hand-drawn and generative design",
-      "textOriginal": "Nurture builds the infrastructure for epigenomics – the science of the chemical tags and structural changes across a genome that control gene expression without altering the DNA beneath them. Its tools read the epigenome, software interprets it, and systems remodel it. The customers are biology companies, and within them, the scientists who handle epigenomic data. Tellus is the company’s platform. For the brand strategy and identity, Nurture’s founders turned to New York-based creative studio Under After .\n\n“All of our brand work started with a story of what we wanted to build, how we saw the world and the narratives we used to translate the deep technical concepts to a general audience. We didn’t have any pre-existing brand content to build on,” Co-founder & CEO Chuck Frazier tells us. The company works across all of biology, from plants and fungi to human health. “Our brand captures the magic of why the epigenome is a powerful layer of biology: it is the layer where all organisms adapt and encode memory,” Co-founder & CTO Savannah Dearden explains.",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/13287843.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/under-afters-nurture-identity-blends-hand-drawn-and-generative-design/Nurture-Under-After-01.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "Nurture builds the infrastructure for epigenomics – the science of the chemical tags and structural changes across a genome that control gene expression without altering the DNA beneath them. Its tools read the epigenome, software interprets it, and systems remodel it. The customers are biology companies, and within them, the scientists who handle epigenomic data. Tellus is the company’s platform. For the brand strategy and identity, Nurture’s founders turned to New York-based creative studio Under After ."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/under-afters-nurture-identity-blends-hand-drawn-and-generative-design/Nurture-Under-After-02.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“All of our brand work started with a story of what we wanted to build, how we saw the world and the narratives we used to translate the deep technical concepts to a general audience. We didn’t have any pre-existing brand content to build on,” Co-founder & CEO Chuck Frazier tells us. The company works across all of biology, from plants and fungi to human health. “Our brand captures the magic of why the epigenome is a powerful layer of biology: it is the layer where all organisms adapt and encode memory,” Co-founder & CTO Savannah Dearden explains."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/under-afters-nurture-identity-blends-hand-drawn-and-generative-design/Nurture-Under-After-04.webp"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "It’s fair to say that epigenomics is a niche area of molecular biology. Recognition of it is growing fast, but most people have not heard of it. The brand needed to introduce it, and at the same time, position Nurture at the forefront of that recognition. “The question you want is ‘what is Nurture?’” Under After’s Creative Director, Mark Forscher, tells us."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/under-afters-nurture-identity-blends-hand-drawn-and-generative-design/Nurture-Under-After-12.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The founders asked for an identity grounded in the experiences of everyday life, one that makes epigenomics feel accessible. “Magical, hopeful, human. Deep science delivered with warmth, not weight,” Forscher explains of the brief. He has spent years on deeply technical start-ups. “I want every brand I design to be one people want to live in,” he adds. Epigenomics was not his field. “Fascinating and hard to fully grasp if you are not fluent in the science, which I am not,” he notes. Because epigenomic research applies to every organism, he wanted the visual language to match that breadth, consistent and expansive at once."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/under-afters-nurture-identity-blends-hand-drawn-and-generative-design/Nurture-Under-After-08.webp"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“As an emerging field, epigenomics has less established visual metaphors, so I looked for inspiration in the humanity of science,” Forscher continues. During the brand strategy phase, he presented mood boards on a few themes, one of them the field notes and understated beauty of science. “The hand-drawn illustrations and scribbles of the field notes plus the large colour blocks from magazine layouts connected the most with the founders.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/under-afters-nurture-identity-blends-hand-drawn-and-generative-design/Nurture-Under-After-05.webp"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/under-afters-nurture-identity-blends-hand-drawn-and-generative-design/Nurture-Under-After-09.webp"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Of the two, Nurture is the company brand, the one that introduces its founders, their thesis and the context of an emerging science. Its wordmark is capitalised like a name. Tellus is the platform that scientists work in, reading epigenomic data and turning it into an answer. “Its wordmark primarily lives in the product UI and needs to communicate speed and actionable insight, so I set it in all caps with more generous letterspacing that felt a bit more like machined precision. But the practical reality is both brands are new, and if I gave them equal weight in the visual system they’d both be less memorable. So we chose to emphasise Nurture and have Tellus feel like a solid secondary mark,” he notes."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/under-afters-nurture-identity-blends-hand-drawn-and-generative-design/Nurture-Under-After-10.webp"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "For the imagery, Under After built a custom generative app. “Honestly, it was a messy mix of trying to understand the science well enough to translate it into something visual and experimenting in code,” Forscher tells us. The studio ran weekly brand sessions with Frazier and Dearden, working on the strategy and story together. After one of those sessions, Forscher sat at his desk with the call notes open and images of cells, a leaf and a monarch butterfly on screen. He had already tried browser-based tools that applied different treatments across a set of images. None of them was grounded in a real concept. “Savannah had talked about being inspired by the emergent variation in nature itself. If every organism is built from the same underlying structure, and if epigenetic mechanisms are still somewhat unpredictable but apply across all of life in different ways, then what does a visual system with a simple rule set and a layer of unexpected variation look like?” he details. Given a photograph of any organism, the app splits it into a grid of blocks and averages the underlying colour value of a random number of them, laying the result back over the picture. Forscher added controls for randomness, grid size and colour averaging, and tuned them until it held up across many images."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/under-afters-nurture-identity-blends-hand-drawn-and-generative-design/Nurture-Under-After-06.webp"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Nurture’s site, which Under After designed and built, lets a visitor trigger that averaging with the mouse. “At the time of the brand launch, Tellus was still in private beta. So the Nurture site couldn’t demo the product. The brand imagery is evocative and I thought that adding some interactivity would bring a visitor closer to touching the system,” Forscher explains. “Surprisingly, the concept took longer to develop than the execution,” he adds of the generative system."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/under-afters-nurture-identity-blends-hand-drawn-and-generative-design/Nurture-Under-After-11.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Against all that procedural work, Under After drew a set of spot illustrations by hand and left them rough, using them fairly selectively on the site. Forscher’s case for drawing them is an argument about AI. “I believe that the more we fully rely on AI in the process of creating brands, the more we elevate sameness. LLMs are only as good as the context of their prompts and their training data, and the ideas they return to us have already originated elsewhere. The ease of execution disguises a slide into sameness that I think we all recognise to some degree the more we work with these tools. So for a brand to feel authentic in this era, I think it requires some incongruity and imperfection to reflect our humanity,” he tells us. Frazier and Dearden wanted that imperfection too. “The loose illustrations for Nurture are meant to work this way, as spot editorial illustrations that contrast with the generative imagery system and the bold colour blocks. Complex ideas expressed loosely,” he adds."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/under-afters-nurture-identity-blends-hand-drawn-and-generative-design/Nurture-Under-After-03_2026-09-24-052513_bxqa.webp"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "For the launch, Under After made posters that use the line ‘Accelerated Adaptation.’ “Now, the brand helps us cleanly convey the power of what our technology can unlock across many applications while speaking to exactly what our product offering is,” Dearden notes. “Before launch, most of our engagements were from direct outreach from us through our networks, rather than inbound. Now, researchers are signing up directly and bringing their data into the platform,” Frazier concludes."
-        }
-      ],
-      "caseStudyText": "Nurture builds the infrastructure for epigenomics – the science of the chemical tags and structural changes across a genome that control gene expression without altering the DNA beneath them. Its tools read the epigenome, software interprets it, and systems remodel it. The customers are biology companies, and within them, the scientists who handle epigenomic data. Tellus is the company’s platform. For the brand strategy and identity, Nurture’s founders turned to New York-based creative studio Under After .\n\n“All of our brand work started with a story of what we wanted to build, how we saw the world and the narratives we used to translate the deep technical concepts to a general audience. We didn’t have any pre-existing brand content to build on,” Co-founder & CEO Chuck Frazier tells us. The company works across all of biology, from plants and fungi to human health. “Our brand captures the magic of why the epigenome is a powerful layer of biology: it is the layer where all organisms adapt and encode memory,” Co-founder & CTO Savannah Dearden explains.\n\nIt’s fair to say that epigenomics is a niche area of molecular biology. Recognition of it is growing fast, but most people have not heard of it. The brand needed to introduce it, and at the same time, position Nurture at the forefront of that recognition. “The question you want is ‘what is Nurture?’” Under After’s Creative Director, Mark Forscher, tells us.\n\nThe founders asked for an identity grounded in the experiences of everyday life, one that makes epigenomics feel accessible. “Magical, hopeful, human. Deep science delivered with warmth, not weight,” Forscher explains of the brief. He has spent years on deeply technical start-ups. “I want every brand I design to be one people want to live in,” he adds. Epigenomics was not his field. “Fascinating and hard to fully grasp if you are not fluent in the science, which I am not,” he notes. Because epigenomic research applies to every organism, he wanted the visual language to match that breadth, consistent and expansive at once.\n\n“As an emerging field, epigenomics has less established visual metaphors, so I looked for inspiration in the humanity of science,” Forscher continues. During the brand strategy phase, he presented mood boards on a few themes, one of them the field notes and understated beauty of science. “The hand-drawn illustrations and scribbles of the field notes plus the large colour blocks from magazine layouts connected the most with the founders.”\n\nOf the two, Nurture is the company brand, the one that introduces its founders, their thesis and the context of an emerging science. Its wordmark is capitalised like a name. Tellus is the platform that scientists work in, reading epigenomic data and turning it into an answer. “Its wordmark primarily lives in the product UI and needs to communicate speed and actionable insight, so I set it in all caps with more generous letterspacing that felt a bit more like machined precision. But the practical reality is both brands are new, and if I gave them equal weight in the visual system they’d both be less memorable. So we chose to emphasise Nurture and have Tellus feel like a solid secondary mark,” he notes.\n\nFor the imagery, Under After built a custom generative app. “Honestly, it was a messy mix of trying to understand the science well enough to translate it into something visual and experimenting in code,” Forscher tells us. The studio ran weekly brand sessions with Frazier and Dearden, working on the strategy and story together. After one of those sessions, Forscher sat at his desk with the call notes open and images of cells, a leaf and a monarch butterfly on screen. He had already tried browser-based tools that applied different treatments across a set of images. None of them was grounded in a real concept. “Savannah had talked about being inspired by the emergent variation in nature itself. If every organism is built from the same underlying structure, and if epigenetic mechanisms are still somewhat unpredictable but apply across all of life in different ways, then what does a visual system with a simple rule set and a layer of unexpected variation look like?” he details. Given a photograph of any organism, the app splits it into a grid of blocks and averages the underlying colour value of a random number of them, laying the result back over the picture. Forscher added controls for randomness, grid size and colour averaging, and tuned them until it held up across many images.\n\nNurture’s site, which Under After designed and built, lets a visitor trigger that averaging with the mouse. “At the time of the brand launch, Tellus was still in private beta. So the Nurture site couldn’t demo the product. The brand imagery is evocative and I thought that adding some interactivity would bring a visitor closer to touching the system,” Forscher explains. “Surprisingly, the concept took longer to develop than the execution,” he adds of the generative system.\n\nAgainst all that procedural work, Under After drew a set of spot illustrations by hand and left them rough, using them fairly selectively on the site. Forscher’s case for drawing them is an argument about AI. “I believe that the more we fully rely on AI in the process of creating brands, the more we elevate sameness. LLMs are only as good as the context of their prompts and their training data, and the ideas they return to us have already originated elsewhere. The ease of execution disguises a slide into sameness that I think we all recognise to some degree the more we work with these tools. So for a brand to feel authentic in this era, I think it requires some incongruity and imperfection to reflect our humanity,” he tells us. Frazier and Dearden wanted that imperfection too. “The loose illustrations for Nurture are meant to work this way, as spot editorial illustrations that contrast with the generative imagery system and the bold colour blocks. Complex ideas expressed loosely,” he adds.\n\nFor the launch, Under After made posters that use the line ‘Accelerated Adaptation.’ “Now, the brand helps us cleanly convey the power of what our technology can unlock across many applications while speaking to exactly what our product offering is,” Dearden notes. “Before launch, most of our engagements were from direct outreach from us through our networks, rather than inbound. Now, researchers are signing up directly and bringing their data into the platform,” Frazier concludes.",
-      "caseStudyMedia": [
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/under-afters-nurture-identity-blends-hand-drawn-and-generative-design/Nurture-Under-After-01.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/under-afters-nurture-identity-blends-hand-drawn-and-generative-design/Nurture-Under-After-02.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/under-afters-nurture-identity-blends-hand-drawn-and-generative-design/Nurture-Under-After-04.webp"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/under-afters-nurture-identity-blends-hand-drawn-and-generative-design/Nurture-Under-After-12.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/under-afters-nurture-identity-blends-hand-drawn-and-generative-design/Nurture-Under-After-08.webp"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/under-afters-nurture-identity-blends-hand-drawn-and-generative-design/Nurture-Under-After-05.webp"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/under-afters-nurture-identity-blends-hand-drawn-and-generative-design/Nurture-Under-After-09.webp"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/under-afters-nurture-identity-blends-hand-drawn-and-generative-design/Nurture-Under-After-10.webp"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/under-afters-nurture-identity-blends-hand-drawn-and-generative-design/Nurture-Under-After-06.webp"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/under-afters-nurture-identity-blends-hand-drawn-and-generative-design/Nurture-Under-After-11.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/under-afters-nurture-identity-blends-hand-drawn-and-generative-design/Nurture-Under-After-03_2026-09-24-052513_bxqa.webp"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/classmate-studio-reworks-the-identity-for-helsinki-restaurant-elm",
-      "titleOriginal": "Classmate Studio reworks the identity for Helsinki restaurant Elm",
-      "textOriginal": "Elm is a restaurant on the edge of Kaivopuisto park in South Helsinki, run by chefs Carlos Henriques, Albert Franch Sunyer and Luka Balac, who are also behind the restaurants Nolla and Nolita. It serves lunch and dinner through the week, with cooking guided by the seasons and inspired by the chefs’ Mediterranean roots. The kitchen works without cling film and cleans with ozonated water and soap made from recycled kitchen oil. Elm occupies the first floor of a villa dating back to 1880, within Puistokatu 4 – a Space for Science and Hope, which is used for research, collaboration and events.\n\nHelsinki and Budapest-based Classmate Studio was commissioned to rework Elm’s identity. “We wanted the brand to sit naturally alongside its surroundings. Something that feels warm, analogue and hand-crafted,” explains Emma Ranne, who handles media direction and brand management at Elm. “We wanted to keep a hand-drawn logo and the illustration by Linda Linko, which have been part of Elm since day one, but we were open to rethinking their role within the brand.” Linda Linko is a Finnish artist, and the illustration is her painting, which hangs in the dining room.",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/classmate-studio-reworks-the-identity-for-helsinki-restaurant-elm/Elm-Classmate-Studio-01.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/classmate-studio-reworks-the-identity-for-helsinki-restaurant-elm/Elm-Classmate-Studio-01.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "Elm is a restaurant on the edge of Kaivopuisto park in South Helsinki, run by chefs Carlos Henriques, Albert Franch Sunyer and Luka Balac, who are also behind the restaurants Nolla and Nolita. It serves lunch and dinner through the week, with cooking guided by the seasons and inspired by the chefs’ Mediterranean roots. The kitchen works without cling film and cleans with ozonated water and soap made from recycled kitchen oil. Elm occupies the first floor of a villa dating back to 1880, within Puistokatu 4 – a Space for Science and Hope, which is used for research, collaboration and events."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/classmate-studio-reworks-the-identity-for-helsinki-restaurant-elm/Elm-Classmate-Studio-14.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/classmate-studio-reworks-the-identity-for-helsinki-restaurant-elm/Elm-Classmate-Studio-15.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Helsinki and Budapest-based Classmate Studio was commissioned to rework Elm’s identity. “We wanted the brand to sit naturally alongside its surroundings. Something that feels warm, analogue and hand-crafted,” explains Emma Ranne, who handles media direction and brand management at Elm. “We wanted to keep a hand-drawn logo and the illustration by Linda Linko, which have been part of Elm since day one, but we were open to rethinking their role within the brand.” Linda Linko is a Finnish artist, and the illustration is her painting, which hangs in the dining room."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/classmate-studio-reworks-the-identity-for-helsinki-restaurant-elm/Elm-Classmate-Studio-12.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/classmate-studio-reworks-the-identity-for-helsinki-restaurant-elm/Elm-Classmate-Studio-13_2026-09-25-060848_ngux.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Each of the chefs’ restaurants has a character of its own, and the building is a source of inspiration for Elm’s. Once home to the actress Ida Aalberg, later a school and, for decades, the Museum of Finnish Architecture, the wooden villa has been carefully restored and furnished mostly with vintage and second-hand pieces. “A restaurant’s physical surroundings play a big part in its personality, and this is something we wanted to leave plenty of room for,” notes Elm’s Chef & Co-founder Carlos Henriques. “The rooms already have a lot going on, with ornate ceilings, paintings, tall windows and views over Kaivopuisto park, so the identity had to settle into that rather than compete with it,” details Classmate Studio’s Art Director & Co-founder József G. Kiss."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/classmate-studio-reworks-the-identity-for-helsinki-restaurant-elm/Elm-Classmate-Studio-06.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/classmate-studio-reworks-the-identity-for-helsinki-restaurant-elm/Elm-Classmate-Studio-07.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“Blue came in as the connecting element between the brand’s Mediterranean and Nordic roots,” Kiss tells us. “The sea is also a common denominator, if you will. The owners’ roots go back to the Mediterranean, the restaurant sits not far from the Baltic in Helsinki, and seafood plays a seasonal part on the menu too.” Blue appears across print, signage in the rooms, the website and social media. “Using a single blue throughout, with no tints or secondary colours, lets the variety come from texture instead,” he adds."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/classmate-studio-reworks-the-identity-for-helsinki-restaurant-elm/Elm-Classmate-Studio-10.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/classmate-studio-reworks-the-identity-for-helsinki-restaurant-elm/Elm-Classmate-Studio-11.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The previous identity had already used Linko’s painting as a kind of symbol. “We looked at how she paints, with fast, confident gestures, and created a new set of brush strokes based on that. They run across the identity and bring out the flamboyant Mediterranean spirit, while the minimal gestures still reflect Linda’s clearly Nordic roots,” Kiss explains. The studio edited many hand-painted versions of the word ‘elm’ into a family of marks that can be scaled and repeated across the layouts. “So instead of a single fixed logomark, the brand has a set of versatile, handmade letterings that can evolve over time.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/classmate-studio-reworks-the-identity-for-helsinki-restaurant-elm/Elm-Classmate-Studio-08.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/classmate-studio-reworks-the-identity-for-helsinki-restaurant-elm/Elm-Classmate-Studio-09_2026-09-25-075955_lptr.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The cyanotypes that sit alongside the brush strokes come from an old photographic process that prints in blue. The studio made them by hand, brushing the light-sensitive solution onto paper, arranging each composition directly on the sheet, exposing it to sunlight and washing the finished print in water. “That process, together with the carefully composed arrangements of cutlery, glassware and pure ingredients, connects directly to the restaurant’s ethos: selected, quality ingredients, Mediterranean roots, high-end craft and analytical Nordic thinking,” Kiss notes. “We favoured objects with strong silhouettes and some transparency, because glass and sliced citrus let light through, creating layered tones that reveal details we wouldn’t otherwise see.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/classmate-studio-reworks-the-identity-for-helsinki-restaurant-elm/Elm-Classmate-Studio-04.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Underneath the brush strokes and the cyanotypes, the identity is built on a grid. The body text and some of the distinctive titles are set in ABC Laica Mono, from Dinamo, with Baraquiel for the headlines. “We wanted a pairing that feels calm and classic, with a touch of experimental expression coming from the carefully used Baraquiel font,” Kiss explains. “For hero words such as À la carte, Welcome and Menu, we set bespoke all-caps compositions in Laica, generously letterspaced to subtly reference classical Latin stone-carved alphabets.” The name itself is used sparingly and placed loosely over that grid, a second and more flamboyant layer. “The graphics are restrained on purpose: mostly blue and warm white, with plenty of space,” Kiss adds. “In the rooms themselves, we let the space breathe, with the identity appearing only in the details, such as the menus, gift cards, window graphics and the signs outside.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/classmate-studio-reworks-the-identity-for-helsinki-restaurant-elm/Elm-Classmate-Studio-13.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“Our vision for the website was a collage-like setup,” Ranne details. “We take a lot of photos for social media, and liked the idea of a layout that would work well with vertical photos and clips taken on a phone. We also liked the idea of assets being multifunctional wherever possible, both because it’s practical for time and resource reasons but also because it creates a nice link between the physical restaurant and its online presence. For example, our online menus double as the printed menus in the restaurant.” Viewing the menu, checking the opening hours and booking a table were the priorities, and the whole site was thought through mobile-first. “We’ve had many compliments on the website as well as the refreshed edition of our brand,” Ranne notes."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/classmate-studio-reworks-the-identity-for-helsinki-restaurant-elm/Elm-Classmate-Studio-03.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Classmate Studio designed the site on the same calm, grid-based layout as the rest of the identity, with an expressive layer over the top made up of the brush strokes, a large drawing, the title typeface, the textured cyanotypes and warm photography by Sofia Kulianu. “The large drawing works as the site’s anchor, much like Linda’s painting in the dining room. As you scroll, it stays fixed in the background while the content moves over it,” Kiss concludes."
-        }
-      ],
-      "caseStudyText": "Elm is a restaurant on the edge of Kaivopuisto park in South Helsinki, run by chefs Carlos Henriques, Albert Franch Sunyer and Luka Balac, who are also behind the restaurants Nolla and Nolita. It serves lunch and dinner through the week, with cooking guided by the seasons and inspired by the chefs’ Mediterranean roots. The kitchen works without cling film and cleans with ozonated water and soap made from recycled kitchen oil. Elm occupies the first floor of a villa dating back to 1880, within Puistokatu 4 – a Space for Science and Hope, which is used for research, collaboration and events.\n\nHelsinki and Budapest-based Classmate Studio was commissioned to rework Elm’s identity. “We wanted the brand to sit naturally alongside its surroundings. Something that feels warm, analogue and hand-crafted,” explains Emma Ranne, who handles media direction and brand management at Elm. “We wanted to keep a hand-drawn logo and the illustration by Linda Linko, which have been part of Elm since day one, but we were open to rethinking their role within the brand.” Linda Linko is a Finnish artist, and the illustration is her painting, which hangs in the dining room.\n\nEach of the chefs’ restaurants has a character of its own, and the building is a source of inspiration for Elm’s. Once home to the actress Ida Aalberg, later a school and, for decades, the Museum of Finnish Architecture, the wooden villa has been carefully restored and furnished mostly with vintage and second-hand pieces. “A restaurant’s physical surroundings play a big part in its personality, and this is something we wanted to leave plenty of room for,” notes Elm’s Chef & Co-founder Carlos Henriques. “The rooms already have a lot going on, with ornate ceilings, paintings, tall windows and views over Kaivopuisto park, so the identity had to settle into that rather than compete with it,” details Classmate Studio’s Art Director & Co-founder József G. Kiss.\n\n“Blue came in as the connecting element between the brand’s Mediterranean and Nordic roots,” Kiss tells us. “The sea is also a common denominator, if you will. The owners’ roots go back to the Mediterranean, the restaurant sits not far from the Baltic in Helsinki, and seafood plays a seasonal part on the menu too.” Blue appears across print, signage in the rooms, the website and social media. “Using a single blue throughout, with no tints or secondary colours, lets the variety come from texture instead,” he adds.\n\nThe previous identity had already used Linko’s painting as a kind of symbol. “We looked at how she paints, with fast, confident gestures, and created a new set of brush strokes based on that. They run across the identity and bring out the flamboyant Mediterranean spirit, while the minimal gestures still reflect Linda’s clearly Nordic roots,” Kiss explains. The studio edited many hand-painted versions of the word ‘elm’ into a family of marks that can be scaled and repeated across the layouts. “So instead of a single fixed logomark, the brand has a set of versatile, handmade letterings that can evolve over time.”\n\nThe cyanotypes that sit alongside the brush strokes come from an old photographic process that prints in blue. The studio made them by hand, brushing the light-sensitive solution onto paper, arranging each composition directly on the sheet, exposing it to sunlight and washing the finished print in water. “That process, together with the carefully composed arrangements of cutlery, glassware and pure ingredients, connects directly to the restaurant’s ethos: selected, quality ingredients, Mediterranean roots, high-end craft and analytical Nordic thinking,” Kiss notes. “We favoured objects with strong silhouettes and some transparency, because glass and sliced citrus let light through, creating layered tones that reveal details we wouldn’t otherwise see.”\n\nUnderneath the brush strokes and the cyanotypes, the identity is built on a grid. The body text and some of the distinctive titles are set in ABC Laica Mono, from Dinamo, with Baraquiel for the headlines. “We wanted a pairing that feels calm and classic, with a touch of experimental expression coming from the carefully used Baraquiel font,” Kiss explains. “For hero words such as À la carte, Welcome and Menu, we set bespoke all-caps compositions in Laica, generously letterspaced to subtly reference classical Latin stone-carved alphabets.” The name itself is used sparingly and placed loosely over that grid, a second and more flamboyant layer. “The graphics are restrained on purpose: mostly blue and warm white, with plenty of space,” Kiss adds. “In the rooms themselves, we let the space breathe, with the identity appearing only in the details, such as the menus, gift cards, window graphics and the signs outside.”\n\n“Our vision for the website was a collage-like setup,” Ranne details. “We take a lot of photos for social media, and liked the idea of a layout that would work well with vertical photos and clips taken on a phone. We also liked the idea of assets being multifunctional wherever possible, both because it’s practical for time and resource reasons but also because it creates a nice link between the physical restaurant and its online presence. For example, our online menus double as the printed menus in the restaurant.” Viewing the menu, checking the opening hours and booking a table were the priorities, and the whole site was thought through mobile-first. “We’ve had many compliments on the website as well as the refreshed edition of our brand,” Ranne notes.\n\nClassmate Studio designed the site on the same calm, grid-based layout as the rest of the identity, with an expressive layer over the top made up of the brush strokes, a large drawing, the title typeface, the textured cyanotypes and warm photography by Sofia Kulianu. “The large drawing works as the site’s anchor, much like Linda’s painting in the dining room. As you scroll, it stays fixed in the background while the content moves over it,” Kiss concludes.",
-      "caseStudyMedia": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/classmate-studio-reworks-the-identity-for-helsinki-restaurant-elm/Elm-Classmate-Studio-01.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/classmate-studio-reworks-the-identity-for-helsinki-restaurant-elm/Elm-Classmate-Studio-14.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/classmate-studio-reworks-the-identity-for-helsinki-restaurant-elm/Elm-Classmate-Studio-15.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/classmate-studio-reworks-the-identity-for-helsinki-restaurant-elm/Elm-Classmate-Studio-12.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/classmate-studio-reworks-the-identity-for-helsinki-restaurant-elm/Elm-Classmate-Studio-13_2026-09-25-060848_ngux.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/classmate-studio-reworks-the-identity-for-helsinki-restaurant-elm/Elm-Classmate-Studio-06.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/classmate-studio-reworks-the-identity-for-helsinki-restaurant-elm/Elm-Classmate-Studio-07.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/classmate-studio-reworks-the-identity-for-helsinki-restaurant-elm/Elm-Classmate-Studio-10.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/classmate-studio-reworks-the-identity-for-helsinki-restaurant-elm/Elm-Classmate-Studio-11.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/classmate-studio-reworks-the-identity-for-helsinki-restaurant-elm/Elm-Classmate-Studio-08.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/classmate-studio-reworks-the-identity-for-helsinki-restaurant-elm/Elm-Classmate-Studio-09_2026-09-25-075955_lptr.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/classmate-studio-reworks-the-identity-for-helsinki-restaurant-elm/Elm-Classmate-Studio-04.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/classmate-studio-reworks-the-identity-for-helsinki-restaurant-elm/Elm-Classmate-Studio-13.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/classmate-studio-reworks-the-identity-for-helsinki-restaurant-elm/Elm-Classmate-Studio-03.mp4"
         }
       ]
     }
