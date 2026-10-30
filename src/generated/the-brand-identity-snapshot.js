@@ -7,6 +7,132 @@ const snapshot={
   },
   "items": [
     {
+      "canonicalUrl": "https://the-brandidentity.com/project/kontrapunkts-packaging-and-copus-site-take-juno-the-bakery-worldwide",
+      "titleOriginal": "COPUS and Kontrapunkt design JUNO the bakery’s cookie brand and site",
+      "textOriginal": "The bakery’s identity started with its white paper bag, “chosen for its instant recognisability in a competitive landscape defined by brown kraft paper,” details Kontrapunkt’s Creative Director Laurits Hanak. “We elevated the white paper to become the canvas of not only the bag, but of the entire brand.” Across every application, Kontrapunkt aims for “as minimal a brand presence as possible, always keeping all brand elements at an absolute minimum.”\n\nThe bakery’s mascot is “inspired by the peacock that accompanies the ancient Roman goddess Juno,” Hanak notes. Its pose is understated, reflecting “meticulous craft but never flashy.” The peacock “is not perfectly geometric in its construction, but has some small quirks here and there to reflect the hands-on approach of JUNO the bakery,” he continues, describing it as “a splash of blue against white packaging and the buttery browns of the pastries.” The brand typeface is Plantin MT Std, chosen for “its beautifully crafted curves and serifs.”",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/kontrapunkts-packaging-and-copus-site-take-juno-the-bakery-worldwide/JUNO-the-bakery-Kontrapunkt-06.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/kontrapunkts-packaging-and-copus-site-take-juno-the-bakery-worldwide/JUNO-the-bakery-Kontrapunkt-06.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/kontrapunkts-packaging-and-copus-site-take-juno-the-bakery-worldwide/JUNO-the-bakery-Kontrapunkt-01.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/kontrapunkts-packaging-and-copus-site-take-juno-the-bakery-worldwide/JUNO-the-bakery-Kontrapunkt-02.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The bakery’s identity started with its white paper bag, “chosen for its instant recognisability in a competitive landscape defined by brown kraft paper,” details Kontrapunkt’s Creative Director Laurits Hanak. “We elevated the white paper to become the canvas of not only the bag, but of the entire brand.” Across every application, Kontrapunkt aims for “as minimal a brand presence as possible, always keeping all brand elements at an absolute minimum.”"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/kontrapunkts-packaging-and-copus-site-take-juno-the-bakery-worldwide/JUNO-the-bakery-Kontrapunkt-04.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/kontrapunkts-packaging-and-copus-site-take-juno-the-bakery-worldwide/JUNO-the-bakery-Kontrapunkt-05-online-video-cutter.com.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The bakery’s mascot is “inspired by the peacock that accompanies the ancient Roman goddess Juno,” Hanak notes. Its pose is understated, reflecting “meticulous craft but never flashy.” The peacock “is not perfectly geometric in its construction, but has some small quirks here and there to reflect the hands-on approach of JUNO the bakery,” he continues, describing it as “a splash of blue against white packaging and the buttery browns of the pastries.” The brand typeface is Plantin MT Std, chosen for “its beautifully crafted curves and serifs.”"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/kontrapunkts-packaging-and-copus-site-take-juno-the-bakery-worldwide/JUNO-the-bakery-Kontrapunkt-03.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/kontrapunkts-packaging-and-copus-site-take-juno-the-bakery-worldwide/JUNO-the-bakery-Kontrapunkt-08.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/kontrapunkts-packaging-and-copus-site-take-juno-the-bakery-worldwide/JUNO-the-bakery-Kontrapunkt-07-online-video-cutter.com.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“For years, guests have asked us if we ship,” Glaser tells us. “Now,” Kontrapunkt’s Hanak notes, “a digital storefront by COPUS brings the warmth of the Østerbro bakery to friends and followers everywhere.” Partner Carl Kronika wanted the site to feel like “a window into JUNO” – “something simple and clean, almost tactile.” “The goal was that you should almost smell the cardamom before you add anything to your cart,” he adds. Short films open the site and sit between the products and stories. Cut down, they also run on social media. One of them shows the morning queue outside the bakery. “Filmed quietly and without staging, it works like a living postcard that shows the bakery’s energy better than any text or image could,” Kronika notes."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/kontrapunkts-packaging-and-copus-site-take-juno-the-bakery-worldwide/JUNO-the-bakery-Kontrapunkt-11.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Photographer Fritz Buziek shot at the bakery, at the production facility and around the neighbourhood. “The direction was warm, bright and sincere,” Kronika details. “Packshots show exactly what you get. Hands at work show the craft behind it.” Close-ups of bakes and ingredients like rose and cardamom “add natural colour to an otherwise calm palette,” he notes."
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/kontrapunkts-packaging-and-copus-site-take-juno-the-bakery-worldwide/JUNO-the-bakery-Kontrapunkt-09-online-video-cutter.com.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/kontrapunkts-packaging-and-copus-site-take-juno-the-bakery-worldwide/JUNO-the-bakery-Kontrapunkt-10.jpg"
+        }
+      ],
+      "caseStudyText": "The bakery’s identity started with its white paper bag, “chosen for its instant recognisability in a competitive landscape defined by brown kraft paper,” details Kontrapunkt’s Creative Director Laurits Hanak. “We elevated the white paper to become the canvas of not only the bag, but of the entire brand.” Across every application, Kontrapunkt aims for “as minimal a brand presence as possible, always keeping all brand elements at an absolute minimum.”\n\nThe bakery’s mascot is “inspired by the peacock that accompanies the ancient Roman goddess Juno,” Hanak notes. Its pose is understated, reflecting “meticulous craft but never flashy.” The peacock “is not perfectly geometric in its construction, but has some small quirks here and there to reflect the hands-on approach of JUNO the bakery,” he continues, describing it as “a splash of blue against white packaging and the buttery browns of the pastries.” The brand typeface is Plantin MT Std, chosen for “its beautifully crafted curves and serifs.”\n\n“For years, guests have asked us if we ship,” Glaser tells us. “Now,” Kontrapunkt’s Hanak notes, “a digital storefront by COPUS brings the warmth of the Østerbro bakery to friends and followers everywhere.” Partner Carl Kronika wanted the site to feel like “a window into JUNO” – “something simple and clean, almost tactile.” “The goal was that you should almost smell the cardamom before you add anything to your cart,” he adds. Short films open the site and sit between the products and stories. Cut down, they also run on social media. One of them shows the morning queue outside the bakery. “Filmed quietly and without staging, it works like a living postcard that shows the bakery’s energy better than any text or image could,” Kronika notes.\n\nPhotographer Fritz Buziek shot at the bakery, at the production facility and around the neighbourhood. “The direction was warm, bright and sincere,” Kronika details. “Packshots show exactly what you get. Hands at work show the craft behind it.” Close-ups of bakes and ingredients like rose and cardamom “add natural colour to an otherwise calm palette,” he notes.",
+      "caseStudyMedia": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/kontrapunkts-packaging-and-copus-site-take-juno-the-bakery-worldwide/JUNO-the-bakery-Kontrapunkt-06.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/kontrapunkts-packaging-and-copus-site-take-juno-the-bakery-worldwide/JUNO-the-bakery-Kontrapunkt-01.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/kontrapunkts-packaging-and-copus-site-take-juno-the-bakery-worldwide/JUNO-the-bakery-Kontrapunkt-02.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/kontrapunkts-packaging-and-copus-site-take-juno-the-bakery-worldwide/JUNO-the-bakery-Kontrapunkt-04.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/kontrapunkts-packaging-and-copus-site-take-juno-the-bakery-worldwide/JUNO-the-bakery-Kontrapunkt-05-online-video-cutter.com.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/kontrapunkts-packaging-and-copus-site-take-juno-the-bakery-worldwide/JUNO-the-bakery-Kontrapunkt-03.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/kontrapunkts-packaging-and-copus-site-take-juno-the-bakery-worldwide/JUNO-the-bakery-Kontrapunkt-08.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/kontrapunkts-packaging-and-copus-site-take-juno-the-bakery-worldwide/JUNO-the-bakery-Kontrapunkt-07-online-video-cutter.com.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/kontrapunkts-packaging-and-copus-site-take-juno-the-bakery-worldwide/JUNO-the-bakery-Kontrapunkt-11.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/kontrapunkts-packaging-and-copus-site-take-juno-the-bakery-worldwide/JUNO-the-bakery-Kontrapunkt-09-online-video-cutter.com.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/kontrapunkts-packaging-and-copus-site-take-juno-the-bakery-worldwide/JUNO-the-bakery-Kontrapunkt-10.jpg"
+        }
+      ]
+    },
+    {
       "canonicalUrl": "https://the-brandidentity.com/project/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo",
       "titleOriginal": "Estúdio 017’s identity for Garde refuses to tie itself to one logo",
       "textOriginal": "Garde is a non-profit foundation for contemporary art, fashion and cinema, based in Berlin and started by a collective of anonymous independent artists. Brazilian and Portuguese studio Estúdio 017 created its brand strategy, verbal identity, visual identity and editorial system ahead of its launch.\n\nThe founders wanted Garde to arrive with the presence of an established museum of art and fashion from the start, instead of opening as a small space and growing. Estúdio 017 was asked to give an institution with no public history an identity ready for exhibitions, curatorial programmes, publications, research and the preservation and documentation of visual culture from its first day. With the founders anonymous and no names to put forward, the brand alone has to stand for Garde’s authority and its voice.",
@@ -2986,245 +3112,6 @@ const snapshot={
         {
           "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-09.jpg"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/how-faena-studio-based-alternas-identity-on-a-living-journal",
-      "titleOriginal": "How FAENA Studio based Alterna’s identity on a ‘living journal’",
-      "textOriginal": "Mexico City-based FAENA Studio was commissioned to design the identity for Alterna, a contemporary fine-dining restaurant in the city’s Colonia Condesa neighborhood that brings Italian-rooted cooking together with international influences, Mexican ingredients and the changing seasons.\n\n“The name comes from the fact that it is our alternate proposal. Within our portfolio of brands, we already had a restaurant, a trattoria and a wine bar; Alterna would be a new project, completely different from anything we had done so far,” explain the Cesarano brothers – the owners of Alterna, who come from a family of restaurateurs who have helped shape the Italian dining scene in Mexico City. Faena Studio’s task was “to build a brand that presented itself boldly, without shyness, and at the same time, with sobriety and restraint,” he tells us. “We wanted it to reflect our cuisine and our space.”",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/13632225.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-01.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "Mexico City-based FAENA Studio was commissioned to design the identity for Alterna, a contemporary fine-dining restaurant in the city’s Colonia Condesa neighborhood that brings Italian-rooted cooking together with international influences, Mexican ingredients and the changing seasons."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-02.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“The name comes from the fact that it is our alternate proposal. Within our portfolio of brands, we already had a restaurant, a trattoria and a wine bar; Alterna would be a new project, completely different from anything we had done so far,” explain the Cesarano brothers – the owners of Alterna, who come from a family of restaurateurs who have helped shape the Italian dining scene in Mexico City. Faena Studio’s task was “to build a brand that presented itself boldly, without shyness, and at the same time, with sobriety and restraint,” he tells us. “We wanted it to reflect our cuisine and our space.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-04_2026-10-02-040255_udfy.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-09.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "FAENA Studio’s Design Director Hugo Villa explains that they “started from an elegant typographic base and altered the direction of some strokes, especially in the ‘e’ and the final ‘a.’ Thus, the idea of alternating appears within the wordmark itself: the letters change direction at certain moments, but the logo maintains its balance.” In the studio’s reading, the wordmark’s changes of direction also represent how “Alterna’s Italian foundations take on new character in their Mexican context.” The monogram, Villa notes, “was built from the abbreviation of Alterna, taking cues from classic monograms. We sought to convey character and personality, reinterpreting that language in a contemporary context.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-03.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Beyond the name, FAENA Studio built the wider system around the idea of Alterna as a ‘living journal,’ whose entries are its dishes and services, each of which “marks a moment in the restaurant’s evolution, shaped by the season, the kitchen’s observations and the ideas it chooses to pursue.” The journal, the studio explains, is a way to “notice what changes from one season to the next” and to “trace an idea from its origins to the plate.” “The visual language is built to hold those entries.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-08.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-07.png"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "For Alterna’s typography, FAENA Studio chose GT Pantheon Micro, an editorial serif with classic proportions, fine strokes and defined terminals, whose “humanist gestures,” Villa tells us, “add warmth and help build a system that expresses Alterna’s duality between rigour and sensitivity.” On the palette, he adds that “we used muted tones as a base and reserved vibrant ones to highlight information or bring energy to the composition. In particular, orange served as an accent to call out key details.” The result is “a flexible identity that feels familiar without belonging to a single place or era.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-05.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "In the studio’s words, Alterna’s menus, images and printed pieces “become pages of this same journal,” together documenting “a restaurant in motion always changing.” FAENA Studio’s Archive & Content Coordinator Regina Ochoa describes how “printed and handwritten pieces are underlined, and small notes are added to evoke a personal log, as if each piece held traces of what is observed and happens at Alterna.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-06_2026-10-02-040351_vpbe.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The journal is also, as FAENA Studio puts it, “the way the project is documented.” For its own case study of Alterna, the studio combined mixed media with photographs and footage of the space and food by Comedor.Studios, a photography and film studio with a culinary focus. FAENA Studio describes the identity’s photography as editorial, and its compositions as having “moments of controlled spontaneity.” “The photographs were key to telling the story,” Ochoa tells us, “as they allowed us to imagine how the dishes are created and developed. From them, we did a visual exercise: we imagined that the printed photos were part of a logbook where the chefs recorded their creative process.”"
-        }
-      ],
-      "caseStudyText": "Mexico City-based FAENA Studio was commissioned to design the identity for Alterna, a contemporary fine-dining restaurant in the city’s Colonia Condesa neighborhood that brings Italian-rooted cooking together with international influences, Mexican ingredients and the changing seasons.\n\n“The name comes from the fact that it is our alternate proposal. Within our portfolio of brands, we already had a restaurant, a trattoria and a wine bar; Alterna would be a new project, completely different from anything we had done so far,” explain the Cesarano brothers – the owners of Alterna, who come from a family of restaurateurs who have helped shape the Italian dining scene in Mexico City. Faena Studio’s task was “to build a brand that presented itself boldly, without shyness, and at the same time, with sobriety and restraint,” he tells us. “We wanted it to reflect our cuisine and our space.”\n\nFAENA Studio’s Design Director Hugo Villa explains that they “started from an elegant typographic base and altered the direction of some strokes, especially in the ‘e’ and the final ‘a.’ Thus, the idea of alternating appears within the wordmark itself: the letters change direction at certain moments, but the logo maintains its balance.” In the studio’s reading, the wordmark’s changes of direction also represent how “Alterna’s Italian foundations take on new character in their Mexican context.” The monogram, Villa notes, “was built from the abbreviation of Alterna, taking cues from classic monograms. We sought to convey character and personality, reinterpreting that language in a contemporary context.”\n\nBeyond the name, FAENA Studio built the wider system around the idea of Alterna as a ‘living journal,’ whose entries are its dishes and services, each of which “marks a moment in the restaurant’s evolution, shaped by the season, the kitchen’s observations and the ideas it chooses to pursue.” The journal, the studio explains, is a way to “notice what changes from one season to the next” and to “trace an idea from its origins to the plate.” “The visual language is built to hold those entries.”\n\nFor Alterna’s typography, FAENA Studio chose GT Pantheon Micro, an editorial serif with classic proportions, fine strokes and defined terminals, whose “humanist gestures,” Villa tells us, “add warmth and help build a system that expresses Alterna’s duality between rigour and sensitivity.” On the palette, he adds that “we used muted tones as a base and reserved vibrant ones to highlight information or bring energy to the composition. In particular, orange served as an accent to call out key details.” The result is “a flexible identity that feels familiar without belonging to a single place or era.”\n\nIn the studio’s words, Alterna’s menus, images and printed pieces “become pages of this same journal,” together documenting “a restaurant in motion always changing.” FAENA Studio’s Archive & Content Coordinator Regina Ochoa describes how “printed and handwritten pieces are underlined, and small notes are added to evoke a personal log, as if each piece held traces of what is observed and happens at Alterna.”\n\nThe journal is also, as FAENA Studio puts it, “the way the project is documented.” For its own case study of Alterna, the studio combined mixed media with photographs and footage of the space and food by Comedor.Studios, a photography and film studio with a culinary focus. FAENA Studio describes the identity’s photography as editorial, and its compositions as having “moments of controlled spontaneity.” “The photographs were key to telling the story,” Ochoa tells us, “as they allowed us to imagine how the dishes are created and developed. From them, we did a visual exercise: we imagined that the printed photos were part of a logbook where the chefs recorded their creative process.”",
-      "caseStudyMedia": [
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-01.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-02.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-04_2026-10-02-040255_udfy.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-09.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-03.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-08.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-07.png"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-05.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-faena-studio-based-alternas-identity-on-a-living-journal/Alterna-FAENA-Studio-06_2026-10-02-040351_vpbe.jpg"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores",
-      "titleOriginal": "CHROMA’s packaging by Marc Atlan is made to work in Target’s stores",
-      "textOriginal": "CHROMA by Corpus is an aluminium-free deodorant and a moisturising body wash, sold in three fragrances with a trio of colours each. Where its parent brand Corpus is quiet, premium body care built on mint green, CHROMA was made for mass retail, debuting through Target Beauty Studio in 611 locations. “I wanted to explore a more expressive world of fragrance and colour, but I did not want to change Corpus in order to do it,” Founder Jean-Pierre Mastey explains.\n\nMastey commissioned the packaging design from Marc Atlan – a close friend whom he has known for almost 20 years. CHROMA is Greek for colour. “As soon as I heard the brand name, I felt that the design was contained within the name itself. The word gave me the brief,” Atlan tells us. “The physical packaging architecture was already established, but very little else was fixed. The brief was really about using colour in a way that felt unexpected for body care – expressive and emotional, but still disciplined,” Mastey notes.",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-01.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-01.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "CHROMA by Corpus is an aluminium-free deodorant and a moisturising body wash, sold in three fragrances with a trio of colours each. Where its parent brand Corpus is quiet, premium body care built on mint green, CHROMA was made for mass retail, debuting through Target Beauty Studio in 611 locations. “I wanted to explore a more expressive world of fragrance and colour, but I did not want to change Corpus in order to do it,” Founder Jean-Pierre Mastey explains."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-02.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-03.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Mastey commissioned the packaging design from Marc Atlan – a close friend whom he has known for almost 20 years. CHROMA is Greek for colour. “As soon as I heard the brand name, I felt that the design was contained within the name itself. The word gave me the brief,” Atlan tells us. “The physical packaging architecture was already established, but very little else was fixed. The brief was really about using colour in a way that felt unexpected for body care – expressive and emotional, but still disciplined,” Mastey notes."
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“Corpus had established a recognisable visual world around its distinctive mint green,” Atlan details. “Additional colours had been explored, but they remained within that same muted, soft and delicate territory. For CHROMA, that felt simply too timid.” “I thought it should be ‘A Celebration of Colour.’ An unapologetic celebration not of one colour, but of all of them. The main idea was to use colour as a language,” he continues. “Beauty and fragrance have historically used colour as a shortcut. Certain colours are coded as feminine, others as masculine,” he adds. “Pink tells you one story, blue a different one. None of that interested me.”"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The three fragrances are DUNE, THORN and PETAL. “A fragrance is never really one note, so it felt wrong to reduce each scent to one colour,” Atlan explains. “I approached them almost as three different colour compositions rather than three conventional fragrance codes,” he continues. “Colour is not decoration. It is the design language itself.” For DUNE, he went with “a burnished cognac caramel, complemented by a powdery blush rose, anchored by a luscious cherry red.” For THORN, he came up with “a rich black-cherry aubergine, mixed with an electric fuchsia pink, highlighted with an acid chartreuse green.” For PETAL, he chose “an opulent moss green, contrasting with a misty Wedgwood blue, tempered with a dusty mauve lavender.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-04.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-05.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“I drew inspiration for each palette from the evocative power of the fragrance names themselves. I created a very personal mental image for each name and went on to illustrate that vision,” Atlan details. “I was influenced, in no particular order, by Italian Renaissance paintings, dishes created by my favourite chefs around the world, lucha libre masks, vintage Formula 1 racing suits, flea-market fishing lures, Japanese candy wrappers, and hues from my wife’s jewellery box. I have always believed in leaving enough room in the design process for what I call ‘happy accidents.’ Sometimes, an unexpected combination immediately creates an energy that you could never have conceived intellectually.”"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The saturated colour sits on a minimal, highly structured packaging system. “My approach was to treat the deodorant and body wash as two different canvases governed by the same visual grammar,” Atlan explains. Each deodorant is made from three parts – the body, cap and dial. “The particular geometry of the deodorant screamed for three distinct colours. All three components had to be customised anyway, so why not push it one step further and give each one its own colour?” he continues. “I chose the body colour first, complemented it with the cap hue, and then introduced a contrasting note for the dial. I thought of that third colour almost like bold eyeliner in makeup.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-07.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-06.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“I elected to retain Benton, the primary Corpus typeface, as well as much of its distinctive typographic structure,” Atlan details. “I wanted the surprise to come from the colours, not from the typography, so I introduced Times New Roman as a secondary typeface, primarily for headlines and titles in communications beyond the packaging. The familiarity and ubiquity of Times create a grounding counterpoint to the severity and precision of Benton without competing with it.”"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“For as long as I can remember, I have wanted to design packaging that is truly mass and truly popular,” he tells us. “This was not an object that could rely on the reverential display it would receive in a luxury boutique. It had to communicate immediately in a large retail environment, from a distance, surrounded by hundreds of competing products,” he continues. “Colour without apology. Beauty for everyone.”"
-        }
-      ],
-      "caseStudyText": "CHROMA by Corpus is an aluminium-free deodorant and a moisturising body wash, sold in three fragrances with a trio of colours each. Where its parent brand Corpus is quiet, premium body care built on mint green, CHROMA was made for mass retail, debuting through Target Beauty Studio in 611 locations. “I wanted to explore a more expressive world of fragrance and colour, but I did not want to change Corpus in order to do it,” Founder Jean-Pierre Mastey explains.\n\nMastey commissioned the packaging design from Marc Atlan – a close friend whom he has known for almost 20 years. CHROMA is Greek for colour. “As soon as I heard the brand name, I felt that the design was contained within the name itself. The word gave me the brief,” Atlan tells us. “The physical packaging architecture was already established, but very little else was fixed. The brief was really about using colour in a way that felt unexpected for body care – expressive and emotional, but still disciplined,” Mastey notes.\n\n“Corpus had established a recognisable visual world around its distinctive mint green,” Atlan details. “Additional colours had been explored, but they remained within that same muted, soft and delicate territory. For CHROMA, that felt simply too timid.” “I thought it should be ‘A Celebration of Colour.’ An unapologetic celebration not of one colour, but of all of them. The main idea was to use colour as a language,” he continues. “Beauty and fragrance have historically used colour as a shortcut. Certain colours are coded as feminine, others as masculine,” he adds. “Pink tells you one story, blue a different one. None of that interested me.”\n\nThe three fragrances are DUNE, THORN and PETAL. “A fragrance is never really one note, so it felt wrong to reduce each scent to one colour,” Atlan explains. “I approached them almost as three different colour compositions rather than three conventional fragrance codes,” he continues. “Colour is not decoration. It is the design language itself.” For DUNE, he went with “a burnished cognac caramel, complemented by a powdery blush rose, anchored by a luscious cherry red.” For THORN, he came up with “a rich black-cherry aubergine, mixed with an electric fuchsia pink, highlighted with an acid chartreuse green.” For PETAL, he chose “an opulent moss green, contrasting with a misty Wedgwood blue, tempered with a dusty mauve lavender.”\n\n“I drew inspiration for each palette from the evocative power of the fragrance names themselves. I created a very personal mental image for each name and went on to illustrate that vision,” Atlan details. “I was influenced, in no particular order, by Italian Renaissance paintings, dishes created by my favourite chefs around the world, lucha libre masks, vintage Formula 1 racing suits, flea-market fishing lures, Japanese candy wrappers, and hues from my wife’s jewellery box. I have always believed in leaving enough room in the design process for what I call ‘happy accidents.’ Sometimes, an unexpected combination immediately creates an energy that you could never have conceived intellectually.”\n\nThe saturated colour sits on a minimal, highly structured packaging system. “My approach was to treat the deodorant and body wash as two different canvases governed by the same visual grammar,” Atlan explains. Each deodorant is made from three parts – the body, cap and dial. “The particular geometry of the deodorant screamed for three distinct colours. All three components had to be customised anyway, so why not push it one step further and give each one its own colour?” he continues. “I chose the body colour first, complemented it with the cap hue, and then introduced a contrasting note for the dial. I thought of that third colour almost like bold eyeliner in makeup.”\n\n“I elected to retain Benton, the primary Corpus typeface, as well as much of its distinctive typographic structure,” Atlan details. “I wanted the surprise to come from the colours, not from the typography, so I introduced Times New Roman as a secondary typeface, primarily for headlines and titles in communications beyond the packaging. The familiarity and ubiquity of Times create a grounding counterpoint to the severity and precision of Benton without competing with it.”\n\n“For as long as I can remember, I have wanted to design packaging that is truly mass and truly popular,” he tells us. “This was not an object that could rely on the reverential display it would receive in a luxury boutique. It had to communicate immediately in a large retail environment, from a distance, surrounded by hundreds of competing products,” he continues. “Colour without apology. Beauty for everyone.”",
-      "caseStudyMedia": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-01.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-02.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-03.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-04.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-05.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-07.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/chromas-packaging-by-marc-atlan-is-made-to-work-in-targets-stores/CHROMA-by-Corpus-Marc-Atlan-Design-06.jpg"
         }
       ]
     }
