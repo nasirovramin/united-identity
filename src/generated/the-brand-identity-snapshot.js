@@ -2333,6 +2333,427 @@ const snapshot={
       ]
     },
     {
+      "canonicalUrl": "https://the-brandidentity.com/project/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city",
+      "titleOriginal": "How Nomad named and branded six rugby sevens clubs with no home city",
+      "textOriginal": "Ultimate Sevens is a rugby sevens league – backed by BIA Sports Group, the owners of Premier League football club Sunderland – whose first season took place in Cardiff, Biarritz and London in September 2026. It needed six club identities for that season, which were all created by London-based design studio Nomad . “We had six weeks to do it – to name them, the themes, and design them, and get them trademarked,” explains Co-founder & Executive Creative Director Stu Watson.\n\nNone of the six clubs has a home city, a stadium or generations of supporters behind it. “In sport, teams usually get their identity from their city,” explains Associate Strategy Director Isabel Maguire. “When franchises move, they often lean on something more portable – whether it’s St. Louis or Los Angeles – the Rams can move house without losing their identity. But that didn’t work for us. These clubs had to create an immediate sense of place and distinct personality while still belonging to one Ultimate Sevens world.”",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/videos/13992034.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-04.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "Ultimate Sevens is a rugby sevens league – backed by BIA Sports Group, the owners of Premier League football club Sunderland – whose first season took place in Cardiff, Biarritz and London in September 2026. It needed six club identities for that season, which were all created by London-based design studio Nomad . “We had six weeks to do it – to name them, the themes, and design them, and get them trademarked,” explains Co-founder & Executive Creative Director Stu Watson."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-08.jpeg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-07.jpeg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "None of the six clubs has a home city, a stadium or generations of supporters behind it. “In sport, teams usually get their identity from their city,” explains Associate Strategy Director Isabel Maguire. “When franchises move, they often lean on something more portable – whether it’s St. Louis or Los Angeles – the Rams can move house without losing their identity. But that didn’t work for us. These clubs had to create an immediate sense of place and distinct personality while still belonging to one Ultimate Sevens world.”"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-01.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Instead of a city, each club represents one of six broad territories, which Nomad established with the aim of building “an international fandom from day one,” as Partner & Creative Director Callum York puts it. The clubs are Albion Athletic for England, Atlantic Novas for North America, Clan Taran for Ireland, Scotland and Wales, Foudre Bleue for France, Pacific Current for Oceania and the Pacific Islands, and Sol Feroz for Spain and Latin America. The studio also set a shared naming structure: a geographic prefix, a central name that captures the club’s character or playing style and a ‘Sevens Club’ suffix. “But for tone, we looked beyond rugby and football to more niche sport communities like skate collective the Palace Wayward Boys Choir – names that feel less like franchises and more like something you’d actually want to belong to,” Maguire notes."
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-03_2026-10-08-072104_xswq.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "For the marks, Nomad avoided the clichés of sports club branding. “The biggest one was the reliance on literal mascots and animals. Rugby has an enormous visual history built around lions, tigers, bears, birds and other creatures,” details Design Director George Edwards. “There is a temptation with sports branding to manufacture history through shields, crests, ornamental typography and pseudo-traditional devices. Ultimate Sevens didn’t have that history. And we didn’t need to pretend that it did.” Each club has an interlocking monogram. “They give us the best of both worlds – they feel like authentic sports crests, but with modern streetwear appeal,” Edwards tells us. “Our thinking was creating something that looks amazing on a baseball cap and that probably sounds a bit frivolous, but that’s how you get fandom,” Watson adds."
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-06.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“In terms of shared features across all six logos, they were all drawn from the same baseline, but each carries its own regional character,” Edwards notes. “We developed logo animation behaviours across the clubs so that each monogram carries its own movement style while operating in sync, moving to the exact same tempo and cadence.”"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-05.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“The verbal identity is what helped turn six visual identities into six actual clubs,” explains Strategist Millie Riley. “Each has its own manifesto and tagline, built around its character and playing attitude.” The taglines include Albion Athletic’s ‘Built for Glory,’ Atlantic Novas’ ‘Bright. Bold. Blazing,’ Clan Taran’s ‘Feel The Thunder,’ Foudre Bleue’s ‘Light It Up’ and Pacific Current’s ‘See Us Rise.’ “Foudre Bleue is all French flair, attacking ambition and unpredictability,” Riley tells us. “Pacific Current is about collective energy and momentum building beneath the surface. ‘See Us Rise’ gives that shared power a voice.”"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-09.jpeg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-10.jpeg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Each club’s men’s and women’s teams share its monogram and its kit, which Reebok produced. Replica shirts and baseball caps are on sale, and a limited-edition collection of Club Vector Jackets has been announced. “The end result is that the identities aren’t simply logos placed on a Reebok shirt,” York concludes. “They become part of the overall kit language.”"
+        }
+      ],
+      "caseStudyText": "Ultimate Sevens is a rugby sevens league – backed by BIA Sports Group, the owners of Premier League football club Sunderland – whose first season took place in Cardiff, Biarritz and London in September 2026. It needed six club identities for that season, which were all created by London-based design studio Nomad . “We had six weeks to do it – to name them, the themes, and design them, and get them trademarked,” explains Co-founder & Executive Creative Director Stu Watson.\n\nNone of the six clubs has a home city, a stadium or generations of supporters behind it. “In sport, teams usually get their identity from their city,” explains Associate Strategy Director Isabel Maguire. “When franchises move, they often lean on something more portable – whether it’s St. Louis or Los Angeles – the Rams can move house without losing their identity. But that didn’t work for us. These clubs had to create an immediate sense of place and distinct personality while still belonging to one Ultimate Sevens world.”\n\nInstead of a city, each club represents one of six broad territories, which Nomad established with the aim of building “an international fandom from day one,” as Partner & Creative Director Callum York puts it. The clubs are Albion Athletic for England, Atlantic Novas for North America, Clan Taran for Ireland, Scotland and Wales, Foudre Bleue for France, Pacific Current for Oceania and the Pacific Islands, and Sol Feroz for Spain and Latin America. The studio also set a shared naming structure: a geographic prefix, a central name that captures the club’s character or playing style and a ‘Sevens Club’ suffix. “But for tone, we looked beyond rugby and football to more niche sport communities like skate collective the Palace Wayward Boys Choir – names that feel less like franchises and more like something you’d actually want to belong to,” Maguire notes.\n\nFor the marks, Nomad avoided the clichés of sports club branding. “The biggest one was the reliance on literal mascots and animals. Rugby has an enormous visual history built around lions, tigers, bears, birds and other creatures,” details Design Director George Edwards. “There is a temptation with sports branding to manufacture history through shields, crests, ornamental typography and pseudo-traditional devices. Ultimate Sevens didn’t have that history. And we didn’t need to pretend that it did.” Each club has an interlocking monogram. “They give us the best of both worlds – they feel like authentic sports crests, but with modern streetwear appeal,” Edwards tells us. “Our thinking was creating something that looks amazing on a baseball cap and that probably sounds a bit frivolous, but that’s how you get fandom,” Watson adds.\n\n“In terms of shared features across all six logos, they were all drawn from the same baseline, but each carries its own regional character,” Edwards notes. “We developed logo animation behaviours across the clubs so that each monogram carries its own movement style while operating in sync, moving to the exact same tempo and cadence.”\n\n“The verbal identity is what helped turn six visual identities into six actual clubs,” explains Strategist Millie Riley. “Each has its own manifesto and tagline, built around its character and playing attitude.” The taglines include Albion Athletic’s ‘Built for Glory,’ Atlantic Novas’ ‘Bright. Bold. Blazing,’ Clan Taran’s ‘Feel The Thunder,’ Foudre Bleue’s ‘Light It Up’ and Pacific Current’s ‘See Us Rise.’ “Foudre Bleue is all French flair, attacking ambition and unpredictability,” Riley tells us. “Pacific Current is about collective energy and momentum building beneath the surface. ‘See Us Rise’ gives that shared power a voice.”\n\nEach club’s men’s and women’s teams share its monogram and its kit, which Reebok produced. Replica shirts and baseball caps are on sale, and a limited-edition collection of Club Vector Jackets has been announced. “The end result is that the identities aren’t simply logos placed on a Reebok shirt,” York concludes. “They become part of the overall kit language.”",
+      "caseStudyMedia": [
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-04.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-08.jpeg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-07.jpeg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-01.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-03_2026-10-08-072104_xswq.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-06.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-05.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-09.jpeg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-10.jpeg"
+        }
+      ]
+    },
+    {
+      "canonicalUrl": "https://the-brandidentity.com/project/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays",
+      "titleOriginal": "Why Carolanebel Studio turned a fleur-de-lys into a bird for Club Pays",
+      "textOriginal": "Club Pays is a café on Montréal’s Plaza Saint-Hubert that becomes a room for shows, open mics, reading circles and talks in the evening. It is run by OUI Québec, a non-partisan umbrella organisation for the Québec independence movement, and its model comes from the casals of Catalonia and the herriko tabernas of the Basque Country – citizen-run bars that work as meeting places, mobilisation centres and fundraisers. Surpluses from Club Pays’ coffee, beer and events go back into the movement.\n\nMontréal-based Carolanebel Studio was commissioned to design the space’s identity. OUI Québec has worked with the studio’s Founder & Creative Director, Carolane Bélanger, for nearly five years, and gave her full creative freedom on Club Pays. “Politics and independence can sometimes feel intimidating, so our goal was to create an inviting atmosphere where anyone would feel at home, while maintaining a bold, contemporary edge,” explains the organisation’s Communications Manager Alex Valiquette.",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/videos/13888240.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-00.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "Club Pays is a café on Montréal’s Plaza Saint-Hubert that becomes a room for shows, open mics, reading circles and talks in the evening. It is run by OUI Québec, a non-partisan umbrella organisation for the Québec independence movement, and its model comes from the casals of Catalonia and the herriko tabernas of the Basque Country – citizen-run bars that work as meeting places, mobilisation centres and fundraisers. Surpluses from Club Pays’ coffee, beer and events go back into the movement."
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-01.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Montréal-based Carolanebel Studio was commissioned to design the space’s identity. OUI Québec has worked with the studio’s Founder & Creative Director, Carolane Bélanger, for nearly five years, and gave her full creative freedom on Club Pays. “Politics and independence can sometimes feel intimidating, so our goal was to create an inviting atmosphere where anyone would feel at home, while maintaining a bold, contemporary edge,” explains the organisation’s Communications Manager Alex Valiquette."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Bélanger names three reference points for the identity: the popular poster, the neighbourhood café and the Québec of today. “For the latter, I wanted to take something deeply rooted in Québec, like the fleur-de-lys, and reinterpret it through a more contemporary, open and lively visual language,” she tells us. A symbol of the French presence in North America, the fleur-de-lys has been on the Québec flag since 1948. In earlier work for OUI Québec, Bélanger had already played with turning it into a bird, but she wanted Club Pays to have a symbol of its own. “The fleur-de-lys represents Québec, while the bird represents freedom and independence, the idea of spreading your wings and finding your own way,” she notes. Her symbol for Club Pays is a bird drawn in the shape of a fleur-de-lys, moving forward with a flower in its beak."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-03.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-02.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Working in pencil on paper, Bélanger drew the logotype and the bird, tracing over her sketches again and again on a light box until she reached the final versions. She then scanned them and refined the lines in Adobe Illustrator to make the identity functional and easy to use, “while being careful not to polish away the character of the original drawing,” she details. The logotype started from the Blueberry Script typeface, which she reworked by hand through the same process, redrawing and modifying several of its letterforms, changing curves and angles, and creating new characters where needed."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“You might see the bird first and the fleur-de-lys a moment later, but I wanted both forms to coexist naturally within the same silhouette,” Bélanger explains. “I started with the general shape of the fleur-de-lys and drew the bird within it, almost like sculpting one form out of another.” She drew the bird with the curves and angles of the logotype as a reference, so the two have the same visual language. “The final drawing may feel naïve and spontaneous, but there is a lot of structure and attention to detail behind it,” she adds."
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-04.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-06.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Alongside the logotype, the secondary typeface is Wilden, whose bold, rounded shapes share some of the curves and softness of the hand-drawn elements. Bélanger also liked “the contrast between Wilden’s more solid, structured presence and the organic, imperfect quality of the drawings and logotype. That contrast gives the identity more rhythm and helps the hand-drawn elements stand out, while providing a clear and versatile typeface for the information around them,” she tells us."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "OUI Québec encouraged Bélanger to be bold with colour and explore unexpected choices rather than lean on what people might immediately associate with Québec, especially the blue of its flag. While the palette she landed on still includes a blue, it’s set beside burgundy, orange-red and warm beige. No colour has too rigid a role, so the combinations can shift depending on the application. “The burgundy and orange-red bring a lot of warmth and intensity, while the blue creates a more unexpected contrast and the beige softens the whole palette,” she explains. For Valiquette, the identity’s bold approach “signals a place where we’re not afraid to break the codes and redefine what the Québec independence project can be.”"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-07.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-08.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The influence of the popular poster, the first of Bélanger’s three reference points, is in the bold typography, strong contrasts, simple compositions, grain and hand-drawn imperfections. “I wanted to create visuals that could almost be pasted up everywhere, something you can see quickly, recognise and understand without it feeling overly polished or institutional,” she notes."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“At the same time, Club Pays is also a neighbourhood café, so the identity needed warmth and familiarity. It had to feel just as natural on a coffee cup or a t-shirt as it does on a poster for an event. That everyday quality helps balance the stronger, more civic side of the visual language,” Bélanger concludes."
+        }
+      ],
+      "caseStudyText": "Club Pays is a café on Montréal’s Plaza Saint-Hubert that becomes a room for shows, open mics, reading circles and talks in the evening. It is run by OUI Québec, a non-partisan umbrella organisation for the Québec independence movement, and its model comes from the casals of Catalonia and the herriko tabernas of the Basque Country – citizen-run bars that work as meeting places, mobilisation centres and fundraisers. Surpluses from Club Pays’ coffee, beer and events go back into the movement.\n\nMontréal-based Carolanebel Studio was commissioned to design the space’s identity. OUI Québec has worked with the studio’s Founder & Creative Director, Carolane Bélanger, for nearly five years, and gave her full creative freedom on Club Pays. “Politics and independence can sometimes feel intimidating, so our goal was to create an inviting atmosphere where anyone would feel at home, while maintaining a bold, contemporary edge,” explains the organisation’s Communications Manager Alex Valiquette.\n\nBélanger names three reference points for the identity: the popular poster, the neighbourhood café and the Québec of today. “For the latter, I wanted to take something deeply rooted in Québec, like the fleur-de-lys, and reinterpret it through a more contemporary, open and lively visual language,” she tells us. A symbol of the French presence in North America, the fleur-de-lys has been on the Québec flag since 1948. In earlier work for OUI Québec, Bélanger had already played with turning it into a bird, but she wanted Club Pays to have a symbol of its own. “The fleur-de-lys represents Québec, while the bird represents freedom and independence, the idea of spreading your wings and finding your own way,” she notes. Her symbol for Club Pays is a bird drawn in the shape of a fleur-de-lys, moving forward with a flower in its beak.\n\nWorking in pencil on paper, Bélanger drew the logotype and the bird, tracing over her sketches again and again on a light box until she reached the final versions. She then scanned them and refined the lines in Adobe Illustrator to make the identity functional and easy to use, “while being careful not to polish away the character of the original drawing,” she details. The logotype started from the Blueberry Script typeface, which she reworked by hand through the same process, redrawing and modifying several of its letterforms, changing curves and angles, and creating new characters where needed.\n\n“You might see the bird first and the fleur-de-lys a moment later, but I wanted both forms to coexist naturally within the same silhouette,” Bélanger explains. “I started with the general shape of the fleur-de-lys and drew the bird within it, almost like sculpting one form out of another.” She drew the bird with the curves and angles of the logotype as a reference, so the two have the same visual language. “The final drawing may feel naïve and spontaneous, but there is a lot of structure and attention to detail behind it,” she adds.\n\nAlongside the logotype, the secondary typeface is Wilden, whose bold, rounded shapes share some of the curves and softness of the hand-drawn elements. Bélanger also liked “the contrast between Wilden’s more solid, structured presence and the organic, imperfect quality of the drawings and logotype. That contrast gives the identity more rhythm and helps the hand-drawn elements stand out, while providing a clear and versatile typeface for the information around them,” she tells us.\n\nOUI Québec encouraged Bélanger to be bold with colour and explore unexpected choices rather than lean on what people might immediately associate with Québec, especially the blue of its flag. While the palette she landed on still includes a blue, it’s set beside burgundy, orange-red and warm beige. No colour has too rigid a role, so the combinations can shift depending on the application. “The burgundy and orange-red bring a lot of warmth and intensity, while the blue creates a more unexpected contrast and the beige softens the whole palette,” she explains. For Valiquette, the identity’s bold approach “signals a place where we’re not afraid to break the codes and redefine what the Québec independence project can be.”\n\nThe influence of the popular poster, the first of Bélanger’s three reference points, is in the bold typography, strong contrasts, simple compositions, grain and hand-drawn imperfections. “I wanted to create visuals that could almost be pasted up everywhere, something you can see quickly, recognise and understand without it feeling overly polished or institutional,” she notes.\n\n“At the same time, Club Pays is also a neighbourhood café, so the identity needed warmth and familiarity. It had to feel just as natural on a coffee cup or a t-shirt as it does on a poster for an event. That everyday quality helps balance the stronger, more civic side of the visual language,” Bélanger concludes.",
+      "caseStudyMedia": [
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-00.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-01.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-03.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-02.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-04.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-06.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-07.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-08.jpg"
+        }
+      ]
+    },
+    {
+      "canonicalUrl": "https://the-brandidentity.com/project/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront",
+      "titleOriginal": "The idea of home shapes Base Design’s identity for Ray’s Waterfront",
+      "textOriginal": "Ray’s Waterfront is a family-run restaurant and bar on the Small Boat Harbor on Resurrection Bay, in Seward, Alaska – a town of fewer than 3,000 people. Ray Simutis, a former New York taxi driver turned commercial fisherman, and Leslie Simutis, a trained cook, opened it in 1988, Ray working the bar and Leslie the kitchen. After both passed, the restaurant passed to their daughters, Anna and Janina.\n\nIn the years after 1988, the restaurant accumulated several signs, typefaces and illustrations, spread over menus, printed materials, hats and sweatshirts. “The Ray’s building, food and people were well known for being warm, welcoming and classic. There hadn’t really ever been a brand created, though,” explains Owner & Operator Anna Nozaki. She approached Base Design’s Melbourne studio for an identity that would highlight the history and spirit of Ray’s, spanning the logo, signage, menus, website and merchandise. The studio started from a neon tube sign in a window box, which reads ‘Ray’s Waterfront Bar & Grill’ and has a simple halibut illustration on it. It “was the only consistent branding that remained intact since opening,” she notes. An old hat was the only other thing left with the original lettering on it.",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/videos/13593439.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-01.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "Ray’s Waterfront is a family-run restaurant and bar on the Small Boat Harbor on Resurrection Bay, in Seward, Alaska – a town of fewer than 3,000 people. Ray Simutis, a former New York taxi driver turned commercial fisherman, and Leslie Simutis, a trained cook, opened it in 1988, Ray working the bar and Leslie the kitchen. After both passed, the restaurant passed to their daughters, Anna and Janina."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-07.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-12.jpeg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "In the years after 1988, the restaurant accumulated several signs, typefaces and illustrations, spread over menus, printed materials, hats and sweatshirts. “The Ray’s building, food and people were well known for being warm, welcoming and classic. There hadn’t really ever been a brand created, though,” explains Owner & Operator Anna Nozaki. She approached Base Design’s Melbourne studio for an identity that would highlight the history and spirit of Ray’s, spanning the logo, signage, menus, website and merchandise. The studio started from a neon tube sign in a window box, which reads ‘Ray’s Waterfront Bar & Grill’ and has a simple halibut illustration on it. It “was the only consistent branding that remained intact since opening,” she notes. An old hat was the only other thing left with the original lettering on it."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-14.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-13_2026-10-05-151617_tono.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“It was important that the brand look classic and not ‘cool,’” Nozaki details. “It needed to be humble and historic. I wanted the fact that this long-standing restaurant was started and continually operated by local families to be apparent immediately before even setting foot inside.”"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“The idea of home holds everything together,” explains Base Design’s Partner & Creative Director Caroline Cox. “Walking into Ray’s feels like being in a home. Homes can be messy and noisy. A home accumulates photographs, patterns, keepsakes and objects over time, each with a connection to the people who live there. That became a way of thinking about Ray’s as both an individual and an institution.”"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-02.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Base Design redrew the logotype from the window box sign’s lettering, which was thin and loose, with a large looping ‘R,’ a slant and a sweep on the ‘y.’ Those thin lines became a fuller, more confident mark, with heavier, more defined letters, deliberate curves, sharper terminals and closer connections across the word. “The restaurant itself was our reference for knowing how far to go,” Cox notes. “Ray’s is already full of character, and the logo needed to sit comfortably among everything that was there. It needed enough refinement to work across a contemporary identity, while still feeling like the name people had known for years.” A rope version of the mark, drawn with a custom rope brush, came out of the same window box lettering. “It picks up on the maritime references that run through Ray’s, from the harbour setting to the family’s history in commercial fishing,” Cox tells us. “It’s a secondary, more playful expression of the brand. We use it in communications where an extra layer of personality feels right. The primary logotype gives the identity its everyday recognition.”"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-04-new.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“We paired Caslon Egyptian for headlines with Affix for body copy,” Cox details. “Caslon Egyptian has roots in early sans serif lettering and the vernacular of buildings, engravings and printed material. It brings a straightforward, slightly unusual character that feels comfortable in Ray’s world. Affix has the utilitarian qualities of typewriter lettering, with warmth and playful details that come through in its italics and alternate characters. Together, they give us a practical hierarchy for the menus and website while holding their own beside the expressive logotype.”"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-10-new.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Drawings by illustrator Jake Foreman and photographs from the family's archive appear across menus, interiors and printed ephemera, which includes a matchbook, postcard of local recommendations and coasters. “Jake’s illustrations reinterpret lived memories: Anna’s childhood, family fishing trips, her mother in the kitchen and meals together at the restaurant,” Cox explains. “Patterns such as gingham and nautical stripes bring familiar, domestic textures, while the frames and borders draw on photographic albums and maritime references.”"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-03-new.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“The palette came directly from the restaurant and its surroundings,” Cox notes. “Red was already everywhere: the original lights and sconces, the burgundy carpet and the warm mahogany inside. We drew those qualities into a family of bright red, deep red and burgundy.” Red leads the palette, appearing on the menus in borders, patterns and covers, with the lunch and dinner menus set in different red tones. A connection to the Alaskan flag brings in blue, navy and yellow. Blue and navy appear on other pieces, including the dessert menu, and yellow is a smaller accent in the framing. The website uses the same palette, with beige in place of off-white paper. “That distinction is deliberate: in print, the paper stock supplies that colour; digitally, we reproduce it,” Cox explains."
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-05.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Family photographs from the 80s show a big red ‘Ray’s’ above the front doors, made of dimensional, individual channel letters. The sign glowed and was visible from a distance as people drove into town along the main road. Weather damage brought it down, and burgundy fabric awnings went up in its place. The studio designed a replacement. “After we created our concepts, we searched extensively for a manufacturer who would be able to deliver on the job,” Cox recalls. That search ended with National Sign Corporation in Seattle, and with Tim Zamberlin of the company. “When we first spoke with Tim, he was so knowledgeable we immediately felt comfortable in his hands,” Cox adds. Seward is remote, so getting people and materials there took careful coordination. Installed on an old building with a traditional shingled roof, the signage also had to survive Alaskan weather. “We wanted to preserve traditional sign-making methods and respect the building’s character, with the durability the location demands,” Cox details. The sign that went back up uses the custom Ray’s lettering."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-11.jpeg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-08.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "To document Ray’s for the next generation, the studio commissioned photographer Jack Bool to spend time in the restaurant, out on the bay, on the glaciers, around Seward and alongside the people who have given their working lives to the place, the commercial fisheries among them. “We wanted him to experience it before photographing it, leaving room for things a shot list couldn’t anticipate,” Cox notes. “There’s warmth and immediacy in the family archive that we wanted the new photographs to sit comfortably alongside.”"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“It's made the locals feel cared for by honouring the past while spiffing it up,” Nozaki concludes of the identity. “The illustrated stories on the coasters are collected by people who knew our parents.”"
+        }
+      ],
+      "caseStudyText": "Ray’s Waterfront is a family-run restaurant and bar on the Small Boat Harbor on Resurrection Bay, in Seward, Alaska – a town of fewer than 3,000 people. Ray Simutis, a former New York taxi driver turned commercial fisherman, and Leslie Simutis, a trained cook, opened it in 1988, Ray working the bar and Leslie the kitchen. After both passed, the restaurant passed to their daughters, Anna and Janina.\n\nIn the years after 1988, the restaurant accumulated several signs, typefaces and illustrations, spread over menus, printed materials, hats and sweatshirts. “The Ray’s building, food and people were well known for being warm, welcoming and classic. There hadn’t really ever been a brand created, though,” explains Owner & Operator Anna Nozaki. She approached Base Design’s Melbourne studio for an identity that would highlight the history and spirit of Ray’s, spanning the logo, signage, menus, website and merchandise. The studio started from a neon tube sign in a window box, which reads ‘Ray’s Waterfront Bar & Grill’ and has a simple halibut illustration on it. It “was the only consistent branding that remained intact since opening,” she notes. An old hat was the only other thing left with the original lettering on it.\n\n“It was important that the brand look classic and not ‘cool,’” Nozaki details. “It needed to be humble and historic. I wanted the fact that this long-standing restaurant was started and continually operated by local families to be apparent immediately before even setting foot inside.”\n\n“The idea of home holds everything together,” explains Base Design’s Partner & Creative Director Caroline Cox. “Walking into Ray’s feels like being in a home. Homes can be messy and noisy. A home accumulates photographs, patterns, keepsakes and objects over time, each with a connection to the people who live there. That became a way of thinking about Ray’s as both an individual and an institution.”\n\nBase Design redrew the logotype from the window box sign’s lettering, which was thin and loose, with a large looping ‘R,’ a slant and a sweep on the ‘y.’ Those thin lines became a fuller, more confident mark, with heavier, more defined letters, deliberate curves, sharper terminals and closer connections across the word. “The restaurant itself was our reference for knowing how far to go,” Cox notes. “Ray’s is already full of character, and the logo needed to sit comfortably among everything that was there. It needed enough refinement to work across a contemporary identity, while still feeling like the name people had known for years.” A rope version of the mark, drawn with a custom rope brush, came out of the same window box lettering. “It picks up on the maritime references that run through Ray’s, from the harbour setting to the family’s history in commercial fishing,” Cox tells us. “It’s a secondary, more playful expression of the brand. We use it in communications where an extra layer of personality feels right. The primary logotype gives the identity its everyday recognition.”\n\n“We paired Caslon Egyptian for headlines with Affix for body copy,” Cox details. “Caslon Egyptian has roots in early sans serif lettering and the vernacular of buildings, engravings and printed material. It brings a straightforward, slightly unusual character that feels comfortable in Ray’s world. Affix has the utilitarian qualities of typewriter lettering, with warmth and playful details that come through in its italics and alternate characters. Together, they give us a practical hierarchy for the menus and website while holding their own beside the expressive logotype.”\n\nDrawings by illustrator Jake Foreman and photographs from the family's archive appear across menus, interiors and printed ephemera, which includes a matchbook, postcard of local recommendations and coasters. “Jake’s illustrations reinterpret lived memories: Anna’s childhood, family fishing trips, her mother in the kitchen and meals together at the restaurant,” Cox explains. “Patterns such as gingham and nautical stripes bring familiar, domestic textures, while the frames and borders draw on photographic albums and maritime references.”\n\n“The palette came directly from the restaurant and its surroundings,” Cox notes. “Red was already everywhere: the original lights and sconces, the burgundy carpet and the warm mahogany inside. We drew those qualities into a family of bright red, deep red and burgundy.” Red leads the palette, appearing on the menus in borders, patterns and covers, with the lunch and dinner menus set in different red tones. A connection to the Alaskan flag brings in blue, navy and yellow. Blue and navy appear on other pieces, including the dessert menu, and yellow is a smaller accent in the framing. The website uses the same palette, with beige in place of off-white paper. “That distinction is deliberate: in print, the paper stock supplies that colour; digitally, we reproduce it,” Cox explains.\n\nFamily photographs from the 80s show a big red ‘Ray’s’ above the front doors, made of dimensional, individual channel letters. The sign glowed and was visible from a distance as people drove into town along the main road. Weather damage brought it down, and burgundy fabric awnings went up in its place. The studio designed a replacement. “After we created our concepts, we searched extensively for a manufacturer who would be able to deliver on the job,” Cox recalls. That search ended with National Sign Corporation in Seattle, and with Tim Zamberlin of the company. “When we first spoke with Tim, he was so knowledgeable we immediately felt comfortable in his hands,” Cox adds. Seward is remote, so getting people and materials there took careful coordination. Installed on an old building with a traditional shingled roof, the signage also had to survive Alaskan weather. “We wanted to preserve traditional sign-making methods and respect the building’s character, with the durability the location demands,” Cox details. The sign that went back up uses the custom Ray’s lettering.\n\nTo document Ray’s for the next generation, the studio commissioned photographer Jack Bool to spend time in the restaurant, out on the bay, on the glaciers, around Seward and alongside the people who have given their working lives to the place, the commercial fisheries among them. “We wanted him to experience it before photographing it, leaving room for things a shot list couldn’t anticipate,” Cox notes. “There’s warmth and immediacy in the family archive that we wanted the new photographs to sit comfortably alongside.”\n\n“It's made the locals feel cared for by honouring the past while spiffing it up,” Nozaki concludes of the identity. “The illustrated stories on the coasters are collected by people who knew our parents.”",
+      "caseStudyMedia": [
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-01.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-07.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-12.jpeg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-14.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-13_2026-10-05-151617_tono.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-02.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-04-new.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-10-new.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-03-new.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-05.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-11.jpeg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-08.jpg"
+        }
+      ]
+    },
+    {
       "canonicalUrl": "https://the-brandidentity.com/project/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb",
       "titleOriginal": "Holographik designs the identity for Bottone’s furniture show in Zagreb",
       "textOriginal": "Every object that Bottone releases arrives with its own original music, and for Objects & Frequencies, the Berlin-based furniture brand’s first exhibition in Croatia, Zagreb-based design studio Holographik was asked to make those tracks visible. The tracks come from the two brothers who founded the brand, who have been making music together since the 90s. “The object always comes first. Once its form, material and character are defined, we try to understand what that object might become in sound,” Founders Michele and Daniele Luciano Ferrazzano tell us. “We don’t approach the track as a soundtrack or an explanation of the design. It is more like translating the same intuition into another medium. Sometimes the connection comes through rhythm, sometimes through atmosphere, repetition or texture.”\n\nThe three-day exhibition ran on 16–18 September 2026 at Holographik Space – the studio’s own venue in Zagreb. Bottone brought selected works, new colours and two pieces that had not been released anywhere – the Hold A140 TV Stand and the Hold C22 Coat Rack. Wednesday opened with a Design Talk with soba.hr , a Zagreb-based furniture and homeware retailer, and Friday closed the run with a live DJ set. The TV stand played a heritage video that was filmed in the 90s in Apulia, where the brothers’ family comes from. Holographik created the identity, motion and art direction.",
@@ -2691,427 +3112,6 @@ const snapshot={
         {
           "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-09.jpg"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront",
-      "titleOriginal": "The idea of home shapes Base Design’s identity for Ray’s Waterfront",
-      "textOriginal": "Ray’s Waterfront is a family-run restaurant and bar on the Small Boat Harbor on Resurrection Bay, in Seward, Alaska – a town of fewer than 3,000 people. Ray Simutis, a former New York taxi driver turned commercial fisherman, and Leslie Simutis, a trained cook, opened it in 1988, Ray working the bar and Leslie the kitchen. After both passed, the restaurant passed to their daughters, Anna and Janina.\n\nIn the years after 1988, the restaurant accumulated several signs, typefaces and illustrations, spread over menus, printed materials, hats and sweatshirts. “The Ray’s building, food and people were well known for being warm, welcoming and classic. There hadn’t really ever been a brand created, though,” explains Owner & Operator Anna Nozaki. She approached Base Design’s Melbourne studio for an identity that would highlight the history and spirit of Ray’s, spanning the logo, signage, menus, website and merchandise. The studio started from a neon tube sign in a window box, which reads ‘Ray’s Waterfront Bar & Grill’ and has a simple halibut illustration on it. It “was the only consistent branding that remained intact since opening,” she notes. An old hat was the only other thing left with the original lettering on it.",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/13593439.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-01.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "Ray’s Waterfront is a family-run restaurant and bar on the Small Boat Harbor on Resurrection Bay, in Seward, Alaska – a town of fewer than 3,000 people. Ray Simutis, a former New York taxi driver turned commercial fisherman, and Leslie Simutis, a trained cook, opened it in 1988, Ray working the bar and Leslie the kitchen. After both passed, the restaurant passed to their daughters, Anna and Janina."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-07.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-12.jpeg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "In the years after 1988, the restaurant accumulated several signs, typefaces and illustrations, spread over menus, printed materials, hats and sweatshirts. “The Ray’s building, food and people were well known for being warm, welcoming and classic. There hadn’t really ever been a brand created, though,” explains Owner & Operator Anna Nozaki. She approached Base Design’s Melbourne studio for an identity that would highlight the history and spirit of Ray’s, spanning the logo, signage, menus, website and merchandise. The studio started from a neon tube sign in a window box, which reads ‘Ray’s Waterfront Bar & Grill’ and has a simple halibut illustration on it. It “was the only consistent branding that remained intact since opening,” she notes. An old hat was the only other thing left with the original lettering on it."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-14.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-13_2026-10-05-151617_tono.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“It was important that the brand look classic and not ‘cool,’” Nozaki details. “It needed to be humble and historic. I wanted the fact that this long-standing restaurant was started and continually operated by local families to be apparent immediately before even setting foot inside.”"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“The idea of home holds everything together,” explains Base Design’s Partner & Creative Director Caroline Cox. “Walking into Ray’s feels like being in a home. Homes can be messy and noisy. A home accumulates photographs, patterns, keepsakes and objects over time, each with a connection to the people who live there. That became a way of thinking about Ray’s as both an individual and an institution.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-02.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Base Design redrew the logotype from the window box sign’s lettering, which was thin and loose, with a large looping ‘R,’ a slant and a sweep on the ‘y.’ Those thin lines became a fuller, more confident mark, with heavier, more defined letters, deliberate curves, sharper terminals and closer connections across the word. “The restaurant itself was our reference for knowing how far to go,” Cox notes. “Ray’s is already full of character, and the logo needed to sit comfortably among everything that was there. It needed enough refinement to work across a contemporary identity, while still feeling like the name people had known for years.” A rope version of the mark, drawn with a custom rope brush, came out of the same window box lettering. “It picks up on the maritime references that run through Ray’s, from the harbour setting to the family’s history in commercial fishing,” Cox tells us. “It’s a secondary, more playful expression of the brand. We use it in communications where an extra layer of personality feels right. The primary logotype gives the identity its everyday recognition.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-04-new.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“We paired Caslon Egyptian for headlines with Affix for body copy,” Cox details. “Caslon Egyptian has roots in early sans serif lettering and the vernacular of buildings, engravings and printed material. It brings a straightforward, slightly unusual character that feels comfortable in Ray’s world. Affix has the utilitarian qualities of typewriter lettering, with warmth and playful details that come through in its italics and alternate characters. Together, they give us a practical hierarchy for the menus and website while holding their own beside the expressive logotype.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-10-new.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Drawings by illustrator Jake Foreman and photographs from the family's archive appear across menus, interiors and printed ephemera, which includes a matchbook, postcard of local recommendations and coasters. “Jake’s illustrations reinterpret lived memories: Anna’s childhood, family fishing trips, her mother in the kitchen and meals together at the restaurant,” Cox explains. “Patterns such as gingham and nautical stripes bring familiar, domestic textures, while the frames and borders draw on photographic albums and maritime references.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-03-new.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“The palette came directly from the restaurant and its surroundings,” Cox notes. “Red was already everywhere: the original lights and sconces, the burgundy carpet and the warm mahogany inside. We drew those qualities into a family of bright red, deep red and burgundy.” Red leads the palette, appearing on the menus in borders, patterns and covers, with the lunch and dinner menus set in different red tones. A connection to the Alaskan flag brings in blue, navy and yellow. Blue and navy appear on other pieces, including the dessert menu, and yellow is a smaller accent in the framing. The website uses the same palette, with beige in place of off-white paper. “That distinction is deliberate: in print, the paper stock supplies that colour; digitally, we reproduce it,” Cox explains."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-05.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Family photographs from the 80s show a big red ‘Ray’s’ above the front doors, made of dimensional, individual channel letters. The sign glowed and was visible from a distance as people drove into town along the main road. Weather damage brought it down, and burgundy fabric awnings went up in its place. The studio designed a replacement. “After we created our concepts, we searched extensively for a manufacturer who would be able to deliver on the job,” Cox recalls. That search ended with National Sign Corporation in Seattle, and with Tim Zamberlin of the company. “When we first spoke with Tim, he was so knowledgeable we immediately felt comfortable in his hands,” Cox adds. Seward is remote, so getting people and materials there took careful coordination. Installed on an old building with a traditional shingled roof, the signage also had to survive Alaskan weather. “We wanted to preserve traditional sign-making methods and respect the building’s character, with the durability the location demands,” Cox details. The sign that went back up uses the custom Ray’s lettering."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-11.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-08.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "To document Ray’s for the next generation, the studio commissioned photographer Jack Bool to spend time in the restaurant, out on the bay, on the glaciers, around Seward and alongside the people who have given their working lives to the place, the commercial fisheries among them. “We wanted him to experience it before photographing it, leaving room for things a shot list couldn’t anticipate,” Cox notes. “There’s warmth and immediacy in the family archive that we wanted the new photographs to sit comfortably alongside.”"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“It's made the locals feel cared for by honouring the past while spiffing it up,” Nozaki concludes of the identity. “The illustrated stories on the coasters are collected by people who knew our parents.”"
-        }
-      ],
-      "caseStudyText": "Ray’s Waterfront is a family-run restaurant and bar on the Small Boat Harbor on Resurrection Bay, in Seward, Alaska – a town of fewer than 3,000 people. Ray Simutis, a former New York taxi driver turned commercial fisherman, and Leslie Simutis, a trained cook, opened it in 1988, Ray working the bar and Leslie the kitchen. After both passed, the restaurant passed to their daughters, Anna and Janina.\n\nIn the years after 1988, the restaurant accumulated several signs, typefaces and illustrations, spread over menus, printed materials, hats and sweatshirts. “The Ray’s building, food and people were well known for being warm, welcoming and classic. There hadn’t really ever been a brand created, though,” explains Owner & Operator Anna Nozaki. She approached Base Design’s Melbourne studio for an identity that would highlight the history and spirit of Ray’s, spanning the logo, signage, menus, website and merchandise. The studio started from a neon tube sign in a window box, which reads ‘Ray’s Waterfront Bar & Grill’ and has a simple halibut illustration on it. It “was the only consistent branding that remained intact since opening,” she notes. An old hat was the only other thing left with the original lettering on it.\n\n“It was important that the brand look classic and not ‘cool,’” Nozaki details. “It needed to be humble and historic. I wanted the fact that this long-standing restaurant was started and continually operated by local families to be apparent immediately before even setting foot inside.”\n\n“The idea of home holds everything together,” explains Base Design’s Partner & Creative Director Caroline Cox. “Walking into Ray’s feels like being in a home. Homes can be messy and noisy. A home accumulates photographs, patterns, keepsakes and objects over time, each with a connection to the people who live there. That became a way of thinking about Ray’s as both an individual and an institution.”\n\nBase Design redrew the logotype from the window box sign’s lettering, which was thin and loose, with a large looping ‘R,’ a slant and a sweep on the ‘y.’ Those thin lines became a fuller, more confident mark, with heavier, more defined letters, deliberate curves, sharper terminals and closer connections across the word. “The restaurant itself was our reference for knowing how far to go,” Cox notes. “Ray’s is already full of character, and the logo needed to sit comfortably among everything that was there. It needed enough refinement to work across a contemporary identity, while still feeling like the name people had known for years.” A rope version of the mark, drawn with a custom rope brush, came out of the same window box lettering. “It picks up on the maritime references that run through Ray’s, from the harbour setting to the family’s history in commercial fishing,” Cox tells us. “It’s a secondary, more playful expression of the brand. We use it in communications where an extra layer of personality feels right. The primary logotype gives the identity its everyday recognition.”\n\n“We paired Caslon Egyptian for headlines with Affix for body copy,” Cox details. “Caslon Egyptian has roots in early sans serif lettering and the vernacular of buildings, engravings and printed material. It brings a straightforward, slightly unusual character that feels comfortable in Ray’s world. Affix has the utilitarian qualities of typewriter lettering, with warmth and playful details that come through in its italics and alternate characters. Together, they give us a practical hierarchy for the menus and website while holding their own beside the expressive logotype.”\n\nDrawings by illustrator Jake Foreman and photographs from the family's archive appear across menus, interiors and printed ephemera, which includes a matchbook, postcard of local recommendations and coasters. “Jake’s illustrations reinterpret lived memories: Anna’s childhood, family fishing trips, her mother in the kitchen and meals together at the restaurant,” Cox explains. “Patterns such as gingham and nautical stripes bring familiar, domestic textures, while the frames and borders draw on photographic albums and maritime references.”\n\n“The palette came directly from the restaurant and its surroundings,” Cox notes. “Red was already everywhere: the original lights and sconces, the burgundy carpet and the warm mahogany inside. We drew those qualities into a family of bright red, deep red and burgundy.” Red leads the palette, appearing on the menus in borders, patterns and covers, with the lunch and dinner menus set in different red tones. A connection to the Alaskan flag brings in blue, navy and yellow. Blue and navy appear on other pieces, including the dessert menu, and yellow is a smaller accent in the framing. The website uses the same palette, with beige in place of off-white paper. “That distinction is deliberate: in print, the paper stock supplies that colour; digitally, we reproduce it,” Cox explains.\n\nFamily photographs from the 80s show a big red ‘Ray’s’ above the front doors, made of dimensional, individual channel letters. The sign glowed and was visible from a distance as people drove into town along the main road. Weather damage brought it down, and burgundy fabric awnings went up in its place. The studio designed a replacement. “After we created our concepts, we searched extensively for a manufacturer who would be able to deliver on the job,” Cox recalls. That search ended with National Sign Corporation in Seattle, and with Tim Zamberlin of the company. “When we first spoke with Tim, he was so knowledgeable we immediately felt comfortable in his hands,” Cox adds. Seward is remote, so getting people and materials there took careful coordination. Installed on an old building with a traditional shingled roof, the signage also had to survive Alaskan weather. “We wanted to preserve traditional sign-making methods and respect the building’s character, with the durability the location demands,” Cox details. The sign that went back up uses the custom Ray’s lettering.\n\nTo document Ray’s for the next generation, the studio commissioned photographer Jack Bool to spend time in the restaurant, out on the bay, on the glaciers, around Seward and alongside the people who have given their working lives to the place, the commercial fisheries among them. “We wanted him to experience it before photographing it, leaving room for things a shot list couldn’t anticipate,” Cox notes. “There’s warmth and immediacy in the family archive that we wanted the new photographs to sit comfortably alongside.”\n\n“It's made the locals feel cared for by honouring the past while spiffing it up,” Nozaki concludes of the identity. “The illustrated stories on the coasters are collected by people who knew our parents.”",
-      "caseStudyMedia": [
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-01.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-07.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-12.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-14.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-13_2026-10-05-151617_tono.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-02.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-04-new.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-10-new.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-03-new.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-05.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-11.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-08.jpg"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city",
-      "titleOriginal": "How Nomad named and branded six rugby sevens clubs with no home city",
-      "textOriginal": "Ultimate Sevens is a rugby sevens league – backed by BIA Sports Group, the owners of Premier League football club Sunderland – whose first season took place in Cardiff, Biarritz and London in September 2026. It needed six club identities for that season, which were all created by London-based design studio Nomad . “We had six weeks to do it – to name them, the themes, and design them, and get them trademarked,” explains Co-founder & Executive Creative Director Stu Watson.\n\nNone of the six clubs has a home city, a stadium or generations of supporters behind it. “In sport, teams usually get their identity from their city,” explains Associate Strategy Director Isabel Maguire. “When franchises move, they often lean on something more portable – whether it’s St. Louis or Los Angeles – the Rams can move house without losing their identity. But that didn’t work for us. These clubs had to create an immediate sense of place and distinct personality while still belonging to one Ultimate Sevens world.”",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/13992034.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-04.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "Ultimate Sevens is a rugby sevens league – backed by BIA Sports Group, the owners of Premier League football club Sunderland – whose first season took place in Cardiff, Biarritz and London in September 2026. It needed six club identities for that season, which were all created by London-based design studio Nomad . “We had six weeks to do it – to name them, the themes, and design them, and get them trademarked,” explains Co-founder & Executive Creative Director Stu Watson."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-08.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-07.jpeg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "None of the six clubs has a home city, a stadium or generations of supporters behind it. “In sport, teams usually get their identity from their city,” explains Associate Strategy Director Isabel Maguire. “When franchises move, they often lean on something more portable – whether it’s St. Louis or Los Angeles – the Rams can move house without losing their identity. But that didn’t work for us. These clubs had to create an immediate sense of place and distinct personality while still belonging to one Ultimate Sevens world.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-01.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Instead of a city, each club represents one of six broad territories, which Nomad established with the aim of building “an international fandom from day one,” as Partner & Creative Director Callum York puts it. The clubs are Albion Athletic for England, Atlantic Novas for North America, Clan Taran for Ireland, Scotland and Wales, Foudre Bleue for France, Pacific Current for Oceania and the Pacific Islands, and Sol Feroz for Spain and Latin America. The studio also set a shared naming structure: a geographic prefix, a central name that captures the club’s character or playing style and a ‘Sevens Club’ suffix. “But for tone, we looked beyond rugby and football to more niche sport communities like skate collective the Palace Wayward Boys Choir – names that feel less like franchises and more like something you’d actually want to belong to,” Maguire notes."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-03_2026-10-08-072104_xswq.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "For the marks, Nomad avoided the clichés of sports club branding. “The biggest one was the reliance on literal mascots and animals. Rugby has an enormous visual history built around lions, tigers, bears, birds and other creatures,” details Design Director George Edwards. “There is a temptation with sports branding to manufacture history through shields, crests, ornamental typography and pseudo-traditional devices. Ultimate Sevens didn’t have that history. And we didn’t need to pretend that it did.” Each club has an interlocking monogram. “They give us the best of both worlds – they feel like authentic sports crests, but with modern streetwear appeal,” Edwards tells us. “Our thinking was creating something that looks amazing on a baseball cap and that probably sounds a bit frivolous, but that’s how you get fandom,” Watson adds."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-06.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“In terms of shared features across all six logos, they were all drawn from the same baseline, but each carries its own regional character,” Edwards notes. “We developed logo animation behaviours across the clubs so that each monogram carries its own movement style while operating in sync, moving to the exact same tempo and cadence.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-05.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“The verbal identity is what helped turn six visual identities into six actual clubs,” explains Strategist Millie Riley. “Each has its own manifesto and tagline, built around its character and playing attitude.” The taglines include Albion Athletic’s ‘Built for Glory,’ Atlantic Novas’ ‘Bright. Bold. Blazing,’ Clan Taran’s ‘Feel The Thunder,’ Foudre Bleue’s ‘Light It Up’ and Pacific Current’s ‘See Us Rise.’ “Foudre Bleue is all French flair, attacking ambition and unpredictability,” Riley tells us. “Pacific Current is about collective energy and momentum building beneath the surface. ‘See Us Rise’ gives that shared power a voice.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-09.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-10.jpeg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Each club’s men’s and women’s teams share its monogram and its kit, which Reebok produced. Replica shirts and baseball caps are on sale, and a limited-edition collection of Club Vector Jackets has been announced. “The end result is that the identities aren’t simply logos placed on a Reebok shirt,” York concludes. “They become part of the overall kit language.”"
-        }
-      ],
-      "caseStudyText": "Ultimate Sevens is a rugby sevens league – backed by BIA Sports Group, the owners of Premier League football club Sunderland – whose first season took place in Cardiff, Biarritz and London in September 2026. It needed six club identities for that season, which were all created by London-based design studio Nomad . “We had six weeks to do it – to name them, the themes, and design them, and get them trademarked,” explains Co-founder & Executive Creative Director Stu Watson.\n\nNone of the six clubs has a home city, a stadium or generations of supporters behind it. “In sport, teams usually get their identity from their city,” explains Associate Strategy Director Isabel Maguire. “When franchises move, they often lean on something more portable – whether it’s St. Louis or Los Angeles – the Rams can move house without losing their identity. But that didn’t work for us. These clubs had to create an immediate sense of place and distinct personality while still belonging to one Ultimate Sevens world.”\n\nInstead of a city, each club represents one of six broad territories, which Nomad established with the aim of building “an international fandom from day one,” as Partner & Creative Director Callum York puts it. The clubs are Albion Athletic for England, Atlantic Novas for North America, Clan Taran for Ireland, Scotland and Wales, Foudre Bleue for France, Pacific Current for Oceania and the Pacific Islands, and Sol Feroz for Spain and Latin America. The studio also set a shared naming structure: a geographic prefix, a central name that captures the club’s character or playing style and a ‘Sevens Club’ suffix. “But for tone, we looked beyond rugby and football to more niche sport communities like skate collective the Palace Wayward Boys Choir – names that feel less like franchises and more like something you’d actually want to belong to,” Maguire notes.\n\nFor the marks, Nomad avoided the clichés of sports club branding. “The biggest one was the reliance on literal mascots and animals. Rugby has an enormous visual history built around lions, tigers, bears, birds and other creatures,” details Design Director George Edwards. “There is a temptation with sports branding to manufacture history through shields, crests, ornamental typography and pseudo-traditional devices. Ultimate Sevens didn’t have that history. And we didn’t need to pretend that it did.” Each club has an interlocking monogram. “They give us the best of both worlds – they feel like authentic sports crests, but with modern streetwear appeal,” Edwards tells us. “Our thinking was creating something that looks amazing on a baseball cap and that probably sounds a bit frivolous, but that’s how you get fandom,” Watson adds.\n\n“In terms of shared features across all six logos, they were all drawn from the same baseline, but each carries its own regional character,” Edwards notes. “We developed logo animation behaviours across the clubs so that each monogram carries its own movement style while operating in sync, moving to the exact same tempo and cadence.”\n\n“The verbal identity is what helped turn six visual identities into six actual clubs,” explains Strategist Millie Riley. “Each has its own manifesto and tagline, built around its character and playing attitude.” The taglines include Albion Athletic’s ‘Built for Glory,’ Atlantic Novas’ ‘Bright. Bold. Blazing,’ Clan Taran’s ‘Feel The Thunder,’ Foudre Bleue’s ‘Light It Up’ and Pacific Current’s ‘See Us Rise.’ “Foudre Bleue is all French flair, attacking ambition and unpredictability,” Riley tells us. “Pacific Current is about collective energy and momentum building beneath the surface. ‘See Us Rise’ gives that shared power a voice.”\n\nEach club’s men’s and women’s teams share its monogram and its kit, which Reebok produced. Replica shirts and baseball caps are on sale, and a limited-edition collection of Club Vector Jackets has been announced. “The end result is that the identities aren’t simply logos placed on a Reebok shirt,” York concludes. “They become part of the overall kit language.”",
-      "caseStudyMedia": [
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-04.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-08.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-07.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-01.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-03_2026-10-08-072104_xswq.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-06.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-05.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-09.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-10.jpeg"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays",
-      "titleOriginal": "Why Carolanebel Studio turned a fleur-de-lys into a bird for Club Pays",
-      "textOriginal": "Club Pays is a café on Montréal’s Plaza Saint-Hubert that becomes a room for shows, open mics, reading circles and talks in the evening. It is run by OUI Québec, a non-partisan umbrella organisation for the Québec independence movement, and its model comes from the casals of Catalonia and the herriko tabernas of the Basque Country – citizen-run bars that work as meeting places, mobilisation centres and fundraisers. Surpluses from Club Pays’ coffee, beer and events go back into the movement.\n\nMontréal-based Carolanebel Studio was commissioned to design the space’s identity. OUI Québec has worked with the studio’s Founder & Creative Director, Carolane Bélanger, for nearly five years, and gave her full creative freedom on Club Pays. “Politics and independence can sometimes feel intimidating, so our goal was to create an inviting atmosphere where anyone would feel at home, while maintaining a bold, contemporary edge,” explains the organisation’s Communications Manager Alex Valiquette.",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/13888240.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-00.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "Club Pays is a café on Montréal’s Plaza Saint-Hubert that becomes a room for shows, open mics, reading circles and talks in the evening. It is run by OUI Québec, a non-partisan umbrella organisation for the Québec independence movement, and its model comes from the casals of Catalonia and the herriko tabernas of the Basque Country – citizen-run bars that work as meeting places, mobilisation centres and fundraisers. Surpluses from Club Pays’ coffee, beer and events go back into the movement."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-01.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Montréal-based Carolanebel Studio was commissioned to design the space’s identity. OUI Québec has worked with the studio’s Founder & Creative Director, Carolane Bélanger, for nearly five years, and gave her full creative freedom on Club Pays. “Politics and independence can sometimes feel intimidating, so our goal was to create an inviting atmosphere where anyone would feel at home, while maintaining a bold, contemporary edge,” explains the organisation’s Communications Manager Alex Valiquette."
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Bélanger names three reference points for the identity: the popular poster, the neighbourhood café and the Québec of today. “For the latter, I wanted to take something deeply rooted in Québec, like the fleur-de-lys, and reinterpret it through a more contemporary, open and lively visual language,” she tells us. A symbol of the French presence in North America, the fleur-de-lys has been on the Québec flag since 1948. In earlier work for OUI Québec, Bélanger had already played with turning it into a bird, but she wanted Club Pays to have a symbol of its own. “The fleur-de-lys represents Québec, while the bird represents freedom and independence, the idea of spreading your wings and finding your own way,” she notes. Her symbol for Club Pays is a bird drawn in the shape of a fleur-de-lys, moving forward with a flower in its beak."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-03.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-02.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Working in pencil on paper, Bélanger drew the logotype and the bird, tracing over her sketches again and again on a light box until she reached the final versions. She then scanned them and refined the lines in Adobe Illustrator to make the identity functional and easy to use, “while being careful not to polish away the character of the original drawing,” she details. The logotype started from the Blueberry Script typeface, which she reworked by hand through the same process, redrawing and modifying several of its letterforms, changing curves and angles, and creating new characters where needed."
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“You might see the bird first and the fleur-de-lys a moment later, but I wanted both forms to coexist naturally within the same silhouette,” Bélanger explains. “I started with the general shape of the fleur-de-lys and drew the bird within it, almost like sculpting one form out of another.” She drew the bird with the curves and angles of the logotype as a reference, so the two have the same visual language. “The final drawing may feel naïve and spontaneous, but there is a lot of structure and attention to detail behind it,” she adds."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-04.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-06.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Alongside the logotype, the secondary typeface is Wilden, whose bold, rounded shapes share some of the curves and softness of the hand-drawn elements. Bélanger also liked “the contrast between Wilden’s more solid, structured presence and the organic, imperfect quality of the drawings and logotype. That contrast gives the identity more rhythm and helps the hand-drawn elements stand out, while providing a clear and versatile typeface for the information around them,” she tells us."
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "OUI Québec encouraged Bélanger to be bold with colour and explore unexpected choices rather than lean on what people might immediately associate with Québec, especially the blue of its flag. While the palette she landed on still includes a blue, it’s set beside burgundy, orange-red and warm beige. No colour has too rigid a role, so the combinations can shift depending on the application. “The burgundy and orange-red bring a lot of warmth and intensity, while the blue creates a more unexpected contrast and the beige softens the whole palette,” she explains. For Valiquette, the identity’s bold approach “signals a place where we’re not afraid to break the codes and redefine what the Québec independence project can be.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-07.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-08.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The influence of the popular poster, the first of Bélanger’s three reference points, is in the bold typography, strong contrasts, simple compositions, grain and hand-drawn imperfections. “I wanted to create visuals that could almost be pasted up everywhere, something you can see quickly, recognise and understand without it feeling overly polished or institutional,” she notes."
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“At the same time, Club Pays is also a neighbourhood café, so the identity needed warmth and familiarity. It had to feel just as natural on a coffee cup or a t-shirt as it does on a poster for an event. That everyday quality helps balance the stronger, more civic side of the visual language,” Bélanger concludes."
-        }
-      ],
-      "caseStudyText": "Club Pays is a café on Montréal’s Plaza Saint-Hubert that becomes a room for shows, open mics, reading circles and talks in the evening. It is run by OUI Québec, a non-partisan umbrella organisation for the Québec independence movement, and its model comes from the casals of Catalonia and the herriko tabernas of the Basque Country – citizen-run bars that work as meeting places, mobilisation centres and fundraisers. Surpluses from Club Pays’ coffee, beer and events go back into the movement.\n\nMontréal-based Carolanebel Studio was commissioned to design the space’s identity. OUI Québec has worked with the studio’s Founder & Creative Director, Carolane Bélanger, for nearly five years, and gave her full creative freedom on Club Pays. “Politics and independence can sometimes feel intimidating, so our goal was to create an inviting atmosphere where anyone would feel at home, while maintaining a bold, contemporary edge,” explains the organisation’s Communications Manager Alex Valiquette.\n\nBélanger names three reference points for the identity: the popular poster, the neighbourhood café and the Québec of today. “For the latter, I wanted to take something deeply rooted in Québec, like the fleur-de-lys, and reinterpret it through a more contemporary, open and lively visual language,” she tells us. A symbol of the French presence in North America, the fleur-de-lys has been on the Québec flag since 1948. In earlier work for OUI Québec, Bélanger had already played with turning it into a bird, but she wanted Club Pays to have a symbol of its own. “The fleur-de-lys represents Québec, while the bird represents freedom and independence, the idea of spreading your wings and finding your own way,” she notes. Her symbol for Club Pays is a bird drawn in the shape of a fleur-de-lys, moving forward with a flower in its beak.\n\nWorking in pencil on paper, Bélanger drew the logotype and the bird, tracing over her sketches again and again on a light box until she reached the final versions. She then scanned them and refined the lines in Adobe Illustrator to make the identity functional and easy to use, “while being careful not to polish away the character of the original drawing,” she details. The logotype started from the Blueberry Script typeface, which she reworked by hand through the same process, redrawing and modifying several of its letterforms, changing curves and angles, and creating new characters where needed.\n\n“You might see the bird first and the fleur-de-lys a moment later, but I wanted both forms to coexist naturally within the same silhouette,” Bélanger explains. “I started with the general shape of the fleur-de-lys and drew the bird within it, almost like sculpting one form out of another.” She drew the bird with the curves and angles of the logotype as a reference, so the two have the same visual language. “The final drawing may feel naïve and spontaneous, but there is a lot of structure and attention to detail behind it,” she adds.\n\nAlongside the logotype, the secondary typeface is Wilden, whose bold, rounded shapes share some of the curves and softness of the hand-drawn elements. Bélanger also liked “the contrast between Wilden’s more solid, structured presence and the organic, imperfect quality of the drawings and logotype. That contrast gives the identity more rhythm and helps the hand-drawn elements stand out, while providing a clear and versatile typeface for the information around them,” she tells us.\n\nOUI Québec encouraged Bélanger to be bold with colour and explore unexpected choices rather than lean on what people might immediately associate with Québec, especially the blue of its flag. While the palette she landed on still includes a blue, it’s set beside burgundy, orange-red and warm beige. No colour has too rigid a role, so the combinations can shift depending on the application. “The burgundy and orange-red bring a lot of warmth and intensity, while the blue creates a more unexpected contrast and the beige softens the whole palette,” she explains. For Valiquette, the identity’s bold approach “signals a place where we’re not afraid to break the codes and redefine what the Québec independence project can be.”\n\nThe influence of the popular poster, the first of Bélanger’s three reference points, is in the bold typography, strong contrasts, simple compositions, grain and hand-drawn imperfections. “I wanted to create visuals that could almost be pasted up everywhere, something you can see quickly, recognise and understand without it feeling overly polished or institutional,” she notes.\n\n“At the same time, Club Pays is also a neighbourhood café, so the identity needed warmth and familiarity. It had to feel just as natural on a coffee cup or a t-shirt as it does on a poster for an event. That everyday quality helps balance the stronger, more civic side of the visual language,” Bélanger concludes.",
-      "caseStudyMedia": [
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-00.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-01.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-03.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-02.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-04.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-06.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-07.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-08.jpg"
         }
       ]
     }
