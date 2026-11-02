@@ -7,6 +7,293 @@ const snapshot={
   },
   "items": [
     {
+      "canonicalUrl": "https://the-brandidentity.com/project/how-ob-studio-took-reci-from-a-prototype-to-an-identity-and-live-app",
+      "titleOriginal": "How OB Studio took Reci from a prototype to an identity and live app",
+      "textOriginal": "Reci is a private, invite-only app where people save, share and request service recommendations within a trusted circle of friends. When the Reci team reached out to Paris and London-based OB Studio , the app existed as its first web prototype, built to test that idea. “The next step was a mobile app that could be put in front of real users, and a brand that appealed to the people it was built for,” explains OB Studio’s Co-founder Julie Daled. The studio created the identity, then designed the mobile app and spent four weeks developing it. “Running all three phases with one team kept the decisions connected, from the first brand route to the live product,” she adds.\n\n“Reci is a tech product, but the positioning was not tech-first,” OB Studio’s Co-founder & Creative Director David Broner tells us. “Today no one is really interested in a tech brand that positions itself as such. Solving a problem is a given, and the technology that allows it is not the subject.” OB Studio pushed Reci towards a lifestyle brand. “Its core audience is high performers trying to get their lives in order, yet we deliberately avoided the language of performance and optimisation. We also avoided leading with the problem. People already know how hard it is to find a good dentist in a new city, so the brand shows what life looks like once that’s solved.”",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/how-ob-studio-took-reci-from-a-prototype-to-an-identity-and-live-app/Reci-OB-Studio-00.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/how-ob-studio-took-reci-from-a-prototype-to-an-identity-and-live-app/Reci-OB-Studio-00.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "Reci is a private, invite-only app where people save, share and request service recommendations within a trusted circle of friends. When the Reci team reached out to Paris and London-based OB Studio , the app existed as its first web prototype, built to test that idea. “The next step was a mobile app that could be put in front of real users, and a brand that appealed to the people it was built for,” explains OB Studio’s Co-founder Julie Daled. The studio created the identity, then designed the mobile app and spent four weeks developing it. “Running all three phases with one team kept the decisions connected, from the first brand route to the live product,” she adds."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/how-ob-studio-took-reci-from-a-prototype-to-an-identity-and-live-app/Reci-OB-Studio-02.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/how-ob-studio-took-reci-from-a-prototype-to-an-identity-and-live-app/Reci-OB-Studio-05-online-video-cutter.com.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“Reci is a tech product, but the positioning was not tech-first,” OB Studio’s Co-founder & Creative Director David Broner tells us. “Today no one is really interested in a tech brand that positions itself as such. Solving a problem is a given, and the technology that allows it is not the subject.” OB Studio pushed Reci towards a lifestyle brand. “Its core audience is high performers trying to get their lives in order, yet we deliberately avoided the language of performance and optimisation. We also avoided leading with the problem. People already know how hard it is to find a good dentist in a new city, so the brand shows what life looks like once that’s solved.”"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/how-ob-studio-took-reci-from-a-prototype-to-an-identity-and-live-app/Reci-OB-Studio-03.png"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/how-ob-studio-took-reci-from-a-prototype-to-an-identity-and-live-app/Reci-OB-Studio-09.png"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "OB Studio designed the identity around a star, which a generative system turns into endless variations. “We started with the star because it’s a symbol of trust and quality that people read immediately, which matters in an app that has to say what it does at a glance,” Broner notes. “We then reinterpreted it, imagining the star as an object passed from one person to another, not as a ranking symbol or a score out of five. In the context of Reci, we see recommendations as small gifts, with a giver and a receiver. That’s why we didn’t draw just one star.” The generator behind those variations is an internal brand tool, which the Reci team uses to make new stars versions in-house."
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/how-ob-studio-took-reci-from-a-prototype-to-an-identity-and-live-app/Reci-OB-Studio-04-online-video-cutter.com_2026-10-28-105022_wxmu.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/how-ob-studio-took-reci-from-a-prototype-to-an-identity-and-live-app/Reci-OB-Studio-07-online-video-cutter.com.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Each star is built from straight lines that, Broner explains, “represent the private, personal network Reci creates.” The stars are animated, and that movement gives each one a 3D dimension. “Together with a feeling of movement, it reads as something more organic, almost like a small physical object rather than a flat symbol on a screen,” he tells us. “Achieving that organic feeling mattered to us specifically because we didn’t want Reci to feel disconnected from the physical world its recommendations actually live in.”"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/how-ob-studio-took-reci-from-a-prototype-to-an-identity-and-live-app/Reci-OB-Studio-08.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/how-ob-studio-took-reci-from-a-prototype-to-an-identity-and-live-app/Reci-OB-Studio-10.jpg"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“We design an identity around where it will live,” Daled notes. “In an app, the wordmark generally appears in just one spot inside the product, on landing or in the header. It’s used mostly outside the product, in communication and on the marketing website. The icon is different: it’s the first thing people see on their home screen, so it has to be simple and recognisable at a glance. For us it’s the element that holds the identity together, in the product and in communication,” Broner explains."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/how-ob-studio-took-reci-from-a-prototype-to-an-identity-and-live-app/Reci-OB-Studio-11.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/how-ob-studio-took-reci-from-a-prototype-to-an-identity-and-live-app/Reci-OB-Studio-06.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“Reci speaks like a trusted friend, so the colour needed to feel warm and human,” Broner details. “But Reci also speaks about places you recommend; there’s something about interiors and physical spaces, so we came with colours that feel comfortable and cosy, reassuring, a place you want to come back to, and potentially bring friends.” Playful accent colours mark the different recommendation categories, but the design system that combines type and palette is constant throughout the app. To keep the brand tied to the physical world its users live in, the studio built the content art direction around “small moments of joy and friendship: what it looks like to share a recommendation while chatting with your best friend, or showing them something,” he adds."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/how-ob-studio-took-reci-from-a-prototype-to-an-identity-and-live-app/Reci-OB-Studio-15.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/how-ob-studio-took-reci-from-a-prototype-to-an-identity-and-live-app/Reci-OB-Studio-14.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "On the development side, “two things mattered most: speed and the ability to iterate,” Daled tells us. “Yet, speed only helps if there’s a strong foundation. A first version has to change quickly once real behaviour comes in, so we built the app on a deliberately mainstream stack that any senior developer can pick up and extend.” The studio also set up a private admin dashboard that lets the Reci team manage users and service providers, moderate, send announcements and follow growth. “Design decisions were made with the build in mind, which keeps rework in all phases of the project low,” she points out."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“The main area where the brand evolves through designing and building the product is motion,” Broner concludes. “Animation and how the brand elements move and react to interaction is key to how users will perceive the brand. Motion sets an attitude, the same way the way we walk says a lot about who we are.”"
+        }
+      ],
+      "caseStudyText": "Reci is a private, invite-only app where people save, share and request service recommendations within a trusted circle of friends. When the Reci team reached out to Paris and London-based OB Studio , the app existed as its first web prototype, built to test that idea. “The next step was a mobile app that could be put in front of real users, and a brand that appealed to the people it was built for,” explains OB Studio’s Co-founder Julie Daled. The studio created the identity, then designed the mobile app and spent four weeks developing it. “Running all three phases with one team kept the decisions connected, from the first brand route to the live product,” she adds.\n\n“Reci is a tech product, but the positioning was not tech-first,” OB Studio’s Co-founder & Creative Director David Broner tells us. “Today no one is really interested in a tech brand that positions itself as such. Solving a problem is a given, and the technology that allows it is not the subject.” OB Studio pushed Reci towards a lifestyle brand. “Its core audience is high performers trying to get their lives in order, yet we deliberately avoided the language of performance and optimisation. We also avoided leading with the problem. People already know how hard it is to find a good dentist in a new city, so the brand shows what life looks like once that’s solved.”\n\nOB Studio designed the identity around a star, which a generative system turns into endless variations. “We started with the star because it’s a symbol of trust and quality that people read immediately, which matters in an app that has to say what it does at a glance,” Broner notes. “We then reinterpreted it, imagining the star as an object passed from one person to another, not as a ranking symbol or a score out of five. In the context of Reci, we see recommendations as small gifts, with a giver and a receiver. That’s why we didn’t draw just one star.” The generator behind those variations is an internal brand tool, which the Reci team uses to make new stars versions in-house.\n\nEach star is built from straight lines that, Broner explains, “represent the private, personal network Reci creates.” The stars are animated, and that movement gives each one a 3D dimension. “Together with a feeling of movement, it reads as something more organic, almost like a small physical object rather than a flat symbol on a screen,” he tells us. “Achieving that organic feeling mattered to us specifically because we didn’t want Reci to feel disconnected from the physical world its recommendations actually live in.”\n\n“We design an identity around where it will live,” Daled notes. “In an app, the wordmark generally appears in just one spot inside the product, on landing or in the header. It’s used mostly outside the product, in communication and on the marketing website. The icon is different: it’s the first thing people see on their home screen, so it has to be simple and recognisable at a glance. For us it’s the element that holds the identity together, in the product and in communication,” Broner explains.\n\n“Reci speaks like a trusted friend, so the colour needed to feel warm and human,” Broner details. “But Reci also speaks about places you recommend; there’s something about interiors and physical spaces, so we came with colours that feel comfortable and cosy, reassuring, a place you want to come back to, and potentially bring friends.” Playful accent colours mark the different recommendation categories, but the design system that combines type and palette is constant throughout the app. To keep the brand tied to the physical world its users live in, the studio built the content art direction around “small moments of joy and friendship: what it looks like to share a recommendation while chatting with your best friend, or showing them something,” he adds.\n\nOn the development side, “two things mattered most: speed and the ability to iterate,” Daled tells us. “Yet, speed only helps if there’s a strong foundation. A first version has to change quickly once real behaviour comes in, so we built the app on a deliberately mainstream stack that any senior developer can pick up and extend.” The studio also set up a private admin dashboard that lets the Reci team manage users and service providers, moderate, send announcements and follow growth. “Design decisions were made with the build in mind, which keeps rework in all phases of the project low,” she points out.\n\n“The main area where the brand evolves through designing and building the product is motion,” Broner concludes. “Animation and how the brand elements move and react to interaction is key to how users will perceive the brand. Motion sets an attitude, the same way the way we walk says a lot about who we are.”",
+      "caseStudyMedia": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/how-ob-studio-took-reci-from-a-prototype-to-an-identity-and-live-app/Reci-OB-Studio-00.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/how-ob-studio-took-reci-from-a-prototype-to-an-identity-and-live-app/Reci-OB-Studio-02.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/how-ob-studio-took-reci-from-a-prototype-to-an-identity-and-live-app/Reci-OB-Studio-05-online-video-cutter.com.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/how-ob-studio-took-reci-from-a-prototype-to-an-identity-and-live-app/Reci-OB-Studio-03.png"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/how-ob-studio-took-reci-from-a-prototype-to-an-identity-and-live-app/Reci-OB-Studio-09.png"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/how-ob-studio-took-reci-from-a-prototype-to-an-identity-and-live-app/Reci-OB-Studio-04-online-video-cutter.com_2026-10-28-105022_wxmu.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/how-ob-studio-took-reci-from-a-prototype-to-an-identity-and-live-app/Reci-OB-Studio-07-online-video-cutter.com.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/how-ob-studio-took-reci-from-a-prototype-to-an-identity-and-live-app/Reci-OB-Studio-08.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/how-ob-studio-took-reci-from-a-prototype-to-an-identity-and-live-app/Reci-OB-Studio-10.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/how-ob-studio-took-reci-from-a-prototype-to-an-identity-and-live-app/Reci-OB-Studio-11.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/how-ob-studio-took-reci-from-a-prototype-to-an-identity-and-live-app/Reci-OB-Studio-06.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/how-ob-studio-took-reci-from-a-prototype-to-an-identity-and-live-app/Reci-OB-Studio-15.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/how-ob-studio-took-reci-from-a-prototype-to-an-identity-and-live-app/Reci-OB-Studio-14.mp4"
+        }
+      ]
+    },
+    {
+      "canonicalUrl": "https://the-brandidentity.com/project/studio-kiln-designs-an-identity-for-reset-that-adapts-like-its-app",
+      "titleOriginal": "Studio Kiln designs an identity for Reset that adapts like its app",
+      "textOriginal": "Reset is a weight-loss app for people who would rather not count every calorie. A 30-second face scan, read alongside a person’s answers about their habits and where they have struggled to lose weight, places them in one of five Reset types. Ester, Reset’s guide inside the app, then asks questions, learns from the answers and builds a person’s meals around that type – taking the effort out of deciding what and when to eat.\n\nBefore its rebrand, Reset had grown mainly through performance marketing, and its website and app “felt dated and conventional for the category,” CEO Bryan Cartwright tells us. The company asked British design agency Studio Kiln to “turn a functional weight-loss business into a brand people could genuinely connect with” and to give it “the sensibility of a lifestyle brand that understands design, culture and how people live.” Reset’s team had already defined the brand’s beliefs, character and emotional territory, and wanted to give the studio that strategic foundation “without prescribing the solution,” Cartwright adds. Studio Kiln developed Ester as the character at the centre of an identity that is live on Reset’s website and in its iOS and Android apps.",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/videos/15077984.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/studio-kiln-designs-an-identity-for-reset-that-adapts-like-its-app/Reset-Studio-Kiln-01.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "Reset is a weight-loss app for people who would rather not count every calorie. A 30-second face scan, read alongside a person’s answers about their habits and where they have struggled to lose weight, places them in one of five Reset types. Ester, Reset’s guide inside the app, then asks questions, learns from the answers and builds a person’s meals around that type – taking the effort out of deciding what and when to eat."
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/studio-kiln-designs-an-identity-for-reset-that-adapts-like-its-app/Reset-Studio-Kiln-05.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Before its rebrand, Reset had grown mainly through performance marketing, and its website and app “felt dated and conventional for the category,” CEO Bryan Cartwright tells us. The company asked British design agency Studio Kiln to “turn a functional weight-loss business into a brand people could genuinely connect with” and to give it “the sensibility of a lifestyle brand that understands design, culture and how people live.” Reset’s team had already defined the brand’s beliefs, character and emotional territory, and wanted to give the studio that strategic foundation “without prescribing the solution,” Cartwright adds. Studio Kiln developed Ester as the character at the centre of an identity that is live on Reset’s website and in its iOS and Android apps."
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/studio-kiln-designs-an-identity-for-reset-that-adapts-like-its-app/Reset-Studio-Kiln-09.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“The product is defined by its ability to adapt, so the brand had to carry that same quality,” explains Studio Kiln’s Designer Edoardo Albertini. Some people want reassurance and others prefer practical advice, so the studio explored how Ester could respond to each of them. “Reset was about letting the little things go: giving people the freedom to live life as it comes, knowing they can always reset to the beginning,” Designer Archie Paxton notes. That thinking led to an idea that he explains through a Rubik’s Cube, where “things can revolve and twist into a complicated mess, but Reset lets them be pulled back into a simpler structure.” The idea became the starting point for building Ester from blocks that revolve, shift and rearrange, and the blocks let Ester express emotions and states through change. Studio Kiln kept Ester abstract and free from human expressions, leaving room for people to recognise their own feelings in the character."
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/studio-kiln-designs-an-identity-for-reset-that-adapts-like-its-app/Reset-Studio-Kiln-04.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Ester’s blocks come in three shapes that together form an ‘R.’ “On their own, they are simple and flexible; together, they unlock an expressive range far greater than the sum of their parts, giving Ester a vocabulary of poses, moods and gestures to react, celebrate and encourage alongside you,” Albertini details. The blocks cascade and shuffle to show the uncertainty, encouragement and small victories that come with losing weight. “Ester’s motion was built to champion feeling rather than the literal. We used metaphor to allude to phrases and feelings that create a smile-in-the-mind moment and bring out more of Ester’s personality, while keeping the character out of the uncanny valley,” Paxton explains."
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/studio-kiln-designs-an-identity-for-reset-that-adapts-like-its-app/Reset-Studio-Kiln-02.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/studio-kiln-designs-an-identity-for-reset-that-adapts-like-its-app/Reset-Studio-Kiln-03.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The hero typeface is Type Department’s geometric sans Arkive, whose letterforms feel assembled, much like Ester’s blocks. It keeps the app clear, from onboarding flows to daily check-ins, alongside Matter of Sorts’ Quadrant, with its soft shapes and characterful serifs, for headlines, encouragement and small moments worth celebrating. “The pairing mirrors Ester’s role: steady enough to trust, warm enough to feel like company,” Albertini notes. The wordmark is drawn in Arkive too, with its letterforms reworked around a more modular construction, with geometric strokes and squared terminals that follow the shapes of Ester’s blocks. The wordmark is deliberately restrained, leaving Ester as the identity’s central point of expression. “Where Ester revolves and rearranges freely, the wordmark moves with greater control, its individual elements slotting gently into place,” he adds."
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/studio-kiln-designs-an-identity-for-reset-that-adapts-like-its-app/Reset-Studio-Kiln-06.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/studio-kiln-designs-an-identity-for-reset-that-adapts-like-its-app/Reset-Studio-Kiln-07.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“We wanted Ester to feel like a companion woven into the experience, rather than something users have to open in a chat window,” explains Designer Claudia Aggett. Ester appears throughout the app, from the welcome moment to the dashboard, daily guidance and nudges. The character’s appearance and behaviour can shift with a person’s mood, activity and rhythm, but the interface still has to keep the clarity and scientific grounding that a useful product needs. “We didn’t want copywriting to be the only way to show how Ester adapts. We embedded adaptability throughout the Reset identity, starting with Ester’s block-built anatomy and the motion system and body language it makes possible,” she continues."
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/studio-kiln-designs-an-identity-for-reset-that-adapts-like-its-app/Reset-Studio-Kiln-08.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Like Ester, the tone of voice is modular, written in short, snappy lines that are clear and honest. “Weight loss is a noisy space, with many brands shouting or overcomplicating an already overwhelming experience. From the start, we wanted Reset to do the opposite: say less and mean it,” Designer Meg Mardon tells us. “Directness doesn’t mean sounding the same all the time, though. We defined four sides of Ester’s tone: Protective, which helps people feel safe enough to be honest; Explanative, which makes things easier to understand; Intentional, which gives people space to listen to their intuition; and Gossipy, which puts someone’s experience in context so they know they’re not alone,” she concludes."
+        }
+      ],
+      "caseStudyText": "Reset is a weight-loss app for people who would rather not count every calorie. A 30-second face scan, read alongside a person’s answers about their habits and where they have struggled to lose weight, places them in one of five Reset types. Ester, Reset’s guide inside the app, then asks questions, learns from the answers and builds a person’s meals around that type – taking the effort out of deciding what and when to eat.\n\nBefore its rebrand, Reset had grown mainly through performance marketing, and its website and app “felt dated and conventional for the category,” CEO Bryan Cartwright tells us. The company asked British design agency Studio Kiln to “turn a functional weight-loss business into a brand people could genuinely connect with” and to give it “the sensibility of a lifestyle brand that understands design, culture and how people live.” Reset’s team had already defined the brand’s beliefs, character and emotional territory, and wanted to give the studio that strategic foundation “without prescribing the solution,” Cartwright adds. Studio Kiln developed Ester as the character at the centre of an identity that is live on Reset’s website and in its iOS and Android apps.\n\n“The product is defined by its ability to adapt, so the brand had to carry that same quality,” explains Studio Kiln’s Designer Edoardo Albertini. Some people want reassurance and others prefer practical advice, so the studio explored how Ester could respond to each of them. “Reset was about letting the little things go: giving people the freedom to live life as it comes, knowing they can always reset to the beginning,” Designer Archie Paxton notes. That thinking led to an idea that he explains through a Rubik’s Cube, where “things can revolve and twist into a complicated mess, but Reset lets them be pulled back into a simpler structure.” The idea became the starting point for building Ester from blocks that revolve, shift and rearrange, and the blocks let Ester express emotions and states through change. Studio Kiln kept Ester abstract and free from human expressions, leaving room for people to recognise their own feelings in the character.\n\nEster’s blocks come in three shapes that together form an ‘R.’ “On their own, they are simple and flexible; together, they unlock an expressive range far greater than the sum of their parts, giving Ester a vocabulary of poses, moods and gestures to react, celebrate and encourage alongside you,” Albertini details. The blocks cascade and shuffle to show the uncertainty, encouragement and small victories that come with losing weight. “Ester’s motion was built to champion feeling rather than the literal. We used metaphor to allude to phrases and feelings that create a smile-in-the-mind moment and bring out more of Ester’s personality, while keeping the character out of the uncanny valley,” Paxton explains.\n\nThe hero typeface is Type Department’s geometric sans Arkive, whose letterforms feel assembled, much like Ester’s blocks. It keeps the app clear, from onboarding flows to daily check-ins, alongside Matter of Sorts’ Quadrant, with its soft shapes and characterful serifs, for headlines, encouragement and small moments worth celebrating. “The pairing mirrors Ester’s role: steady enough to trust, warm enough to feel like company,” Albertini notes. The wordmark is drawn in Arkive too, with its letterforms reworked around a more modular construction, with geometric strokes and squared terminals that follow the shapes of Ester’s blocks. The wordmark is deliberately restrained, leaving Ester as the identity’s central point of expression. “Where Ester revolves and rearranges freely, the wordmark moves with greater control, its individual elements slotting gently into place,” he adds.\n\n“We wanted Ester to feel like a companion woven into the experience, rather than something users have to open in a chat window,” explains Designer Claudia Aggett. Ester appears throughout the app, from the welcome moment to the dashboard, daily guidance and nudges. The character’s appearance and behaviour can shift with a person’s mood, activity and rhythm, but the interface still has to keep the clarity and scientific grounding that a useful product needs. “We didn’t want copywriting to be the only way to show how Ester adapts. We embedded adaptability throughout the Reset identity, starting with Ester’s block-built anatomy and the motion system and body language it makes possible,” she continues.\n\nLike Ester, the tone of voice is modular, written in short, snappy lines that are clear and honest. “Weight loss is a noisy space, with many brands shouting or overcomplicating an already overwhelming experience. From the start, we wanted Reset to do the opposite: say less and mean it,” Designer Meg Mardon tells us. “Directness doesn’t mean sounding the same all the time, though. We defined four sides of Ester’s tone: Protective, which helps people feel safe enough to be honest; Explanative, which makes things easier to understand; Intentional, which gives people space to listen to their intuition; and Gossipy, which puts someone’s experience in context so they know they’re not alone,” she concludes.",
+      "caseStudyMedia": [
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/studio-kiln-designs-an-identity-for-reset-that-adapts-like-its-app/Reset-Studio-Kiln-01.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/studio-kiln-designs-an-identity-for-reset-that-adapts-like-its-app/Reset-Studio-Kiln-05.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/studio-kiln-designs-an-identity-for-reset-that-adapts-like-its-app/Reset-Studio-Kiln-09.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/studio-kiln-designs-an-identity-for-reset-that-adapts-like-its-app/Reset-Studio-Kiln-04.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/studio-kiln-designs-an-identity-for-reset-that-adapts-like-its-app/Reset-Studio-Kiln-02.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/studio-kiln-designs-an-identity-for-reset-that-adapts-like-its-app/Reset-Studio-Kiln-03.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/studio-kiln-designs-an-identity-for-reset-that-adapts-like-its-app/Reset-Studio-Kiln-06.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/studio-kiln-designs-an-identity-for-reset-that-adapts-like-its-app/Reset-Studio-Kiln-07.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://the-brandidentity.com/uploads/articles/2026/11/studio-kiln-designs-an-identity-for-reset-that-adapts-like-its-app/Reset-Studio-Kiln-08.mp4"
+        }
+      ]
+    },
+    {
       "canonicalUrl": "https://the-brandidentity.com/project/kontrapunkts-packaging-and-copus-site-take-juno-the-bakery-worldwide",
       "titleOriginal": "COPUS and Kontrapunkt design JUNO the bakery’s cookie brand and site",
       "textOriginal": "The bakery’s identity started with its white paper bag, “chosen for its instant recognisability in a competitive landscape defined by brown kraft paper,” details Kontrapunkt’s Creative Director Laurits Hanak. “We elevated the white paper to become the canvas of not only the bag, but of the entire brand.” Across every application, Kontrapunkt aims for “as minimal a brand presence as possible, always keeping all brand elements at an absolute minimum.”\n\nThe bakery’s mascot is “inspired by the peacock that accompanies the ancient Roman goddess Juno,” Hanak notes. Its pose is understated, reflecting “meticulous craft but never flashy.” The peacock “is not perfectly geometric in its construction, but has some small quirks here and there to reflect the hands-on approach of JUNO the bakery,” he continues, describing it as “a splash of blue against white packaging and the buttery browns of the pastries.” The brand typeface is Plantin MT Std, chosen for “its beautifully crafted curves and serifs.”",
@@ -2992,126 +3279,6 @@ const snapshot={
         {
           "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/estudio-cari%C3%B1o-invents-house-of-callaghan-an-irish-stout-brand/HOUSE-of-CALLAGHAN-Carin%CC%83o-06.jpg"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance",
-      "titleOriginal": "For fatty15’s AFEX packaging, Design Dept® looked to fine fragrance",
-      "textOriginal": "fatty15 is a supplement brand from Seraphina Therapeutics, built on the fatty acid C15:0 and positioned on healthy ageing at the cellular level. Healthcare providers had been asking the company for a supplement that they could give their patients, so it developed AFEX, or Advanced Formula Extra Strength – a provider-specific version at a higher dose. Los Angeles-based studio Design Dept® had designed the original fatty15 packaging. For AFEX, the studio was commissioned again, and the brief was an initial kit with a refillable bottle and a refill design.\n\nAFEX was made for healthcare professionals and high-end wellness environments, so the packaging had to be credible to a clinician. “We looked to fine fragrance because the best fragrance houses use packaging to express the product before you ever experience what’s inside. They obsess over materiality, colour, proportion, weight and the ritual of opening the package,” Founder & Creative Director Ali Martín Carrillo Filsoof tells us. “fatty15 is fundamentally about strengthening and supporting our cells, so the cellular reference felt like a natural place to begin.”",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-01.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-01.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "fatty15 is a supplement brand from Seraphina Therapeutics, built on the fatty acid C15:0 and positioned on healthy ageing at the cellular level. Healthcare providers had been asking the company for a supplement that they could give their patients, so it developed AFEX, or Advanced Formula Extra Strength – a provider-specific version at a higher dose. Los Angeles-based studio Design Dept® had designed the original fatty15 packaging. For AFEX, the studio was commissioned again, and the brief was an initial kit with a refillable bottle and a refill design."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-05.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-04.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "AFEX was made for healthcare professionals and high-end wellness environments, so the packaging had to be credible to a clinician. “We looked to fine fragrance because the best fragrance houses use packaging to express the product before you ever experience what’s inside. They obsess over materiality, colour, proportion, weight and the ritual of opening the package,” Founder & Creative Director Ali Martín Carrillo Filsoof tells us. “fatty15 is fundamentally about strengthening and supporting our cells, so the cellular reference felt like a natural place to begin.”"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“The bottle isn’t something you buy, empty and throw away every month. It’s an object you keep and refill with fresh Pure C15:0 capsules,” Filsoof continues. “The challenge was bringing the beauty, permanence and ritual of fine fragrance into the experience without sacrificing scientific credibility.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-07.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-06.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The bottle is recyclable glass, its label textured and reduced to the essentials, its cap reusable. “We started by looking at the cap at roughly 50% of the height of the superflint glass vessel, then pushed that proportion until it was almost equal to the height of the glass itself,” Filsoof details. “The cap stopped feeling like a closure and became something novel and ownable to fatty15.” A cap that size gives a generous grip, so the bottle is easier to open. The cap’s rounded shape subtly references the structure of a human cell. “We wanted the science to inform the form without illustrating it,” he adds. The cap is natural walnut. “It gives each bottle individuality and warmth, creating an intentional contrast with the precision of the superflint glass and the clinical science behind fatty15.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-02-new.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-03.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The kit’s box is telescoping and rigid, finished in a deep moss green. The lid lifts away and the front panel folds forward, revealing the bottle on a raised platform. “We live in a world where we’re constantly overstimulated by our digital devices,” Filsoof tells us, “so we wanted to create an unboxing ritual that deliberately slows you down and introduces a sense of ceremony to the experience.” Underneath, a drawer holds refill pouches, educational materials and a short poem. Filsoof wrote the poem, which is about cells, light, health and a brighter path forward. “It’s a reminder that behind all of the research, data and science is something very human: helping people live healthier, longer lives,” notes Seraphina Therapeutics’ Co-CEO & Co-founder Eric Venn-Watson."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-08.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-09.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Across the AFEX system, a graphic language of cellular shapes and patterns is derived from the cap’s silhouette. The cover of the educational booklet is die-cut in the same outline. Milieu Grotesque’s sans serif Maison Neue is the foundation of the system. “Its clarity and neutrality give the information structure and credibility, which was especially important with such restrained labelling,” Filsoof details. Meanwhile, Maison Neue Mono appears across the educational collateral. “With so few elements on the packaging, every typographic decision becomes more visible. Rather than adding more graphics to communicate science, we let the typography do much of that work,” he concludes."
-        }
-      ],
-      "caseStudyText": "fatty15 is a supplement brand from Seraphina Therapeutics, built on the fatty acid C15:0 and positioned on healthy ageing at the cellular level. Healthcare providers had been asking the company for a supplement that they could give their patients, so it developed AFEX, or Advanced Formula Extra Strength – a provider-specific version at a higher dose. Los Angeles-based studio Design Dept® had designed the original fatty15 packaging. For AFEX, the studio was commissioned again, and the brief was an initial kit with a refillable bottle and a refill design.\n\nAFEX was made for healthcare professionals and high-end wellness environments, so the packaging had to be credible to a clinician. “We looked to fine fragrance because the best fragrance houses use packaging to express the product before you ever experience what’s inside. They obsess over materiality, colour, proportion, weight and the ritual of opening the package,” Founder & Creative Director Ali Martín Carrillo Filsoof tells us. “fatty15 is fundamentally about strengthening and supporting our cells, so the cellular reference felt like a natural place to begin.”\n\n“The bottle isn’t something you buy, empty and throw away every month. It’s an object you keep and refill with fresh Pure C15:0 capsules,” Filsoof continues. “The challenge was bringing the beauty, permanence and ritual of fine fragrance into the experience without sacrificing scientific credibility.”\n\nThe bottle is recyclable glass, its label textured and reduced to the essentials, its cap reusable. “We started by looking at the cap at roughly 50% of the height of the superflint glass vessel, then pushed that proportion until it was almost equal to the height of the glass itself,” Filsoof details. “The cap stopped feeling like a closure and became something novel and ownable to fatty15.” A cap that size gives a generous grip, so the bottle is easier to open. The cap’s rounded shape subtly references the structure of a human cell. “We wanted the science to inform the form without illustrating it,” he adds. The cap is natural walnut. “It gives each bottle individuality and warmth, creating an intentional contrast with the precision of the superflint glass and the clinical science behind fatty15.”\n\nThe kit’s box is telescoping and rigid, finished in a deep moss green. The lid lifts away and the front panel folds forward, revealing the bottle on a raised platform. “We live in a world where we’re constantly overstimulated by our digital devices,” Filsoof tells us, “so we wanted to create an unboxing ritual that deliberately slows you down and introduces a sense of ceremony to the experience.” Underneath, a drawer holds refill pouches, educational materials and a short poem. Filsoof wrote the poem, which is about cells, light, health and a brighter path forward. “It’s a reminder that behind all of the research, data and science is something very human: helping people live healthier, longer lives,” notes Seraphina Therapeutics’ Co-CEO & Co-founder Eric Venn-Watson.\n\nAcross the AFEX system, a graphic language of cellular shapes and patterns is derived from the cap’s silhouette. The cover of the educational booklet is die-cut in the same outline. Milieu Grotesque’s sans serif Maison Neue is the foundation of the system. “Its clarity and neutrality give the information structure and credibility, which was especially important with such restrained labelling,” Filsoof details. Meanwhile, Maison Neue Mono appears across the educational collateral. “With so few elements on the packaging, every typographic decision becomes more visible. Rather than adding more graphics to communicate science, we let the typography do much of that work,” he concludes.",
-      "caseStudyMedia": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-01.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-05.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-04.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-07.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-06.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-02-new.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-03.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-08.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/for-fatty15s-afex-packaging-design-dept-looked-to-fine-fragrance/Fatty15-AFEX-Design-Dept-09.jpg"
         }
       ]
     }
