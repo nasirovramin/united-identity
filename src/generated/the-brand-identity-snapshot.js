@@ -7,6 +7,139 @@ const snapshot={
   },
   "items": [
     {
+      "canonicalUrl": "https://the-brandidentity.com/project/childrens-curiosity-leads-kind-studios-hatching-dragons-rebrand",
+      "titleOriginal": "Children’s curiosity leads Kind Studio’s Hatching Dragons rebrand",
+      "textOriginal": "Hatching Dragons is a group of multilingual nurseries in London whose brand had fallen behind what the business had become. “When we started, Hatching Dragons was known as a bilingual Mandarin nursery,” explains Head of Brand & Marketing Marisa Forstyk. “That was true, but it was no longer the whole story. Our curriculum had evolved, and we’d come to see ourselves as early-years development specialists.”\n\nLondon-based branding studio Kind Studio was commissioned to create the strategy, identity and website. “We asked them for an identity that said what we actually are: multicultural by design, rigorous and still joyful,” Forstyk tells us. “We’re preparing to grow. Opening a new nursery under the old identity would have meant explaining ourselves twice, ” Managing Director Andy Gowland adds. A new nursery in Shoreditch is the first Hatching Dragons site to be built around the rebrand from the start.",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/_video-thumbnails/15147130.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/childrens-curiosity-leads-kind-studios-hatching-dragons-rebrand/Hatching-Dragons-Kind-Studio-01.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "Hatching Dragons is a group of multilingual nurseries in London whose brand had fallen behind what the business had become. “When we started, Hatching Dragons was known as a bilingual Mandarin nursery,” explains Head of Brand & Marketing Marisa Forstyk. “That was true, but it was no longer the whole story. Our curriculum had evolved, and we’d come to see ourselves as early-years development specialists.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/childrens-curiosity-leads-kind-studios-hatching-dragons-rebrand/_2000xAUTO_crop_center-center_85_none/Hatching-Dragons-Kind-Studio-02.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/childrens-curiosity-leads-kind-studios-hatching-dragons-rebrand/_2000xAUTO_crop_center-center_85_none/15147516/Hatching-Dragons-Kind-Studio-03.webp.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "London-based branding studio Kind Studio was commissioned to create the strategy, identity and website. “We asked them for an identity that said what we actually are: multicultural by design, rigorous and still joyful,” Forstyk tells us. “We’re preparing to grow. Opening a new nursery under the old identity would have meant explaining ourselves twice, ” Managing Director Andy Gowland adds. A new nursery in Shoreditch is the first Hatching Dragons site to be built around the rebrand from the start."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/childrens-curiosity-leads-kind-studios-hatching-dragons-rebrand/Hatching-Dragons-Kind-Studio-04.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The strategy starts from Hatching Dragons’ belief that the most formative events in a child’s life are the small, daily moments of curiosity, cross-cultural connection and discovery. “Many nursery brands feel sanitised,” Kind Studio’s Creative Director Sean Vellacott-Murphy tells us. “You’re trying to communicate safety and care, so you walk the middle line and don’t really say anything at all.” “Our job was to design an identity that’s engaging for both children and their parents – full of moments that make you smile,” he adds."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/childrens-curiosity-leads-kind-studios-hatching-dragons-rebrand/Hatching-Dragons-Kind-Studio-08-_smaller.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/childrens-curiosity-leads-kind-studios-hatching-dragons-rebrand/Hatching-Dragons-Kind-Studio-09-_smaller.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The identity’s mascot starts with the name. “Hatching Dragons was always the name for the business,” Vellacott-Murphy explains. “We decided that it perfectly encapsulates the kind of character the team wants to build in the next generation.” From there, the studio designed Lumi, a young dragon that guides the children through their early-years education and grows alongside them. “A familiar, friendly figure who becomes a lasting benchmark of how far they’ve come,” he continues. Each age group has its own crest patch, which children receive when they graduate to the next room. The patches show Lumi growing from an egg into a flying dragon. “The children took to a new mascot straight away, which tells you it’s exciting in the way it needs to be,” Forstyk observes. With Hatching Dragons building towards a globally scalable brand, Lumi is “a character who feels universal,” Vellacott-Murphy adds."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/childrens-curiosity-leads-kind-studios-hatching-dragons-rebrand/_2000xAUTO_crop_center-center_85_none/Hatching-Dragons-Kind-Studio-11.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/childrens-curiosity-leads-kind-studios-hatching-dragons-rebrand/_2000xAUTO_crop_center-center_85_none/Hatching-Dragons-Kind-Studio-12.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Alongside Lumi, the studio created fossils, abstract forms that represent dragon anatomy and archaeological discovery and appear across every touchpoint. “We started, as we do on all good projects, by closing the laptop. We began by drawing and collaging shapes by hand, giving them a quality that felt made rather than generated. We looked at classic fairy tales and stories for inspiration,” Vellacott-Murphy details. “The scanned forms had a nice patina, but we wanted to make them feel unearthed: found textures from old books, risograph offcuts and paper stocks were layered to give them their natural and organic texture.” The group’s plans to grow shaped the fossils too, giving the brand “a visual language rooted in abstract forms rather than culturally specific references.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/childrens-curiosity-leads-kind-studios-hatching-dragons-rebrand/_2000xAUTO_crop_center-center_85_none/Hatching-Dragons-Kind-Studio-06.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The brand typeface is Luzi Type’s geometric sans serif Buenos Aires. “We chose it for its playful quirks without sacrificing legibility, which matters enormously when you’re speaking to such a wide audience,” Vellacott-Murphy tells us. Body copy is in DM Sans, an open-source typeface that is available across many platforms. “For a business that’s building towards multiple locations and multiple languages, it’s essential to be flexible and consistent in your type,” Vellacott-Murphy adds. The palette is built on unexpected but complementary colour pairings, and it can be dialled up or scaled back depending on the application."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/childrens-curiosity-leads-kind-studios-hatching-dragons-rebrand/Hatching-Dragons-Kind-Studio-05.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“The website is often the first conversation a parent has with a provider,” Vellacott-Murphy explains. “They’re making an extremely personal and emotional decision.” Kind Studio structured the site around that first conversation, with every content decision guided by a tone-of-voice framework that it developed with Hatching Dragons. “We wanted to create a calm and warm experience where parents feel as though they’re making an informed and safe decision about their child’s future. The same texture and warmth from the identity is carried through the whole user experience,” he continues. “Parents told us it finally looks like the place they chose,” Managing Director Andy Gowland notes of the rebrand."
+        }
+      ],
+      "caseStudyText": "Hatching Dragons is a group of multilingual nurseries in London whose brand had fallen behind what the business had become. “When we started, Hatching Dragons was known as a bilingual Mandarin nursery,” explains Head of Brand & Marketing Marisa Forstyk. “That was true, but it was no longer the whole story. Our curriculum had evolved, and we’d come to see ourselves as early-years development specialists.”\n\nLondon-based branding studio Kind Studio was commissioned to create the strategy, identity and website. “We asked them for an identity that said what we actually are: multicultural by design, rigorous and still joyful,” Forstyk tells us. “We’re preparing to grow. Opening a new nursery under the old identity would have meant explaining ourselves twice, ” Managing Director Andy Gowland adds. A new nursery in Shoreditch is the first Hatching Dragons site to be built around the rebrand from the start.\n\nThe strategy starts from Hatching Dragons’ belief that the most formative events in a child’s life are the small, daily moments of curiosity, cross-cultural connection and discovery. “Many nursery brands feel sanitised,” Kind Studio’s Creative Director Sean Vellacott-Murphy tells us. “You’re trying to communicate safety and care, so you walk the middle line and don’t really say anything at all.” “Our job was to design an identity that’s engaging for both children and their parents – full of moments that make you smile,” he adds.\n\nThe identity’s mascot starts with the name. “Hatching Dragons was always the name for the business,” Vellacott-Murphy explains. “We decided that it perfectly encapsulates the kind of character the team wants to build in the next generation.” From there, the studio designed Lumi, a young dragon that guides the children through their early-years education and grows alongside them. “A familiar, friendly figure who becomes a lasting benchmark of how far they’ve come,” he continues. Each age group has its own crest patch, which children receive when they graduate to the next room. The patches show Lumi growing from an egg into a flying dragon. “The children took to a new mascot straight away, which tells you it’s exciting in the way it needs to be,” Forstyk observes. With Hatching Dragons building towards a globally scalable brand, Lumi is “a character who feels universal,” Vellacott-Murphy adds.\n\nAlongside Lumi, the studio created fossils, abstract forms that represent dragon anatomy and archaeological discovery and appear across every touchpoint. “We started, as we do on all good projects, by closing the laptop. We began by drawing and collaging shapes by hand, giving them a quality that felt made rather than generated. We looked at classic fairy tales and stories for inspiration,” Vellacott-Murphy details. “The scanned forms had a nice patina, but we wanted to make them feel unearthed: found textures from old books, risograph offcuts and paper stocks were layered to give them their natural and organic texture.” The group’s plans to grow shaped the fossils too, giving the brand “a visual language rooted in abstract forms rather than culturally specific references.”\n\nThe brand typeface is Luzi Type’s geometric sans serif Buenos Aires. “We chose it for its playful quirks without sacrificing legibility, which matters enormously when you’re speaking to such a wide audience,” Vellacott-Murphy tells us. Body copy is in DM Sans, an open-source typeface that is available across many platforms. “For a business that’s building towards multiple locations and multiple languages, it’s essential to be flexible and consistent in your type,” Vellacott-Murphy adds. The palette is built on unexpected but complementary colour pairings, and it can be dialled up or scaled back depending on the application.\n\n“The website is often the first conversation a parent has with a provider,” Vellacott-Murphy explains. “They’re making an extremely personal and emotional decision.” Kind Studio structured the site around that first conversation, with every content decision guided by a tone-of-voice framework that it developed with Hatching Dragons. “We wanted to create a calm and warm experience where parents feel as though they’re making an informed and safe decision about their child’s future. The same texture and warmth from the identity is carried through the whole user experience,” he continues. “Parents told us it finally looks like the place they chose,” Managing Director Andy Gowland notes of the rebrand.",
+      "caseStudyMedia": [
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/childrens-curiosity-leads-kind-studios-hatching-dragons-rebrand/Hatching-Dragons-Kind-Studio-01.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/childrens-curiosity-leads-kind-studios-hatching-dragons-rebrand/_2000xAUTO_crop_center-center_85_none/Hatching-Dragons-Kind-Studio-02.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/childrens-curiosity-leads-kind-studios-hatching-dragons-rebrand/_2000xAUTO_crop_center-center_85_none/15147516/Hatching-Dragons-Kind-Studio-03.webp.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/childrens-curiosity-leads-kind-studios-hatching-dragons-rebrand/Hatching-Dragons-Kind-Studio-04.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/childrens-curiosity-leads-kind-studios-hatching-dragons-rebrand/Hatching-Dragons-Kind-Studio-08-_smaller.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/childrens-curiosity-leads-kind-studios-hatching-dragons-rebrand/Hatching-Dragons-Kind-Studio-09-_smaller.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/childrens-curiosity-leads-kind-studios-hatching-dragons-rebrand/_2000xAUTO_crop_center-center_85_none/Hatching-Dragons-Kind-Studio-11.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/childrens-curiosity-leads-kind-studios-hatching-dragons-rebrand/_2000xAUTO_crop_center-center_85_none/Hatching-Dragons-Kind-Studio-12.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/childrens-curiosity-leads-kind-studios-hatching-dragons-rebrand/_2000xAUTO_crop_center-center_85_none/Hatching-Dragons-Kind-Studio-06.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/childrens-curiosity-leads-kind-studios-hatching-dragons-rebrand/Hatching-Dragons-Kind-Studio-05.mp4"
+        }
+      ]
+    },
+    {
       "canonicalUrl": "https://the-brandidentity.com/project/how-ob-studio-took-reci-from-a-prototype-to-an-identity-and-live-app",
       "titleOriginal": "How OB Studio took Reci from a prototype to an identity and live app",
       "textOriginal": "Reci is a private, invite-only app where people save, share and request service recommendations within a trusted circle of friends. When the Reci team reached out to Paris and London-based OB Studio , the app existed as its first web prototype, built to test that idea. “The next step was a mobile app that could be put in front of real users, and a brand that appealed to the people it was built for,” explains OB Studio’s Co-founder Julie Daled. The studio created the identity, then designed the mobile app and spent four weeks developing it. “Running all three phases with one team kept the decisions connected, from the first brand route to the live product,” she adds.\n\n“Reci is a tech product, but the positioning was not tech-first,” OB Studio’s Co-founder & Creative Director David Broner tells us. “Today no one is really interested in a tech brand that positions itself as such. Solving a problem is a given, and the technology that allows it is not the subject.” OB Studio pushed Reci towards a lifestyle brand. “Its core audience is high performers trying to get their lives in order, yet we deliberately avoided the language of performance and optimisation. We also avoided leading with the problem. People already know how hard it is to find a good dentist in a new city, so the brand shows what life looks like once that’s solved.”",
@@ -3037,248 +3170,6 @@ const snapshot={
         {
           "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-08.jpg"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb",
-      "titleOriginal": "Holographik designs the identity for Bottone’s furniture show in Zagreb",
-      "textOriginal": "Every object that Bottone releases arrives with its own original music, and for Objects & Frequencies, the Berlin-based furniture brand’s first exhibition in Croatia, Zagreb-based design studio Holographik was asked to make those tracks visible. The tracks come from the two brothers who founded the brand, who have been making music together since the 90s. “The object always comes first. Once its form, material and character are defined, we try to understand what that object might become in sound,” Founders Michele and Daniele Luciano Ferrazzano tell us. “We don’t approach the track as a soundtrack or an explanation of the design. It is more like translating the same intuition into another medium. Sometimes the connection comes through rhythm, sometimes through atmosphere, repetition or texture.”\n\nThe three-day exhibition ran on 16–18 September 2026 at Holographik Space – the studio’s own venue in Zagreb. Bottone brought selected works, new colours and two pieces that had not been released anywhere – the Hold A140 TV Stand and the Hold C22 Coat Rack. Wednesday opened with a Design Talk with soba.hr , a Zagreb-based furniture and homeware retailer, and Friday closed the run with a live DJ set. The TV stand played a heritage video that was filmed in the 90s in Apulia, where the brothers’ family comes from. Holographik created the identity, motion and art direction.",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/13675770.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-01.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "Every object that Bottone releases arrives with its own original music, and for Objects & Frequencies, the Berlin-based furniture brand’s first exhibition in Croatia, Zagreb-based design studio Holographik was asked to make those tracks visible. The tracks come from the two brothers who founded the brand, who have been making music together since the 90s. “The object always comes first. Once its form, material and character are defined, we try to understand what that object might become in sound,” Founders Michele and Daniele Luciano Ferrazzano tell us. “We don’t approach the track as a soundtrack or an explanation of the design. It is more like translating the same intuition into another medium. Sometimes the connection comes through rhythm, sometimes through atmosphere, repetition or texture.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-02.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The three-day exhibition ran on 16–18 September 2026 at Holographik Space – the studio’s own venue in Zagreb. Bottone brought selected works, new colours and two pieces that had not been released anywhere – the Hold A140 TV Stand and the Hold C22 Coat Rack. Wednesday opened with a Design Talk with soba.hr , a Zagreb-based furniture and homeware retailer, and Friday closed the run with a live DJ set. The TV stand played a heritage video that was filmed in the 90s in Apulia, where the brothers’ family comes from. Holographik created the identity, motion and art direction."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-08.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-09.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“The objects, their individual tracks and the idea of bringing these different layers together into one experience came from Bottone. What we didn”t want to do was hand Holographik a fixed visual brief and ask them to simply translate it into graphics,” the Ferrazzanos explain. “We wanted them to interpret the concept through their own visual language. There was a lot of trust from the beginning and a shared understanding that the identity should become another layer of the experience, rather than just communicate it.” The identity has two layers. One is typographic, short lines of copy in a strict grid that state the information. The other is driven by sound, and in it each object’s silhouette breaks into the waveform of its track and rebuilds."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-03.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-04.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Bottone sits between the Bauhaus and Italian postmodernism – clarity and construction from one, colour, boldness and humour from the other. “We split the job between structure and energy. The structure came from the Bauhaus side: one typeface, a strict grid, all caps and information stated plainly. Nothing in the layout is decorative, and every element has a reason to be there,” details Holographik’s Founder Hrvoje Grubišić. “The energy came from the other side: Bottone’s red and the motion layer. That is the playful, expressive part, and it only works because the structure around it stays calm. Neither side leads on its own. The typography keeps the motion from becoming decoration, and the motion keeps the typography from feeling cold. That tension is also how Bottone describes its own objects, precise in construction and expressive in character, so the identity reads as them rather than as a reference to either movement.”"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The palette is Bottone red, set against the aluminium, steel, wood and textile that the objects are made from. “Objects & Frequencies was a collaboration, a design exhibition and audiovisual experience built with Bottone, so we wanted the brand to be recognisable the moment you saw anything from it,” Grubišić notes. “Colour was the most direct way to do that, so the red stays Bottone’s.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-07.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The identity uses one typeface, STK Bureau Sans. “We were looking for something contemporary and functional that still had character, and Bureau Sans has a clear stance of its own. That gave us the balance we needed between identity and function,” Grubišić explains. “On small screens, it stays very legible. The open forms help a lot; the ‘C,’ ‘O’ and ‘S’ keep their openness even at small sizes. At large scale, especially in all caps, what struck us was how even and solid the weights feel from letter to letter,” Grubišić continues. “Because we also used it in motion, projected across the room, that evenness gave it an almost sculptural quality. At that scale, the capitals start to behave like physical objects in the space, which tied the type directly to the idea of the exhibition.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-05.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-06.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“The motion system we created connects the tracks – consisting of remixed sound and noise created by interacting with the objects, their materiality and form – with the graphic silhouettes of the objects,” Grubišić details. “Bottone produced these ‘soundtracks’ in such a way that the sounds at times disintegrate into abstract rhythms and beats, and at other times are clearer and more representational of the interactions and materials of the objects themselves. In the same way, the black silhouettes are at certain points in the track more solid, clearly recognisable forms and at others, distorted and deconstructed almost into particles. We rigged the waveforms of the tracks to the distortion system, so the animations are fully responsive to the beat of the tracks, the intensity and frequency.” The Zooom Rug’s silhouette breaks apart on its own track. “You can lie on the rug while listening to its track, so the object and sound are experienced simultaneously,” the Ferrazzanos tell us. “The music adds another, immersive dimension to something that would otherwise be purely physical.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-12.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-11.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Motion graphics announced the show across social media, online and digital billboards, with the shapes of the objects zoomed in and intentionally obscured. Posters and graphics on the studio’s display windows invited people in from the street. The identity was printed on t-shirts that guests could take home. “For the DJ set, the visuals had to inhabit a bigger space,” Grubišić concludes. “We used the established motion system as the base, and played around with it, similar to the way you would remix a music track – playing with rhythm, repetition, time, scale, cutting them up and putting them together again.”"
-        }
-      ],
-      "caseStudyText": "Every object that Bottone releases arrives with its own original music, and for Objects & Frequencies, the Berlin-based furniture brand’s first exhibition in Croatia, Zagreb-based design studio Holographik was asked to make those tracks visible. The tracks come from the two brothers who founded the brand, who have been making music together since the 90s. “The object always comes first. Once its form, material and character are defined, we try to understand what that object might become in sound,” Founders Michele and Daniele Luciano Ferrazzano tell us. “We don’t approach the track as a soundtrack or an explanation of the design. It is more like translating the same intuition into another medium. Sometimes the connection comes through rhythm, sometimes through atmosphere, repetition or texture.”\n\nThe three-day exhibition ran on 16–18 September 2026 at Holographik Space – the studio’s own venue in Zagreb. Bottone brought selected works, new colours and two pieces that had not been released anywhere – the Hold A140 TV Stand and the Hold C22 Coat Rack. Wednesday opened with a Design Talk with soba.hr , a Zagreb-based furniture and homeware retailer, and Friday closed the run with a live DJ set. The TV stand played a heritage video that was filmed in the 90s in Apulia, where the brothers’ family comes from. Holographik created the identity, motion and art direction.\n\n“The objects, their individual tracks and the idea of bringing these different layers together into one experience came from Bottone. What we didn”t want to do was hand Holographik a fixed visual brief and ask them to simply translate it into graphics,” the Ferrazzanos explain. “We wanted them to interpret the concept through their own visual language. There was a lot of trust from the beginning and a shared understanding that the identity should become another layer of the experience, rather than just communicate it.” The identity has two layers. One is typographic, short lines of copy in a strict grid that state the information. The other is driven by sound, and in it each object’s silhouette breaks into the waveform of its track and rebuilds.\n\nBottone sits between the Bauhaus and Italian postmodernism – clarity and construction from one, colour, boldness and humour from the other. “We split the job between structure and energy. The structure came from the Bauhaus side: one typeface, a strict grid, all caps and information stated plainly. Nothing in the layout is decorative, and every element has a reason to be there,” details Holographik’s Founder Hrvoje Grubišić. “The energy came from the other side: Bottone’s red and the motion layer. That is the playful, expressive part, and it only works because the structure around it stays calm. Neither side leads on its own. The typography keeps the motion from becoming decoration, and the motion keeps the typography from feeling cold. That tension is also how Bottone describes its own objects, precise in construction and expressive in character, so the identity reads as them rather than as a reference to either movement.”\n\nThe palette is Bottone red, set against the aluminium, steel, wood and textile that the objects are made from. “Objects & Frequencies was a collaboration, a design exhibition and audiovisual experience built with Bottone, so we wanted the brand to be recognisable the moment you saw anything from it,” Grubišić notes. “Colour was the most direct way to do that, so the red stays Bottone’s.”\n\nThe identity uses one typeface, STK Bureau Sans. “We were looking for something contemporary and functional that still had character, and Bureau Sans has a clear stance of its own. That gave us the balance we needed between identity and function,” Grubišić explains. “On small screens, it stays very legible. The open forms help a lot; the ‘C,’ ‘O’ and ‘S’ keep their openness even at small sizes. At large scale, especially in all caps, what struck us was how even and solid the weights feel from letter to letter,” Grubišić continues. “Because we also used it in motion, projected across the room, that evenness gave it an almost sculptural quality. At that scale, the capitals start to behave like physical objects in the space, which tied the type directly to the idea of the exhibition.”\n\n“The motion system we created connects the tracks – consisting of remixed sound and noise created by interacting with the objects, their materiality and form – with the graphic silhouettes of the objects,” Grubišić details. “Bottone produced these ‘soundtracks’ in such a way that the sounds at times disintegrate into abstract rhythms and beats, and at other times are clearer and more representational of the interactions and materials of the objects themselves. In the same way, the black silhouettes are at certain points in the track more solid, clearly recognisable forms and at others, distorted and deconstructed almost into particles. We rigged the waveforms of the tracks to the distortion system, so the animations are fully responsive to the beat of the tracks, the intensity and frequency.” The Zooom Rug’s silhouette breaks apart on its own track. “You can lie on the rug while listening to its track, so the object and sound are experienced simultaneously,” the Ferrazzanos tell us. “The music adds another, immersive dimension to something that would otherwise be purely physical.”\n\nMotion graphics announced the show across social media, online and digital billboards, with the shapes of the objects zoomed in and intentionally obscured. Posters and graphics on the studio’s display windows invited people in from the street. The identity was printed on t-shirts that guests could take home. “For the DJ set, the visuals had to inhabit a bigger space,” Grubišić concludes. “We used the established motion system as the base, and played around with it, similar to the way you would remix a music track – playing with rhythm, repetition, time, scale, cutting them up and putting them together again.”",
-      "caseStudyMedia": [
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-01.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-02.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-08.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-09.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-03.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-04.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-07.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-05.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-06.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-12.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/holographik-designs-the-identity-for-bottones-furniture-show-in-zagreb/Objects-Frequencies-Holographik-11.mp4"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/estudio-cari%C3%B1o-invents-house-of-callaghan-an-irish-stout-brand",
-      "titleOriginal": "Estudio Cariño invents HOUSE of CALLAGHAN, an Irish stout brand",
-      "textOriginal": "Estudio Cariño designed HOUSE of CALLAGHAN, a brand of Irish stout from Cork, for nobody. “This project originated from a rejected proposal for a beer-related client, but we liked it too much to leave it there, so we kept working on it,” Co-founders José Pablo Salazar and Iván Soto Camba tell us. “Once there was no client involved, there was also no brief to follow and nobody asking us to tone anything down.” Between them, the Mexican design duo came up with the name, story, identity and label design.\n\nCork is home to two long-established stouts, Murphy's and Beamish. HOUSE of CALLAGHAN was designed to look like it had always been the third. “We borrowed a little from the language of Game of Thrones and used ‘House’ in the name because it suggested family history and, indirectly, something made on a smaller, more traditional scale,” Salazar and Soto Camba explain. “Callaghan is a common surname in the region, so it also helped ground the brand in Cork. We wanted the name to sound like it could have been there for a long while.” The label sets out an invented Callaghan family history, signed by a brewer who does not exist either. “We wanted it to look less like a new identity and more like a brand we had somehow found,” the duo adds.",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/estudio-cari%C3%B1o-invents-house-of-callaghan-an-irish-stout-brand/HOUSE-of-CALLAGHAN-Carin%CC%83o-01.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/estudio-cari%C3%B1o-invents-house-of-callaghan-an-irish-stout-brand/HOUSE-of-CALLAGHAN-Carin%CC%83o-01.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "Estudio Cariño designed HOUSE of CALLAGHAN, a brand of Irish stout from Cork, for nobody. “This project originated from a rejected proposal for a beer-related client, but we liked it too much to leave it there, so we kept working on it,” Co-founders José Pablo Salazar and Iván Soto Camba tell us. “Once there was no client involved, there was also no brief to follow and nobody asking us to tone anything down.” Between them, the Mexican design duo came up with the name, story, identity and label design."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/estudio-cari%C3%B1o-invents-house-of-callaghan-an-irish-stout-brand/HOUSE-of-CALLAGHAN-Carin%CC%83o-03.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Cork is home to two long-established stouts, Murphy's and Beamish. HOUSE of CALLAGHAN was designed to look like it had always been the third. “We borrowed a little from the language of Game of Thrones and used ‘House’ in the name because it suggested family history and, indirectly, something made on a smaller, more traditional scale,” Salazar and Soto Camba explain. “Callaghan is a common surname in the region, so it also helped ground the brand in Cork. We wanted the name to sound like it could have been there for a long while.” The label sets out an invented Callaghan family history, signed by a brewer who does not exist either. “We wanted it to look less like a new identity and more like a brand we had somehow found,” the duo adds."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/estudio-cari%C3%B1o-invents-house-of-callaghan-an-irish-stout-brand/HOUSE-of-CALLAGHAN-Carin%CC%83o-02.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“It’s very easy for an Irish beer brand to stop looking Irish and start looking Irish-themed,” they detail. “The shamrock was the most obvious problem. We still used it, but only as a small decorative element.” The studio wanted to work from beer, a big part of Irish culture, rather than from a collection of Irish symbols. The Celtic-looking type is another familiar reference, and it sits next to muted colours and metal finishes that are inspired by the medieval era. “The starting point was something classic, but not old-fashioned,” they explain. “We wanted local references to be recognisable without making the brand look nostalgic.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/estudio-cari%C3%B1o-invents-house-of-callaghan-an-irish-stout-brand/HOUSE-of-CALLAGHAN-Carin%CC%83o-04.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Almost like an old coin, the main emblem has embossed details and a metallic finish – as if it had been attached to the label. An illustration on the label is contemporary even though the treatment looks older. A knight on the label has a giant beer mug instead of a shield. “That part was important to keep the project fun and modern,” the duo notes."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/estudio-cari%C3%B1o-invents-house-of-callaghan-an-irish-stout-brand/HOUSE-of-CALLAGHAN-Carin%CC%83o-05.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“We spent a lot of time choosing the fonts, their hierarchy and how they worked together,” Salazar and Soto Camba detail. Gothic Manus is used for the logo at its most expressive. Its Gothic, almost Celtic character works with the traditional side of the identity. “We kept some of its awkwardness instead of correcting everything,” they add. “It helped make the logo look less new.” The second main typeface, Griffon, is more elegant and controlled, so it balances with Gothic Manus. It appears in the arched wordmark, subtitles and some of the brand phrases. Trattatello adds the handwritten, historical part. Highway Gothic sets the secondary copy and technical information, reminding the studio a little of old factory signage. Manchester Signature is the brewer’s signature – another small piece of the fiction behind the brand."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/estudio-cari%C3%B1o-invents-house-of-callaghan-an-irish-stout-brand/HOUSE-of-CALLAGHAN-Carin%CC%83o-06.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“We kept the palette quite restrained. There are already plenty of loud colours in beer packaging, so we were more interested in the contrast between colour and material,” Salazar and Soto Camba note. “The warm beige worked well with the metallic emblem and gave the packaging a slightly unexpected softness.” Green is the main accent and the most direct connection to Ireland. “We tried imagining it without the green. It didn’t work,” they conclude."
-        }
-      ],
-      "caseStudyText": "Estudio Cariño designed HOUSE of CALLAGHAN, a brand of Irish stout from Cork, for nobody. “This project originated from a rejected proposal for a beer-related client, but we liked it too much to leave it there, so we kept working on it,” Co-founders José Pablo Salazar and Iván Soto Camba tell us. “Once there was no client involved, there was also no brief to follow and nobody asking us to tone anything down.” Between them, the Mexican design duo came up with the name, story, identity and label design.\n\nCork is home to two long-established stouts, Murphy's and Beamish. HOUSE of CALLAGHAN was designed to look like it had always been the third. “We borrowed a little from the language of Game of Thrones and used ‘House’ in the name because it suggested family history and, indirectly, something made on a smaller, more traditional scale,” Salazar and Soto Camba explain. “Callaghan is a common surname in the region, so it also helped ground the brand in Cork. We wanted the name to sound like it could have been there for a long while.” The label sets out an invented Callaghan family history, signed by a brewer who does not exist either. “We wanted it to look less like a new identity and more like a brand we had somehow found,” the duo adds.\n\n“It’s very easy for an Irish beer brand to stop looking Irish and start looking Irish-themed,” they detail. “The shamrock was the most obvious problem. We still used it, but only as a small decorative element.” The studio wanted to work from beer, a big part of Irish culture, rather than from a collection of Irish symbols. The Celtic-looking type is another familiar reference, and it sits next to muted colours and metal finishes that are inspired by the medieval era. “The starting point was something classic, but not old-fashioned,” they explain. “We wanted local references to be recognisable without making the brand look nostalgic.”\n\nAlmost like an old coin, the main emblem has embossed details and a metallic finish – as if it had been attached to the label. An illustration on the label is contemporary even though the treatment looks older. A knight on the label has a giant beer mug instead of a shield. “That part was important to keep the project fun and modern,” the duo notes.\n\n“We spent a lot of time choosing the fonts, their hierarchy and how they worked together,” Salazar and Soto Camba detail. Gothic Manus is used for the logo at its most expressive. Its Gothic, almost Celtic character works with the traditional side of the identity. “We kept some of its awkwardness instead of correcting everything,” they add. “It helped make the logo look less new.” The second main typeface, Griffon, is more elegant and controlled, so it balances with Gothic Manus. It appears in the arched wordmark, subtitles and some of the brand phrases. Trattatello adds the handwritten, historical part. Highway Gothic sets the secondary copy and technical information, reminding the studio a little of old factory signage. Manchester Signature is the brewer’s signature – another small piece of the fiction behind the brand.\n\n“We kept the palette quite restrained. There are already plenty of loud colours in beer packaging, so we were more interested in the contrast between colour and material,” Salazar and Soto Camba note. “The warm beige worked well with the metallic emblem and gave the packaging a slightly unexpected softness.” Green is the main accent and the most direct connection to Ireland. “We tried imagining it without the green. It didn’t work,” they conclude.",
-      "caseStudyMedia": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/estudio-cari%C3%B1o-invents-house-of-callaghan-an-irish-stout-brand/HOUSE-of-CALLAGHAN-Carin%CC%83o-01.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/estudio-cari%C3%B1o-invents-house-of-callaghan-an-irish-stout-brand/HOUSE-of-CALLAGHAN-Carin%CC%83o-03.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/estudio-cari%C3%B1o-invents-house-of-callaghan-an-irish-stout-brand/HOUSE-of-CALLAGHAN-Carin%CC%83o-02.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/estudio-cari%C3%B1o-invents-house-of-callaghan-an-irish-stout-brand/HOUSE-of-CALLAGHAN-Carin%CC%83o-04.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/estudio-cari%C3%B1o-invents-house-of-callaghan-an-irish-stout-brand/HOUSE-of-CALLAGHAN-Carin%CC%83o-05.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/estudio-cari%C3%B1o-invents-house-of-callaghan-an-irish-stout-brand/HOUSE-of-CALLAGHAN-Carin%CC%83o-06.jpg"
         }
       ]
     }
