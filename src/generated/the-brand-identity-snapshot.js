@@ -7,6 +7,186 @@ const snapshot={
   },
   "items": [
     {
+      "canonicalUrl": "https://the-brandidentity.com/project/how-afternow-put-kinetiks-identity-and-four-products-into-one-system",
+      "titleOriginal": "How Afternow put Kinetik’s identity and four products into one system",
+      "textOriginal": "Kinetik is a healthcare transportation platform that gets members to their appointments, working with health plans, brokers and transportation providers. Croatian agency Afternow has worked with Kinetik for four years, leading its rebrand, redesigning its website twice and rebuilding the design system behind four of its products.\n\nKinetik first commissioned Afternow in 2022 for a three-month product engagement on its trip scheduler, now Kinetik Atlas, where trip assignment, tracking and billing were spread across separate systems and the product had outgrown its own structure. The first job was structure – a full audit of the product’s features, clear documentation and a shared picture of how each party moves through the ecosystem. “The work kept growing because it kept working,” explains Kinetik’s Chief of Staff Elizabeth Jepsen. The Kinetik Health member app followed in July 2024, and the partnership now includes a marketing retainer. The identity debuted on 8th July 2026 in New York, during Kinetik’s State of NEMT (non-emergency medical transportation) 2026 webinar, and the redesigned website went live the same day.",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-afternow-put-kinetiks-identity-and-four-products-into-one-system/Kinetik-Afternow-02_2026-11-02-142409_qqvi.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-afternow-put-kinetiks-identity-and-four-products-into-one-system/_2000xAUTO_crop_center-center_85_none/15545356/Kinetik-Afternow-02_2026-11-02-142409_qqvi.webp"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "Kinetik is a healthcare transportation platform that gets members to their appointments, working with health plans, brokers and transportation providers. Croatian agency Afternow has worked with Kinetik for four years, leading its rebrand, redesigning its website twice and rebuilding the design system behind four of its products."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-afternow-put-kinetiks-identity-and-four-products-into-one-system/Kinetik-Afternow-01.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Kinetik first commissioned Afternow in 2022 for a three-month product engagement on its trip scheduler, now Kinetik Atlas, where trip assignment, tracking and billing were spread across separate systems and the product had outgrown its own structure. The first job was structure – a full audit of the product’s features, clear documentation and a shared picture of how each party moves through the ecosystem. “The work kept growing because it kept working,” explains Kinetik’s Chief of Staff Elizabeth Jepsen. The Kinetik Health member app followed in July 2024, and the partnership now includes a marketing retainer. The identity debuted on 8th July 2026 in New York, during Kinetik’s State of NEMT (non-emergency medical transportation) 2026 webinar, and the redesigned website went live the same day."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-afternow-put-kinetiks-identity-and-four-products-into-one-system/Kinetik-Afternow-04.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“Healthtech brands tend to look the same: clean sans serifs, a clinical blue, and minimalist screens. Kinetik needed an identity people would remember, because its job is to convince health plans that transportation is part of care, building on the positioning we developed with Innovatemap. That argument is emotional before it’s operational,” Afternow’s Head of Brand & Website Vicente Reyes Montealegre tells us. The identity’s painterly city landscapes “started with one moment from a member’s journey: looking out of a car window on the way to an appointment, watching the city go by,” he adds. “We wanted that feeling of movement and calm, closer to an impressionist painting than a typical hospital photo.”"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-afternow-put-kinetiks-identity-and-four-products-into-one-system/Kinetik-Afternow-07.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-afternow-put-kinetiks-identity-and-four-products-into-one-system/Kinetik-Afternow-08_2026-10-26-112900_totd.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Deep greens, gold, salmon and lavender – taken from a city at the end of the day seen from a moving car – lead in the painterly scenes and gradients, and in the highlights that draw attention to a key line or figure. Purple replaces medical blue and is used for type, backgrounds, navigation and product interfaces, keeping contrast high for accessibility."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-afternow-put-kinetiks-identity-and-four-products-into-one-system/Kinetik-Afternow-11_2026-10-26-113159_mrbl.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-afternow-put-kinetiks-identity-and-four-products-into-one-system/Kinetik-Afternow-10_2026-10-26-113157_esxp.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Afternow generated the landscapes with AI and art-directed them heavily. Working in Midjourney, the team built the scenes in a loose, painterly style, then retouched each one to bring its light, brushstroke and colour in line with the palette. The prompts and references are documented in the guidelines so that new images stay consistent. For large formats, such as a 96-by-90-inch event backdrop, the images were extended with Adobe Firefly, and many of the scenes were animated in Midjourney, too – “kept deliberately light and slow so the movement feels like a passing view instead of an effect,” Senior Brand Designer Eliana Martínez notes."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-afternow-put-kinetiks-identity-and-four-products-into-one-system/Kinetik-Afternow-06.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Alongside the landscapes, Afternow curated images of the people that Kinetik serves – older members and carers among them – at home, in the city and with family, and rarely in a clinical setting. The images are sourced from Stocksy, which Afternow chose for the candid, editorial feel. “Photography shows people; the scenes show place and movement. When a piece needs to say who Kinetik serves, it leads with a person. When it needs atmosphere, the journey or a backdrop for product screens, it leads with a city scene,” Reyes Montealegre details."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-afternow-put-kinetiks-identity-and-four-products-into-one-system/_2000xAUTO_crop_center-center_85_none/15545323/Kinetik-Afternow-13_2026-11-02-142316_nhci.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-afternow-put-kinetiks-identity-and-four-products-into-one-system/Kinetik-Afternow-12_2026-10-26-113056_mbbj.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The voice that Kinetik needed for its case to health plans comes from Grilli Type’s serif GT Alpina, which has some play in its shapes. Colophon Foundry’s quiet, open sans serif DM Sans is used at small sizes, across products where people spend all day reading trip details, claim statuses and appointment times, and where many members are older or have low vision. “Large type speaks for the brand; small type steps back and lets the content work,” Martínez explains. GT Alpina’s italic appears in the headlines. “The italic is reserved for the words that carry the human stake or the size of the promise. In ‘the care they deserve,’ it lands on who the work is for. In ‘end to end,’ it lands on the scope Kinetik commits to,” they add."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-afternow-put-kinetiks-identity-and-four-products-into-one-system/_2000xAUTO_crop_center-center_85_none/15545333/Kinetik-Afternow-05_2026-11-02-142332_whrp.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Afternow refined Kinetik’s existing mark instead of redrawing it, making the ‘K’ sharper and more geometric and the wordmark more balanced. “The icon already carried the right idea: a capital ‘K’ drawn in one curved stroke, with a dot at the end like a destination marker on a map,” Reyes Montealegre reveals. “Getting someone to their appointment is what Kinetik does, so the mark already told the story.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-afternow-put-kinetiks-identity-and-four-products-into-one-system/_2000xAUTO_crop_center-center_85_none/15545340/Kinetik-Afternow-14_2026-11-02-142348_ozfo.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-afternow-put-kinetiks-identity-and-four-products-into-one-system/_2000xAUTO_crop_center-center_85_none/15080952/Kinetik-Afternow-15.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Afternow rebuilt the design system in 2025 while the product team kept shipping. “Before, every new screen was a small negotiation. The products in scope had grown in parallel, components overlapped and nobody could say with confidence what was live,” Jepsen recalls. The four products that the system covers serve very different people. Atlas and Compass are built for administrators and health plan providers, who need dense, fast screens with real-time visibility across thousands of trips. Kinetik Health is the mobile app for mostly elderly members, who need large touch targets, few steps and a calm pace, and for the carers who book on their behalf. Pulse automates claims for transportation providers."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-afternow-put-kinetiks-identity-and-four-products-into-one-system/Kinetik-Afternow-16.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The system flexes through tokens, the shared settings that every product draws on. “Spacing, sizing and density tokens let the same component sit tight in a scheduling table or open up for a member’s thumb,” Product Designer Darko Stankovic tells us. Every colour is mapped to a meaning, such as a trip that needs attention or a claim waiting for review, and the type system, status language and accessibility are fixed across all four products. The system has more than 300 components and more than 2,000 screens built on shared tokens. Pulse, which existed only in code with no interface to start from, “looked like Kinetik from its first screens,” Jepsen notes. Health plans and transportation providers have told Kinetik that the brand now matches the company that it is – “a tech-enabled services company and an operating partner, not a start-up tech vendor.”"
+        }
+      ],
+      "caseStudyText": "Kinetik is a healthcare transportation platform that gets members to their appointments, working with health plans, brokers and transportation providers. Croatian agency Afternow has worked with Kinetik for four years, leading its rebrand, redesigning its website twice and rebuilding the design system behind four of its products.\n\nKinetik first commissioned Afternow in 2022 for a three-month product engagement on its trip scheduler, now Kinetik Atlas, where trip assignment, tracking and billing were spread across separate systems and the product had outgrown its own structure. The first job was structure – a full audit of the product’s features, clear documentation and a shared picture of how each party moves through the ecosystem. “The work kept growing because it kept working,” explains Kinetik’s Chief of Staff Elizabeth Jepsen. The Kinetik Health member app followed in July 2024, and the partnership now includes a marketing retainer. The identity debuted on 8th July 2026 in New York, during Kinetik’s State of NEMT (non-emergency medical transportation) 2026 webinar, and the redesigned website went live the same day.\n\n“Healthtech brands tend to look the same: clean sans serifs, a clinical blue, and minimalist screens. Kinetik needed an identity people would remember, because its job is to convince health plans that transportation is part of care, building on the positioning we developed with Innovatemap. That argument is emotional before it’s operational,” Afternow’s Head of Brand & Website Vicente Reyes Montealegre tells us. The identity’s painterly city landscapes “started with one moment from a member’s journey: looking out of a car window on the way to an appointment, watching the city go by,” he adds. “We wanted that feeling of movement and calm, closer to an impressionist painting than a typical hospital photo.”\n\nDeep greens, gold, salmon and lavender – taken from a city at the end of the day seen from a moving car – lead in the painterly scenes and gradients, and in the highlights that draw attention to a key line or figure. Purple replaces medical blue and is used for type, backgrounds, navigation and product interfaces, keeping contrast high for accessibility.\n\nAfternow generated the landscapes with AI and art-directed them heavily. Working in Midjourney, the team built the scenes in a loose, painterly style, then retouched each one to bring its light, brushstroke and colour in line with the palette. The prompts and references are documented in the guidelines so that new images stay consistent. For large formats, such as a 96-by-90-inch event backdrop, the images were extended with Adobe Firefly, and many of the scenes were animated in Midjourney, too – “kept deliberately light and slow so the movement feels like a passing view instead of an effect,” Senior Brand Designer Eliana Martínez notes.\n\nAlongside the landscapes, Afternow curated images of the people that Kinetik serves – older members and carers among them – at home, in the city and with family, and rarely in a clinical setting. The images are sourced from Stocksy, which Afternow chose for the candid, editorial feel. “Photography shows people; the scenes show place and movement. When a piece needs to say who Kinetik serves, it leads with a person. When it needs atmosphere, the journey or a backdrop for product screens, it leads with a city scene,” Reyes Montealegre details.\n\nThe voice that Kinetik needed for its case to health plans comes from Grilli Type’s serif GT Alpina, which has some play in its shapes. Colophon Foundry’s quiet, open sans serif DM Sans is used at small sizes, across products where people spend all day reading trip details, claim statuses and appointment times, and where many members are older or have low vision. “Large type speaks for the brand; small type steps back and lets the content work,” Martínez explains. GT Alpina’s italic appears in the headlines. “The italic is reserved for the words that carry the human stake or the size of the promise. In ‘the care they deserve,’ it lands on who the work is for. In ‘end to end,’ it lands on the scope Kinetik commits to,” they add.\n\nAfternow refined Kinetik’s existing mark instead of redrawing it, making the ‘K’ sharper and more geometric and the wordmark more balanced. “The icon already carried the right idea: a capital ‘K’ drawn in one curved stroke, with a dot at the end like a destination marker on a map,” Reyes Montealegre reveals. “Getting someone to their appointment is what Kinetik does, so the mark already told the story.”\n\nAfternow rebuilt the design system in 2025 while the product team kept shipping. “Before, every new screen was a small negotiation. The products in scope had grown in parallel, components overlapped and nobody could say with confidence what was live,” Jepsen recalls. The four products that the system covers serve very different people. Atlas and Compass are built for administrators and health plan providers, who need dense, fast screens with real-time visibility across thousands of trips. Kinetik Health is the mobile app for mostly elderly members, who need large touch targets, few steps and a calm pace, and for the carers who book on their behalf. Pulse automates claims for transportation providers.\n\nThe system flexes through tokens, the shared settings that every product draws on. “Spacing, sizing and density tokens let the same component sit tight in a scheduling table or open up for a member’s thumb,” Product Designer Darko Stankovic tells us. Every colour is mapped to a meaning, such as a trip that needs attention or a claim waiting for review, and the type system, status language and accessibility are fixed across all four products. The system has more than 300 components and more than 2,000 screens built on shared tokens. Pulse, which existed only in code with no interface to start from, “looked like Kinetik from its first screens,” Jepsen notes. Health plans and transportation providers have told Kinetik that the brand now matches the company that it is – “a tech-enabled services company and an operating partner, not a start-up tech vendor.”",
+      "caseStudyMedia": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-afternow-put-kinetiks-identity-and-four-products-into-one-system/_2000xAUTO_crop_center-center_85_none/15545356/Kinetik-Afternow-02_2026-11-02-142409_qqvi.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-afternow-put-kinetiks-identity-and-four-products-into-one-system/Kinetik-Afternow-01.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-afternow-put-kinetiks-identity-and-four-products-into-one-system/Kinetik-Afternow-04.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-afternow-put-kinetiks-identity-and-four-products-into-one-system/Kinetik-Afternow-07.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-afternow-put-kinetiks-identity-and-four-products-into-one-system/Kinetik-Afternow-08_2026-10-26-112900_totd.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-afternow-put-kinetiks-identity-and-four-products-into-one-system/Kinetik-Afternow-11_2026-10-26-113159_mrbl.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-afternow-put-kinetiks-identity-and-four-products-into-one-system/Kinetik-Afternow-10_2026-10-26-113157_esxp.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-afternow-put-kinetiks-identity-and-four-products-into-one-system/Kinetik-Afternow-06.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-afternow-put-kinetiks-identity-and-four-products-into-one-system/_2000xAUTO_crop_center-center_85_none/15545323/Kinetik-Afternow-13_2026-11-02-142316_nhci.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-afternow-put-kinetiks-identity-and-four-products-into-one-system/Kinetik-Afternow-12_2026-10-26-113056_mbbj.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-afternow-put-kinetiks-identity-and-four-products-into-one-system/_2000xAUTO_crop_center-center_85_none/15545333/Kinetik-Afternow-05_2026-11-02-142332_whrp.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-afternow-put-kinetiks-identity-and-four-products-into-one-system/_2000xAUTO_crop_center-center_85_none/15545340/Kinetik-Afternow-14_2026-11-02-142348_ozfo.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-afternow-put-kinetiks-identity-and-four-products-into-one-system/_2000xAUTO_crop_center-center_85_none/15080952/Kinetik-Afternow-15.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-afternow-put-kinetiks-identity-and-four-products-into-one-system/Kinetik-Afternow-16.mp4"
+        }
+      ]
+    },
+    {
       "canonicalUrl": "https://the-brandidentity.com/project/childrens-curiosity-leads-kind-studios-hatching-dragons-rebrand",
       "titleOriginal": "Children’s curiosity leads Kind Studio’s Hatching Dragons rebrand",
       "textOriginal": "Hatching Dragons is a group of multilingual nurseries in London whose brand had fallen behind what the business had become. “When we started, Hatching Dragons was known as a bilingual Mandarin nursery,” explains Head of Brand & Marketing Marisa Forstyk. “That was true, but it was no longer the whole story. Our curriculum had evolved, and we’d come to see ourselves as early-years development specialists.”\n\nLondon-based branding studio Kind Studio was commissioned to create the strategy, identity and website. “We asked them for an identity that said what we actually are: multicultural by design, rigorous and still joyful,” Forstyk tells us. “We’re preparing to grow. Opening a new nursery under the old identity would have meant explaining ourselves twice, ” Managing Director Andy Gowland adds. A new nursery in Shoreditch is the first Hatching Dragons site to be built around the rebrand from the start.",
@@ -3001,175 +3181,6 @@ const snapshot={
         {
           "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-08.jpg"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront",
-      "titleOriginal": "The idea of home shapes Base Design’s identity for Ray’s Waterfront",
-      "textOriginal": "Ray’s Waterfront is a family-run restaurant and bar on the Small Boat Harbor on Resurrection Bay, in Seward, Alaska – a town of fewer than 3,000 people. Ray Simutis, a former New York taxi driver turned commercial fisherman, and Leslie Simutis, a trained cook, opened it in 1988, Ray working the bar and Leslie the kitchen. After both passed, the restaurant passed to their daughters, Anna and Janina.\n\nIn the years after 1988, the restaurant accumulated several signs, typefaces and illustrations, spread over menus, printed materials, hats and sweatshirts. “The Ray’s building, food and people were well known for being warm, welcoming and classic. There hadn’t really ever been a brand created, though,” explains Owner & Operator Anna Nozaki. She approached Base Design’s Melbourne studio for an identity that would highlight the history and spirit of Ray’s, spanning the logo, signage, menus, website and merchandise. The studio started from a neon tube sign in a window box, which reads ‘Ray’s Waterfront Bar & Grill’ and has a simple halibut illustration on it. It “was the only consistent branding that remained intact since opening,” she notes. An old hat was the only other thing left with the original lettering on it.",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/13593439.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-01.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "Ray’s Waterfront is a family-run restaurant and bar on the Small Boat Harbor on Resurrection Bay, in Seward, Alaska – a town of fewer than 3,000 people. Ray Simutis, a former New York taxi driver turned commercial fisherman, and Leslie Simutis, a trained cook, opened it in 1988, Ray working the bar and Leslie the kitchen. After both passed, the restaurant passed to their daughters, Anna and Janina."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-07.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-12.jpeg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "In the years after 1988, the restaurant accumulated several signs, typefaces and illustrations, spread over menus, printed materials, hats and sweatshirts. “The Ray’s building, food and people were well known for being warm, welcoming and classic. There hadn’t really ever been a brand created, though,” explains Owner & Operator Anna Nozaki. She approached Base Design’s Melbourne studio for an identity that would highlight the history and spirit of Ray’s, spanning the logo, signage, menus, website and merchandise. The studio started from a neon tube sign in a window box, which reads ‘Ray’s Waterfront Bar & Grill’ and has a simple halibut illustration on it. It “was the only consistent branding that remained intact since opening,” she notes. An old hat was the only other thing left with the original lettering on it."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-14.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-13_2026-10-05-151617_tono.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“It was important that the brand look classic and not ‘cool,’” Nozaki details. “It needed to be humble and historic. I wanted the fact that this long-standing restaurant was started and continually operated by local families to be apparent immediately before even setting foot inside.”"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“The idea of home holds everything together,” explains Base Design’s Partner & Creative Director Caroline Cox. “Walking into Ray’s feels like being in a home. Homes can be messy and noisy. A home accumulates photographs, patterns, keepsakes and objects over time, each with a connection to the people who live there. That became a way of thinking about Ray’s as both an individual and an institution.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-02.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Base Design redrew the logotype from the window box sign’s lettering, which was thin and loose, with a large looping ‘R,’ a slant and a sweep on the ‘y.’ Those thin lines became a fuller, more confident mark, with heavier, more defined letters, deliberate curves, sharper terminals and closer connections across the word. “The restaurant itself was our reference for knowing how far to go,” Cox notes. “Ray’s is already full of character, and the logo needed to sit comfortably among everything that was there. It needed enough refinement to work across a contemporary identity, while still feeling like the name people had known for years.” A rope version of the mark, drawn with a custom rope brush, came out of the same window box lettering. “It picks up on the maritime references that run through Ray’s, from the harbour setting to the family’s history in commercial fishing,” Cox tells us. “It’s a secondary, more playful expression of the brand. We use it in communications where an extra layer of personality feels right. The primary logotype gives the identity its everyday recognition.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-04-new.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“We paired Caslon Egyptian for headlines with Affix for body copy,” Cox details. “Caslon Egyptian has roots in early sans serif lettering and the vernacular of buildings, engravings and printed material. It brings a straightforward, slightly unusual character that feels comfortable in Ray’s world. Affix has the utilitarian qualities of typewriter lettering, with warmth and playful details that come through in its italics and alternate characters. Together, they give us a practical hierarchy for the menus and website while holding their own beside the expressive logotype.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-10-new.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Drawings by illustrator Jake Foreman and photographs from the family's archive appear across menus, interiors and printed ephemera, which includes a matchbook, postcard of local recommendations and coasters. “Jake’s illustrations reinterpret lived memories: Anna’s childhood, family fishing trips, her mother in the kitchen and meals together at the restaurant,” Cox explains. “Patterns such as gingham and nautical stripes bring familiar, domestic textures, while the frames and borders draw on photographic albums and maritime references.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-03-new.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“The palette came directly from the restaurant and its surroundings,” Cox notes. “Red was already everywhere: the original lights and sconces, the burgundy carpet and the warm mahogany inside. We drew those qualities into a family of bright red, deep red and burgundy.” Red leads the palette, appearing on the menus in borders, patterns and covers, with the lunch and dinner menus set in different red tones. A connection to the Alaskan flag brings in blue, navy and yellow. Blue and navy appear on other pieces, including the dessert menu, and yellow is a smaller accent in the framing. The website uses the same palette, with beige in place of off-white paper. “That distinction is deliberate: in print, the paper stock supplies that colour; digitally, we reproduce it,” Cox explains."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-05.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Family photographs from the 80s show a big red ‘Ray’s’ above the front doors, made of dimensional, individual channel letters. The sign glowed and was visible from a distance as people drove into town along the main road. Weather damage brought it down, and burgundy fabric awnings went up in its place. The studio designed a replacement. “After we created our concepts, we searched extensively for a manufacturer who would be able to deliver on the job,” Cox recalls. That search ended with National Sign Corporation in Seattle, and with Tim Zamberlin of the company. “When we first spoke with Tim, he was so knowledgeable we immediately felt comfortable in his hands,” Cox adds. Seward is remote, so getting people and materials there took careful coordination. Installed on an old building with a traditional shingled roof, the signage also had to survive Alaskan weather. “We wanted to preserve traditional sign-making methods and respect the building’s character, with the durability the location demands,” Cox details. The sign that went back up uses the custom Ray’s lettering."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-11.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-08.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "To document Ray’s for the next generation, the studio commissioned photographer Jack Bool to spend time in the restaurant, out on the bay, on the glaciers, around Seward and alongside the people who have given their working lives to the place, the commercial fisheries among them. “We wanted him to experience it before photographing it, leaving room for things a shot list couldn’t anticipate,” Cox notes. “There’s warmth and immediacy in the family archive that we wanted the new photographs to sit comfortably alongside.”"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“It's made the locals feel cared for by honouring the past while spiffing it up,” Nozaki concludes of the identity. “The illustrated stories on the coasters are collected by people who knew our parents.”"
-        }
-      ],
-      "caseStudyText": "Ray’s Waterfront is a family-run restaurant and bar on the Small Boat Harbor on Resurrection Bay, in Seward, Alaska – a town of fewer than 3,000 people. Ray Simutis, a former New York taxi driver turned commercial fisherman, and Leslie Simutis, a trained cook, opened it in 1988, Ray working the bar and Leslie the kitchen. After both passed, the restaurant passed to their daughters, Anna and Janina.\n\nIn the years after 1988, the restaurant accumulated several signs, typefaces and illustrations, spread over menus, printed materials, hats and sweatshirts. “The Ray’s building, food and people were well known for being warm, welcoming and classic. There hadn’t really ever been a brand created, though,” explains Owner & Operator Anna Nozaki. She approached Base Design’s Melbourne studio for an identity that would highlight the history and spirit of Ray’s, spanning the logo, signage, menus, website and merchandise. The studio started from a neon tube sign in a window box, which reads ‘Ray’s Waterfront Bar & Grill’ and has a simple halibut illustration on it. It “was the only consistent branding that remained intact since opening,” she notes. An old hat was the only other thing left with the original lettering on it.\n\n“It was important that the brand look classic and not ‘cool,’” Nozaki details. “It needed to be humble and historic. I wanted the fact that this long-standing restaurant was started and continually operated by local families to be apparent immediately before even setting foot inside.”\n\n“The idea of home holds everything together,” explains Base Design’s Partner & Creative Director Caroline Cox. “Walking into Ray’s feels like being in a home. Homes can be messy and noisy. A home accumulates photographs, patterns, keepsakes and objects over time, each with a connection to the people who live there. That became a way of thinking about Ray’s as both an individual and an institution.”\n\nBase Design redrew the logotype from the window box sign’s lettering, which was thin and loose, with a large looping ‘R,’ a slant and a sweep on the ‘y.’ Those thin lines became a fuller, more confident mark, with heavier, more defined letters, deliberate curves, sharper terminals and closer connections across the word. “The restaurant itself was our reference for knowing how far to go,” Cox notes. “Ray’s is already full of character, and the logo needed to sit comfortably among everything that was there. It needed enough refinement to work across a contemporary identity, while still feeling like the name people had known for years.” A rope version of the mark, drawn with a custom rope brush, came out of the same window box lettering. “It picks up on the maritime references that run through Ray’s, from the harbour setting to the family’s history in commercial fishing,” Cox tells us. “It’s a secondary, more playful expression of the brand. We use it in communications where an extra layer of personality feels right. The primary logotype gives the identity its everyday recognition.”\n\n“We paired Caslon Egyptian for headlines with Affix for body copy,” Cox details. “Caslon Egyptian has roots in early sans serif lettering and the vernacular of buildings, engravings and printed material. It brings a straightforward, slightly unusual character that feels comfortable in Ray’s world. Affix has the utilitarian qualities of typewriter lettering, with warmth and playful details that come through in its italics and alternate characters. Together, they give us a practical hierarchy for the menus and website while holding their own beside the expressive logotype.”\n\nDrawings by illustrator Jake Foreman and photographs from the family's archive appear across menus, interiors and printed ephemera, which includes a matchbook, postcard of local recommendations and coasters. “Jake’s illustrations reinterpret lived memories: Anna’s childhood, family fishing trips, her mother in the kitchen and meals together at the restaurant,” Cox explains. “Patterns such as gingham and nautical stripes bring familiar, domestic textures, while the frames and borders draw on photographic albums and maritime references.”\n\n“The palette came directly from the restaurant and its surroundings,” Cox notes. “Red was already everywhere: the original lights and sconces, the burgundy carpet and the warm mahogany inside. We drew those qualities into a family of bright red, deep red and burgundy.” Red leads the palette, appearing on the menus in borders, patterns and covers, with the lunch and dinner menus set in different red tones. A connection to the Alaskan flag brings in blue, navy and yellow. Blue and navy appear on other pieces, including the dessert menu, and yellow is a smaller accent in the framing. The website uses the same palette, with beige in place of off-white paper. “That distinction is deliberate: in print, the paper stock supplies that colour; digitally, we reproduce it,” Cox explains.\n\nFamily photographs from the 80s show a big red ‘Ray’s’ above the front doors, made of dimensional, individual channel letters. The sign glowed and was visible from a distance as people drove into town along the main road. Weather damage brought it down, and burgundy fabric awnings went up in its place. The studio designed a replacement. “After we created our concepts, we searched extensively for a manufacturer who would be able to deliver on the job,” Cox recalls. That search ended with National Sign Corporation in Seattle, and with Tim Zamberlin of the company. “When we first spoke with Tim, he was so knowledgeable we immediately felt comfortable in his hands,” Cox adds. Seward is remote, so getting people and materials there took careful coordination. Installed on an old building with a traditional shingled roof, the signage also had to survive Alaskan weather. “We wanted to preserve traditional sign-making methods and respect the building’s character, with the durability the location demands,” Cox details. The sign that went back up uses the custom Ray’s lettering.\n\nTo document Ray’s for the next generation, the studio commissioned photographer Jack Bool to spend time in the restaurant, out on the bay, on the glaciers, around Seward and alongside the people who have given their working lives to the place, the commercial fisheries among them. “We wanted him to experience it before photographing it, leaving room for things a shot list couldn’t anticipate,” Cox notes. “There’s warmth and immediacy in the family archive that we wanted the new photographs to sit comfortably alongside.”\n\n“It's made the locals feel cared for by honouring the past while spiffing it up,” Nozaki concludes of the identity. “The illustrated stories on the coasters are collected by people who knew our parents.”",
-      "caseStudyMedia": [
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-01.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-07.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-12.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-14.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-13_2026-10-05-151617_tono.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-02.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-04-new.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-10-new.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-03-new.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-05.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-11.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-idea-of-home-shapes-base-designs-identity-for-rays-waterfront/Rays-Waterfront-Base-Design-08.jpg"
         }
       ]
     }
