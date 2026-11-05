@@ -7,6 +7,156 @@ const snapshot={
   },
   "items": [
     {
+      "canonicalUrl": "https://the-brandidentity.com/project/survive-the-fiscal-year-in-better-half-cult-holdings-game-for-brex",
+      "titleOriginal": "Survive the fiscal year in Better Half / Cult Holdings’ game for Brex",
+      "textOriginal": "Fiscal Mania is an original arcade game in which players have to survive a fiscal year. New York-based creative studio Better Half / Cult Holdings created it for Brex , a finance platform for growing companies, along with the arcade cabinets that house it, a microsite and launch events in New York and San Francisco.\n\nBrex’s core promise is eliminating operational drag – the build-up of administrative friction – for finance leaders. The company brought it to the studio with “a clear challenge: connect that promise to culture by showing it, not just pitching it,” the Brex team tells us. Better Half / Cult Holdings pitched several creative angles, and Brex chose video game speedrunning – the practice of finishing a game as fast as possible. “Speedrunning gave us a sharp metaphor for solving operational drag.”",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/survive-the-fiscal-year-in-better-half-cult-holdings-game-for-brex/Fiscal-Mania-BetterHalfCult-Holdings-Co.-01.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/survive-the-fiscal-year-in-better-half-cult-holdings-game-for-brex/_2000xAUTO_crop_center-center_85_none/15303061/Fiscal-Mania-BetterHalfCult-Holdings-Co.-01.webp"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "Fiscal Mania is an original arcade game in which players have to survive a fiscal year. New York-based creative studio Better Half / Cult Holdings created it for Brex , a finance platform for growing companies, along with the arcade cabinets that house it, a microsite and launch events in New York and San Francisco."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/survive-the-fiscal-year-in-better-half-cult-holdings-game-for-brex/Fiscal-Mania-BetterHalfCult-Holdings-Co.-02.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Brex’s core promise is eliminating operational drag – the build-up of administrative friction – for finance leaders. The company brought it to the studio with “a clear challenge: connect that promise to culture by showing it, not just pitching it,” the Brex team tells us. Better Half / Cult Holdings pitched several creative angles, and Brex chose video game speedrunning – the practice of finishing a game as fast as possible. “Speedrunning gave us a sharp metaphor for solving operational drag.”"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Brex was founded by builders and still writes its own software. CEO Pedro Franceschi taught himself to code at the age of eight, and by 12 he was hacking iPhones well enough to get notices from Apple. “Making a real arcade game, with a cabinet you can play, felt like the most honest way to show who we are.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/survive-the-fiscal-year-in-better-half-cult-holdings-game-for-brex/_2000xAUTO_crop_center-center_85_none/15303397/Fiscal-Mania-BetterHalfCult-Holdings-Co.-03.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“We defined the world first. What would it look like to build a fictional training simulator designed to teach a CFO how to pilot AI-powered finances?” asks Better Half / Cult Holdings’ Chief Strategy Officer Alyssa Bonanno Mayer. Fiscal Mania is a bullet hell, a style of arcade game in which enemies arrive in endless waves that create chaotic patterns on screen. Both teams wanted lore deep enough to say who, inside the game’s fiction, developed it. “The game genre and connection to test-piloting gave us the answer,” details Senior Creative Strategist Bec Hac. The developer is Brex Systems, Inc. – a fictional arm of Brex. “We imagine Brex Systems as having a public, mainline series of products, but HyperAgent-01: Fiscal Mania as a kind of leaked prototype – an experiment too wild for public consumption that somehow broke containment,” Hac explains."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/survive-the-fiscal-year-in-better-half-cult-holdings-game-for-brex/_2000xAUTO_crop_center-center_85_none/15303442/Fiscal-Mania-BetterHalfCult-Holdings-Co.-05.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/survive-the-fiscal-year-in-better-half-cult-holdings-game-for-brex/_2000xAUTO_crop_center-center_85_none/15303448/Fiscal-Mania-BetterHalfCult-Holdings-Co.-06.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Players take the role of the Commander of Fiscal Order, a CFO shrunk to quantum scale and sent into a company’s mainframe aboard an AI-powered agent, and make their way through 12 levels and four quarters. The genre’s endless waves “resonated with the sentiment that many financial professionals and teams reported of the ceaseless wave of complexity that they face on a daily basis,” Hac notes."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Unpaid invoices, rogue expenses and recurring charges become ships and turrets, each with its own attack pattern. Destroying any of these financial obligations would be fraud, so the Commander has no weapons. Success comes down to speed and precision. “We knew expenses would be our most common enemy; just as in real life, they are generally manageable, but the threat came from the sheer amount of them that builds quarter to quarter,” Hac tells us. Less common enemies represent bigger problems, such as the Corporate Offsite “that shoots champagne flutes and business cards.” Bosses “upend the rules of the game – such as the Audit that limits your movement path, or the Policy Violation that reverses the level’s controls,” she adds. The final boss is Operational Drag itself."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/survive-the-fiscal-year-in-better-half-cult-holdings-game-for-brex/_2000xAUTO_crop_center-center_85_none/15303483/Fiscal-Mania-BetterHalfCult-Holdings-Co.-04.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "To picture the simulator that Bonanno Mayer describes, the studio drew on bullet-hell classics such as Ikaruga and DonPachi, as well as video game culture more broadly. “We’re trying to strike a balance between the imagination of vintage references like the original Tron and Galaga, mixed with more modern club flyers, fighter jet UI and financial readouts,” she explains. The Fiscal Mania title is a custom, “hand-lettered piece inspired by arcade cabinet graphics and the geometry of the Brex flag logo,” details Creative Director Joe Haddad. It comes in a flat version for legibility and an airbrushed one with layers of bevels, 3D extrusions and lighting effects."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/survive-the-fiscal-year-in-better-half-cult-holdings-game-for-brex/Fiscal-Mania-BetterHalfCult-Holdings-Co.-07.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“The larger type scheme falls out of our thematic positioning of Brex as this reclusive, skunk-works game developer,” Haddad notes. Ornamental & Title Type’s geometric, motorsport-inspired Leto sets the Brex Systems lockups and works “especially well outlined.” Blaze Type’s neo-grotesque Slussen and Isa Ozler’s Kode Mono appear in the game identity’s small technical details, and Dinamo’s ABC Bingo, outlined and stretched, is used for the game-system lockups and the large Game Over screen."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/survive-the-fiscal-year-in-better-half-cult-holdings-game-for-brex/Fiscal-Mania-BetterHalfCult-Holdings-Co.-08.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Production partner Studio AM developed the game and fabricated the cabinets in illuminated acrylic and stainless steel. “We knew we wanted something in transparent acrylic, reminiscent of early game consoles,” explains Chief Creative Officer Will Mayer. The Brex Systems fiction shaped the cabinets, with a look influenced by warning labels and fighter jet markings. Studio AM suggested “cutting the Brex logos directly into the steel plating.”"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "A camera-powered system on the cabinets turns players into pixel-art avatars. Better Half / Cult Holdings’ creative technology team developed it, and Studio AM helped build it into the machines. The system uses “digital caricature within a strict set of visual parameters to maintain stylistic consistency across players,” Bonanno Mayer notes."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/survive-the-fiscal-year-in-better-half-cult-holdings-game-for-brex/_2000xAUTO_crop_center-center_85_none/15303682/Fiscal-Mania-BetterHalfCult-Holdings-Co.-09.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“We wanted it to feel like an early video game walkthrough guide, where you were genuinely discovering something,” Mayer tells us of the microsite. Developed by Gardener, it works as a classified terminal, with fictional archives, enemy dossiers, a live leaderboard and the game itself to play."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Four Four Entertainment produced the events in both cities, and Hi Touch fabricated custom trophies. In New York, the cabinets were put on the street so people could walk up and play, and San Francisco hosted a full arcade night for founders, finance leaders and builders. Players in both cities fed one live leaderboard, competing to finish the fiscal year in record time."
+        }
+      ],
+      "caseStudyText": "Fiscal Mania is an original arcade game in which players have to survive a fiscal year. New York-based creative studio Better Half / Cult Holdings created it for Brex , a finance platform for growing companies, along with the arcade cabinets that house it, a microsite and launch events in New York and San Francisco.\n\nBrex’s core promise is eliminating operational drag – the build-up of administrative friction – for finance leaders. The company brought it to the studio with “a clear challenge: connect that promise to culture by showing it, not just pitching it,” the Brex team tells us. Better Half / Cult Holdings pitched several creative angles, and Brex chose video game speedrunning – the practice of finishing a game as fast as possible. “Speedrunning gave us a sharp metaphor for solving operational drag.”\n\nBrex was founded by builders and still writes its own software. CEO Pedro Franceschi taught himself to code at the age of eight, and by 12 he was hacking iPhones well enough to get notices from Apple. “Making a real arcade game, with a cabinet you can play, felt like the most honest way to show who we are.”\n\n“We defined the world first. What would it look like to build a fictional training simulator designed to teach a CFO how to pilot AI-powered finances?” asks Better Half / Cult Holdings’ Chief Strategy Officer Alyssa Bonanno Mayer. Fiscal Mania is a bullet hell, a style of arcade game in which enemies arrive in endless waves that create chaotic patterns on screen. Both teams wanted lore deep enough to say who, inside the game’s fiction, developed it. “The game genre and connection to test-piloting gave us the answer,” details Senior Creative Strategist Bec Hac. The developer is Brex Systems, Inc. – a fictional arm of Brex. “We imagine Brex Systems as having a public, mainline series of products, but HyperAgent-01: Fiscal Mania as a kind of leaked prototype – an experiment too wild for public consumption that somehow broke containment,” Hac explains.\n\nPlayers take the role of the Commander of Fiscal Order, a CFO shrunk to quantum scale and sent into a company’s mainframe aboard an AI-powered agent, and make their way through 12 levels and four quarters. The genre’s endless waves “resonated with the sentiment that many financial professionals and teams reported of the ceaseless wave of complexity that they face on a daily basis,” Hac notes.\n\nUnpaid invoices, rogue expenses and recurring charges become ships and turrets, each with its own attack pattern. Destroying any of these financial obligations would be fraud, so the Commander has no weapons. Success comes down to speed and precision. “We knew expenses would be our most common enemy; just as in real life, they are generally manageable, but the threat came from the sheer amount of them that builds quarter to quarter,” Hac tells us. Less common enemies represent bigger problems, such as the Corporate Offsite “that shoots champagne flutes and business cards.” Bosses “upend the rules of the game – such as the Audit that limits your movement path, or the Policy Violation that reverses the level’s controls,” she adds. The final boss is Operational Drag itself.\n\nTo picture the simulator that Bonanno Mayer describes, the studio drew on bullet-hell classics such as Ikaruga and DonPachi, as well as video game culture more broadly. “We’re trying to strike a balance between the imagination of vintage references like the original Tron and Galaga, mixed with more modern club flyers, fighter jet UI and financial readouts,” she explains. The Fiscal Mania title is a custom, “hand-lettered piece inspired by arcade cabinet graphics and the geometry of the Brex flag logo,” details Creative Director Joe Haddad. It comes in a flat version for legibility and an airbrushed one with layers of bevels, 3D extrusions and lighting effects.\n\n“The larger type scheme falls out of our thematic positioning of Brex as this reclusive, skunk-works game developer,” Haddad notes. Ornamental & Title Type’s geometric, motorsport-inspired Leto sets the Brex Systems lockups and works “especially well outlined.” Blaze Type’s neo-grotesque Slussen and Isa Ozler’s Kode Mono appear in the game identity’s small technical details, and Dinamo’s ABC Bingo, outlined and stretched, is used for the game-system lockups and the large Game Over screen.\n\nProduction partner Studio AM developed the game and fabricated the cabinets in illuminated acrylic and stainless steel. “We knew we wanted something in transparent acrylic, reminiscent of early game consoles,” explains Chief Creative Officer Will Mayer. The Brex Systems fiction shaped the cabinets, with a look influenced by warning labels and fighter jet markings. Studio AM suggested “cutting the Brex logos directly into the steel plating.”\n\nA camera-powered system on the cabinets turns players into pixel-art avatars. Better Half / Cult Holdings’ creative technology team developed it, and Studio AM helped build it into the machines. The system uses “digital caricature within a strict set of visual parameters to maintain stylistic consistency across players,” Bonanno Mayer notes.\n\n“We wanted it to feel like an early video game walkthrough guide, where you were genuinely discovering something,” Mayer tells us of the microsite. Developed by Gardener, it works as a classified terminal, with fictional archives, enemy dossiers, a live leaderboard and the game itself to play.\n\nFour Four Entertainment produced the events in both cities, and Hi Touch fabricated custom trophies. In New York, the cabinets were put on the street so people could walk up and play, and San Francisco hosted a full arcade night for founders, finance leaders and builders. Players in both cities fed one live leaderboard, competing to finish the fiscal year in record time.",
+      "caseStudyMedia": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/survive-the-fiscal-year-in-better-half-cult-holdings-game-for-brex/_2000xAUTO_crop_center-center_85_none/15303061/Fiscal-Mania-BetterHalfCult-Holdings-Co.-01.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/survive-the-fiscal-year-in-better-half-cult-holdings-game-for-brex/Fiscal-Mania-BetterHalfCult-Holdings-Co.-02.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/survive-the-fiscal-year-in-better-half-cult-holdings-game-for-brex/_2000xAUTO_crop_center-center_85_none/15303397/Fiscal-Mania-BetterHalfCult-Holdings-Co.-03.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/survive-the-fiscal-year-in-better-half-cult-holdings-game-for-brex/_2000xAUTO_crop_center-center_85_none/15303442/Fiscal-Mania-BetterHalfCult-Holdings-Co.-05.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/survive-the-fiscal-year-in-better-half-cult-holdings-game-for-brex/_2000xAUTO_crop_center-center_85_none/15303448/Fiscal-Mania-BetterHalfCult-Holdings-Co.-06.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/survive-the-fiscal-year-in-better-half-cult-holdings-game-for-brex/_2000xAUTO_crop_center-center_85_none/15303483/Fiscal-Mania-BetterHalfCult-Holdings-Co.-04.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/survive-the-fiscal-year-in-better-half-cult-holdings-game-for-brex/Fiscal-Mania-BetterHalfCult-Holdings-Co.-07.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/survive-the-fiscal-year-in-better-half-cult-holdings-game-for-brex/Fiscal-Mania-BetterHalfCult-Holdings-Co.-08.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/survive-the-fiscal-year-in-better-half-cult-holdings-game-for-brex/_2000xAUTO_crop_center-center_85_none/15303682/Fiscal-Mania-BetterHalfCult-Holdings-Co.-09.webp"
+        }
+      ]
+    },
+    {
       "canonicalUrl": "https://the-brandidentity.com/project/how-afternow-put-kinetiks-identity-and-four-products-into-one-system",
       "titleOriginal": "How Afternow put Kinetik’s identity and four products into one system",
       "textOriginal": "Kinetik is a healthcare transportation platform that gets members to their appointments, working with health plans, brokers and transportation providers. Croatian agency Afternow has worked with Kinetik for four years, leading its rebrand, redesigning its website twice and rebuilding the design system behind four of its products.\n\nKinetik first commissioned Afternow in 2022 for a three-month product engagement on its trip scheduler, now Kinetik Atlas, where trip assignment, tracking and billing were spread across separate systems and the product had outgrown its own structure. The first job was structure – a full audit of the product’s features, clear documentation and a shared picture of how each party moves through the ecosystem. “The work kept growing because it kept working,” explains Kinetik’s Chief of Staff Elizabeth Jepsen. The Kinetik Health member app followed in July 2024, and the partnership now includes a marketing retainer. The identity debuted on 8th July 2026 in New York, during Kinetik’s State of NEMT (non-emergency medical transportation) 2026 webinar, and the redesigned website went live the same day.",
