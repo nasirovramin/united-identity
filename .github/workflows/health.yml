@@ -51,4 +51,12 @@ jobs:
           if(s.lastError){
             console.log("LAST_SOURCE_ERROR="+JSON.stringify(s.lastError));
           }
+
+          const state=s.lastRun?.status;
+          if(state === "ai_quota_exhausted" || state === "candidate_failures"){
+            throw new Error("Publication cycle failed: "+state);
+          }
+          if(state === "no_unseen"){
+            console.log("NOTICE: no unpublished projects in the current source snapshot");
+          }
           NODE
