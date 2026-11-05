@@ -23,6 +23,12 @@ export default {
     const url=new URL(req.url);
     const path=url.pathname;
 
+    // Public diagnostics must not consume AI quota or mutate channel posts.
+    if(path==="/test-send/the-brand-identity" || path==="/repair-test/the-brand-identity" ||
+       (path==="/test/the-brand-identity" && url.searchParams.get("translate")==="1")){
+      return json({ok:false,error:"disabled"},404);
+    }
+
     if(path==="/health"){
       return json({
         ok:true,
@@ -165,6 +171,13 @@ async function runScheduledIdentityCycle(event,env){
 }
 
 async function runTheBrandIdentityCycle(env){
+  // Workers AI's free allowance resets at 00:00 UTC. Avoid retrying a known
+  // exhausted allocation every hour; a later UTC day is allowed to try again.
+  const lastRunRaw=await env.IDENTITY_KV?.get("source:the-brand-identity:last-run");
+  if(quotaWasExhaustedToday(lastRunRaw)){
+    return {ok:false,published:false,reason:"ai_quota_exhausted"};
+  }
+
   const source=WEB_SOURCES.find(x=>x.config.id==="the-brand-identity");
   if(!source) throw new Error("The Brand Identity source missing");
 
@@ -458,6 +471,16 @@ function escapeHtml(value=""){
     .replace(/</g,"&lt;")
     .replace(/>/g,"&gt;")
     .replace(/"/g,"&quot;");
+}
+
+export function quotaWasExhaustedToday(raw,now=new Date()){
+  try{
+    const state=JSON.parse(raw||"null");
+    const recorded=new Date(state?.at);
+    return state?.status==="ai_quota_exhausted" &&
+      !Number.isNaN(recorded.getTime()) &&
+      recorded.toISOString().slice(0,10)===now.toISOString().slice(0,10);
+  }catch{return false}
 }
 
 export { CheckModule, PublishModule };

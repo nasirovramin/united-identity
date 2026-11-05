@@ -97,6 +97,8 @@ export class AzerbaijaniTranslator {
           }
           errors.push(model+" attempt "+(attempt+1)+": "+check.reason);
         }catch(e){
+          // Daily allocation failures do not recover on immediate retry.
+          if(/daily free allocation|10,000 neurons|4006|3036|account limited/i.test(String(e?.message||e))) throw e;
           errors.push(model+" attempt "+(attempt+1)+": "+String(e?.message||e));
         }
       }
