@@ -7,6 +7,178 @@ const snapshot={
   },
   "items": [
     {
+      "canonicalUrl": "https://the-brandidentity.com/project/a-sub-45-minute-10k-gave-tinloof-the-concept-for-enroutes-identity",
+      "titleOriginal": "A sub-45-minute 10K gave Tinloof the concept for Enroute’s identity",
+      "textOriginal": "Enroute is a running/cycling store and community based in Vancouver that had gone for years without a clearly defined identity. With plans to grow beyond Canada, new retail stores and its first mobile app ahead, Enroute commissioned design and development agency Tinloof to create its first proper brand strategy, visual and motion identity, online store and app design. Tinloof added a watch app, too. “We needed a clear identity to root ourselves in,” explains Enroute’s founder, Sebastian Salas, a former professional athlete. “This would allow us to move confidently and create one Enroute experience across physical and online stores.”\n\n“They don’t have a single product to anchor to. They carry a whole catalogue of brands. So the idea had to be a system every brand could plug into,” explains Tinloof’s Creative Director Viktor Horváth, who led the project. Tinloof landed on the line ‘Outpace Yourself.’ “It works for Salomon; it works for whoever,” he adds. “And it allows the products to remain prominent. Products first, Enroute second.” Viktor was chasing a sub-45-minute 10K while designing the identity. “When you’re chasing that, you don’t drink 10 beers the night before,” he notes. “You reshape your whole life around one thing, and you’re already pushing yourself before you’ve even laced up. That’s the principle that shaped the brand idea.”",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/_video-thumbnails/15206689.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/a-sub-45-minute-10k-gave-tinloof-the-concept-for-enroutes-identity/Enroute-Tinloof-01.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "Enroute is a running/cycling store and community based in Vancouver that had gone for years without a clearly defined identity. With plans to grow beyond Canada, new retail stores and its first mobile app ahead, Enroute commissioned design and development agency Tinloof to create its first proper brand strategy, visual and motion identity, online store and app design. Tinloof added a watch app, too. “We needed a clear identity to root ourselves in,” explains Enroute’s founder, Sebastian Salas, a former professional athlete. “This would allow us to move confidently and create one Enroute experience across physical and online stores.”"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/a-sub-45-minute-10k-gave-tinloof-the-concept-for-enroutes-identity/Enroute-Tinloof-15.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“They don’t have a single product to anchor to. They carry a whole catalogue of brands. So the idea had to be a system every brand could plug into,” explains Tinloof’s Creative Director Viktor Horváth, who led the project. Tinloof landed on the line ‘Outpace Yourself.’ “It works for Salomon; it works for whoever,” he adds. “And it allows the products to remain prominent. Products first, Enroute second.” Viktor was chasing a sub-45-minute 10K while designing the identity. “When you’re chasing that, you don’t drink 10 beers the night before,” he notes. “You reshape your whole life around one thing, and you’re already pushing yourself before you’ve even laced up. That’s the principle that shaped the brand idea.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/a-sub-45-minute-10k-gave-tinloof-the-concept-for-enroutes-identity/_2000xAUTO_crop_center-center_85_none/15207497/Enroute-Tinloof-12.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/a-sub-45-minute-10k-gave-tinloof-the-concept-for-enroutes-identity/_2000xAUTO_crop_center-center_85_none/15207499/Enroute-Tinloof-13.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "‘Outpace Yourself’ also shapes the visual language, which Tinloof built around the idea of pushing to the limit, with elements that stretch and compress under pressure. “You tighten the timeline to expand the capability,” Viktor details. “You want sub-50, then sub-45, then sub-40. Tighter, tighter, tighter. By squeezing the time, you’re literally expanding what your body can do.” That thinking also went into the wordmark, which is based on Only by Swiss Typefaces – its letterforms modified to make the logotype as wide as possible and set with extremely tight kerning."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/a-sub-45-minute-10k-gave-tinloof-the-concept-for-enroutes-identity/Enroute-Tinloof-10.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Tinloof designed a graphic symbol of dots and bars, informed by the body’s performance metrics, such as lactate levels and VO₂ max. “The dot system represents a simple, universal concept in sport: a starting point and a finish line,” Viktor tells us. “Regardless of the discipline, there’s always a point where you begin and a goal you’re working towards.” The agency first proposed the dots as the primary logomark, but Enroute preferred a more traditional, recognisable one made from the letter ‘e.’ The symbol sits alongside it. “A symbol you don’t decode instantly is a good symbol: it generates curiosity,” he notes."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/a-sub-45-minute-10k-gave-tinloof-the-concept-for-enroutes-identity/Enroute-Tinloof-04.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/a-sub-45-minute-10k-gave-tinloof-the-concept-for-enroutes-identity/Enroute-Tinloof-05.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Beyond the symbol, the dots represent training data, and their number depends on the distance of a run or ride. A 5K has four dots, for example, with a fifth marking the finish line. Dots counted this way appear on community activities, session trackers and posters for group runs. “Their spacing also reflects the type of activity and the intensity of the effort,” Viktor explains. “During an easy 10K run or cycling session, where you maintain a consistent effort in Zone 2 at around 135 BPM, the dots follow a steady, rhythmic pattern with almost equal spacing. For a high-intensity session, the pattern changes. You might start with a 2K warm-up in Zone 2, followed by a series of short, intense sprints and recovery periods. These shifts in intensity break the regular rhythm, creating a more dynamic pattern that reflects the different training blocks.”"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/a-sub-45-minute-10k-gave-tinloof-the-concept-for-enroutes-identity/Enroute-Tinloof-02.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Florian Karsten’s FK Grotesk is used for all typography other than the wordmark, from the online stores and app to printed materials. Tinloof picked it for its “strong geometric precision.” “When you set text flush to the edges, top, bottom, left or right, it locks into a sharp line,” Viktor notes. “There’s a sense of stability to it, especially in the bold weights, where the text forms solid blocks.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/a-sub-45-minute-10k-gave-tinloof-the-concept-for-enroutes-identity/_2000xAUTO_crop_center-center_85_none/15206857/Enroute-Tinloof-03.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The palette of Wet Grey, Soft Grey and Black is muted, so imagery of footwear and apparel remains the focus. The art direction applies the blurred perception that comes with physical exertion to real-life photography of athletes in motion. “Sharp shots are about the brands, and we didn’t want to compete with them,” Viktor explains. “Blurred crops of a face mid-struggle, a smile, teeth, an eye. Those are about the activity and the community.”"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/a-sub-45-minute-10k-gave-tinloof-the-concept-for-enroutes-identity/Enroute-Tinloof-14.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The motion identity, led by Charles Carlos, draws on the same performance metrics behind the dots and bars. “It’s what’s happening inside your body during effort, translated into the work,” Viktor adds. A teaser made with 3D designer Ali Raybould and sound designer Markus Sasse shows footsteps through mud and snow."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/a-sub-45-minute-10k-gave-tinloof-the-concept-for-enroutes-identity/_2000xAUTO_crop_center-center_85_none/15207319/Enroute-Tinloof-11.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "A unified design system serves both online stores, enroute.run for running and enroute.cc for cycling, with only the products changing between them. On the stores, the dots track orders, and each status becomes “a checkpoint along the way, ending when the order arrives,” Viktor tells us. Enroute has also envisioned a custom report after a VO₂ max test, where the dots would show how someone performed. In the app, which lets the community discover, create and join events, the dots track personal progress, with checkpoints such as registering for a first community activity and then taking part in 10 activities. “On the personal side, you never reach the finish line,” he notes. “You can always be better. There’s no cap on becoming a better athlete, so the line just keeps stretching.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/a-sub-45-minute-10k-gave-tinloof-the-concept-for-enroutes-identity/_2000xAUTO_crop_center-center_85_none/15207152/Enroute-Tinloof-08.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/a-sub-45-minute-10k-gave-tinloof-the-concept-for-enroutes-identity/_2000xAUTO_crop_center-center_85_none/15207154/Enroute-Tinloof-09.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Enroute’s community met the identity “initially with surprise,” Salas tells us. “There was a mix of feelings; some loved it deeply, while others felt strongly about it. But that was expected,” he adds. “The community easily recognises us, and we feel more confident taking on more initiatives.” Since the identity went live, Enroute has opened a store in Boulder, in the US, and launched HR40, a digital companion on its site that helps athletes and sports enthusiasts pick the best gear for their goals. “Its brand is an extension of the system we created.”"
+        }
+      ],
+      "caseStudyText": "Enroute is a running/cycling store and community based in Vancouver that had gone for years without a clearly defined identity. With plans to grow beyond Canada, new retail stores and its first mobile app ahead, Enroute commissioned design and development agency Tinloof to create its first proper brand strategy, visual and motion identity, online store and app design. Tinloof added a watch app, too. “We needed a clear identity to root ourselves in,” explains Enroute’s founder, Sebastian Salas, a former professional athlete. “This would allow us to move confidently and create one Enroute experience across physical and online stores.”\n\n“They don’t have a single product to anchor to. They carry a whole catalogue of brands. So the idea had to be a system every brand could plug into,” explains Tinloof’s Creative Director Viktor Horváth, who led the project. Tinloof landed on the line ‘Outpace Yourself.’ “It works for Salomon; it works for whoever,” he adds. “And it allows the products to remain prominent. Products first, Enroute second.” Viktor was chasing a sub-45-minute 10K while designing the identity. “When you’re chasing that, you don’t drink 10 beers the night before,” he notes. “You reshape your whole life around one thing, and you’re already pushing yourself before you’ve even laced up. That’s the principle that shaped the brand idea.”\n\n‘Outpace Yourself’ also shapes the visual language, which Tinloof built around the idea of pushing to the limit, with elements that stretch and compress under pressure. “You tighten the timeline to expand the capability,” Viktor details. “You want sub-50, then sub-45, then sub-40. Tighter, tighter, tighter. By squeezing the time, you’re literally expanding what your body can do.” That thinking also went into the wordmark, which is based on Only by Swiss Typefaces – its letterforms modified to make the logotype as wide as possible and set with extremely tight kerning.\n\nTinloof designed a graphic symbol of dots and bars, informed by the body’s performance metrics, such as lactate levels and VO₂ max. “The dot system represents a simple, universal concept in sport: a starting point and a finish line,” Viktor tells us. “Regardless of the discipline, there’s always a point where you begin and a goal you’re working towards.” The agency first proposed the dots as the primary logomark, but Enroute preferred a more traditional, recognisable one made from the letter ‘e.’ The symbol sits alongside it. “A symbol you don’t decode instantly is a good symbol: it generates curiosity,” he notes.\n\nBeyond the symbol, the dots represent training data, and their number depends on the distance of a run or ride. A 5K has four dots, for example, with a fifth marking the finish line. Dots counted this way appear on community activities, session trackers and posters for group runs. “Their spacing also reflects the type of activity and the intensity of the effort,” Viktor explains. “During an easy 10K run or cycling session, where you maintain a consistent effort in Zone 2 at around 135 BPM, the dots follow a steady, rhythmic pattern with almost equal spacing. For a high-intensity session, the pattern changes. You might start with a 2K warm-up in Zone 2, followed by a series of short, intense sprints and recovery periods. These shifts in intensity break the regular rhythm, creating a more dynamic pattern that reflects the different training blocks.”\n\nFlorian Karsten’s FK Grotesk is used for all typography other than the wordmark, from the online stores and app to printed materials. Tinloof picked it for its “strong geometric precision.” “When you set text flush to the edges, top, bottom, left or right, it locks into a sharp line,” Viktor notes. “There’s a sense of stability to it, especially in the bold weights, where the text forms solid blocks.”\n\nThe palette of Wet Grey, Soft Grey and Black is muted, so imagery of footwear and apparel remains the focus. The art direction applies the blurred perception that comes with physical exertion to real-life photography of athletes in motion. “Sharp shots are about the brands, and we didn’t want to compete with them,” Viktor explains. “Blurred crops of a face mid-struggle, a smile, teeth, an eye. Those are about the activity and the community.”\n\nThe motion identity, led by Charles Carlos, draws on the same performance metrics behind the dots and bars. “It’s what’s happening inside your body during effort, translated into the work,” Viktor adds. A teaser made with 3D designer Ali Raybould and sound designer Markus Sasse shows footsteps through mud and snow.\n\nA unified design system serves both online stores, enroute.run for running and enroute.cc for cycling, with only the products changing between them. On the stores, the dots track orders, and each status becomes “a checkpoint along the way, ending when the order arrives,” Viktor tells us. Enroute has also envisioned a custom report after a VO₂ max test, where the dots would show how someone performed. In the app, which lets the community discover, create and join events, the dots track personal progress, with checkpoints such as registering for a first community activity and then taking part in 10 activities. “On the personal side, you never reach the finish line,” he notes. “You can always be better. There’s no cap on becoming a better athlete, so the line just keeps stretching.”\n\nEnroute’s community met the identity “initially with surprise,” Salas tells us. “There was a mix of feelings; some loved it deeply, while others felt strongly about it. But that was expected,” he adds. “The community easily recognises us, and we feel more confident taking on more initiatives.” Since the identity went live, Enroute has opened a store in Boulder, in the US, and launched HR40, a digital companion on its site that helps athletes and sports enthusiasts pick the best gear for their goals. “Its brand is an extension of the system we created.”",
+      "caseStudyMedia": [
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/a-sub-45-minute-10k-gave-tinloof-the-concept-for-enroutes-identity/Enroute-Tinloof-01.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/a-sub-45-minute-10k-gave-tinloof-the-concept-for-enroutes-identity/Enroute-Tinloof-15.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/a-sub-45-minute-10k-gave-tinloof-the-concept-for-enroutes-identity/_2000xAUTO_crop_center-center_85_none/15207497/Enroute-Tinloof-12.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/a-sub-45-minute-10k-gave-tinloof-the-concept-for-enroutes-identity/_2000xAUTO_crop_center-center_85_none/15207499/Enroute-Tinloof-13.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/a-sub-45-minute-10k-gave-tinloof-the-concept-for-enroutes-identity/Enroute-Tinloof-10.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/a-sub-45-minute-10k-gave-tinloof-the-concept-for-enroutes-identity/Enroute-Tinloof-04.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/a-sub-45-minute-10k-gave-tinloof-the-concept-for-enroutes-identity/Enroute-Tinloof-05.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/a-sub-45-minute-10k-gave-tinloof-the-concept-for-enroutes-identity/Enroute-Tinloof-02.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/a-sub-45-minute-10k-gave-tinloof-the-concept-for-enroutes-identity/_2000xAUTO_crop_center-center_85_none/15206857/Enroute-Tinloof-03.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/a-sub-45-minute-10k-gave-tinloof-the-concept-for-enroutes-identity/Enroute-Tinloof-14.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/a-sub-45-minute-10k-gave-tinloof-the-concept-for-enroutes-identity/_2000xAUTO_crop_center-center_85_none/15207319/Enroute-Tinloof-11.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/a-sub-45-minute-10k-gave-tinloof-the-concept-for-enroutes-identity/_2000xAUTO_crop_center-center_85_none/15207152/Enroute-Tinloof-08.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/a-sub-45-minute-10k-gave-tinloof-the-concept-for-enroutes-identity/_2000xAUTO_crop_center-center_85_none/15207154/Enroute-Tinloof-09.webp"
+        }
+      ]
+    },
+    {
       "canonicalUrl": "https://the-brandidentity.com/project/survive-the-fiscal-year-in-better-half-cult-holdings-game-for-brex",
       "titleOriginal": "Survive the fiscal year in Better Half / Cult Holdings’ game for Brex",
       "textOriginal": "Fiscal Mania is an original arcade game in which players have to survive a fiscal year. New York-based creative studio Better Half / Cult Holdings created it for Brex , a finance platform for growing companies, along with the arcade cabinets that house it, a microsite and launch events in New York and San Francisco.\n\nBrex’s core promise is eliminating operational drag – the build-up of administrative friction – for finance leaders. The company brought it to the studio with “a clear challenge: connect that promise to culture by showing it, not just pitching it,” the Brex team tells us. Better Half / Cult Holdings pitched several creative angles, and Brex chose video game speedrunning – the practice of finishing a game as fast as possible. “Speedrunning gave us a sharp metaphor for solving operational drag.”",
