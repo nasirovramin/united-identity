@@ -7,6 +7,160 @@ const snapshot={
   },
   "items": [
     {
+      "canonicalUrl": "https://the-brandidentity.com/project/twice-shy-positions-tula-louise-as-a-soap-atelier-through-a-rebrand",
+      "titleOriginal": "Twice Shy positions Tula Louise as a soap atelier through a rebrand",
+      "textOriginal": "Tula Louise is a soap brand that Jowanda Daley-Thomas started during COVID, when she began experimenting with natural pigments. Independent branding studio Twice Shy was commissioned to rework the brand as it stood, from strategy and positioning to the identity, logo, art direction and packaging design.\n\nTula Louise already had a logo and a visual world built over the years through photography and packaging. “The main issue was that the brand had started moving in many different directions and it wasn’t always clear what the strongest idea behind Tula Louise actually was,” Daley-Thomas explains. “I wanted the rebrand to give the brand more structure and confidence, creating something that felt more design-led and long-term without losing the character and creativity that was already there,” she adds. In Twice Shy’s view, the branding wasn’t communicating what made the products different, so retailers could easily mistake Tula Louise for any other soap maker.",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/twice-shy-positions-tula-louise-as-a-soap-atelier-through-a-rebrand/Tula-Louise-Twice-Shy-Studio-01_2026-10-29-044211_iyfy.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/twice-shy-positions-tula-louise-as-a-soap-atelier-through-a-rebrand/_2000xAUTO_crop_center-center_85_none/15279958/Tula-Louise-Twice-Shy-Studio-01_2026-10-29-044211_iyfy.webp"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "Tula Louise is a soap brand that Jowanda Daley-Thomas started during COVID, when she began experimenting with natural pigments. Independent branding studio Twice Shy was commissioned to rework the brand as it stood, from strategy and positioning to the identity, logo, art direction and packaging design."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/twice-shy-positions-tula-louise-as-a-soap-atelier-through-a-rebrand/_2000xAUTO_crop_center-center_85_none/15587199/Tula-Louise-Twice-Shy-Studio-02-new.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Tula Louise already had a logo and a visual world built over the years through photography and packaging. “The main issue was that the brand had started moving in many different directions and it wasn’t always clear what the strongest idea behind Tula Louise actually was,” Daley-Thomas explains. “I wanted the rebrand to give the brand more structure and confidence, creating something that felt more design-led and long-term without losing the character and creativity that was already there,” she adds. In Twice Shy’s view, the branding wasn’t communicating what made the products different, so retailers could easily mistake Tula Louise for any other soap maker."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/twice-shy-positions-tula-louise-as-a-soap-atelier-through-a-rebrand/_2000xAUTO_crop_center-center_85_none/15280234/Tula-Louise-Twice-Shy-Studio-03.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/twice-shy-positions-tula-louise-as-a-soap-atelier-through-a-rebrand/_2000xAUTO_crop_center-center_85_none/15280236/Tula-Louise-Twice-Shy-Studio-04.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The studio decided to position Tula Louise as a soap atelier – “a small studio working with soap as a material.” Together with Daley-Thomas, they structured the range into a Core Collection of dependable bars for retailers to reorder, alongside the limited and more experimental Studio Editions. “That split is the atelier idea in practice,” explains Twice Shy’s Co-founder, Jeroen van den Bogaert."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/twice-shy-positions-tula-louise-as-a-soap-atelier-through-a-rebrand/_2000xAUTO_crop_center-center_85_none/15587202/Tula-Louise-Twice-Shy-Studio-05-new.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/twice-shy-positions-tula-louise-as-a-soap-atelier-through-a-rebrand/_2000xAUTO_crop_center-center_85_none/15280238/Tula-Louise-Twice-Shy-Studio-06.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "During its initial research, the studio looked at the traditional label and tag shapes found in old workshops, apothecaries and boutiques. “We felt these familiar forms could help establish the atmosphere we were looking for,” Van den Bogaert notes. Twice Shy removed the ornament from the labels until only their outlines were left. The resulting system has 12 outlines. Labels like these traditionally frame typography to identify or categorise objects. “Instead of using these shapes to contain information, we made the shapes themselves the information, turning a familiar functional system into a visual language,” he continues."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/twice-shy-positions-tula-louise-as-a-soap-atelier-through-a-rebrand/_2000xAUTO_crop_center-center_85_none/15280255/Tula-Louise-Twice-Shy-Studio-08.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/twice-shy-positions-tula-louise-as-a-soap-atelier-through-a-rebrand/_2000xAUTO_crop_center-center_85_none/15280257/Tula-Louise-Twice-Shy-Studio-09.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The shape system has one rule: angular shapes are always combined with soft ones. “We did this to avoid a sharp and aggressive look,” Van den Bogaert tells us. The shapes connect horizontally and vertically, in pairs or in chains of up to four, and are selected to fit the dimensions of the item they appear on. Different combinations give individual products their own character. One pairing, an oval linked through a rectangle, “became the logo itself, so every other combination feels related to it.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/twice-shy-positions-tula-louise-as-a-soap-atelier-through-a-rebrand/_2000xAUTO_crop_center-center_85_none/15587206/Tula-Louise-Twice-Shy-Studio-13.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The wordmark, separate from that logo, is set in Daniel Gremme’s Memoir, with custom kerning. Memoir’s letterforms have curved notches and soft inward details. “Much like our visual system, the typeface reinterprets classic forms through a contemporary lens,” Van den Bogaert notes. The body text is set in Hanken Grotesk, which draws on classic grotesque typefaces. The palette is black, white and a few stone and paper tones, leaving the colour to the soaps, which take it from clays, charcoal and botanicals such as indigo and turmeric."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/twice-shy-positions-tula-louise-as-a-soap-atelier-through-a-rebrand/_2000xAUTO_crop_center-center_85_none/15280259/Tula-Louise-Twice-Shy-Studio-10.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Single bars are wrapped in translucent vellum paper with a metal closure, so the soap shows through. Daley-Thomas cuts and compiles the paper wraps by hand. Collection boxes use natural, unpigmented card. The shapes and wordmark appear together or separately, at sizes from small labels to large boxes. The wordmark is debossed into each bar, “so the brand appears every time the soap is used and gently softens as it wears away,” Van den Bogaert explains. Daley-Thomas presses the wordmark in by hand in her London studio, using a custom acrylic stamp."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/twice-shy-positions-tula-louise-as-a-soap-atelier-through-a-rebrand/_2000xAUTO_crop_center-center_85_none/15280260/Tula-Louise-Twice-Shy-Studio-11.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/twice-shy-positions-tula-louise-as-a-soap-atelier-through-a-rebrand/_2000xAUTO_crop_center-center_85_none/15280261/Tula-Louise-Twice-Shy-Studio-12.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“For the photography, we wanted to create something intimate and tactile, with an almost analogue quality,” Van den Bogaert details. The photographs have visible grain, natural daylight and deep colours, and their shadows keep subtle undertones rather than falling into flat blacks. The imagery was developed to explore how this photographic direction could translate to the brand’s website and social media."
+        }
+      ],
+      "caseStudyText": "Tula Louise is a soap brand that Jowanda Daley-Thomas started during COVID, when she began experimenting with natural pigments. Independent branding studio Twice Shy was commissioned to rework the brand as it stood, from strategy and positioning to the identity, logo, art direction and packaging design.\n\nTula Louise already had a logo and a visual world built over the years through photography and packaging. “The main issue was that the brand had started moving in many different directions and it wasn’t always clear what the strongest idea behind Tula Louise actually was,” Daley-Thomas explains. “I wanted the rebrand to give the brand more structure and confidence, creating something that felt more design-led and long-term without losing the character and creativity that was already there,” she adds. In Twice Shy’s view, the branding wasn’t communicating what made the products different, so retailers could easily mistake Tula Louise for any other soap maker.\n\nThe studio decided to position Tula Louise as a soap atelier – “a small studio working with soap as a material.” Together with Daley-Thomas, they structured the range into a Core Collection of dependable bars for retailers to reorder, alongside the limited and more experimental Studio Editions. “That split is the atelier idea in practice,” explains Twice Shy’s Co-founder, Jeroen van den Bogaert.\n\nDuring its initial research, the studio looked at the traditional label and tag shapes found in old workshops, apothecaries and boutiques. “We felt these familiar forms could help establish the atmosphere we were looking for,” Van den Bogaert notes. Twice Shy removed the ornament from the labels until only their outlines were left. The resulting system has 12 outlines. Labels like these traditionally frame typography to identify or categorise objects. “Instead of using these shapes to contain information, we made the shapes themselves the information, turning a familiar functional system into a visual language,” he continues.\n\nThe shape system has one rule: angular shapes are always combined with soft ones. “We did this to avoid a sharp and aggressive look,” Van den Bogaert tells us. The shapes connect horizontally and vertically, in pairs or in chains of up to four, and are selected to fit the dimensions of the item they appear on. Different combinations give individual products their own character. One pairing, an oval linked through a rectangle, “became the logo itself, so every other combination feels related to it.”\n\nThe wordmark, separate from that logo, is set in Daniel Gremme’s Memoir, with custom kerning. Memoir’s letterforms have curved notches and soft inward details. “Much like our visual system, the typeface reinterprets classic forms through a contemporary lens,” Van den Bogaert notes. The body text is set in Hanken Grotesk, which draws on classic grotesque typefaces. The palette is black, white and a few stone and paper tones, leaving the colour to the soaps, which take it from clays, charcoal and botanicals such as indigo and turmeric.\n\nSingle bars are wrapped in translucent vellum paper with a metal closure, so the soap shows through. Daley-Thomas cuts and compiles the paper wraps by hand. Collection boxes use natural, unpigmented card. The shapes and wordmark appear together or separately, at sizes from small labels to large boxes. The wordmark is debossed into each bar, “so the brand appears every time the soap is used and gently softens as it wears away,” Van den Bogaert explains. Daley-Thomas presses the wordmark in by hand in her London studio, using a custom acrylic stamp.\n\n“For the photography, we wanted to create something intimate and tactile, with an almost analogue quality,” Van den Bogaert details. The photographs have visible grain, natural daylight and deep colours, and their shadows keep subtle undertones rather than falling into flat blacks. The imagery was developed to explore how this photographic direction could translate to the brand’s website and social media.",
+      "caseStudyMedia": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/twice-shy-positions-tula-louise-as-a-soap-atelier-through-a-rebrand/_2000xAUTO_crop_center-center_85_none/15279958/Tula-Louise-Twice-Shy-Studio-01_2026-10-29-044211_iyfy.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/twice-shy-positions-tula-louise-as-a-soap-atelier-through-a-rebrand/_2000xAUTO_crop_center-center_85_none/15587199/Tula-Louise-Twice-Shy-Studio-02-new.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/twice-shy-positions-tula-louise-as-a-soap-atelier-through-a-rebrand/_2000xAUTO_crop_center-center_85_none/15280234/Tula-Louise-Twice-Shy-Studio-03.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/twice-shy-positions-tula-louise-as-a-soap-atelier-through-a-rebrand/_2000xAUTO_crop_center-center_85_none/15280236/Tula-Louise-Twice-Shy-Studio-04.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/twice-shy-positions-tula-louise-as-a-soap-atelier-through-a-rebrand/_2000xAUTO_crop_center-center_85_none/15587202/Tula-Louise-Twice-Shy-Studio-05-new.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/twice-shy-positions-tula-louise-as-a-soap-atelier-through-a-rebrand/_2000xAUTO_crop_center-center_85_none/15280238/Tula-Louise-Twice-Shy-Studio-06.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/twice-shy-positions-tula-louise-as-a-soap-atelier-through-a-rebrand/_2000xAUTO_crop_center-center_85_none/15280255/Tula-Louise-Twice-Shy-Studio-08.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/twice-shy-positions-tula-louise-as-a-soap-atelier-through-a-rebrand/_2000xAUTO_crop_center-center_85_none/15280257/Tula-Louise-Twice-Shy-Studio-09.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/twice-shy-positions-tula-louise-as-a-soap-atelier-through-a-rebrand/_2000xAUTO_crop_center-center_85_none/15587206/Tula-Louise-Twice-Shy-Studio-13.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/twice-shy-positions-tula-louise-as-a-soap-atelier-through-a-rebrand/_2000xAUTO_crop_center-center_85_none/15280259/Tula-Louise-Twice-Shy-Studio-10.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/twice-shy-positions-tula-louise-as-a-soap-atelier-through-a-rebrand/_2000xAUTO_crop_center-center_85_none/15280260/Tula-Louise-Twice-Shy-Studio-11.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/twice-shy-positions-tula-louise-as-a-soap-atelier-through-a-rebrand/_2000xAUTO_crop_center-center_85_none/15280261/Tula-Louise-Twice-Shy-Studio-12.webp"
+        }
+      ]
+    },
+    {
       "canonicalUrl": "https://the-brandidentity.com/project/a-sub-45-minute-10k-gave-tinloof-the-concept-for-enroutes-identity",
       "titleOriginal": "A sub-45-minute 10K gave Tinloof the concept for Enroute’s identity",
       "textOriginal": "Enroute is a running/cycling store and community based in Vancouver that had gone for years without a clearly defined identity. With plans to grow beyond Canada, new retail stores and its first mobile app ahead, Enroute commissioned design and development agency Tinloof to create its first proper brand strategy, visual and motion identity, online store and app design. Tinloof added a watch app, too. “We needed a clear identity to root ourselves in,” explains Enroute’s founder, Sebastian Salas, a former professional athlete. “This would allow us to move confidently and create one Enroute experience across physical and online stores.”\n\n“They don’t have a single product to anchor to. They carry a whole catalogue of brands. So the idea had to be a system every brand could plug into,” explains Tinloof’s Creative Director Viktor Horváth, who led the project. Tinloof landed on the line ‘Outpace Yourself.’ “It works for Salomon; it works for whoever,” he adds. “And it allows the products to remain prominent. Products first, Enroute second.” Viktor was chasing a sub-45-minute 10K while designing the identity. “When you’re chasing that, you don’t drink 10 beers the night before,” he notes. “You reshape your whole life around one thing, and you’re already pushing yourself before you’ve even laced up. That’s the principle that shaped the brand idea.”",
