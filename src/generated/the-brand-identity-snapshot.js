@@ -7,6 +7,194 @@ const snapshot={
   },
   "items": [
     {
+      "canonicalUrl": "https://the-brandidentity.com/project/how-new-apology-branded-et-al-for-creators-without-factory-contact",
+      "titleOriginal": "How New Apology branded ET AL for creators without factory contact",
+      "textOriginal": "ET AL produces apparel for creative people, young clothing brands and small teams, taking on sourcing, sampling, production and delivery, as well as inventory and reorders after launch. Its customers have had to choose between print-on-demand, which is easy but generic, and traditional production, with its high minimums and months spent chasing factories. Provo-based design studio New Apology was brought in to create ET AL’s brand strategy, identity and website, as well as to art-direct all of its photography. “Together, we rallied around the concept of ‘pre-commerce’ and the thesis that ‘taste deserves infrastructure,’” explains New Apology’s founder Lyman Ballif. “Fashion and apparel production are notoriously gatekept industries where access usually requires decades of supply-chain networking. If ET AL is democratising that access, the brand needs to feel just as approachable to a creator in Des Moines, Iowa, as it does to an insider in New York.”\n\nET AL’s founder Carson Kofford has spent 10 years in fashion and brand, hitting “just about every wall there is trying to make ideas real,” and two years of sleeping on a pull-out couch in downtown Los Angeles taught him that “it shouldn’t be as hard as it is.” “I came to them with a pretty big vision,” he tells us of approaching New Apology, and his first ask was “help me make sense of this thing in my head.” The name for the category came later. ET AL first described itself as a ‘brand engine,’ but “it fell a little flat with the people we were talking to,” Kofford explains. “Pre-commerce just naturally explained the space we’re in. And most importantly, it clicked without us really having to explain it.” To a young brand, he puts it like this: “Everyone’s built tools for selling a product. We’re here for the part before that, when it’s still just an idea, a lot of questions and maybe a few bad samples.”",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/_video-thumbnails/15586894.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-new-apology-branded-et-al-for-creators-without-factory-contact/Et-Al-New-Apology-01.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "ET AL produces apparel for creative people, young clothing brands and small teams, taking on sourcing, sampling, production and delivery, as well as inventory and reorders after launch. Its customers have had to choose between print-on-demand, which is easy but generic, and traditional production, with its high minimums and months spent chasing factories. Provo-based design studio New Apology was brought in to create ET AL’s brand strategy, identity and website, as well as to art-direct all of its photography. “Together, we rallied around the concept of ‘pre-commerce’ and the thesis that ‘taste deserves infrastructure,’” explains New Apology’s founder Lyman Ballif. “Fashion and apparel production are notoriously gatekept industries where access usually requires decades of supply-chain networking. If ET AL is democratising that access, the brand needs to feel just as approachable to a creator in Des Moines, Iowa, as it does to an insider in New York.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-new-apology-branded-et-al-for-creators-without-factory-contact/_2000xAUTO_crop_center-center_85_none/15585832/Et-Al-New-Apology-03.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-new-apology-branded-et-al-for-creators-without-factory-contact/_2000xAUTO_crop_center-center_85_none/15585835/Et-Al-New-Apology-15.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "ET AL’s founder Carson Kofford has spent 10 years in fashion and brand, hitting “just about every wall there is trying to make ideas real,” and two years of sleeping on a pull-out couch in downtown Los Angeles taught him that “it shouldn’t be as hard as it is.” “I came to them with a pretty big vision,” he tells us of approaching New Apology, and his first ask was “help me make sense of this thing in my head.” The name for the category came later. ET AL first described itself as a ‘brand engine,’ but “it fell a little flat with the people we were talking to,” Kofford explains. “Pre-commerce just naturally explained the space we’re in. And most importantly, it clicked without us really having to explain it.” To a young brand, he puts it like this: “Everyone’s built tools for selling a product. We’re here for the part before that, when it’s still just an idea, a lot of questions and maybe a few bad samples.”"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-new-apology-branded-et-al-for-creators-without-factory-contact/Et-Al-New-Apology-04-new_smaller.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“Because his vision was so expansive, encompassing everything from a multi-path catalogue to a full software ecosystem like ProductOS, much of our strategic work was deciding what the brand wouldn’t be right away,” Ballif notes. “A totalising solution can easily overwhelm a user. Our job was to build a system flexible enough to house future software like ProductOS, while creating a clear, immediate front door for the customer today.” ET AL launched with Supply, its production service, starting with t-shirts and hoodies. “The t-shirt is the ultimate democratising medium. Everyone wears them; they are walking protests, walking advertisements, walking belief systems,” Ballif continues. “If we’re going to make physical goods in today’s economy and environment, they need to have meaning. You imbue meaning through quality, where something is manufactured, the weight of the material, how the print is applied and the reliability of the supply chain.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-new-apology-branded-et-al-for-creators-without-factory-contact/_2000xAUTO_crop_center-center_85_none/15585839/Et-Al-New-Apology-14.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-new-apology-branded-et-al-for-creators-without-factory-contact/Et-Al-New-Apology-05-new_smaller.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "ET AL set out “to distil complexity out of apparel manufacturing,” Ballif details, “and our brief was to do the same thing visually and verbally.” “We always start by asking what is at stake for the end user,” he explains. “Taking the leap to manufacture a clothing line requires risking real capital, so the brand had to function as an extension of the product and instil immediate trust and confidence.” The design system works across software and soft goods alike, with New Apology’s work covering everything from fabric and colour swatches to UI components, software architecture and marketing. “We stripped away all the ego-driven extras and reduced the system down to only the elements of substance. Only the functional survives,” he adds."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-new-apology-branded-et-al-for-creators-without-factory-contact/_2000xAUTO_crop_center-center_85_none/15586895/Et-Al-New-Apology-07-new.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "New Apology’s designer Stasia Lutova originally drew a version of ET AL’s logomark, an ‘e’ and a ‘t,’ and didn’t think it was worth pursuing. It was sitting among the designs she had rejected when Ballif saw it: “It had an elegant, impossibly simple 90s or early-2000s sensibility; it was all the things you want in a mark: iconic, memorable, familiar and a little bit risky.” The studio constantly returns to photographs and advertisements from that era, but on this project “we didn’t want to lean into nostalgia as a motif,” he explains. “The mark had that timeless quality: simple enough to feel classic.” New Apology also explored two other major directions, one of them a chunkier, extra-wide wordmark paired with ultra-thin elements and a separate symbol, and Kofford chose the ‘e’ and ‘t.’ “We didn’t think he would pick this direction at first,” Ballif reveals."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-new-apology-branded-et-al-for-creators-without-factory-contact/Et-Al-New-Apology-08.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-new-apology-branded-et-al-for-creators-without-factory-contact/Et-Al-New-Apology-09-new.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "In the geometric version that New Apology developed from Lutova’s drawing, the ‘t’ doubles as a plus sign, and the mark’s tension sits in the contrast between the crossbar of the ‘t’ and the crossbar of the ‘e.’ “Carson had a very expansive vision for what the company could become, and he chose the name ET AL because it means ‘with others,’” Ballif explains. “Turning the ‘t’ into a plus sign baked collaboration right into the symbol. It’s the brand plus everyone else.” The logomark was mastered – refined into its final technical form – by collaborator J. Hunor Vari. “Because that high contrast between the crossbars would disappear at smaller, more physical scales, we worked with him to engineer a variable version of the mark. As it scales down, the contrast reduces and the strokes become more uniform. If you embroider it on a garment at the smallest size, it resolves cleanly into a single, legible width,” Ballif tells us."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-new-apology-branded-et-al-for-creators-without-factory-contact/_2000xAUTO_crop_center-center_85_none/15586901/Et-Al-New-Apology-10-new.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-new-apology-branded-et-al-for-creators-without-factory-contact/_2000xAUTO_crop_center-center_85_none/15586915/Et-Al-New-Apology-16.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Even after New Apology had settled on the mark, Kofford resisted the colour it proposed for the identity, yellow. “We really had to push for it,” Ballif recalls. “He came around and now it’s a signature part of the system.” The primary typeface is Swiss foundry Optimo’s workhorse sans serif Rand, designed by François Rappo. “On ET AL, the logomark came first; once we locked that anchor in, Rand had the exact structural range to build the rest of the world around it,” Ballif notes. “At first glance, Rand plays like a very neutral grotesque – until it doesn’t,” he adds. “Its personality lives in how specific letterforms confront the baseline. The lowercase ‘t,’ for instance, tapers and hits the baseline with a sharp, distinct tension instead of overshooting it like a typical curved character. In lighter weights, you almost miss it, so it reveals itself over time.”"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-new-apology-branded-et-al-for-creators-without-factory-contact/Et-Al-New-Apology-12-new.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“Because the engine of the site is a functional configurator that a client might use 1,000 times, we practised real restraint,” Ballif explains. “We limit ourselves to one or two gestures per surface so the interface never gets in the way of the tool.” The site centres on soft-linking buttons, with a text descriptor and a call-to-action icon joined by a liquid-like bridge, and the two separate or join when you hover. “It’s a tactile moment of delight, but it’s grounded in accessibility: using subtle, organic motion rather than a jarring colour inversion to clearly communicate what you’re clicking on,” he adds."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-new-apology-branded-et-al-for-creators-without-factory-contact/Et-Al-New-Apology-13-new.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“We’ve always believed that creative success comes from embracing constraints rather than trying to succeed in spite of them,” Ballif tells us. New Apology needed a large library of assets across several shoots on an early-stage start-up budget, so it art-directed the photography in Kyiv with local artists. “The shoot in Ukraine happened because they took the initiative and turned global,” Kofford recalls. “Working with our local production partner in Kyiv unlocked a level of modelling, art direction and editorial talent that we simply couldn’t have accessed anywhere else, especially not in LA, where a comparable production would have cost five to seven times more,” Ballif explains. “Even during incessant air raids and a limping economy, designers and makers in Kyiv have proven an extraordinary resourcefulness,” he continues, describing a way of “turning tight constraints into something expansive.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-new-apology-branded-et-al-for-creators-without-factory-contact/_2000xAUTO_crop_center-center_85_none/15586904/Et-Al-New-Apology-14-new.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-new-apology-branded-et-al-for-creators-without-factory-contact/_2000xAUTO_crop_center-center_85_none/15586913/Et-Al-New-Apology-06-new.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Kofford was ET AL’s sole founder and employee when the work began, and the company has since grown to a 12-person team. “Because he trusted us to solve the core problem without death-by-committee, we were able to build an engine strong enough to scale,” Ballif explains. “People assume we’re a big company because everything is so beautifully done,” Kofford concludes. “For our team, it gave us something to rally around. You could finally point at it and say, that’s us.”"
+        }
+      ],
+      "caseStudyText": "ET AL produces apparel for creative people, young clothing brands and small teams, taking on sourcing, sampling, production and delivery, as well as inventory and reorders after launch. Its customers have had to choose between print-on-demand, which is easy but generic, and traditional production, with its high minimums and months spent chasing factories. Provo-based design studio New Apology was brought in to create ET AL’s brand strategy, identity and website, as well as to art-direct all of its photography. “Together, we rallied around the concept of ‘pre-commerce’ and the thesis that ‘taste deserves infrastructure,’” explains New Apology’s founder Lyman Ballif. “Fashion and apparel production are notoriously gatekept industries where access usually requires decades of supply-chain networking. If ET AL is democratising that access, the brand needs to feel just as approachable to a creator in Des Moines, Iowa, as it does to an insider in New York.”\n\nET AL’s founder Carson Kofford has spent 10 years in fashion and brand, hitting “just about every wall there is trying to make ideas real,” and two years of sleeping on a pull-out couch in downtown Los Angeles taught him that “it shouldn’t be as hard as it is.” “I came to them with a pretty big vision,” he tells us of approaching New Apology, and his first ask was “help me make sense of this thing in my head.” The name for the category came later. ET AL first described itself as a ‘brand engine,’ but “it fell a little flat with the people we were talking to,” Kofford explains. “Pre-commerce just naturally explained the space we’re in. And most importantly, it clicked without us really having to explain it.” To a young brand, he puts it like this: “Everyone’s built tools for selling a product. We’re here for the part before that, when it’s still just an idea, a lot of questions and maybe a few bad samples.”\n\n“Because his vision was so expansive, encompassing everything from a multi-path catalogue to a full software ecosystem like ProductOS, much of our strategic work was deciding what the brand wouldn’t be right away,” Ballif notes. “A totalising solution can easily overwhelm a user. Our job was to build a system flexible enough to house future software like ProductOS, while creating a clear, immediate front door for the customer today.” ET AL launched with Supply, its production service, starting with t-shirts and hoodies. “The t-shirt is the ultimate democratising medium. Everyone wears them; they are walking protests, walking advertisements, walking belief systems,” Ballif continues. “If we’re going to make physical goods in today’s economy and environment, they need to have meaning. You imbue meaning through quality, where something is manufactured, the weight of the material, how the print is applied and the reliability of the supply chain.”\n\nET AL set out “to distil complexity out of apparel manufacturing,” Ballif details, “and our brief was to do the same thing visually and verbally.” “We always start by asking what is at stake for the end user,” he explains. “Taking the leap to manufacture a clothing line requires risking real capital, so the brand had to function as an extension of the product and instil immediate trust and confidence.” The design system works across software and soft goods alike, with New Apology’s work covering everything from fabric and colour swatches to UI components, software architecture and marketing. “We stripped away all the ego-driven extras and reduced the system down to only the elements of substance. Only the functional survives,” he adds.\n\nNew Apology’s designer Stasia Lutova originally drew a version of ET AL’s logomark, an ‘e’ and a ‘t,’ and didn’t think it was worth pursuing. It was sitting among the designs she had rejected when Ballif saw it: “It had an elegant, impossibly simple 90s or early-2000s sensibility; it was all the things you want in a mark: iconic, memorable, familiar and a little bit risky.” The studio constantly returns to photographs and advertisements from that era, but on this project “we didn’t want to lean into nostalgia as a motif,” he explains. “The mark had that timeless quality: simple enough to feel classic.” New Apology also explored two other major directions, one of them a chunkier, extra-wide wordmark paired with ultra-thin elements and a separate symbol, and Kofford chose the ‘e’ and ‘t.’ “We didn’t think he would pick this direction at first,” Ballif reveals.\n\nIn the geometric version that New Apology developed from Lutova’s drawing, the ‘t’ doubles as a plus sign, and the mark’s tension sits in the contrast between the crossbar of the ‘t’ and the crossbar of the ‘e.’ “Carson had a very expansive vision for what the company could become, and he chose the name ET AL because it means ‘with others,’” Ballif explains. “Turning the ‘t’ into a plus sign baked collaboration right into the symbol. It’s the brand plus everyone else.” The logomark was mastered – refined into its final technical form – by collaborator J. Hunor Vari. “Because that high contrast between the crossbars would disappear at smaller, more physical scales, we worked with him to engineer a variable version of the mark. As it scales down, the contrast reduces and the strokes become more uniform. If you embroider it on a garment at the smallest size, it resolves cleanly into a single, legible width,” Ballif tells us.\n\nEven after New Apology had settled on the mark, Kofford resisted the colour it proposed for the identity, yellow. “We really had to push for it,” Ballif recalls. “He came around and now it’s a signature part of the system.” The primary typeface is Swiss foundry Optimo’s workhorse sans serif Rand, designed by François Rappo. “On ET AL, the logomark came first; once we locked that anchor in, Rand had the exact structural range to build the rest of the world around it,” Ballif notes. “At first glance, Rand plays like a very neutral grotesque – until it doesn’t,” he adds. “Its personality lives in how specific letterforms confront the baseline. The lowercase ‘t,’ for instance, tapers and hits the baseline with a sharp, distinct tension instead of overshooting it like a typical curved character. In lighter weights, you almost miss it, so it reveals itself over time.”\n\n“Because the engine of the site is a functional configurator that a client might use 1,000 times, we practised real restraint,” Ballif explains. “We limit ourselves to one or two gestures per surface so the interface never gets in the way of the tool.” The site centres on soft-linking buttons, with a text descriptor and a call-to-action icon joined by a liquid-like bridge, and the two separate or join when you hover. “It’s a tactile moment of delight, but it’s grounded in accessibility: using subtle, organic motion rather than a jarring colour inversion to clearly communicate what you’re clicking on,” he adds.\n\n“We’ve always believed that creative success comes from embracing constraints rather than trying to succeed in spite of them,” Ballif tells us. New Apology needed a large library of assets across several shoots on an early-stage start-up budget, so it art-directed the photography in Kyiv with local artists. “The shoot in Ukraine happened because they took the initiative and turned global,” Kofford recalls. “Working with our local production partner in Kyiv unlocked a level of modelling, art direction and editorial talent that we simply couldn’t have accessed anywhere else, especially not in LA, where a comparable production would have cost five to seven times more,” Ballif explains. “Even during incessant air raids and a limping economy, designers and makers in Kyiv have proven an extraordinary resourcefulness,” he continues, describing a way of “turning tight constraints into something expansive.”\n\nKofford was ET AL’s sole founder and employee when the work began, and the company has since grown to a 12-person team. “Because he trusted us to solve the core problem without death-by-committee, we were able to build an engine strong enough to scale,” Ballif explains. “People assume we’re a big company because everything is so beautifully done,” Kofford concludes. “For our team, it gave us something to rally around. You could finally point at it and say, that’s us.”",
+      "caseStudyMedia": [
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-new-apology-branded-et-al-for-creators-without-factory-contact/Et-Al-New-Apology-01.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-new-apology-branded-et-al-for-creators-without-factory-contact/_2000xAUTO_crop_center-center_85_none/15585832/Et-Al-New-Apology-03.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-new-apology-branded-et-al-for-creators-without-factory-contact/_2000xAUTO_crop_center-center_85_none/15585835/Et-Al-New-Apology-15.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-new-apology-branded-et-al-for-creators-without-factory-contact/Et-Al-New-Apology-04-new_smaller.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-new-apology-branded-et-al-for-creators-without-factory-contact/_2000xAUTO_crop_center-center_85_none/15585839/Et-Al-New-Apology-14.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-new-apology-branded-et-al-for-creators-without-factory-contact/Et-Al-New-Apology-05-new_smaller.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-new-apology-branded-et-al-for-creators-without-factory-contact/_2000xAUTO_crop_center-center_85_none/15586895/Et-Al-New-Apology-07-new.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-new-apology-branded-et-al-for-creators-without-factory-contact/Et-Al-New-Apology-08.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-new-apology-branded-et-al-for-creators-without-factory-contact/Et-Al-New-Apology-09-new.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-new-apology-branded-et-al-for-creators-without-factory-contact/_2000xAUTO_crop_center-center_85_none/15586901/Et-Al-New-Apology-10-new.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-new-apology-branded-et-al-for-creators-without-factory-contact/_2000xAUTO_crop_center-center_85_none/15586915/Et-Al-New-Apology-16.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-new-apology-branded-et-al-for-creators-without-factory-contact/Et-Al-New-Apology-12-new.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-new-apology-branded-et-al-for-creators-without-factory-contact/Et-Al-New-Apology-13-new.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-new-apology-branded-et-al-for-creators-without-factory-contact/_2000xAUTO_crop_center-center_85_none/15586904/Et-Al-New-Apology-14-new.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-new-apology-branded-et-al-for-creators-without-factory-contact/_2000xAUTO_crop_center-center_85_none/15586913/Et-Al-New-Apology-06-new.webp"
+        }
+      ]
+    },
+    {
       "canonicalUrl": "https://the-brandidentity.com/project/twice-shy-positions-tula-louise-as-a-soap-atelier-through-a-rebrand",
       "titleOriginal": "Twice Shy positions Tula Louise as a soap atelier through a rebrand",
       "textOriginal": "Tula Louise is a soap brand that Jowanda Daley-Thomas started during COVID, when she began experimenting with natural pigments. Independent branding studio Twice Shy was commissioned to rework the brand as it stood, from strategy and positioning to the identity, logo, art direction and packaging design.\n\nTula Louise already had a logo and a visual world built over the years through photography and packaging. “The main issue was that the brand had started moving in many different directions and it wasn’t always clear what the strongest idea behind Tula Louise actually was,” Daley-Thomas explains. “I wanted the rebrand to give the brand more structure and confidence, creating something that felt more design-led and long-term without losing the character and creativity that was already there,” she adds. In Twice Shy’s view, the branding wasn’t communicating what made the products different, so retailers could easily mistake Tula Louise for any other soap maker.",
@@ -3530,133 +3718,6 @@ const snapshot={
         {
           "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-10.jpeg"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays",
-      "titleOriginal": "Why Carolanebel Studio turned a fleur-de-lys into a bird for Club Pays",
-      "textOriginal": "Club Pays is a café on Montréal’s Plaza Saint-Hubert that becomes a room for shows, open mics, reading circles and talks in the evening. It is run by OUI Québec, a non-partisan umbrella organisation for the Québec independence movement, and its model comes from the casals of Catalonia and the herriko tabernas of the Basque Country – citizen-run bars that work as meeting places, mobilisation centres and fundraisers. Surpluses from Club Pays’ coffee, beer and events go back into the movement.\n\nMontréal-based Carolanebel Studio was commissioned to design the space’s identity. OUI Québec has worked with the studio’s Founder & Creative Director, Carolane Bélanger, for nearly five years, and gave her full creative freedom on Club Pays. “Politics and independence can sometimes feel intimidating, so our goal was to create an inviting atmosphere where anyone would feel at home, while maintaining a bold, contemporary edge,” explains the organisation’s Communications Manager Alex Valiquette.",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/13888240.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-00.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "Club Pays is a café on Montréal’s Plaza Saint-Hubert that becomes a room for shows, open mics, reading circles and talks in the evening. It is run by OUI Québec, a non-partisan umbrella organisation for the Québec independence movement, and its model comes from the casals of Catalonia and the herriko tabernas of the Basque Country – citizen-run bars that work as meeting places, mobilisation centres and fundraisers. Surpluses from Club Pays’ coffee, beer and events go back into the movement."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-01.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Montréal-based Carolanebel Studio was commissioned to design the space’s identity. OUI Québec has worked with the studio’s Founder & Creative Director, Carolane Bélanger, for nearly five years, and gave her full creative freedom on Club Pays. “Politics and independence can sometimes feel intimidating, so our goal was to create an inviting atmosphere where anyone would feel at home, while maintaining a bold, contemporary edge,” explains the organisation’s Communications Manager Alex Valiquette."
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Bélanger names three reference points for the identity: the popular poster, the neighbourhood café and the Québec of today. “For the latter, I wanted to take something deeply rooted in Québec, like the fleur-de-lys, and reinterpret it through a more contemporary, open and lively visual language,” she tells us. A symbol of the French presence in North America, the fleur-de-lys has been on the Québec flag since 1948. In earlier work for OUI Québec, Bélanger had already played with turning it into a bird, but she wanted Club Pays to have a symbol of its own. “The fleur-de-lys represents Québec, while the bird represents freedom and independence, the idea of spreading your wings and finding your own way,” she notes. Her symbol for Club Pays is a bird drawn in the shape of a fleur-de-lys, moving forward with a flower in its beak."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-03.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-02.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Working in pencil on paper, Bélanger drew the logotype and the bird, tracing over her sketches again and again on a light box until she reached the final versions. She then scanned them and refined the lines in Adobe Illustrator to make the identity functional and easy to use, “while being careful not to polish away the character of the original drawing,” she details. The logotype started from the Blueberry Script typeface, which she reworked by hand through the same process, redrawing and modifying several of its letterforms, changing curves and angles, and creating new characters where needed."
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“You might see the bird first and the fleur-de-lys a moment later, but I wanted both forms to coexist naturally within the same silhouette,” Bélanger explains. “I started with the general shape of the fleur-de-lys and drew the bird within it, almost like sculpting one form out of another.” She drew the bird with the curves and angles of the logotype as a reference, so the two have the same visual language. “The final drawing may feel naïve and spontaneous, but there is a lot of structure and attention to detail behind it,” she adds."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-04.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-06.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Alongside the logotype, the secondary typeface is Wilden, whose bold, rounded shapes share some of the curves and softness of the hand-drawn elements. Bélanger also liked “the contrast between Wilden’s more solid, structured presence and the organic, imperfect quality of the drawings and logotype. That contrast gives the identity more rhythm and helps the hand-drawn elements stand out, while providing a clear and versatile typeface for the information around them,” she tells us."
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "OUI Québec encouraged Bélanger to be bold with colour and explore unexpected choices rather than lean on what people might immediately associate with Québec, especially the blue of its flag. While the palette she landed on still includes a blue, it’s set beside burgundy, orange-red and warm beige. No colour has too rigid a role, so the combinations can shift depending on the application. “The burgundy and orange-red bring a lot of warmth and intensity, while the blue creates a more unexpected contrast and the beige softens the whole palette,” she explains. For Valiquette, the identity’s bold approach “signals a place where we’re not afraid to break the codes and redefine what the Québec independence project can be.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-07.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-08.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The influence of the popular poster, the first of Bélanger’s three reference points, is in the bold typography, strong contrasts, simple compositions, grain and hand-drawn imperfections. “I wanted to create visuals that could almost be pasted up everywhere, something you can see quickly, recognise and understand without it feeling overly polished or institutional,” she notes."
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“At the same time, Club Pays is also a neighbourhood café, so the identity needed warmth and familiarity. It had to feel just as natural on a coffee cup or a t-shirt as it does on a poster for an event. That everyday quality helps balance the stronger, more civic side of the visual language,” Bélanger concludes."
-        }
-      ],
-      "caseStudyText": "Club Pays is a café on Montréal’s Plaza Saint-Hubert that becomes a room for shows, open mics, reading circles and talks in the evening. It is run by OUI Québec, a non-partisan umbrella organisation for the Québec independence movement, and its model comes from the casals of Catalonia and the herriko tabernas of the Basque Country – citizen-run bars that work as meeting places, mobilisation centres and fundraisers. Surpluses from Club Pays’ coffee, beer and events go back into the movement.\n\nMontréal-based Carolanebel Studio was commissioned to design the space’s identity. OUI Québec has worked with the studio’s Founder & Creative Director, Carolane Bélanger, for nearly five years, and gave her full creative freedom on Club Pays. “Politics and independence can sometimes feel intimidating, so our goal was to create an inviting atmosphere where anyone would feel at home, while maintaining a bold, contemporary edge,” explains the organisation’s Communications Manager Alex Valiquette.\n\nBélanger names three reference points for the identity: the popular poster, the neighbourhood café and the Québec of today. “For the latter, I wanted to take something deeply rooted in Québec, like the fleur-de-lys, and reinterpret it through a more contemporary, open and lively visual language,” she tells us. A symbol of the French presence in North America, the fleur-de-lys has been on the Québec flag since 1948. In earlier work for OUI Québec, Bélanger had already played with turning it into a bird, but she wanted Club Pays to have a symbol of its own. “The fleur-de-lys represents Québec, while the bird represents freedom and independence, the idea of spreading your wings and finding your own way,” she notes. Her symbol for Club Pays is a bird drawn in the shape of a fleur-de-lys, moving forward with a flower in its beak.\n\nWorking in pencil on paper, Bélanger drew the logotype and the bird, tracing over her sketches again and again on a light box until she reached the final versions. She then scanned them and refined the lines in Adobe Illustrator to make the identity functional and easy to use, “while being careful not to polish away the character of the original drawing,” she details. The logotype started from the Blueberry Script typeface, which she reworked by hand through the same process, redrawing and modifying several of its letterforms, changing curves and angles, and creating new characters where needed.\n\n“You might see the bird first and the fleur-de-lys a moment later, but I wanted both forms to coexist naturally within the same silhouette,” Bélanger explains. “I started with the general shape of the fleur-de-lys and drew the bird within it, almost like sculpting one form out of another.” She drew the bird with the curves and angles of the logotype as a reference, so the two have the same visual language. “The final drawing may feel naïve and spontaneous, but there is a lot of structure and attention to detail behind it,” she adds.\n\nAlongside the logotype, the secondary typeface is Wilden, whose bold, rounded shapes share some of the curves and softness of the hand-drawn elements. Bélanger also liked “the contrast between Wilden’s more solid, structured presence and the organic, imperfect quality of the drawings and logotype. That contrast gives the identity more rhythm and helps the hand-drawn elements stand out, while providing a clear and versatile typeface for the information around them,” she tells us.\n\nOUI Québec encouraged Bélanger to be bold with colour and explore unexpected choices rather than lean on what people might immediately associate with Québec, especially the blue of its flag. While the palette she landed on still includes a blue, it’s set beside burgundy, orange-red and warm beige. No colour has too rigid a role, so the combinations can shift depending on the application. “The burgundy and orange-red bring a lot of warmth and intensity, while the blue creates a more unexpected contrast and the beige softens the whole palette,” she explains. For Valiquette, the identity’s bold approach “signals a place where we’re not afraid to break the codes and redefine what the Québec independence project can be.”\n\nThe influence of the popular poster, the first of Bélanger’s three reference points, is in the bold typography, strong contrasts, simple compositions, grain and hand-drawn imperfections. “I wanted to create visuals that could almost be pasted up everywhere, something you can see quickly, recognise and understand without it feeling overly polished or institutional,” she notes.\n\n“At the same time, Club Pays is also a neighbourhood café, so the identity needed warmth and familiarity. It had to feel just as natural on a coffee cup or a t-shirt as it does on a poster for an event. That everyday quality helps balance the stronger, more civic side of the visual language,” Bélanger concludes.",
-      "caseStudyMedia": [
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-00.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-01.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-03.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-02.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-04.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-06.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-07.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-carolanebel-studio-turned-a-fleur-de-lys-into-a-bird-for-club-pays/Club-Pays-Carolanebel-Studio-08.jpg"
         }
       ]
     }
