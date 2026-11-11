@@ -7,6 +7,263 @@ const snapshot={
   },
   "items": [
     {
+      "canonicalUrl": "https://the-brandidentity.com/project/how-studio-bright-green-rebranded-heritage-architecture-to-levrant",
+      "titleOriginal": "Studio Bright Green’s quietly confident identity for Levrant",
+      "textOriginal": "London-based Studio Bright Green has created the identity for Levrant , a UK practice that works on historic buildings across architecture, heritage consultancy and townscape. Research with the practice’s team and its clients led to a name change and a visual language built around quiet confidence. That confidence runs through everything, from the typography and colour to the photography and the materials the team works with every day.\n\nThe practice grew largely through reputation, word of mouth and long-standing relationships. Over time, it built a broad range of expertise, but many clients knew it for only a narrow part of its work. “I’ve never been particularly good at telling people what we’ve achieved,” admits Principal Architect Stephen Levrant. Susanna, his wife and the practice’s Financial Director, engaged Studio Bright Green and steered the process. “I did need some convincing at the beginning,” Stephen notes, but he realised that change was necessary if the practice was to win larger projects, attract the right people and earn greater recognition for the team’s work. “I want the practice to continue well beyond me and Susanna, so the rebranding brief evolved to encompass all these points.”",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-studio-bright-green-rebranded-heritage-architecture-to-levrant/Levrant-Studio-Bright-Green-01.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-studio-bright-green-rebranded-heritage-architecture-to-levrant/_2000xAUTO_crop_center-center_85_none/15514471/Levrant-Studio-Bright-Green-01.webp"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "London-based Studio Bright Green has created the identity for Levrant , a UK practice that works on historic buildings across architecture, heritage consultancy and townscape. Research with the practice’s team and its clients led to a name change and a visual language built around quiet confidence. That confidence runs through everything, from the typography and colour to the photography and the materials the team works with every day."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-studio-bright-green-rebranded-heritage-architecture-to-levrant/_2000xAUTO_crop_center-center_85_none/15514534/Levrant-Studio-Bright-Green-02.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The practice grew largely through reputation, word of mouth and long-standing relationships. Over time, it built a broad range of expertise, but many clients knew it for only a narrow part of its work. “I’ve never been particularly good at telling people what we’ve achieved,” admits Principal Architect Stephen Levrant. Susanna, his wife and the practice’s Financial Director, engaged Studio Bright Green and steered the process. “I did need some convincing at the beginning,” Stephen notes, but he realised that change was necessary if the practice was to win larger projects, attract the right people and earn greater recognition for the team’s work. “I want the practice to continue well beyond me and Susanna, so the rebranding brief evolved to encompass all these points.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-studio-bright-green-rebranded-heritage-architecture-to-levrant/_2000xAUTO_crop_center-center_85_none/15514538/Levrant-Studio-Bright-Green-04.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-studio-bright-green-rebranded-heritage-architecture-to-levrant/_2000xAUTO_crop_center-center_85_none/15514536/Levrant-Studio-Bright-Green-03.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Studio Bright Green began with an interactive workshop that explored the practice from the inside with its whole team, while client interviews and surveys brought an outside perspective. “We wanted the team to feel heard and involved in shaping the new identity, so they would understand it, take ownership of it and become advocates for the brand,” explains Creative Director Deborah Green. “It was almost therapeutic at times,” Stephen remembers. “People felt they had genuinely contributed rather than simply being presented with a new identity at the end.”"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-studio-bright-green-rebranded-heritage-architecture-to-levrant/Levrant-Studio-Bright-Green-15-v2.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Formerly known as Stephen Levrant Heritage Architecture and later Heritage Architecture, the practice had long been called Levrant colloquially. “The research confirmed that the existing name no longer reflected the breadth of the practice’s work,” Deborah notes. “‘Heritage Architecture’ described only part of what the practice does.” Changing the name was “probably one of the decisions we were most nervous about,” Stephen reveals. There was concern, among some of the team too, that people might no longer recognise the practice or immediately understand what it does. Studio Bright Green challenged the practice on it, and the studio’s view, he recalls, was that “Levrant was the distinctive part of our name, and we should have the confidence to let it stand on its own.” “It took a little getting used to, but I think simplifying the name to Levrant was the right decision,” he adds. “Rather than the name having to explain what we do, our work and reputation can give it meaning.”"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-studio-bright-green-rebranded-heritage-architecture-to-levrant/Levrant-Studio-Bright-Green-07-v2.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“We recognised the familiar visual language of heritage, but we didn’t want to define the identity by following those conventions or by deliberately rejecting them,” Deborah tells us. “Being different for the sake of being different would have been just as superficial. Our research, workshops, surveys and client conversations gave us a far more specific starting point: Levrant itself. We came to understand the practice, its values, its approach to its work and its ambitions. That meant the visual decisions could come from the practice, rather than from an idea of what a heritage architecture practice should or shouldn’t look like.”"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“Levrant’s approach to historic buildings isn’t about preserving everything unchanged,” Deborah continues. “Its work calls for judgement: understanding what has value, what can change and how the two can coexist. The new identity is built on the same principle: informed by heritage and expressed with a modern sensibility.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-studio-bright-green-rebranded-heritage-architecture-to-levrant/_2000xAUTO_crop_center-center_85_none/15514545/Levrant-Studio-Bright-Green-10.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The logotype is a bespoke version of an existing typeface, its proportions and rhythm set by a geometric system that extends and subtly amplifies the character already present in that typeface. The studio then made small adjustments by eye until the mark felt composed and deliberate. The typography around the logotype is set in Klim Type Foundry’s Söhne. “Its clear, legible forms work comfortably across different applications without competing with the content, while subtle details add warmth and a touch of humanist personality,” Deborah notes. “Quiet confidence is at the heart of the Levrant identity. The typeface is assured without being loud, and distinctive without needing to announce itself. Its roots lie in the early Swiss and German grotesques, so it carries a sense of history without looking nostalgic.”"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The palette draws on the materials Levrant works with: brick, terracotta and stone. Its two colours are Stone, the principal background colour, and Venetian Red, used sparingly to highlight key details. “This considered balance gives the palette its quiet confidence, with neither colour competing for attention,” Deborah says. Stone is “a neutral setting that lets the work and content take precedence,” while Venetian Red extends across larger areas where greater impact and immediate recognition are needed, as on the website’s About page, business cards and tote bags, bringing “richness and depth to the composition.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-studio-bright-green-rebranded-heritage-architecture-to-levrant/_2000xAUTO_crop_center-center_85_none/15514546/Levrant-Studio-Bright-Green-11.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“Photography was a significant part of the art direction,” Deborah explains. “We wanted to move away from simply documenting buildings and instead adopt a quieter, more observant way of looking at architecture, revealing the character of each building through form, proportion, material, light and the traces of time.” Compositions are framed by architectural lines and negative space, while natural light, shadow and small details bring out material, craft and age. “The consistency comes from a way of looking,” she adds, “seeing what is already there and allowing the individual character of each building to come through.”"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Studio Bright Green also developed a flexible design system that keeps Levrant recognisable across every application while allowing the brand to evolve. It defines how brand elements such as the logo, colour and typography relate to each other across different layouts, with art direction guiding how they are applied. On the website, thumbnails in the Journal are tinted in Stone until colour appears on hover, and in the sections for the three service areas – Architecture and Surveying, Heritage Consultancy and Townscape Consultancy – large, lightweight numerals contrast with smaller typography. “The design system and art direction give these treatments a shared character,” Deborah notes, “allowing different types of content to sit comfortably together.”"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-studio-bright-green-rebranded-heritage-architecture-to-levrant/Levrant-Studio-Bright-Green-16-v2.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“Everything we produce is our shop window,” Stephen tells us. The identity is used on almost all of the practice’s communications, from the website to reports, proposals and presentations. Studio Bright Green designed simple, flexible templates, with the typography, styles and structure already in place, and trained the whole team to use them, so that someone who isn’t a designer can produce a report or presentation that still feels recognisably Levrant. “The identity isn’t something that sits with an outside designer and only appears on special occasions. It has become part of our everyday working practice,” he adds."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-studio-bright-green-rebranded-heritage-architecture-to-levrant/_2000xAUTO_crop_center-center_85_none/15514548/Levrant-Studio-Bright-Green-14.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Stephen describes the response from the team and clients as extremely positive. “For me, the part that stood out most is that the practice is beginning to receive the greater recognition I felt it deserved,” he reflects. He wanted the name to be associated with the practice as an entity, and not only with him. Since the rebrand, the practice has secured several substantial commissions, including one of the most significant in its history, and has taken on new staff. “I couldn’t attribute this success solely to the new identity – ultimately that comes down to the quality and experience of the practice – but I do think we now present that quality much more clearly, and the new identity has undoubtedly proved its worth already.”"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“The identity honours where Levrant comes from while revealing the practice it is today: a team committed to helping historic buildings evolve through informed, considered intervention,” Deborah concludes."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Studio Bright Green"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Studio Bright Green"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Söhne by Klim Type Foundry"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/products/city-sunscapes/_2000xAUTO_crop_center-center_85_none/9483480/City-Sunscapes-1.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/products/city-sunscapes/_2000xAUTO_crop_center-center_85_none/9483482/City-Sunscapes-3.webp"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "text": "City Sunscapes"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/products/spray-paint-textures-collection/_2000xAUTO_crop_center-center_85_none/5039367/Spray-Paint-Textures-Collection-1.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/products/spray-paint-textures-collection/_2000xAUTO_crop_center-center_85_none/5039368/Spray-Paint-Textures-Collection-2.webp"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "text": "Spray Paint Textures Collection"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/products/people-places-no-1/_2000xAUTO_crop_center-center_85_none/5275048/People-Places-No.-1-1.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/products/people-places-no-1/_2000xAUTO_crop_center-center_85_none/5275051/People-Places-No.-1-2.webp"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "text": "People & Places No. 1"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/products/moving-stills-phone-wallpapers/_2000xAUTO_crop_center-center_85_none/5043237/MovingStills-Cover.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/products/moving-stills-phone-wallpapers/_2000xAUTO_crop_center-center_85_none/5043238/MovingStills-Horizontal-1.webp"
+        }
+      ],
+      "caseStudyText": "London-based Studio Bright Green has created the identity for Levrant , a UK practice that works on historic buildings across architecture, heritage consultancy and townscape. Research with the practice’s team and its clients led to a name change and a visual language built around quiet confidence. That confidence runs through everything, from the typography and colour to the photography and the materials the team works with every day.\n\nThe practice grew largely through reputation, word of mouth and long-standing relationships. Over time, it built a broad range of expertise, but many clients knew it for only a narrow part of its work. “I’ve never been particularly good at telling people what we’ve achieved,” admits Principal Architect Stephen Levrant. Susanna, his wife and the practice’s Financial Director, engaged Studio Bright Green and steered the process. “I did need some convincing at the beginning,” Stephen notes, but he realised that change was necessary if the practice was to win larger projects, attract the right people and earn greater recognition for the team’s work. “I want the practice to continue well beyond me and Susanna, so the rebranding brief evolved to encompass all these points.”\n\nStudio Bright Green began with an interactive workshop that explored the practice from the inside with its whole team, while client interviews and surveys brought an outside perspective. “We wanted the team to feel heard and involved in shaping the new identity, so they would understand it, take ownership of it and become advocates for the brand,” explains Creative Director Deborah Green. “It was almost therapeutic at times,” Stephen remembers. “People felt they had genuinely contributed rather than simply being presented with a new identity at the end.”\n\nFormerly known as Stephen Levrant Heritage Architecture and later Heritage Architecture, the practice had long been called Levrant colloquially. “The research confirmed that the existing name no longer reflected the breadth of the practice’s work,” Deborah notes. “‘Heritage Architecture’ described only part of what the practice does.” Changing the name was “probably one of the decisions we were most nervous about,” Stephen reveals. There was concern, among some of the team too, that people might no longer recognise the practice or immediately understand what it does. Studio Bright Green challenged the practice on it, and the studio’s view, he recalls, was that “Levrant was the distinctive part of our name, and we should have the confidence to let it stand on its own.” “It took a little getting used to, but I think simplifying the name to Levrant was the right decision,” he adds. “Rather than the name having to explain what we do, our work and reputation can give it meaning.”\n\n“We recognised the familiar visual language of heritage, but we didn’t want to define the identity by following those conventions or by deliberately rejecting them,” Deborah tells us. “Being different for the sake of being different would have been just as superficial. Our research, workshops, surveys and client conversations gave us a far more specific starting point: Levrant itself. We came to understand the practice, its values, its approach to its work and its ambitions. That meant the visual decisions could come from the practice, rather than from an idea of what a heritage architecture practice should or shouldn’t look like.”\n\n“Levrant’s approach to historic buildings isn’t about preserving everything unchanged,” Deborah continues. “Its work calls for judgement: understanding what has value, what can change and how the two can coexist. The new identity is built on the same principle: informed by heritage and expressed with a modern sensibility.”\n\nThe logotype is a bespoke version of an existing typeface, its proportions and rhythm set by a geometric system that extends and subtly amplifies the character already present in that typeface. The studio then made small adjustments by eye until the mark felt composed and deliberate. The typography around the logotype is set in Klim Type Foundry’s Söhne. “Its clear, legible forms work comfortably across different applications without competing with the content, while subtle details add warmth and a touch of humanist personality,” Deborah notes. “Quiet confidence is at the heart of the Levrant identity. The typeface is assured without being loud, and distinctive without needing to announce itself. Its roots lie in the early Swiss and German grotesques, so it carries a sense of history without looking nostalgic.”\n\nThe palette draws on the materials Levrant works with: brick, terracotta and stone. Its two colours are Stone, the principal background colour, and Venetian Red, used sparingly to highlight key details. “This considered balance gives the palette its quiet confidence, with neither colour competing for attention,” Deborah says. Stone is “a neutral setting that lets the work and content take precedence,” while Venetian Red extends across larger areas where greater impact and immediate recognition are needed, as on the website’s About page, business cards and tote bags, bringing “richness and depth to the composition.”\n\n“Photography was a significant part of the art direction,” Deborah explains. “We wanted to move away from simply documenting buildings and instead adopt a quieter, more observant way of looking at architecture, revealing the character of each building through form, proportion, material, light and the traces of time.” Compositions are framed by architectural lines and negative space, while natural light, shadow and small details bring out material, craft and age. “The consistency comes from a way of looking,” she adds, “seeing what is already there and allowing the individual character of each building to come through.”\n\nStudio Bright Green also developed a flexible design system that keeps Levrant recognisable across every application while allowing the brand to evolve. It defines how brand elements such as the logo, colour and typography relate to each other across different layouts, with art direction guiding how they are applied. On the website, thumbnails in the Journal are tinted in Stone until colour appears on hover, and in the sections for the three service areas – Architecture and Surveying, Heritage Consultancy and Townscape Consultancy – large, lightweight numerals contrast with smaller typography. “The design system and art direction give these treatments a shared character,” Deborah notes, “allowing different types of content to sit comfortably together.”\n\n“Everything we produce is our shop window,” Stephen tells us. The identity is used on almost all of the practice’s communications, from the website to reports, proposals and presentations. Studio Bright Green designed simple, flexible templates, with the typography, styles and structure already in place, and trained the whole team to use them, so that someone who isn’t a designer can produce a report or presentation that still feels recognisably Levrant. “The identity isn’t something that sits with an outside designer and only appears on special occasions. It has become part of our everyday working practice,” he adds.\n\nStephen describes the response from the team and clients as extremely positive. “For me, the part that stood out most is that the practice is beginning to receive the greater recognition I felt it deserved,” he reflects. He wanted the name to be associated with the practice as an entity, and not only with him. Since the rebrand, the practice has secured several substantial commissions, including one of the most significant in its history, and has taken on new staff. “I couldn’t attribute this success solely to the new identity – ultimately that comes down to the quality and experience of the practice – but I do think we now present that quality much more clearly, and the new identity has undoubtedly proved its worth already.”\n\n“The identity honours where Levrant comes from while revealing the practice it is today: a team committed to helping historic buildings evolve through informed, considered intervention,” Deborah concludes.\n\nStudio Bright Green\n\nStudio Bright Green\n\nSöhne by Klim Type Foundry\n\nCity Sunscapes\n\nSpray Paint Textures Collection\n\nPeople & Places No. 1",
+      "caseStudyMedia": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-studio-bright-green-rebranded-heritage-architecture-to-levrant/_2000xAUTO_crop_center-center_85_none/15514471/Levrant-Studio-Bright-Green-01.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-studio-bright-green-rebranded-heritage-architecture-to-levrant/_2000xAUTO_crop_center-center_85_none/15514534/Levrant-Studio-Bright-Green-02.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-studio-bright-green-rebranded-heritage-architecture-to-levrant/_2000xAUTO_crop_center-center_85_none/15514538/Levrant-Studio-Bright-Green-04.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-studio-bright-green-rebranded-heritage-architecture-to-levrant/_2000xAUTO_crop_center-center_85_none/15514536/Levrant-Studio-Bright-Green-03.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-studio-bright-green-rebranded-heritage-architecture-to-levrant/Levrant-Studio-Bright-Green-15-v2.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-studio-bright-green-rebranded-heritage-architecture-to-levrant/Levrant-Studio-Bright-Green-07-v2.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-studio-bright-green-rebranded-heritage-architecture-to-levrant/_2000xAUTO_crop_center-center_85_none/15514545/Levrant-Studio-Bright-Green-10.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-studio-bright-green-rebranded-heritage-architecture-to-levrant/_2000xAUTO_crop_center-center_85_none/15514546/Levrant-Studio-Bright-Green-11.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-studio-bright-green-rebranded-heritage-architecture-to-levrant/Levrant-Studio-Bright-Green-16-v2.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-studio-bright-green-rebranded-heritage-architecture-to-levrant/_2000xAUTO_crop_center-center_85_none/15514548/Levrant-Studio-Bright-Green-14.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/products/city-sunscapes/_2000xAUTO_crop_center-center_85_none/9483480/City-Sunscapes-1.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/products/city-sunscapes/_2000xAUTO_crop_center-center_85_none/9483482/City-Sunscapes-3.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/products/spray-paint-textures-collection/_2000xAUTO_crop_center-center_85_none/5039367/Spray-Paint-Textures-Collection-1.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/products/spray-paint-textures-collection/_2000xAUTO_crop_center-center_85_none/5039368/Spray-Paint-Textures-Collection-2.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/products/people-places-no-1/_2000xAUTO_crop_center-center_85_none/5275048/People-Places-No.-1-1.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/products/people-places-no-1/_2000xAUTO_crop_center-center_85_none/5275051/People-Places-No.-1-2.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/products/moving-stills-phone-wallpapers/_2000xAUTO_crop_center-center_85_none/5043237/MovingStills-Cover.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/products/moving-stills-phone-wallpapers/_2000xAUTO_crop_center-center_85_none/5043238/MovingStills-Horizontal-1.webp"
+        }
+      ]
+    },
+    {
       "canonicalUrl": "https://the-brandidentity.com/project/ashfall-studio-extends-carniloves-pet-food-identity-into-a-system",
       "titleOriginal": "Ashfall Studio extends Carnilove’s pet food identity into a system",
       "textOriginal": "Carnilove is a premium pet-food brand that is sold in more than 80 markets, with an identity that Design Bridge and Partners created around the tension between the domestic pet and its wilder instincts. Prague-based design and technology partner Ashfall Studio came on board to take that identity further, spending 18 months developing it into a system for Carnilove’s teams to use across all of those markets.\n\n“We had just been through a big strategic and creative process with Design Bridge, and we were really happy with where the brand was heading,” Carnilove’s Art Director Adam Křena tells us. “The question was how to bring it to life everywhere Carnilove appears.” Ashfall Studio kept the True Instinct concept behind that tension, along with the logo, custom typeface, colour scheme and packaging. “It’s a bit like the difference between designing a car and building a car factory,” explains the studio’s Founder & Design Director Martin Ehrlich. “When people talk about branding, they are usually talking about the car, but much of the work is about building the factory.”",
@@ -3674,110 +3931,6 @@ const snapshot={
         {
           "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/balenses-identity-by-willow-blake-turns-balance-into-a-system/Balense-Willow-Blake-12.jpg"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/smlxls-identity-for-moma-ps1s-warm-up-has-letters-that-dance-to-music",
-      "titleOriginal": "SMLXL’s identity for MoMA PS1’s Warm Up has letters that dance to music",
-      "textOriginal": "Warm Up, MoMA PS1’s summer festival, has brought together music, art and community in New York for nearly three decades, with past line-ups including Arca, SOPHIE, Solange, Jamie xx, Four Tet and Grimes. Its 28th edition fell in the institution’s 50th anniversary year, with a line-up centred on experimental music. Ahead of its 24th July - 28th August 2026 run, New York and Barcelona-based design company SMLXL came on board to create Warm Up’s musical identity and campaign.\n\nSMLXL put the musical artists and the crowd at the centre of the work, building it on a premise – make the type dance to the music. “We wanted to capture the energy and diversity of the Warm Up crowd – people coming together, dancing freely and expressing themselves in their own ways,” Designer Lea Naisberg tells us. “The typography mirrors that behaviour through outbursts, swaying movements and moments of release.”",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/smlxls-identity-for-moma-ps1s-warm-up-has-letters-that-dance-to-music/MoMA-PS1s-Warm-Up-SMLXL-02.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/smlxls-identity-for-moma-ps1s-warm-up-has-letters-that-dance-to-music/MoMA-PS1s-Warm-Up-SMLXL-02.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "Warm Up, MoMA PS1’s summer festival, has brought together music, art and community in New York for nearly three decades, with past line-ups including Arca, SOPHIE, Solange, Jamie xx, Four Tet and Grimes. Its 28th edition fell in the institution’s 50th anniversary year, with a line-up centred on experimental music. Ahead of its 24th July - 28th August 2026 run, New York and Barcelona-based design company SMLXL came on board to create Warm Up’s musical identity and campaign."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/smlxls-identity-for-moma-ps1s-warm-up-has-letters-that-dance-to-music/MoMA-PS1s-Warm-Up-SMLXL-03.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "SMLXL put the musical artists and the crowd at the centre of the work, building it on a premise – make the type dance to the music. “We wanted to capture the energy and diversity of the Warm Up crowd – people coming together, dancing freely and expressing themselves in their own ways,” Designer Lea Naisberg tells us. “The typography mirrors that behaviour through outbursts, swaying movements and moments of release.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/smlxls-identity-for-moma-ps1s-warm-up-has-letters-that-dance-to-music/MoMA-PS1s-Warm-Up-SMLXL-01-_smaller.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The typography is set in PS1 Sans, MoMA PS1’s typeface, designed by Berton Hasebe of HB Type. “Rather than adding anything to the type, we make what is already there move,” Naisberg explains. “The type remains PS1 Sans at its core; it is just dancing.” SMLXL distorted each letter along its outline, displacing specific points on its contours and “almost treating them like limbs that can move or stretch.” Some compositions start with the type completely still, and in the more dynamic applications, the movement is limited to certain letters or parts of a word. “There’s a balance between movement and recognition,” she notes."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/smlxls-identity-for-moma-ps1s-warm-up-has-letters-that-dance-to-music/MoMA-PS1s-Warm-Up-SMLXL-06.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "SMLXL developed an interactive tool to make the type react to the music, taking an SVG of the letters and an MP3 of a track as inputs. The tool analyses the track across different frequency ranges and maps them to different letters or parts of the composition, so a letter can become more or less expressive with the volume and intensity in that range. The tracks on the line-up ranged from explosive, high-BPM techno to much more subdued or ambient music. “We wanted the letters to respond differently to those moods, rather than having one fixed type of movement,” Naisberg details. To do that, the studio built a vocabulary of parameters, combined to produce different kinds of movement. One of them, Crowded, controls the density – “how many dancers are occupying the space.” The output is generated live, with an element of randomness built in, so even with the same settings the letters never move in exactly the same way twice. Each result can be captured as a still frame or recorded as video."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/smlxls-identity-for-moma-ps1s-warm-up-has-letters-that-dance-to-music/MoMA-PS1s-Warm-Up-SMLXL-07.webp"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/smlxls-identity-for-moma-ps1s-warm-up-has-letters-that-dance-to-music/MoMA-PS1s-Warm-Up-SMLXL-08.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Each artist on the line-up is announced with a digital graphic of their own, which opens on the artist’s image before the letters stretch, bend, twist and shift to their music, until the moving type takes over the whole screen. The colours come from MoMA PS1’s existing palette, used as duotones for these artist graphics and in four-colour combinations across the wider communications. “We also explored warmer colour combinations, but eventually moved towards something more acidic and refreshing,” Naisberg tells us. “It felt like a good counterpoint to the summery character of Warm Up.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/smlxls-identity-for-moma-ps1s-warm-up-has-letters-that-dance-to-music/MoMA-PS1s-Warm-Up-SMLXL-09_smaller.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Posters appeared in a wide range of locations across New York. SMLXL generally left the letterforms as they came out of the tool, making small adjustments by hand in a few cases, especially for print. In motion, a letter can become distorted or unreadable for a moment before it returns to a recognisable state. “We don’t have that luxury with a static image,” Naisberg notes. Legibility mattered particularly for artist names, “where we couldn’t rely on linguistic context to fill in the gaps.” For the posters, the studio let the music run and exported anywhere from 10 to 100 frames. “We would then go through them, selecting individual letters and moments that worked, and sometimes combining letters from different frames to build the final composition,” Naisberg explains."
-        }
-      ],
-      "caseStudyText": "Warm Up, MoMA PS1’s summer festival, has brought together music, art and community in New York for nearly three decades, with past line-ups including Arca, SOPHIE, Solange, Jamie xx, Four Tet and Grimes. Its 28th edition fell in the institution’s 50th anniversary year, with a line-up centred on experimental music. Ahead of its 24th July - 28th August 2026 run, New York and Barcelona-based design company SMLXL came on board to create Warm Up’s musical identity and campaign.\n\nSMLXL put the musical artists and the crowd at the centre of the work, building it on a premise – make the type dance to the music. “We wanted to capture the energy and diversity of the Warm Up crowd – people coming together, dancing freely and expressing themselves in their own ways,” Designer Lea Naisberg tells us. “The typography mirrors that behaviour through outbursts, swaying movements and moments of release.”\n\nThe typography is set in PS1 Sans, MoMA PS1’s typeface, designed by Berton Hasebe of HB Type. “Rather than adding anything to the type, we make what is already there move,” Naisberg explains. “The type remains PS1 Sans at its core; it is just dancing.” SMLXL distorted each letter along its outline, displacing specific points on its contours and “almost treating them like limbs that can move or stretch.” Some compositions start with the type completely still, and in the more dynamic applications, the movement is limited to certain letters or parts of a word. “There’s a balance between movement and recognition,” she notes.\n\nSMLXL developed an interactive tool to make the type react to the music, taking an SVG of the letters and an MP3 of a track as inputs. The tool analyses the track across different frequency ranges and maps them to different letters or parts of the composition, so a letter can become more or less expressive with the volume and intensity in that range. The tracks on the line-up ranged from explosive, high-BPM techno to much more subdued or ambient music. “We wanted the letters to respond differently to those moods, rather than having one fixed type of movement,” Naisberg details. To do that, the studio built a vocabulary of parameters, combined to produce different kinds of movement. One of them, Crowded, controls the density – “how many dancers are occupying the space.” The output is generated live, with an element of randomness built in, so even with the same settings the letters never move in exactly the same way twice. Each result can be captured as a still frame or recorded as video.\n\nEach artist on the line-up is announced with a digital graphic of their own, which opens on the artist’s image before the letters stretch, bend, twist and shift to their music, until the moving type takes over the whole screen. The colours come from MoMA PS1’s existing palette, used as duotones for these artist graphics and in four-colour combinations across the wider communications. “We also explored warmer colour combinations, but eventually moved towards something more acidic and refreshing,” Naisberg tells us. “It felt like a good counterpoint to the summery character of Warm Up.”\n\nPosters appeared in a wide range of locations across New York. SMLXL generally left the letterforms as they came out of the tool, making small adjustments by hand in a few cases, especially for print. In motion, a letter can become distorted or unreadable for a moment before it returns to a recognisable state. “We don’t have that luxury with a static image,” Naisberg notes. Legibility mattered particularly for artist names, “where we couldn’t rely on linguistic context to fill in the gaps.” For the posters, the studio let the music run and exported anywhere from 10 to 100 frames. “We would then go through them, selecting individual letters and moments that worked, and sometimes combining letters from different frames to build the final composition,” Naisberg explains.",
-      "caseStudyMedia": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/smlxls-identity-for-moma-ps1s-warm-up-has-letters-that-dance-to-music/MoMA-PS1s-Warm-Up-SMLXL-02.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/smlxls-identity-for-moma-ps1s-warm-up-has-letters-that-dance-to-music/MoMA-PS1s-Warm-Up-SMLXL-03.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/smlxls-identity-for-moma-ps1s-warm-up-has-letters-that-dance-to-music/MoMA-PS1s-Warm-Up-SMLXL-01-_smaller.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/smlxls-identity-for-moma-ps1s-warm-up-has-letters-that-dance-to-music/MoMA-PS1s-Warm-Up-SMLXL-06.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/smlxls-identity-for-moma-ps1s-warm-up-has-letters-that-dance-to-music/MoMA-PS1s-Warm-Up-SMLXL-07.webp"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/smlxls-identity-for-moma-ps1s-warm-up-has-letters-that-dance-to-music/MoMA-PS1s-Warm-Up-SMLXL-08.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/smlxls-identity-for-moma-ps1s-warm-up-has-letters-that-dance-to-music/MoMA-PS1s-Warm-Up-SMLXL-09_smaller.mp4"
         }
       ]
     }
