@@ -7,6 +7,191 @@ const snapshot={
   },
   "items": [
     {
+      "canonicalUrl": "https://the-brandidentity.com/project/ashfall-studio-extends-carniloves-pet-food-identity-into-a-system",
+      "titleOriginal": "Ashfall Studio extends Carnilove’s pet food identity into a system",
+      "textOriginal": "Carnilove is a premium pet-food brand that is sold in more than 80 markets, with an identity that Design Bridge and Partners created around the tension between the domestic pet and its wilder instincts. Prague-based design and technology partner Ashfall Studio came on board to take that identity further, spending 18 months developing it into a system for Carnilove’s teams to use across all of those markets.\n\n“We had just been through a big strategic and creative process with Design Bridge, and we were really happy with where the brand was heading,” Carnilove’s Art Director Adam Křena tells us. “The question was how to bring it to life everywhere Carnilove appears.” Ashfall Studio kept the True Instinct concept behind that tension, along with the logo, custom typeface, colour scheme and packaging. “It’s a bit like the difference between designing a car and building a car factory,” explains the studio’s Founder & Design Director Martin Ehrlich. “When people talk about branding, they are usually talking about the car, but much of the work is about building the factory.”",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/ashfall-studio-extends-carniloves-pet-food-identity-into-a-system/Carnilove-Ashfall-Studio-24.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/ashfall-studio-extends-carniloves-pet-food-identity-into-a-system/_2000xAUTO_crop_center-center_85_none/15586741/Carnilove-Ashfall-Studio-24.webp"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "Carnilove is a premium pet-food brand that is sold in more than 80 markets, with an identity that Design Bridge and Partners created around the tension between the domestic pet and its wilder instincts. Prague-based design and technology partner Ashfall Studio came on board to take that identity further, spending 18 months developing it into a system for Carnilove’s teams to use across all of those markets."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/ashfall-studio-extends-carniloves-pet-food-identity-into-a-system/Carnilove-Ashfall-Studio-16.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“We had just been through a big strategic and creative process with Design Bridge, and we were really happy with where the brand was heading,” Carnilove’s Art Director Adam Křena tells us. “The question was how to bring it to life everywhere Carnilove appears.” Ashfall Studio kept the True Instinct concept behind that tension, along with the logo, custom typeface, colour scheme and packaging. “It’s a bit like the difference between designing a car and building a car factory,” explains the studio’s Founder & Design Director Martin Ehrlich. “When people talk about branding, they are usually talking about the car, but much of the work is about building the factory.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/ashfall-studio-extends-carniloves-pet-food-identity-into-a-system/_2000xAUTO_crop_center-center_85_none/15515105/Carnilove-Ashfall-Studio-02.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Ashfall Studio turned Design Bridge and Partners’ initial strategy into a full framework that is used throughout the company and built around a Maverick archetype. “For us, the Maverick means intelligently different,” Ehrlich notes. “Not someone who challenges everything for the sake of it, but someone who goes their own way and moves on their own terms.” Carnilove wanted to reach a more upmarket, cosmopolitan audience – “people who live in cities and walk their dogs on pavements,” he details. “So the brand lives between the city and the dream of the wilderness.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/ashfall-studio-extends-carniloves-pet-food-identity-into-a-system/_2000xAUTO_crop_center-center_85_none/15515126/Carnilove-Ashfall-Studio-07.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/ashfall-studio-extends-carniloves-pet-food-identity-into-a-system/Carnilove-Ashfall-Studio-25.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“For the writing, that means a lot of confidence but not a lot of noise. The visuals already have so much energy that the voice does not need to shout,” Ehrlich continues. Carnilove’s copy uses short sentences, strong verbs and very little softening, as in the line ‘Feed instinct. Fuel freedom.’ Ashfall Studio developed the tone of voice closely with Carnilove’s brand director, at times word by word."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Spark CL, the custom typeface that Ashfall Studio inherited from Design Bridge and Partners, has sharp cut-ins in its letterforms, almost like notches. “For us, they are the rawness of the animal inside the letters,” Ehrlich explains. “The whole brand is about animals going back to what they are supposed to be.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/ashfall-studio-extends-carniloves-pet-food-identity-into-a-system/_2000xAUTO_crop_center-center_85_none/15515107/Carnilove-Ashfall-Studio-04.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/ashfall-studio-extends-carniloves-pet-food-identity-into-a-system/Carnilove-Ashfall-Studio-17.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Around it, the studio added three typefaces. The display family TT Bluescreens is set in ExtraBold uppercase “to keep a similar DNA to Spark CL.” For the other side of Carnilove, the studio chose Maxitype’s contemporary serif Rhymes Text, drawn by type designer Jakub Samek. “The brand can be raw, but it can also be elegant and quite sophisticated, closer to lifestyle than to pet food,” Ehrlich adds. Displaay’s sans serif Matter is used for body copy and small text because “the expressive stuff needs something calm to sit next to.” Noto Sans is among the fallbacks for languages that the main typefaces do not cover. The studio expanded the three core colours – red, beige and burgundy – into a more versatile palette. It quadrupled the icon set and created a grid and composition system."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/ashfall-studio-extends-carniloves-pet-food-identity-into-a-system/Carnilove-Ashfall-Studio-26.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/ashfall-studio-extends-carniloves-pet-food-identity-into-a-system/Carnilove-Ashfall-Studio-27.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The Carnilove logo sits on a 13-degree angle, and an expressive type treatment puts Spark CL into perspective along that angle before stretching, bending or compressing it. “In a way, the logo is the expressive typography, and the expressive typography is the logo,” Ehrlich tells us. “The angle was already there when we came on board, so we didn’t invent it. But you could say we perfected it. We cut a lot away and made it really sharp, simple and easy to use.” The result is a few defined treatments, which are used most on out-of-home advertising, roll-ups and social media, where one or two words can fill the space."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/ashfall-studio-extends-carniloves-pet-food-identity-into-a-system/Carnilove-Ashfall-Studio-28.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“Carnilove’s teams make new brand assets every single day, so they need to manage the brand themselves, without waiting for a designer and without much room to get it wrong,” Ehrlich explains. The first version of the guidelines gave them a step-by-step tutorial for setting the expressive type in Illustrator. “We worked with them almost every day for 18 months, and about halfway through it was clear nobody in the markets was going to use it,” he notes. “So we built a little tool. You type a word, choose the angle and the colour, and export an SVG, and it only lets you make the versions that work.” The typography generator sits in a living digital guide alongside Carnilove’s rules and assets. “The living guidelines have become the starting point for everyone working with the brand, whether that’s our own teams or our partner agencies,” Křena tells us. “The typography generator has been a real favourite, especially for social media. It has made our teams much more independent, and the brand looks consistent wherever it appears.”"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/ashfall-studio-extends-carniloves-pet-food-identity-into-a-system/Carnilove-Ashfall-Studio-29.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "When Ashfall Studio joined, the brand had no motion at all, so the studio built a system for it from scratch. “Carnilove is about energy and instinct, about being raw, and without motion it would be maybe half as energetic,” Ehrlich notes. The motion is built mostly on scale, position and perspective. The logo starts with its letters growing, then shifts into perspective. “The expressive type is the wildest, of course. It shifts perspective; it stretches and compresses, and then it lands, very sharp,” Ehrlich details. Headlines move more calmly, and across the system, “there is no elastic bounce anywhere.” The identity’s illustrations, which Jasper Schreurs drew for Design Bridge and Partners, stayed as they were, and Ashfall Studio animated them. Because Carnilove runs TV ads and social campaigns in many languages, the studio made templates for end cards and video layers, used by the brand’s own team and the other agencies that it works with."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/ashfall-studio-extends-carniloves-pet-food-identity-into-a-system/Carnilove-Ashfall-Studio-22.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Ashfall Studio designed Carnilove’s e-commerce site. “Even if people were only on the site to buy the product, we wanted them to come away with a feel for Carnilove as a brand,” Ehrlich explains. The Ambassadors page is a 3D globe that visitors can play with, and the mission and ingredients pages unfold as stories. Animation brings a little delight to most interactions."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/ashfall-studio-extends-carniloves-pet-food-identity-into-a-system/_2000xAUTO_crop_center-center_85_none/15515132/Carnilove-Ashfall-Studio-15.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/ashfall-studio-extends-carniloves-pet-food-identity-into-a-system/Carnilove-Ashfall-Studio-18.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Carnilove introduced the identity to more than 100 international partners at a launch event. “People could see how bold the new Carnilove is, and that there was a clear idea and a complete system behind it,” Křena recalls. The Carnilove team has also used the system’s colour, typography and composition rules to develop its own merch, with apparel and accessories for pets and their owners."
+        }
+      ],
+      "caseStudyText": "Carnilove is a premium pet-food brand that is sold in more than 80 markets, with an identity that Design Bridge and Partners created around the tension between the domestic pet and its wilder instincts. Prague-based design and technology partner Ashfall Studio came on board to take that identity further, spending 18 months developing it into a system for Carnilove’s teams to use across all of those markets.\n\n“We had just been through a big strategic and creative process with Design Bridge, and we were really happy with where the brand was heading,” Carnilove’s Art Director Adam Křena tells us. “The question was how to bring it to life everywhere Carnilove appears.” Ashfall Studio kept the True Instinct concept behind that tension, along with the logo, custom typeface, colour scheme and packaging. “It’s a bit like the difference between designing a car and building a car factory,” explains the studio’s Founder & Design Director Martin Ehrlich. “When people talk about branding, they are usually talking about the car, but much of the work is about building the factory.”\n\nAshfall Studio turned Design Bridge and Partners’ initial strategy into a full framework that is used throughout the company and built around a Maverick archetype. “For us, the Maverick means intelligently different,” Ehrlich notes. “Not someone who challenges everything for the sake of it, but someone who goes their own way and moves on their own terms.” Carnilove wanted to reach a more upmarket, cosmopolitan audience – “people who live in cities and walk their dogs on pavements,” he details. “So the brand lives between the city and the dream of the wilderness.”\n\n“For the writing, that means a lot of confidence but not a lot of noise. The visuals already have so much energy that the voice does not need to shout,” Ehrlich continues. Carnilove’s copy uses short sentences, strong verbs and very little softening, as in the line ‘Feed instinct. Fuel freedom.’ Ashfall Studio developed the tone of voice closely with Carnilove’s brand director, at times word by word.\n\nSpark CL, the custom typeface that Ashfall Studio inherited from Design Bridge and Partners, has sharp cut-ins in its letterforms, almost like notches. “For us, they are the rawness of the animal inside the letters,” Ehrlich explains. “The whole brand is about animals going back to what they are supposed to be.”\n\nAround it, the studio added three typefaces. The display family TT Bluescreens is set in ExtraBold uppercase “to keep a similar DNA to Spark CL.” For the other side of Carnilove, the studio chose Maxitype’s contemporary serif Rhymes Text, drawn by type designer Jakub Samek. “The brand can be raw, but it can also be elegant and quite sophisticated, closer to lifestyle than to pet food,” Ehrlich adds. Displaay’s sans serif Matter is used for body copy and small text because “the expressive stuff needs something calm to sit next to.” Noto Sans is among the fallbacks for languages that the main typefaces do not cover. The studio expanded the three core colours – red, beige and burgundy – into a more versatile palette. It quadrupled the icon set and created a grid and composition system.\n\nThe Carnilove logo sits on a 13-degree angle, and an expressive type treatment puts Spark CL into perspective along that angle before stretching, bending or compressing it. “In a way, the logo is the expressive typography, and the expressive typography is the logo,” Ehrlich tells us. “The angle was already there when we came on board, so we didn’t invent it. But you could say we perfected it. We cut a lot away and made it really sharp, simple and easy to use.” The result is a few defined treatments, which are used most on out-of-home advertising, roll-ups and social media, where one or two words can fill the space.\n\n“Carnilove’s teams make new brand assets every single day, so they need to manage the brand themselves, without waiting for a designer and without much room to get it wrong,” Ehrlich explains. The first version of the guidelines gave them a step-by-step tutorial for setting the expressive type in Illustrator. “We worked with them almost every day for 18 months, and about halfway through it was clear nobody in the markets was going to use it,” he notes. “So we built a little tool. You type a word, choose the angle and the colour, and export an SVG, and it only lets you make the versions that work.” The typography generator sits in a living digital guide alongside Carnilove’s rules and assets. “The living guidelines have become the starting point for everyone working with the brand, whether that’s our own teams or our partner agencies,” Křena tells us. “The typography generator has been a real favourite, especially for social media. It has made our teams much more independent, and the brand looks consistent wherever it appears.”\n\nWhen Ashfall Studio joined, the brand had no motion at all, so the studio built a system for it from scratch. “Carnilove is about energy and instinct, about being raw, and without motion it would be maybe half as energetic,” Ehrlich notes. The motion is built mostly on scale, position and perspective. The logo starts with its letters growing, then shifts into perspective. “The expressive type is the wildest, of course. It shifts perspective; it stretches and compresses, and then it lands, very sharp,” Ehrlich details. Headlines move more calmly, and across the system, “there is no elastic bounce anywhere.” The identity’s illustrations, which Jasper Schreurs drew for Design Bridge and Partners, stayed as they were, and Ashfall Studio animated them. Because Carnilove runs TV ads and social campaigns in many languages, the studio made templates for end cards and video layers, used by the brand’s own team and the other agencies that it works with.\n\nAshfall Studio designed Carnilove’s e-commerce site. “Even if people were only on the site to buy the product, we wanted them to come away with a feel for Carnilove as a brand,” Ehrlich explains. The Ambassadors page is a 3D globe that visitors can play with, and the mission and ingredients pages unfold as stories. Animation brings a little delight to most interactions.\n\nCarnilove introduced the identity to more than 100 international partners at a launch event. “People could see how bold the new Carnilove is, and that there was a clear idea and a complete system behind it,” Křena recalls. The Carnilove team has also used the system’s colour, typography and composition rules to develop its own merch, with apparel and accessories for pets and their owners.",
+      "caseStudyMedia": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/ashfall-studio-extends-carniloves-pet-food-identity-into-a-system/_2000xAUTO_crop_center-center_85_none/15586741/Carnilove-Ashfall-Studio-24.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/ashfall-studio-extends-carniloves-pet-food-identity-into-a-system/Carnilove-Ashfall-Studio-16.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/ashfall-studio-extends-carniloves-pet-food-identity-into-a-system/_2000xAUTO_crop_center-center_85_none/15515105/Carnilove-Ashfall-Studio-02.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/ashfall-studio-extends-carniloves-pet-food-identity-into-a-system/_2000xAUTO_crop_center-center_85_none/15515126/Carnilove-Ashfall-Studio-07.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/ashfall-studio-extends-carniloves-pet-food-identity-into-a-system/Carnilove-Ashfall-Studio-25.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/ashfall-studio-extends-carniloves-pet-food-identity-into-a-system/_2000xAUTO_crop_center-center_85_none/15515107/Carnilove-Ashfall-Studio-04.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/ashfall-studio-extends-carniloves-pet-food-identity-into-a-system/Carnilove-Ashfall-Studio-17.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/ashfall-studio-extends-carniloves-pet-food-identity-into-a-system/Carnilove-Ashfall-Studio-26.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/ashfall-studio-extends-carniloves-pet-food-identity-into-a-system/Carnilove-Ashfall-Studio-27.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/ashfall-studio-extends-carniloves-pet-food-identity-into-a-system/Carnilove-Ashfall-Studio-28.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/ashfall-studio-extends-carniloves-pet-food-identity-into-a-system/Carnilove-Ashfall-Studio-29.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/ashfall-studio-extends-carniloves-pet-food-identity-into-a-system/Carnilove-Ashfall-Studio-22.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/ashfall-studio-extends-carniloves-pet-food-identity-into-a-system/_2000xAUTO_crop_center-center_85_none/15515132/Carnilove-Ashfall-Studio-15.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/ashfall-studio-extends-carniloves-pet-food-identity-into-a-system/Carnilove-Ashfall-Studio-18.mp4"
+        }
+      ]
+    },
+    {
       "canonicalUrl": "https://the-brandidentity.com/project/how-new-apology-branded-et-al-for-creators-without-factory-contact",
       "titleOriginal": "How New Apology branded ET AL for creators without factory contact",
       "textOriginal": "ET AL produces apparel for creative people, young clothing brands and small teams, taking on sourcing, sampling, production and delivery, as well as inventory and reorders after launch. Its customers have had to choose between print-on-demand, which is easy but generic, and traditional production, with its high minimums and months spent chasing factories. Provo-based design studio New Apology was brought in to create ET AL’s brand strategy, identity and website, as well as to art-direct all of its photography. “Together, we rallied around the concept of ‘pre-commerce’ and the thesis that ‘taste deserves infrastructure,’” explains New Apology’s founder Lyman Ballif. “Fashion and apparel production are notoriously gatekept industries where access usually requires decades of supply-chain networking. If ET AL is democratising that access, the brand needs to feel just as approachable to a creator in Des Moines, Iowa, as it does to an insider in New York.”\n\nET AL’s founder Carson Kofford has spent 10 years in fashion and brand, hitting “just about every wall there is trying to make ideas real,” and two years of sleeping on a pull-out couch in downtown Los Angeles taught him that “it shouldn’t be as hard as it is.” “I came to them with a pretty big vision,” he tells us of approaching New Apology, and his first ask was “help me make sense of this thing in my head.” The name for the category came later. ET AL first described itself as a ‘brand engine,’ but “it fell a little flat with the people we were talking to,” Kofford explains. “Pre-commerce just naturally explained the space we’re in. And most importantly, it clicked without us really having to explain it.” To a young brand, he puts it like this: “Everyone’s built tools for selling a product. We’re here for the part before that, when it’s still just an idea, a lot of questions and maybe a few bad samples.”",
@@ -3593,131 +3778,6 @@ const snapshot={
         {
           "type": "video",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/smlxls-identity-for-moma-ps1s-warm-up-has-letters-that-dance-to-music/MoMA-PS1s-Warm-Up-SMLXL-09_smaller.mp4"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city",
-      "titleOriginal": "How Nomad named and branded six rugby sevens clubs with no home city",
-      "textOriginal": "Ultimate Sevens is a rugby sevens league – backed by BIA Sports Group, the owners of Premier League football club Sunderland – whose first season took place in Cardiff, Biarritz and London in September 2026. It needed six club identities for that season, which were all created by London-based design studio Nomad . “We had six weeks to do it – to name them, the themes, and design them, and get them trademarked,” explains Co-founder & Executive Creative Director Stu Watson.\n\nNone of the six clubs has a home city, a stadium or generations of supporters behind it. “In sport, teams usually get their identity from their city,” explains Associate Strategy Director Isabel Maguire. “When franchises move, they often lean on something more portable – whether it’s St. Louis or Los Angeles – the Rams can move house without losing their identity. But that didn’t work for us. These clubs had to create an immediate sense of place and distinct personality while still belonging to one Ultimate Sevens world.”",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/13992034.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-04.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "Ultimate Sevens is a rugby sevens league – backed by BIA Sports Group, the owners of Premier League football club Sunderland – whose first season took place in Cardiff, Biarritz and London in September 2026. It needed six club identities for that season, which were all created by London-based design studio Nomad . “We had six weeks to do it – to name them, the themes, and design them, and get them trademarked,” explains Co-founder & Executive Creative Director Stu Watson."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-08.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-07.jpeg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "None of the six clubs has a home city, a stadium or generations of supporters behind it. “In sport, teams usually get their identity from their city,” explains Associate Strategy Director Isabel Maguire. “When franchises move, they often lean on something more portable – whether it’s St. Louis or Los Angeles – the Rams can move house without losing their identity. But that didn’t work for us. These clubs had to create an immediate sense of place and distinct personality while still belonging to one Ultimate Sevens world.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-01.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Instead of a city, each club represents one of six broad territories, which Nomad established with the aim of building “an international fandom from day one,” as Partner & Creative Director Callum York puts it. The clubs are Albion Athletic for England, Atlantic Novas for North America, Clan Taran for Ireland, Scotland and Wales, Foudre Bleue for France, Pacific Current for Oceania and the Pacific Islands, and Sol Feroz for Spain and Latin America. The studio also set a shared naming structure: a geographic prefix, a central name that captures the club’s character or playing style and a ‘Sevens Club’ suffix. “But for tone, we looked beyond rugby and football to more niche sport communities like skate collective the Palace Wayward Boys Choir – names that feel less like franchises and more like something you’d actually want to belong to,” Maguire notes."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-03_2026-10-08-072104_xswq.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "For the marks, Nomad avoided the clichés of sports club branding. “The biggest one was the reliance on literal mascots and animals. Rugby has an enormous visual history built around lions, tigers, bears, birds and other creatures,” details Design Director George Edwards. “There is a temptation with sports branding to manufacture history through shields, crests, ornamental typography and pseudo-traditional devices. Ultimate Sevens didn’t have that history. And we didn’t need to pretend that it did.” Each club has an interlocking monogram. “They give us the best of both worlds – they feel like authentic sports crests, but with modern streetwear appeal,” Edwards tells us. “Our thinking was creating something that looks amazing on a baseball cap and that probably sounds a bit frivolous, but that’s how you get fandom,” Watson adds."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-06.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“In terms of shared features across all six logos, they were all drawn from the same baseline, but each carries its own regional character,” Edwards notes. “We developed logo animation behaviours across the clubs so that each monogram carries its own movement style while operating in sync, moving to the exact same tempo and cadence.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-05.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“The verbal identity is what helped turn six visual identities into six actual clubs,” explains Strategist Millie Riley. “Each has its own manifesto and tagline, built around its character and playing attitude.” The taglines include Albion Athletic’s ‘Built for Glory,’ Atlantic Novas’ ‘Bright. Bold. Blazing,’ Clan Taran’s ‘Feel The Thunder,’ Foudre Bleue’s ‘Light It Up’ and Pacific Current’s ‘See Us Rise.’ “Foudre Bleue is all French flair, attacking ambition and unpredictability,” Riley tells us. “Pacific Current is about collective energy and momentum building beneath the surface. ‘See Us Rise’ gives that shared power a voice.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-09.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-10.jpeg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Each club’s men’s and women’s teams share its monogram and its kit, which Reebok produced. Replica shirts and baseball caps are on sale, and a limited-edition collection of Club Vector Jackets has been announced. “The end result is that the identities aren’t simply logos placed on a Reebok shirt,” York concludes. “They become part of the overall kit language.”"
-        }
-      ],
-      "caseStudyText": "Ultimate Sevens is a rugby sevens league – backed by BIA Sports Group, the owners of Premier League football club Sunderland – whose first season took place in Cardiff, Biarritz and London in September 2026. It needed six club identities for that season, which were all created by London-based design studio Nomad . “We had six weeks to do it – to name them, the themes, and design them, and get them trademarked,” explains Co-founder & Executive Creative Director Stu Watson.\n\nNone of the six clubs has a home city, a stadium or generations of supporters behind it. “In sport, teams usually get their identity from their city,” explains Associate Strategy Director Isabel Maguire. “When franchises move, they often lean on something more portable – whether it’s St. Louis or Los Angeles – the Rams can move house without losing their identity. But that didn’t work for us. These clubs had to create an immediate sense of place and distinct personality while still belonging to one Ultimate Sevens world.”\n\nInstead of a city, each club represents one of six broad territories, which Nomad established with the aim of building “an international fandom from day one,” as Partner & Creative Director Callum York puts it. The clubs are Albion Athletic for England, Atlantic Novas for North America, Clan Taran for Ireland, Scotland and Wales, Foudre Bleue for France, Pacific Current for Oceania and the Pacific Islands, and Sol Feroz for Spain and Latin America. The studio also set a shared naming structure: a geographic prefix, a central name that captures the club’s character or playing style and a ‘Sevens Club’ suffix. “But for tone, we looked beyond rugby and football to more niche sport communities like skate collective the Palace Wayward Boys Choir – names that feel less like franchises and more like something you’d actually want to belong to,” Maguire notes.\n\nFor the marks, Nomad avoided the clichés of sports club branding. “The biggest one was the reliance on literal mascots and animals. Rugby has an enormous visual history built around lions, tigers, bears, birds and other creatures,” details Design Director George Edwards. “There is a temptation with sports branding to manufacture history through shields, crests, ornamental typography and pseudo-traditional devices. Ultimate Sevens didn’t have that history. And we didn’t need to pretend that it did.” Each club has an interlocking monogram. “They give us the best of both worlds – they feel like authentic sports crests, but with modern streetwear appeal,” Edwards tells us. “Our thinking was creating something that looks amazing on a baseball cap and that probably sounds a bit frivolous, but that’s how you get fandom,” Watson adds.\n\n“In terms of shared features across all six logos, they were all drawn from the same baseline, but each carries its own regional character,” Edwards notes. “We developed logo animation behaviours across the clubs so that each monogram carries its own movement style while operating in sync, moving to the exact same tempo and cadence.”\n\n“The verbal identity is what helped turn six visual identities into six actual clubs,” explains Strategist Millie Riley. “Each has its own manifesto and tagline, built around its character and playing attitude.” The taglines include Albion Athletic’s ‘Built for Glory,’ Atlantic Novas’ ‘Bright. Bold. Blazing,’ Clan Taran’s ‘Feel The Thunder,’ Foudre Bleue’s ‘Light It Up’ and Pacific Current’s ‘See Us Rise.’ “Foudre Bleue is all French flair, attacking ambition and unpredictability,” Riley tells us. “Pacific Current is about collective energy and momentum building beneath the surface. ‘See Us Rise’ gives that shared power a voice.”\n\nEach club’s men’s and women’s teams share its monogram and its kit, which Reebok produced. Replica shirts and baseball caps are on sale, and a limited-edition collection of Club Vector Jackets has been announced. “The end result is that the identities aren’t simply logos placed on a Reebok shirt,” York concludes. “They become part of the overall kit language.”",
-      "caseStudyMedia": [
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-04.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-08.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-07.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-01.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-03_2026-10-08-072104_xswq.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-06.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-05.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-09.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-nomad-named-and-branded-six-rugby-sevens-clubs-with-no-home-city/Ultimate-Sevens-Club-Identities-Nomad-10.jpeg"
         }
       ]
     }
