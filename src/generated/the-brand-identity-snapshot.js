@@ -7,6 +7,306 @@ const snapshot={
   },
   "items": [
     {
+      "canonicalUrl": "https://the-brandidentity.com/project/mateys-rebrand-makes-highlands-feel-purposely-hidden-like-a-rare-gem",
+      "titleOriginal": "Matey’s rebrand makes Highlands feel purposely hidden, like a rare gem",
+      "textOriginal": "Highlands is a mountain town founded in 1875 on a plateau 4,118 feet up in North Carolina’s Blue Ridge Mountains, hours from the nearest major airport – only reachable by winding mountain roads. The Highlands Chamber of Commerce commissioned Alabama-based branding studio Matey to reposition the town and rebrand Visit Highlands , its visitor brand, so that Highlands could reclaim its own narrative. Matey was responsible for the strategy, messaging and visual identity.\n\nIn the past, the town’s tourism department relied heavily on brands such as Old Edwards Inn and Spa and Highlander Mountain House, as well as generational word of mouth, to draw attention to Highlands. The brief asked Matey for a brand that reflects the town as a whole and gives it a foundation for what comes next. “We quickly recognised that this needed to be more than a new logo,” explains the Chamber’s Executive Director Johanna Fein. “We wanted to move beyond traditional tourism marketing and connect with travellers who value meaningful experiences, authenticity and quality over quantity.”",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/mateys-rebrand-makes-highlands-feel-purposely-hidden-like-a-rare-gem/Visit-Highlands-Matey-11.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/mateys-rebrand-makes-highlands-feel-purposely-hidden-like-a-rare-gem/_2000xAUTO_crop_center-center_85_none/15586313/Visit-Highlands-Matey-11.webp"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "Highlands is a mountain town founded in 1875 on a plateau 4,118 feet up in North Carolina’s Blue Ridge Mountains, hours from the nearest major airport – only reachable by winding mountain roads. The Highlands Chamber of Commerce commissioned Alabama-based branding studio Matey to reposition the town and rebrand Visit Highlands , its visitor brand, so that Highlands could reclaim its own narrative. Matey was responsible for the strategy, messaging and visual identity."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/mateys-rebrand-makes-highlands-feel-purposely-hidden-like-a-rare-gem/_2000xAUTO_crop_center-center_85_none/15586204/Visit-Highlands-Matey-01.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "In the past, the town’s tourism department relied heavily on brands such as Old Edwards Inn and Spa and Highlander Mountain House, as well as generational word of mouth, to draw attention to Highlands. The brief asked Matey for a brand that reflects the town as a whole and gives it a foundation for what comes next. “We quickly recognised that this needed to be more than a new logo,” explains the Chamber’s Executive Director Johanna Fein. “We wanted to move beyond traditional tourism marketing and connect with travellers who value meaningful experiences, authenticity and quality over quantity.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/mateys-rebrand-makes-highlands-feel-purposely-hidden-like-a-rare-gem/_2000xAUTO_crop_center-center_85_none/15586205/Visit-Highlands-Matey-03.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/mateys-rebrand-makes-highlands-feel-purposely-hidden-like-a-rare-gem/_2000xAUTO_crop_center-center_85_none/15586211/Visit-Highlands-Matey-04.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“During the brand strategy phase, we talked about Highlands as a place that feels purposely hidden, almost like a rare gem waiting to be discovered,” Matey’s Creative Director Josh Carnley tells us. In the same phase, the studio based the brand’s tone of voice on a knowledgeable mountain guide, and lines in that voice include the tagline ‘A Stunning World Away’ and ‘Hewn from the Wild in 1875.’ “We wanted the messaging to blend truth and myth, drawing people into the history, natural beauty and mystique of Highlands.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/mateys-rebrand-makes-highlands-feel-purposely-hidden-like-a-rare-gem/_2000xAUTO_crop_center-center_85_none/15587426/Visit-Highlands-Matey-14.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/mateys-rebrand-makes-highlands-feel-purposely-hidden-like-a-rare-gem/_2000xAUTO_crop_center-center_85_none/15587427/Visit-Highlands-Matey-15.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The custom-lettered logotype is inspired by a photograph from the Highlands archive that shows the 1948 girls’ basketball team in front of a hand-painted ‘Tournament Highlands’ sign. “The previous Chamber of Commerce logo was set in all caps, but this sign featured a mix of uppercase and lowercase letterforms that gave ‘Highlands’ so much character. The double-storey ‘g’ in particular brought movement and personality to the word,” Carnley explains."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/mateys-rebrand-makes-highlands-feel-purposely-hidden-like-a-rare-gem/_2000xAUTO_crop_center-center_85_none/15586323/Visit-Highlands-Matey-12.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/mateys-rebrand-makes-highlands-feel-purposely-hidden-like-a-rare-gem/_2000xAUTO_crop_center-center_85_none/15586208/Visit-Highlands-Matey-06.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Nothing in the logotype falls below the baseline, so the tall letters draw the gaze upwards, echoing the ascent to the plateau. Originally, the ‘H’ had a flat crossbar that, for Carnley, “felt disconnected from the movement throughout the rest of the lettering.” Looking through old photographs of Highlands one night, he settled on the silhouette of Whiteside Mountain, the town’s best-known landmark. It forms the crossbar of the ‘H’ and was the last addition to the logotype."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/mateys-rebrand-makes-highlands-feel-purposely-hidden-like-a-rare-gem/_2000xAUTO_crop_center-center_85_none/15586209/Visit-Highlands-Matey-07.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "A second photograph from the archive comes from a collection by George Masa, a Japanese immigrant photographer responsible for many historic images of the mountains of Western North Carolina. It features Masa’s handwriting, with what Carnley calls wonderful, swashy movement. “I wanted to capture some of that whimsy in the brand’s typography and messaging,” he details. That led to Newlyn’s expressive New Kansas ExtraSwash for accents, set beside Dinamo’s ABC Whyte for headlines and Boulevard LAB’s Office Times Rounded for body copy. “The swashy accents intentionally emphasise words that evoke emotion, discovery or wonder.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/mateys-rebrand-makes-highlands-feel-purposely-hidden-like-a-rare-gem/_2000xAUTO_crop_center-center_85_none/15586206/Visit-Highlands-Matey-10.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Drawing on the natural beauty and wildlife of the Blue Ridge Mountains, five hand-drawn icons come together in an oval badge: a salamander, Whiteside Mountain, a rhododendron, a bird and sunshine. “We wanted it to feel handcrafted and primitive, reflecting the creative spirit of Highlands,” Carnley explains, pointing to the independent boutiques, the visual arts centre The Bascom, the Highlands Performing Arts Center and the live music scene in town."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/mateys-rebrand-makes-highlands-feel-purposely-hidden-like-a-rare-gem/_2000xAUTO_crop_center-center_85_none/15586207/Visit-Highlands-Matey-08.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/mateys-rebrand-makes-highlands-feel-purposely-hidden-like-a-rare-gem/_2000xAUTO_crop_center-center_85_none/15586325/Visit-Highlands-Matey-13.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“Rich jewel tones convey the refinement and sophistication of Highlands, while grounded natural hues connect the identity to the surrounding Blue Ridge Mountains,” Carnley tells us. “Luxury resorts, spas and golf courses coexist with rugged hiking trails, waterfalls and untouched wilderness. That contrast became central to the identity.”"
+        }
+      ],
+      "caseStudyText": "Highlands is a mountain town founded in 1875 on a plateau 4,118 feet up in North Carolina’s Blue Ridge Mountains, hours from the nearest major airport – only reachable by winding mountain roads. The Highlands Chamber of Commerce commissioned Alabama-based branding studio Matey to reposition the town and rebrand Visit Highlands , its visitor brand, so that Highlands could reclaim its own narrative. Matey was responsible for the strategy, messaging and visual identity.\n\nIn the past, the town’s tourism department relied heavily on brands such as Old Edwards Inn and Spa and Highlander Mountain House, as well as generational word of mouth, to draw attention to Highlands. The brief asked Matey for a brand that reflects the town as a whole and gives it a foundation for what comes next. “We quickly recognised that this needed to be more than a new logo,” explains the Chamber’s Executive Director Johanna Fein. “We wanted to move beyond traditional tourism marketing and connect with travellers who value meaningful experiences, authenticity and quality over quantity.”\n\n“During the brand strategy phase, we talked about Highlands as a place that feels purposely hidden, almost like a rare gem waiting to be discovered,” Matey’s Creative Director Josh Carnley tells us. In the same phase, the studio based the brand’s tone of voice on a knowledgeable mountain guide, and lines in that voice include the tagline ‘A Stunning World Away’ and ‘Hewn from the Wild in 1875.’ “We wanted the messaging to blend truth and myth, drawing people into the history, natural beauty and mystique of Highlands.”\n\nThe custom-lettered logotype is inspired by a photograph from the Highlands archive that shows the 1948 girls’ basketball team in front of a hand-painted ‘Tournament Highlands’ sign. “The previous Chamber of Commerce logo was set in all caps, but this sign featured a mix of uppercase and lowercase letterforms that gave ‘Highlands’ so much character. The double-storey ‘g’ in particular brought movement and personality to the word,” Carnley explains.\n\nNothing in the logotype falls below the baseline, so the tall letters draw the gaze upwards, echoing the ascent to the plateau. Originally, the ‘H’ had a flat crossbar that, for Carnley, “felt disconnected from the movement throughout the rest of the lettering.” Looking through old photographs of Highlands one night, he settled on the silhouette of Whiteside Mountain, the town’s best-known landmark. It forms the crossbar of the ‘H’ and was the last addition to the logotype.\n\nA second photograph from the archive comes from a collection by George Masa, a Japanese immigrant photographer responsible for many historic images of the mountains of Western North Carolina. It features Masa’s handwriting, with what Carnley calls wonderful, swashy movement. “I wanted to capture some of that whimsy in the brand’s typography and messaging,” he details. That led to Newlyn’s expressive New Kansas ExtraSwash for accents, set beside Dinamo’s ABC Whyte for headlines and Boulevard LAB’s Office Times Rounded for body copy. “The swashy accents intentionally emphasise words that evoke emotion, discovery or wonder.”\n\nDrawing on the natural beauty and wildlife of the Blue Ridge Mountains, five hand-drawn icons come together in an oval badge: a salamander, Whiteside Mountain, a rhododendron, a bird and sunshine. “We wanted it to feel handcrafted and primitive, reflecting the creative spirit of Highlands,” Carnley explains, pointing to the independent boutiques, the visual arts centre The Bascom, the Highlands Performing Arts Center and the live music scene in town.\n\n“Rich jewel tones convey the refinement and sophistication of Highlands, while grounded natural hues connect the identity to the surrounding Blue Ridge Mountains,” Carnley tells us. “Luxury resorts, spas and golf courses coexist with rugged hiking trails, waterfalls and untouched wilderness. That contrast became central to the identity.”",
+      "caseStudyMedia": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/mateys-rebrand-makes-highlands-feel-purposely-hidden-like-a-rare-gem/_2000xAUTO_crop_center-center_85_none/15586313/Visit-Highlands-Matey-11.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/mateys-rebrand-makes-highlands-feel-purposely-hidden-like-a-rare-gem/_2000xAUTO_crop_center-center_85_none/15586204/Visit-Highlands-Matey-01.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/mateys-rebrand-makes-highlands-feel-purposely-hidden-like-a-rare-gem/_2000xAUTO_crop_center-center_85_none/15586205/Visit-Highlands-Matey-03.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/mateys-rebrand-makes-highlands-feel-purposely-hidden-like-a-rare-gem/_2000xAUTO_crop_center-center_85_none/15586211/Visit-Highlands-Matey-04.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/mateys-rebrand-makes-highlands-feel-purposely-hidden-like-a-rare-gem/_2000xAUTO_crop_center-center_85_none/15587426/Visit-Highlands-Matey-14.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/mateys-rebrand-makes-highlands-feel-purposely-hidden-like-a-rare-gem/_2000xAUTO_crop_center-center_85_none/15587427/Visit-Highlands-Matey-15.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/mateys-rebrand-makes-highlands-feel-purposely-hidden-like-a-rare-gem/_2000xAUTO_crop_center-center_85_none/15586323/Visit-Highlands-Matey-12.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/mateys-rebrand-makes-highlands-feel-purposely-hidden-like-a-rare-gem/_2000xAUTO_crop_center-center_85_none/15586208/Visit-Highlands-Matey-06.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/mateys-rebrand-makes-highlands-feel-purposely-hidden-like-a-rare-gem/_2000xAUTO_crop_center-center_85_none/15586209/Visit-Highlands-Matey-07.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/mateys-rebrand-makes-highlands-feel-purposely-hidden-like-a-rare-gem/_2000xAUTO_crop_center-center_85_none/15586206/Visit-Highlands-Matey-10.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/mateys-rebrand-makes-highlands-feel-purposely-hidden-like-a-rare-gem/_2000xAUTO_crop_center-center_85_none/15586207/Visit-Highlands-Matey-08.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/mateys-rebrand-makes-highlands-feel-purposely-hidden-like-a-rare-gem/_2000xAUTO_crop_center-center_85_none/15586325/Visit-Highlands-Matey-13.webp"
+        }
+      ]
+    },
+    {
+      "canonicalUrl": "https://the-brandidentity.com/project/brunos-helloasso-identity-follows-frances-love-of-brands-with-values",
+      "titleOriginal": "Bruno’s HelloAsso identity follows France’s love of brands with values",
+      "textOriginal": "Since 2009, HelloAsso has made life easier for non-profits across France. It is a free management platform that they use to organise events, donation drives and memberships. By acquiring tools from across the sector, it has expanded from one service into a range of solutions big enough for the largest organisations. To keep organisations as they grow, HelloAsso needed a rethink of its brand architecture – a parent brand, three offers called HelloAsso Sport, HelloAsso Generosity and HelloAsso Culture, and the HelloAsso Fund for Engagement. Global branding agency Bruno was commissioned to create HelloAsso’s strategic, verbal and visual identity, along with the web design, development, motion design, illustration and an online brand book.\n\nHelloAsso came to Bruno with a positioning that no longer matched what it had become: still seen as a tool for small organisations, with an identity that felt corporate and relied on generic stock imagery. Chief Brand Officer Charlie Tronche asked for a visual identity that “expresses our purpose, shows real life without overplaying it and moves beyond the image of a mere utility. The platform now counts 480,000 non-profits and 20 million citizens, and its scope is widening – into public interest through the Fund and into new tools. “One identity could no longer carry such different roles without creating confusion. We needed a parent brand, readable variations and shared rules, so everyone knows who is speaking, and on whose behalf,” he explains.",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/brunos-helloasso-identity-follows-frances-love-of-brands-with-values/HelloAsso-Bruno-01.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/brunos-helloasso-identity-follows-frances-love-of-brands-with-values/_2000xAUTO_crop_center-center_85_none/15586188/HelloAsso-Bruno-01.webp"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "Since 2009, HelloAsso has made life easier for non-profits across France. It is a free management platform that they use to organise events, donation drives and memberships. By acquiring tools from across the sector, it has expanded from one service into a range of solutions big enough for the largest organisations. To keep organisations as they grow, HelloAsso needed a rethink of its brand architecture – a parent brand, three offers called HelloAsso Sport, HelloAsso Generosity and HelloAsso Culture, and the HelloAsso Fund for Engagement. Global branding agency Bruno was commissioned to create HelloAsso’s strategic, verbal and visual identity, along with the web design, development, motion design, illustration and an online brand book."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/brunos-helloasso-identity-follows-frances-love-of-brands-with-values/_2000xAUTO_crop_center-center_85_none/15586189/HelloAsso-Bruno-02.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "HelloAsso came to Bruno with a positioning that no longer matched what it had become: still seen as a tool for small organisations, with an identity that felt corporate and relied on generic stock imagery. Chief Brand Officer Charlie Tronche asked for a visual identity that “expresses our purpose, shows real life without overplaying it and moves beyond the image of a mere utility. The platform now counts 480,000 non-profits and 20 million citizens, and its scope is widening – into public interest through the Fund and into new tools. “One identity could no longer carry such different roles without creating confusion. We needed a parent brand, readable variations and shared rules, so everyone knows who is speaking, and on whose behalf,” he explains."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/brunos-helloasso-identity-follows-frances-love-of-brands-with-values/_2000xAUTO_crop_center-center_85_none/15586190/HelloAsso-Bruno-03.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/brunos-helloasso-identity-follows-frances-love-of-brands-with-values/_2000xAUTO_crop_center-center_85_none/15586196/HelloAsso-Bruno-04.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Bruno’s approach started from the insight that France’s favourite brands are brands with values. In the agency’s view, HelloAsso, which is free for non-profits and built on solidarity, had a place among them, and the identity “had to make some noise.” Bruno’s Co-founder & CEO Barthélémy Chalvet sums up the core idea as “the individual within the collective,” explaining that “a non-profit is a group of individuals, each with a face.”"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/brunos-helloasso-identity-follows-frances-love-of-brands-with-values/HelloAsso-Bruno-05.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "A mosaic pattern translates the individual within the collective into a grid of portraits of real members, and the parent brand and every offer use it. Where a message has to appear, one square splits in two and its second half becomes the space for text. “Text never sits on top of a face; it takes the place of one,” Chalvet notes. The old identity used generic stock photography, but the candid photography that replaces it, which also runs across the offers, shows real members and real clubs without staging them. “It’s what makes the mosaic credible,” he adds. Motion was part of the concept from the start, since the idea was defined as a “graphic and animated” play. In motion, the mosaic assembles and splits, moving between the individuals and the collective. Tronche tells us that “it is not the brand that should be seen first, but what it carries and the people who carry it.”"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/brunos-helloasso-identity-follows-frances-love-of-brands-with-values/HelloAsso-Bruno-06-v2.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The tone of voice rests on four attributes: concrete, knowing, assertive and committed. The copy starts from real situations on the ground, such as the treasurer, volunteer and membership fee, and its guiding line, Chalvet details, is “impertinence has never been more pertinent.” One slogan reads ‘Le service est offert par la maison,’ or ‘the service is on the house.’ Another, ‘It hasn’t got any better for non-profits since 1901,’ refers to the law passed on 1st July 1901, which established the freedom of association in France and allowed associations to exist without prior approval. “1901 is a foundational date in French history, one we all learn in school,” he explains."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/brunos-helloasso-identity-follows-frances-love-of-brands-with-values/_2000xAUTO_crop_center-center_85_none/15586191/HelloAsso-Bruno-07.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/brunos-helloasso-identity-follows-frances-love-of-brands-with-values/_2000xAUTO_crop_center-center_85_none/15586193/HelloAsso-Bruno-08.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Bruno developed the copy and the design together, so the typography is made for headlines. Every offer uses the same typeface, Morris Fuller Benton’s Franklin Gothic, “a grotesque with deep roots in 20th-century advertising and protest posters,” as Chalvet describes it. “HelloAsso is with the people: it is made for non-profits. As such, 1970s posters and newspapers were the reference because they are dense, bold and set to be read from across the street. Their slogans feel like they belong to everyone.” The HelloAsso wordmark has the same energy as those posters. “Black and white is the backbone: it’s the poster, the statement,” Chalvet continues. An extroverted palette sits around it, with green as the parent brand’s colour and one dominant colour for each offer."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/brunos-helloasso-identity-follows-frances-love-of-brands-with-values/_2000xAUTO_crop_center-center_85_none/15586195/HelloAsso-Bruno-09.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/brunos-helloasso-identity-follows-frances-love-of-brands-with-values/_2000xAUTO_crop_center-center_85_none/15586194/HelloAsso-Bruno-10.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Each offer’s logo is built from the same lockup of the HelloAsso wordmark, a pictogram and the offer’s name. HelloAsso Sport uses lime yellow and speaks the language of the pitch. HelloAsso Generosity has a warmer tone, with natural colours and rounder layouts. HelloAsso Culture draws on theatre posters, with a red, black and white palette, centred text and the mosaic rearranged into horizontal bands like theatre banners. The HelloAsso Fund for Engagement is closest to the parent brand, in black and white without the green. The brand guidelines are set out in an online brand book that covers logo, typography, colour, photography and verbal identity, so that HelloAsso’s teams can work from it on their own."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/brunos-helloasso-identity-follows-frances-love-of-brands-with-values/_2000xAUTO_crop_center-center_85_none/15586192/HelloAsso-Bruno-11.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“Reactions are mixed, as everyone has an opinion on the subject, but there are plenty of them, not none. That already says something: part of the brief is fulfilled, to be less polished and conventional, and to leave a mark,” Tronche concludes."
+        }
+      ],
+      "caseStudyText": "Since 2009, HelloAsso has made life easier for non-profits across France. It is a free management platform that they use to organise events, donation drives and memberships. By acquiring tools from across the sector, it has expanded from one service into a range of solutions big enough for the largest organisations. To keep organisations as they grow, HelloAsso needed a rethink of its brand architecture – a parent brand, three offers called HelloAsso Sport, HelloAsso Generosity and HelloAsso Culture, and the HelloAsso Fund for Engagement. Global branding agency Bruno was commissioned to create HelloAsso’s strategic, verbal and visual identity, along with the web design, development, motion design, illustration and an online brand book.\n\nHelloAsso came to Bruno with a positioning that no longer matched what it had become: still seen as a tool for small organisations, with an identity that felt corporate and relied on generic stock imagery. Chief Brand Officer Charlie Tronche asked for a visual identity that “expresses our purpose, shows real life without overplaying it and moves beyond the image of a mere utility. The platform now counts 480,000 non-profits and 20 million citizens, and its scope is widening – into public interest through the Fund and into new tools. “One identity could no longer carry such different roles without creating confusion. We needed a parent brand, readable variations and shared rules, so everyone knows who is speaking, and on whose behalf,” he explains.\n\nBruno’s approach started from the insight that France’s favourite brands are brands with values. In the agency’s view, HelloAsso, which is free for non-profits and built on solidarity, had a place among them, and the identity “had to make some noise.” Bruno’s Co-founder & CEO Barthélémy Chalvet sums up the core idea as “the individual within the collective,” explaining that “a non-profit is a group of individuals, each with a face.”\n\nA mosaic pattern translates the individual within the collective into a grid of portraits of real members, and the parent brand and every offer use it. Where a message has to appear, one square splits in two and its second half becomes the space for text. “Text never sits on top of a face; it takes the place of one,” Chalvet notes. The old identity used generic stock photography, but the candid photography that replaces it, which also runs across the offers, shows real members and real clubs without staging them. “It’s what makes the mosaic credible,” he adds. Motion was part of the concept from the start, since the idea was defined as a “graphic and animated” play. In motion, the mosaic assembles and splits, moving between the individuals and the collective. Tronche tells us that “it is not the brand that should be seen first, but what it carries and the people who carry it.”\n\nThe tone of voice rests on four attributes: concrete, knowing, assertive and committed. The copy starts from real situations on the ground, such as the treasurer, volunteer and membership fee, and its guiding line, Chalvet details, is “impertinence has never been more pertinent.” One slogan reads ‘Le service est offert par la maison,’ or ‘the service is on the house.’ Another, ‘It hasn’t got any better for non-profits since 1901,’ refers to the law passed on 1st July 1901, which established the freedom of association in France and allowed associations to exist without prior approval. “1901 is a foundational date in French history, one we all learn in school,” he explains.\n\nBruno developed the copy and the design together, so the typography is made for headlines. Every offer uses the same typeface, Morris Fuller Benton’s Franklin Gothic, “a grotesque with deep roots in 20th-century advertising and protest posters,” as Chalvet describes it. “HelloAsso is with the people: it is made for non-profits. As such, 1970s posters and newspapers were the reference because they are dense, bold and set to be read from across the street. Their slogans feel like they belong to everyone.” The HelloAsso wordmark has the same energy as those posters. “Black and white is the backbone: it’s the poster, the statement,” Chalvet continues. An extroverted palette sits around it, with green as the parent brand’s colour and one dominant colour for each offer.\n\nEach offer’s logo is built from the same lockup of the HelloAsso wordmark, a pictogram and the offer’s name. HelloAsso Sport uses lime yellow and speaks the language of the pitch. HelloAsso Generosity has a warmer tone, with natural colours and rounder layouts. HelloAsso Culture draws on theatre posters, with a red, black and white palette, centred text and the mosaic rearranged into horizontal bands like theatre banners. The HelloAsso Fund for Engagement is closest to the parent brand, in black and white without the green. The brand guidelines are set out in an online brand book that covers logo, typography, colour, photography and verbal identity, so that HelloAsso’s teams can work from it on their own.\n\n“Reactions are mixed, as everyone has an opinion on the subject, but there are plenty of them, not none. That already says something: part of the brief is fulfilled, to be less polished and conventional, and to leave a mark,” Tronche concludes.",
+      "caseStudyMedia": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/brunos-helloasso-identity-follows-frances-love-of-brands-with-values/_2000xAUTO_crop_center-center_85_none/15586188/HelloAsso-Bruno-01.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/brunos-helloasso-identity-follows-frances-love-of-brands-with-values/_2000xAUTO_crop_center-center_85_none/15586189/HelloAsso-Bruno-02.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/brunos-helloasso-identity-follows-frances-love-of-brands-with-values/_2000xAUTO_crop_center-center_85_none/15586190/HelloAsso-Bruno-03.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/brunos-helloasso-identity-follows-frances-love-of-brands-with-values/_2000xAUTO_crop_center-center_85_none/15586196/HelloAsso-Bruno-04.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/brunos-helloasso-identity-follows-frances-love-of-brands-with-values/HelloAsso-Bruno-05.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/brunos-helloasso-identity-follows-frances-love-of-brands-with-values/HelloAsso-Bruno-06-v2.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/brunos-helloasso-identity-follows-frances-love-of-brands-with-values/_2000xAUTO_crop_center-center_85_none/15586191/HelloAsso-Bruno-07.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/brunos-helloasso-identity-follows-frances-love-of-brands-with-values/_2000xAUTO_crop_center-center_85_none/15586193/HelloAsso-Bruno-08.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/brunos-helloasso-identity-follows-frances-love-of-brands-with-values/_2000xAUTO_crop_center-center_85_none/15586195/HelloAsso-Bruno-09.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/brunos-helloasso-identity-follows-frances-love-of-brands-with-values/_2000xAUTO_crop_center-center_85_none/15586194/HelloAsso-Bruno-10.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/brunos-helloasso-identity-follows-frances-love-of-brands-with-values/_2000xAUTO_crop_center-center_85_none/15586192/HelloAsso-Bruno-11.webp"
+        }
+      ]
+    },
+    {
       "canonicalUrl": "https://the-brandidentity.com/project/how-studio-bright-green-rebranded-heritage-architecture-to-levrant",
       "titleOriginal": "Studio Bright Green’s quietly confident identity for Levrant",
       "textOriginal": "London-based Studio Bright Green has created the identity for Levrant , a UK practice that works on historic buildings across architecture, heritage consultancy and townscape. Research with the practice’s team and its clients led to a name change and a visual language built around quiet confidence. That confidence runs through everything, from the typography and colour to the photography and the materials the team works with every day.\n\nThe practice grew largely through reputation, word of mouth and long-standing relationships. Over time, it built a broad range of expertise, but many clients knew it for only a narrow part of its work. “I’ve never been particularly good at telling people what we’ve achieved,” admits Principal Architect Stephen Levrant. Susanna, his wife and the practice’s Financial Director, engaged Studio Bright Green and steered the process. “I did need some convincing at the beginning,” Stephen notes, but he realised that change was necessary if the practice was to win larger projects, attract the right people and earn greater recognition for the team’s work. “I want the practice to continue well beyond me and Susanna, so the rebranding brief evolved to encompass all these points.”",
@@ -3514,282 +3814,6 @@ const snapshot={
         {
           "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/together-gives-clusia-a-four-petal-mark-showing-ai-and-people-at-work/Clusia-Together-04.jpg"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/how-red-antlers-brand-helps-rovexs-robot-feel-familiar-in-hospitals",
-      "titleOriginal": "How Red Antler’s brand helps Rovex’s robot feel familiar in hospitals",
-      "textOriginal": "Rovi, the first product from Rovex , is what the hospital logistics platform describes as the first robot built to move patients. Rovi attaches to any stretcher and moves stable patients through the hospital on its own without major changes to the building’s infrastructure. New York-based Red Antler was commissioned to create the brand strategy, identity, messaging, digital and visual design, and art direction for the company.\n\n“When we started working with Red Antler, the product and the mission were already very real,” explains Co-founder & CEO David Crabb. “We knew the problem we were solving, we were building the technology, and we had a strong point of view about what Rovi should become inside a hospital. What we did not yet have was an identity for Rovex as a whole or a clear voice that matched that ambition. We wanted a brand that could live comfortably in a hospital without looking like traditional medical equipment. Rovi and the brand needed to feel approachable to patients and clinical staff, credible to hospital leadership and distinct enough to become a recognisable member of the hospital environment.”",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-red-antlers-brand-helps-rovexs-robot-feel-familiar-in-hospitals/Rovex-Red-Antler-01.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-red-antlers-brand-helps-rovexs-robot-feel-familiar-in-hospitals/Rovex-Red-Antler-01.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "Rovi, the first product from Rovex , is what the hospital logistics platform describes as the first robot built to move patients. Rovi attaches to any stretcher and moves stable patients through the hospital on its own without major changes to the building’s infrastructure. New York-based Red Antler was commissioned to create the brand strategy, identity, messaging, digital and visual design, and art direction for the company."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-red-antlers-brand-helps-rovexs-robot-feel-familiar-in-hospitals/Rovex-Red-Antler-02.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“When we started working with Red Antler, the product and the mission were already very real,” explains Co-founder & CEO David Crabb. “We knew the problem we were solving, we were building the technology, and we had a strong point of view about what Rovi should become inside a hospital. What we did not yet have was an identity for Rovex as a whole or a clear voice that matched that ambition. We wanted a brand that could live comfortably in a hospital without looking like traditional medical equipment. Rovi and the brand needed to feel approachable to patients and clinical staff, credible to hospital leadership and distinct enough to become a recognisable member of the hospital environment.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-red-antlers-brand-helps-rovexs-robot-feel-familiar-in-hospitals/Rovex-Red-Antler-03.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“When transport stalls, the effects ripple through care outcomes, staff bandwidth and patient experience,” Red Antler notes. That insight became the basis for the brand idea – ‘Keep care flowing.’ “Because Rovi carries people rather than linens, medication or supplies, trust had to be built into the brand from the beginning,” explains Senior Designer Tatsuya Kurihara. “Patients are already in a vulnerable state, while hospital staff and leadership need to know that new technology can integrate safely into an environment where reliability matters enormously. The brand therefore needed to feel believable, safe and inevitable, rather than futuristic for the sake of being futuristic.” In Kurihara’s words, the identity is “advanced enough to represent where hospital logistics is going, but human enough to belong beside the people it is ultimately designed to serve.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-red-antlers-brand-helps-rovexs-robot-feel-familiar-in-hospitals/Rovex-Red-Antler-05_2026-10-09-084458_pllz.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "For Red Antler, the creative challenge was making Rovi feel like “a known quantity in an environment that had never seen anything like it.” To make Rovi reassuring, the studio leaned into the robot’s preparation. Rovi completes millions of virtual transports through a simulated replica of the hospital before its first real one, and Red Antler’s visual system “carries that reassurance into every touchpoint.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-red-antlers-brand-helps-rovexs-robot-feel-familiar-in-hospitals/Rovex-Red-Antler-04.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-red-antlers-brand-helps-rovexs-robot-feel-familiar-in-hospitals/Rovex-Red-Antler-09.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The path-based visual system starts from the complexity of hospital logistics – the bottlenecks and “disconnected moments that can interrupt the flow of care,” Kurihara notes. “We began representing those individual problems as dots, then connected and organised them through a continuous path. The idea is that Rovex brings structure to that complexity, connecting what feels fragmented and creating a clearer, simpler flow through the hospital,” he continues. That connected-dot motif informs the symbol, iconography, data visualisations and holding devices – the graphic shapes that frame content. Rovex’s symbol is based on the ‘R’ of its name and is built from the same dots. It appears on Rovi itself, on apparel and on an app icon. “We engineered the mark to retain the same character at both large and small scales, simplifying and balancing its forms so the ‘R’ remains recognisable and legible even at its smallest size.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-red-antlers-brand-helps-rovexs-robot-feel-familiar-in-hospitals/Rovex-Red-Antler-07.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The Rovex wordmark uses custom typography. “Soft curves are balanced with structured edges, giving the mark a character that feels approachable yet precise. The lowercase ‘r’ was a deliberate choice to reinforce that sense of approachability, while its simpler form creates a more natural relationship with the other letterforms,” Kurihara reveals. The open spacing gives the wordmark “clarity and presence across different scales,” from billboards and environmental graphics to presentation screens and digital interfaces. The palette pairs an electric yellow, which signals presence and movement “without feeling like an alarm,” with muted ink and a family of soft gradients. “Across the system, yellow is used intentionally rather than everywhere. It acts as a signal: drawing attention to key moments, information or expressions of movement and flow.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-red-antlers-brand-helps-rovexs-robot-feel-familiar-in-hospitals/Rovex-Red-Antler-06.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Red Antler set the art direction for the photography and footage on Rovex’s website. Before real hospital footage was available, the studio created AI-generated reference imagery and motion studies to guide the subject matter, composition, lighting, environment, movement and tone. “The goal was to avoid imagery that felt overly staged, futuristic or like generic healthcare stock photography,” Kurihara explains. “We wanted the brand to feel grounded in the reality of hospitals: real environments, real people and real moments of care.” Red Antler reports that Rovex’s website, which the studio redesigned, has grown monthly traffic by 130% and tripled lead capture, with the average visit lasting 2:55 against 1:46 on the old site."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-red-antlers-brand-helps-rovexs-robot-feel-familiar-in-hospitals/Rovex-Red-Antler-08.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“We built the voice around one shared idea: keeping care moving. What changes by audience isn’t the personality of the brand, but the benefit we bring forward,” Kurihara details. For hospital staff, the line is ‘Rovi keeps care moving, no matter your transport realities,’ alongside Rovex’s claim that staff can be trained in 20 minutes. The screens that Red Antler designed for patients inside the hospital read ‘Rovi gets you care sooner, and home faster.’ On those screens, the connected-dot motif becomes “more functional, using the path to communicate the patient’s journey and sense of progress,” Kurihara concludes."
-        }
-      ],
-      "caseStudyText": "Rovi, the first product from Rovex , is what the hospital logistics platform describes as the first robot built to move patients. Rovi attaches to any stretcher and moves stable patients through the hospital on its own without major changes to the building’s infrastructure. New York-based Red Antler was commissioned to create the brand strategy, identity, messaging, digital and visual design, and art direction for the company.\n\n“When we started working with Red Antler, the product and the mission were already very real,” explains Co-founder & CEO David Crabb. “We knew the problem we were solving, we were building the technology, and we had a strong point of view about what Rovi should become inside a hospital. What we did not yet have was an identity for Rovex as a whole or a clear voice that matched that ambition. We wanted a brand that could live comfortably in a hospital without looking like traditional medical equipment. Rovi and the brand needed to feel approachable to patients and clinical staff, credible to hospital leadership and distinct enough to become a recognisable member of the hospital environment.”\n\n“When transport stalls, the effects ripple through care outcomes, staff bandwidth and patient experience,” Red Antler notes. That insight became the basis for the brand idea – ‘Keep care flowing.’ “Because Rovi carries people rather than linens, medication or supplies, trust had to be built into the brand from the beginning,” explains Senior Designer Tatsuya Kurihara. “Patients are already in a vulnerable state, while hospital staff and leadership need to know that new technology can integrate safely into an environment where reliability matters enormously. The brand therefore needed to feel believable, safe and inevitable, rather than futuristic for the sake of being futuristic.” In Kurihara’s words, the identity is “advanced enough to represent where hospital logistics is going, but human enough to belong beside the people it is ultimately designed to serve.”\n\nFor Red Antler, the creative challenge was making Rovi feel like “a known quantity in an environment that had never seen anything like it.” To make Rovi reassuring, the studio leaned into the robot’s preparation. Rovi completes millions of virtual transports through a simulated replica of the hospital before its first real one, and Red Antler’s visual system “carries that reassurance into every touchpoint.”\n\nThe path-based visual system starts from the complexity of hospital logistics – the bottlenecks and “disconnected moments that can interrupt the flow of care,” Kurihara notes. “We began representing those individual problems as dots, then connected and organised them through a continuous path. The idea is that Rovex brings structure to that complexity, connecting what feels fragmented and creating a clearer, simpler flow through the hospital,” he continues. That connected-dot motif informs the symbol, iconography, data visualisations and holding devices – the graphic shapes that frame content. Rovex’s symbol is based on the ‘R’ of its name and is built from the same dots. It appears on Rovi itself, on apparel and on an app icon. “We engineered the mark to retain the same character at both large and small scales, simplifying and balancing its forms so the ‘R’ remains recognisable and legible even at its smallest size.”\n\nThe Rovex wordmark uses custom typography. “Soft curves are balanced with structured edges, giving the mark a character that feels approachable yet precise. The lowercase ‘r’ was a deliberate choice to reinforce that sense of approachability, while its simpler form creates a more natural relationship with the other letterforms,” Kurihara reveals. The open spacing gives the wordmark “clarity and presence across different scales,” from billboards and environmental graphics to presentation screens and digital interfaces. The palette pairs an electric yellow, which signals presence and movement “without feeling like an alarm,” with muted ink and a family of soft gradients. “Across the system, yellow is used intentionally rather than everywhere. It acts as a signal: drawing attention to key moments, information or expressions of movement and flow.”\n\nRed Antler set the art direction for the photography and footage on Rovex’s website. Before real hospital footage was available, the studio created AI-generated reference imagery and motion studies to guide the subject matter, composition, lighting, environment, movement and tone. “The goal was to avoid imagery that felt overly staged, futuristic or like generic healthcare stock photography,” Kurihara explains. “We wanted the brand to feel grounded in the reality of hospitals: real environments, real people and real moments of care.” Red Antler reports that Rovex’s website, which the studio redesigned, has grown monthly traffic by 130% and tripled lead capture, with the average visit lasting 2:55 against 1:46 on the old site.\n\n“We built the voice around one shared idea: keeping care moving. What changes by audience isn’t the personality of the brand, but the benefit we bring forward,” Kurihara details. For hospital staff, the line is ‘Rovi keeps care moving, no matter your transport realities,’ alongside Rovex’s claim that staff can be trained in 20 minutes. The screens that Red Antler designed for patients inside the hospital read ‘Rovi gets you care sooner, and home faster.’ On those screens, the connected-dot motif becomes “more functional, using the path to communicate the patient’s journey and sense of progress,” Kurihara concludes.",
-      "caseStudyMedia": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-red-antlers-brand-helps-rovexs-robot-feel-familiar-in-hospitals/Rovex-Red-Antler-01.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-red-antlers-brand-helps-rovexs-robot-feel-familiar-in-hospitals/Rovex-Red-Antler-02.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-red-antlers-brand-helps-rovexs-robot-feel-familiar-in-hospitals/Rovex-Red-Antler-03.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-red-antlers-brand-helps-rovexs-robot-feel-familiar-in-hospitals/Rovex-Red-Antler-05_2026-10-09-084458_pllz.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-red-antlers-brand-helps-rovexs-robot-feel-familiar-in-hospitals/Rovex-Red-Antler-04.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-red-antlers-brand-helps-rovexs-robot-feel-familiar-in-hospitals/Rovex-Red-Antler-09.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-red-antlers-brand-helps-rovexs-robot-feel-familiar-in-hospitals/Rovex-Red-Antler-07.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-red-antlers-brand-helps-rovexs-robot-feel-familiar-in-hospitals/Rovex-Red-Antler-06.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-red-antlers-brand-helps-rovexs-robot-feel-familiar-in-hospitals/Rovex-Red-Antler-08.mp4"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks",
-      "titleOriginal": "Hochburg’s identity for grill brand Flamid draws on maker’s marks",
-      "textOriginal": "Flamid is a brand of insulated, modular grill barrels, made by hand in a metal workshop on the Swabian Alb in Germany. Every barrel shares the same core, built around fire, and takes on a different character through its outer shell – black steel, Corten steel that changes with weather and time, or a steel gabion cage that can be filled with stone. Stuttgart-based design studio Hochburg was commissioned to create the name, positioning and identity, with a brief to make visible how precisely each barrel is engineered and how long it is built to last.\n\nFounder Tobias Failenschmid had carried the idea of Flamid for years, and the first versions proved that it worked. “Early in the process, it became clear that my strength lies in precise metalwork,” he explains. “But Flamid needed more than a well-made steel object. It needed a broader product perspective.” Hochburg and Mike Oberste-Brink of OMAS Studio worked with him to sharpen the product’s proportions, details and usability, from a functional and an aesthetic point of view.",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/14048168.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/Flamid-Hochburg-01.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "Flamid is a brand of insulated, modular grill barrels, made by hand in a metal workshop on the Swabian Alb in Germany. Every barrel shares the same core, built around fire, and takes on a different character through its outer shell – black steel, Corten steel that changes with weather and time, or a steel gabion cage that can be filled with stone. Stuttgart-based design studio Hochburg was commissioned to create the name, positioning and identity, with a brief to make visible how precisely each barrel is engineered and how long it is built to last."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/Flamid-Hochburg-02.jpeg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Founder Tobias Failenschmid had carried the idea of Flamid for years, and the first versions proved that it worked. “Early in the process, it became clear that my strength lies in precise metalwork,” he explains. “But Flamid needed more than a well-made steel object. It needed a broader product perspective.” Hochburg and Mike Oberste-Brink of OMAS Studio worked with him to sharpen the product’s proportions, details and usability, from a functional and an aesthetic point of view."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/Flamid-Hochburg-06.jpeg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Hochburg developed the name directly from Failenschmid’s surname, condensing it into a compact form that also evokes flame and fire. “The name is rooted in the person behind the product and reflects how closely the object is tied to his vision and craft,” Hochburg’s Founder & Creative Director Fabian Schmutzer tells us. Flamid is made for “people who take cooking outside seriously and do not see fire as decoration,” he adds. “That meant the identity could not begin with generic lifestyle imagery.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/Flamid-Hochburg-10.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/Flamid-Hochburg-09.jpeg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Hochburg looked to the product and the way it is made. “We did not want to use craftsmanship as a visual costume,” Schmutzer explains. “We were interested in its logic: a maker’s mark stands for authorship, a technical drawing shows how something works, and a construction detail makes material and function visible.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/Flamid-Hochburg-03.jpeg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "For the symbol, “we began with the ‘F’ in Flamid,” Schmutzer details. “As we drew and refined its form, one side began to read like a wing. That became the connection between the wordmark and the symbol: both come from the same letter, rather than being two separate ideas placed next to each other.” From there, a bird of prey emerged, constructed on a strict grid. “We wanted the wordmark to have the physical weight of the product,” he continues, which is why it is wide and compact, with punched-out curves."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/Flamid-Hochburg-11.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/Flamid-Hochburg-12.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The symbol is embossed into the product’s metal nameplate, where it works like a maker’s stamp. Hochburg developed it in close dialogue with Failenschmid and the workshop, considering its proportions, line weight and negative spaces against the real material and production, so that it embosses clearly and remains legible at a small scale. “That is where the identity stops being a screen-based system and becomes part of the object,” Schmutzer notes."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/Flamid-Hochburg-04.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/Flamid-Hochburg-05.jpeg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The identity appears across the website, posters, teamwear, vehicles, hangtags and live-cooking applications. Arthur Calame’s Install typeface brings “the right balance of weight and warmth,” Schmutzer explains. “Its broad proportions and rounded forms give the identity a physical presence, while keeping it open enough for a product that is ultimately about bringing people together.” Install is paired with atipo foundry’s monospaced Basier Mono for technical information, specifications and statements. “Its measured rhythm gives the system a more functional voice and sharpens the contrast between the expressive and engineered sides of Flamid,” he adds. Following the idea of the technical drawing, wireframes and technical renderings show the product’s modular structure, including its different shells and configurations, on the website and posters."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/Flamid-Hochburg-13.jpeg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Ember orange represents heat and fire, deep Alb green represents the landscape around the workshop and paper white adds space and precision. Hochburg handled the art direction and photography itself, shooting Failenschmid, the workshop, the first prototypes and the surrounding Alb on location. The imagery spans steel, welding light, sparks, smoke, food and the landscape at dusk. “It shows what Flamid is made from, where it comes from and what happens around it once the fire is lit,” Schmutzer concludes."
-        }
-      ],
-      "caseStudyText": "Flamid is a brand of insulated, modular grill barrels, made by hand in a metal workshop on the Swabian Alb in Germany. Every barrel shares the same core, built around fire, and takes on a different character through its outer shell – black steel, Corten steel that changes with weather and time, or a steel gabion cage that can be filled with stone. Stuttgart-based design studio Hochburg was commissioned to create the name, positioning and identity, with a brief to make visible how precisely each barrel is engineered and how long it is built to last.\n\nFounder Tobias Failenschmid had carried the idea of Flamid for years, and the first versions proved that it worked. “Early in the process, it became clear that my strength lies in precise metalwork,” he explains. “But Flamid needed more than a well-made steel object. It needed a broader product perspective.” Hochburg and Mike Oberste-Brink of OMAS Studio worked with him to sharpen the product’s proportions, details and usability, from a functional and an aesthetic point of view.\n\nHochburg developed the name directly from Failenschmid’s surname, condensing it into a compact form that also evokes flame and fire. “The name is rooted in the person behind the product and reflects how closely the object is tied to his vision and craft,” Hochburg’s Founder & Creative Director Fabian Schmutzer tells us. Flamid is made for “people who take cooking outside seriously and do not see fire as decoration,” he adds. “That meant the identity could not begin with generic lifestyle imagery.”\n\nHochburg looked to the product and the way it is made. “We did not want to use craftsmanship as a visual costume,” Schmutzer explains. “We were interested in its logic: a maker’s mark stands for authorship, a technical drawing shows how something works, and a construction detail makes material and function visible.”\n\nFor the symbol, “we began with the ‘F’ in Flamid,” Schmutzer details. “As we drew and refined its form, one side began to read like a wing. That became the connection between the wordmark and the symbol: both come from the same letter, rather than being two separate ideas placed next to each other.” From there, a bird of prey emerged, constructed on a strict grid. “We wanted the wordmark to have the physical weight of the product,” he continues, which is why it is wide and compact, with punched-out curves.\n\nThe symbol is embossed into the product’s metal nameplate, where it works like a maker’s stamp. Hochburg developed it in close dialogue with Failenschmid and the workshop, considering its proportions, line weight and negative spaces against the real material and production, so that it embosses clearly and remains legible at a small scale. “That is where the identity stops being a screen-based system and becomes part of the object,” Schmutzer notes.\n\nThe identity appears across the website, posters, teamwear, vehicles, hangtags and live-cooking applications. Arthur Calame’s Install typeface brings “the right balance of weight and warmth,” Schmutzer explains. “Its broad proportions and rounded forms give the identity a physical presence, while keeping it open enough for a product that is ultimately about bringing people together.” Install is paired with atipo foundry’s monospaced Basier Mono for technical information, specifications and statements. “Its measured rhythm gives the system a more functional voice and sharpens the contrast between the expressive and engineered sides of Flamid,” he adds. Following the idea of the technical drawing, wireframes and technical renderings show the product’s modular structure, including its different shells and configurations, on the website and posters.\n\nEmber orange represents heat and fire, deep Alb green represents the landscape around the workshop and paper white adds space and precision. Hochburg handled the art direction and photography itself, shooting Failenschmid, the workshop, the first prototypes and the surrounding Alb on location. The imagery spans steel, welding light, sparks, smoke, food and the landscape at dusk. “It shows what Flamid is made from, where it comes from and what happens around it once the fire is lit,” Schmutzer concludes.",
-      "caseStudyMedia": [
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/Flamid-Hochburg-01.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/Flamid-Hochburg-02.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/Flamid-Hochburg-06.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/Flamid-Hochburg-10.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/Flamid-Hochburg-09.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/Flamid-Hochburg-03.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/Flamid-Hochburg-11.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/Flamid-Hochburg-12.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/Flamid-Hochburg-04.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/Flamid-Hochburg-05.jpeg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/hochburgs-identity-for-grill-brand-flamid-draws-on-makers-marks/Flamid-Hochburg-13.jpeg"
         }
       ]
     }
