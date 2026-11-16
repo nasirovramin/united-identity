@@ -7,6 +7,157 @@ const snapshot={
   },
   "items": [
     {
+      "canonicalUrl": "https://the-brandidentity.com/project/how-bontemps-sequenced-sandy-hos-cookbook-like-a-photobook",
+      "titleOriginal": "How BonTemps© sequenced Sandy Ho’s cookbook like a photobook",
+      "textOriginal": "Cooking Notes Vol. II, a self-published edition of 800 copies, is the second in chef Sandy Ho’s series of cookbooks, bringing together a collection of her recipes and cooking notes. Creative agency BonTemps , which designed Vol. I, and has also worked on Ho’s identity as a chef through her website, logotype and printed materials, led the creative direction and book design, with photography by Drew Escriva.\n\nVol. II draws on Ho’s life, from the beaches of Sydney to years spent sailing and cooking around the world. “My connection to water is the through line to how tasting and ideating recipes bring me home to a sense of self, to my Vietnamese roots and to my Australian upbringing,” Ho tells us. The recipes in Vol. II are more complex than those in Vol. I and call for a more meditative approach to cooking. On the page, Vol. I is densely layered, but Vol. II is more airy and minimal – an approach that came from BonTemps’ experience of designing the earlier book. The amount of text is broadly the same, but there are fewer photographs. “We had documented a lot of the individual steps in the first volume, and looking back, we felt we could let the written instructions do more of the work. That freed the photography to focus on emotion, atmosphere and storytelling,” Co-founder & Strategy Director John Vallance notes.",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/bontemps-lets-the-photographs-tell-stories-in-sandy-hos-cookbook/Cooking-Notes-Vol-II-BonTemps-01.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/bontemps-lets-the-photographs-tell-stories-in-sandy-hos-cookbook/_2000xAUTO_crop_center-center_85_none/15586802/Cooking-Notes-Vol-II-BonTemps-01.webp"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "Cooking Notes Vol. II, a self-published edition of 800 copies, is the second in chef Sandy Ho’s series of cookbooks, bringing together a collection of her recipes and cooking notes. Creative agency BonTemps , which designed Vol. I, and has also worked on Ho’s identity as a chef through her website, logotype and printed materials, led the creative direction and book design, with photography by Drew Escriva."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-bontemps-sequenced-sandy-hos-cookbook-like-a-photobook/_2000xAUTO_crop_center-center_85_none/15586805/Cooking-Notes-Vol-II-BonTemps-04.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Vol. II draws on Ho’s life, from the beaches of Sydney to years spent sailing and cooking around the world. “My connection to water is the through line to how tasting and ideating recipes bring me home to a sense of self, to my Vietnamese roots and to my Australian upbringing,” Ho tells us. The recipes in Vol. II are more complex than those in Vol. I and call for a more meditative approach to cooking. On the page, Vol. I is densely layered, but Vol. II is more airy and minimal – an approach that came from BonTemps’ experience of designing the earlier book. The amount of text is broadly the same, but there are fewer photographs. “We had documented a lot of the individual steps in the first volume, and looking back, we felt we could let the written instructions do more of the work. That freed the photography to focus on emotion, atmosphere and storytelling,” Co-founder & Strategy Director John Vallance notes."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-bontemps-sequenced-sandy-hos-cookbook-like-a-photobook/_2000xAUTO_crop_center-center_85_none/15588112/Cooking-Notes-Vol.-II-BonTemps-16.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-bontemps-sequenced-sandy-hos-cookbook-like-a-photobook/Cooking-Notes-Vol.-II-BonTemps-18.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Drawing on Co-founder & Design Director Albert Mestres’ love of photobooks, BonTemps sequenced the spreads almost like one, with images and text moving from spread to spread without a strict grid. “There’s something fascinating about how two photographs, when placed together, can create a third meaning that neither carries on its own,” Mestres explains. Some pairings are quite literal, and others are more about colour, texture, movement or atmosphere. In the spread for Poached Black Cod Toast, a photograph of Ho preparing the fish sits opposite an image of water moving across sand, and the waves in the cod’s flesh echo the lines along the shoreline."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-bontemps-sequenced-sandy-hos-cookbook-like-a-photobook/_2000xAUTO_crop_center-center_85_none/15588114/Cooking-Notes-Vol.-II-BonTemps-19.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Escriva shot Vol. II on film. BonTemps’ detailed brief for the shoot covered subject matter and atmosphere, and set out a preference for medium-format film and wider shots. “Vol. I had included a lot of close-ups, and we wanted more of the kitchen, the table and the surrounding life,” Vallance details. Vol. I was photographed in Ho’s Los Angeles apartment. For Vol. II, BonTemps encouraged Ho to hold the shoot in the kitchen of her friend, jewellery designer Jess Hannah, for a warmer and more personal setting. Ho was the first to suggest taking part of the shoot to the ocean, and developed the idea together with BonTemps throughout the brief."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-bontemps-sequenced-sandy-hos-cookbook-like-a-photobook/_2000xAUTO_crop_center-center_85_none/15586803/Cooking-Notes-Vol-II-BonTemps-09.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The studio organised the photography around unexpected details, the cooking process, ingredients in context, and community. “A half-eaten plate, boxes from the market, a well-used cutting board or flour on someone’s hands could all tell us something about the experience of cooking,” Vallance adds. Gathering around a meal is just as important, with hands at work and plates being passed."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-bontemps-sequenced-sandy-hos-cookbook-like-a-photobook/_2000xAUTO_crop_center-center_85_none/15588110/Cooking-Notes-Vol.-II-BonTemps-15.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“One of the things we wanted to explore further in this second volume was the sensory dimension of the book itself,” Mestres tells us. “Cooking is such a physical experience. It’s about touching, smelling, tasting, observing and understanding how different elements come together. We wanted the book to contain some of those qualities, even if the person reading it is not actually preparing a dish.” Handwritten notes share Ho’s advice and observations from her experience as a chef. “We wanted them to feel personal, almost as though Sandy had been cooking alongside you and left a few thoughts in the margins,” he continues. Semi-transparent vellum pages sit at the start of each recipe. “The transparent pages introduced another layer to the reading experience, both literally and conceptually. They allow images and text to overlap, to reveal or conceal information, and to create these small moments of discovery as you move through the book,” he adds. “There’s something quite beautiful about seeing an image through another page, or having a fragment of information appear before you fully arrive at it. It felt connected to the way we remember things, through impressions and fragments rather than a perfectly linear sequence.” The placement of the notes and the vellum is largely guided by the rhythm of each recipe."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-bontemps-sequenced-sandy-hos-cookbook-like-a-photobook/_2000xAUTO_crop_center-center_85_none/15587320/Cooking-Notes-Vol.-II-BonTemps-14.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Ingredients and equipment follow a consistent structure from recipe to recipe, but the instructions break into smaller fragments that move across the page, with some steps given more space and others brought closer together. “We were interested in the idea of typography suggesting movement, as if the words were being carried by water or wind,” Mestres details. The book is set in Dinamo’s ABC Gaisyr, which has been part of Cooking Notes since Vol. I. “It has a strong presence without constantly demanding attention, which allows the photography, the handwritten elements and the more experimental layouts to coexist naturally.”"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-bontemps-sequenced-sandy-hos-cookbook-like-a-photobook/Cooking-Notes-Vol-II-BonTemps-11.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-bontemps-sequenced-sandy-hos-cookbook-like-a-photobook/_2000xAUTO_crop_center-center_85_none/15588128/Cooking-Notes-Vol.-II-BonTemps-21.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“A book offers a completely different relationship with time,” Mestres notes. “There’s something particularly meaningful about making physical objects today, when so much of our daily experience happens through screens.” From the beginning, Ho and BonTemps imagined Cooking Notes as “something you might keep on your kitchen counter, but also on your bookshelf or coffee table.” A hardcover was always part of that idea, and Vol. II finally has one. Working with Barcelona-based printer Nova Era, BonTemps compared paper samples, weights and textures, and how the images would reproduce on different papers, before settling on Fedrigoni’s Arena Natural Smooth at 120 gsm for the main pages – a paper chosen for how its natural warmth sits with Escriva’s film photography."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-bontemps-sequenced-sandy-hos-cookbook-like-a-photobook/_2000xAUTO_crop_center-center_85_none/15588111/Cooking-Notes-Vol.-II-BonTemps-17.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Ho is proud of “the many, many hours BonTemps and I put into fine-tuning even the tiniest minutiae” and of a book that “emerged from pushing each other creatively.” “It’s a book about food, but also about the pleasure of making things, sharing experiences and paying attention to the world around us,” Mestres concludes. “We wanted the object itself to embody some of those ideas.”"
+        }
+      ],
+      "caseStudyText": "Cooking Notes Vol. II, a self-published edition of 800 copies, is the second in chef Sandy Ho’s series of cookbooks, bringing together a collection of her recipes and cooking notes. Creative agency BonTemps , which designed Vol. I, and has also worked on Ho’s identity as a chef through her website, logotype and printed materials, led the creative direction and book design, with photography by Drew Escriva.\n\nVol. II draws on Ho’s life, from the beaches of Sydney to years spent sailing and cooking around the world. “My connection to water is the through line to how tasting and ideating recipes bring me home to a sense of self, to my Vietnamese roots and to my Australian upbringing,” Ho tells us. The recipes in Vol. II are more complex than those in Vol. I and call for a more meditative approach to cooking. On the page, Vol. I is densely layered, but Vol. II is more airy and minimal – an approach that came from BonTemps’ experience of designing the earlier book. The amount of text is broadly the same, but there are fewer photographs. “We had documented a lot of the individual steps in the first volume, and looking back, we felt we could let the written instructions do more of the work. That freed the photography to focus on emotion, atmosphere and storytelling,” Co-founder & Strategy Director John Vallance notes.\n\nDrawing on Co-founder & Design Director Albert Mestres’ love of photobooks, BonTemps sequenced the spreads almost like one, with images and text moving from spread to spread without a strict grid. “There’s something fascinating about how two photographs, when placed together, can create a third meaning that neither carries on its own,” Mestres explains. Some pairings are quite literal, and others are more about colour, texture, movement or atmosphere. In the spread for Poached Black Cod Toast, a photograph of Ho preparing the fish sits opposite an image of water moving across sand, and the waves in the cod’s flesh echo the lines along the shoreline.\n\nEscriva shot Vol. II on film. BonTemps’ detailed brief for the shoot covered subject matter and atmosphere, and set out a preference for medium-format film and wider shots. “Vol. I had included a lot of close-ups, and we wanted more of the kitchen, the table and the surrounding life,” Vallance details. Vol. I was photographed in Ho’s Los Angeles apartment. For Vol. II, BonTemps encouraged Ho to hold the shoot in the kitchen of her friend, jewellery designer Jess Hannah, for a warmer and more personal setting. Ho was the first to suggest taking part of the shoot to the ocean, and developed the idea together with BonTemps throughout the brief.\n\nThe studio organised the photography around unexpected details, the cooking process, ingredients in context, and community. “A half-eaten plate, boxes from the market, a well-used cutting board or flour on someone’s hands could all tell us something about the experience of cooking,” Vallance adds. Gathering around a meal is just as important, with hands at work and plates being passed.\n\n“One of the things we wanted to explore further in this second volume was the sensory dimension of the book itself,” Mestres tells us. “Cooking is such a physical experience. It’s about touching, smelling, tasting, observing and understanding how different elements come together. We wanted the book to contain some of those qualities, even if the person reading it is not actually preparing a dish.” Handwritten notes share Ho’s advice and observations from her experience as a chef. “We wanted them to feel personal, almost as though Sandy had been cooking alongside you and left a few thoughts in the margins,” he continues. Semi-transparent vellum pages sit at the start of each recipe. “The transparent pages introduced another layer to the reading experience, both literally and conceptually. They allow images and text to overlap, to reveal or conceal information, and to create these small moments of discovery as you move through the book,” he adds. “There’s something quite beautiful about seeing an image through another page, or having a fragment of information appear before you fully arrive at it. It felt connected to the way we remember things, through impressions and fragments rather than a perfectly linear sequence.” The placement of the notes and the vellum is largely guided by the rhythm of each recipe.\n\nIngredients and equipment follow a consistent structure from recipe to recipe, but the instructions break into smaller fragments that move across the page, with some steps given more space and others brought closer together. “We were interested in the idea of typography suggesting movement, as if the words were being carried by water or wind,” Mestres details. The book is set in Dinamo’s ABC Gaisyr, which has been part of Cooking Notes since Vol. I. “It has a strong presence without constantly demanding attention, which allows the photography, the handwritten elements and the more experimental layouts to coexist naturally.”\n\n“A book offers a completely different relationship with time,” Mestres notes. “There’s something particularly meaningful about making physical objects today, when so much of our daily experience happens through screens.” From the beginning, Ho and BonTemps imagined Cooking Notes as “something you might keep on your kitchen counter, but also on your bookshelf or coffee table.” A hardcover was always part of that idea, and Vol. II finally has one. Working with Barcelona-based printer Nova Era, BonTemps compared paper samples, weights and textures, and how the images would reproduce on different papers, before settling on Fedrigoni’s Arena Natural Smooth at 120 gsm for the main pages – a paper chosen for how its natural warmth sits with Escriva’s film photography.\n\nHo is proud of “the many, many hours BonTemps and I put into fine-tuning even the tiniest minutiae” and of a book that “emerged from pushing each other creatively.” “It’s a book about food, but also about the pleasure of making things, sharing experiences and paying attention to the world around us,” Mestres concludes. “We wanted the object itself to embody some of those ideas.”",
+      "caseStudyMedia": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/bontemps-lets-the-photographs-tell-stories-in-sandy-hos-cookbook/_2000xAUTO_crop_center-center_85_none/15586802/Cooking-Notes-Vol-II-BonTemps-01.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-bontemps-sequenced-sandy-hos-cookbook-like-a-photobook/_2000xAUTO_crop_center-center_85_none/15586805/Cooking-Notes-Vol-II-BonTemps-04.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-bontemps-sequenced-sandy-hos-cookbook-like-a-photobook/_2000xAUTO_crop_center-center_85_none/15588112/Cooking-Notes-Vol.-II-BonTemps-16.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-bontemps-sequenced-sandy-hos-cookbook-like-a-photobook/Cooking-Notes-Vol.-II-BonTemps-18.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-bontemps-sequenced-sandy-hos-cookbook-like-a-photobook/_2000xAUTO_crop_center-center_85_none/15588114/Cooking-Notes-Vol.-II-BonTemps-19.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-bontemps-sequenced-sandy-hos-cookbook-like-a-photobook/_2000xAUTO_crop_center-center_85_none/15586803/Cooking-Notes-Vol-II-BonTemps-09.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-bontemps-sequenced-sandy-hos-cookbook-like-a-photobook/_2000xAUTO_crop_center-center_85_none/15588110/Cooking-Notes-Vol.-II-BonTemps-15.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-bontemps-sequenced-sandy-hos-cookbook-like-a-photobook/_2000xAUTO_crop_center-center_85_none/15587320/Cooking-Notes-Vol.-II-BonTemps-14.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-bontemps-sequenced-sandy-hos-cookbook-like-a-photobook/Cooking-Notes-Vol-II-BonTemps-11.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-bontemps-sequenced-sandy-hos-cookbook-like-a-photobook/_2000xAUTO_crop_center-center_85_none/15588128/Cooking-Notes-Vol.-II-BonTemps-21.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-bontemps-sequenced-sandy-hos-cookbook-like-a-photobook/_2000xAUTO_crop_center-center_85_none/15588111/Cooking-Notes-Vol.-II-BonTemps-17.webp"
+        }
+      ]
+    },
+    {
       "canonicalUrl": "https://the-brandidentity.com/project/mateys-rebrand-makes-highlands-feel-purposely-hidden-like-a-rare-gem",
       "titleOriginal": "Matey’s rebrand makes Highlands feel purposely hidden, like a rare gem",
       "textOriginal": "Highlands is a mountain town founded in 1875 on a plateau 4,118 feet up in North Carolina’s Blue Ridge Mountains, hours from the nearest major airport – only reachable by winding mountain roads. The Highlands Chamber of Commerce commissioned Alabama-based branding studio Matey to reposition the town and rebrand Visit Highlands , its visitor brand, so that Highlands could reclaim its own narrative. Matey was responsible for the strategy, messaging and visual identity.\n\nIn the past, the town’s tourism department relied heavily on brands such as Old Edwards Inn and Spa and Highlander Mountain House, as well as generational word of mouth, to draw attention to Highlands. The brief asked Matey for a brand that reflects the town as a whole and gives it a foundation for what comes next. “We quickly recognised that this needed to be more than a new logo,” explains the Chamber’s Executive Director Johanna Fein. “We wanted to move beyond traditional tourism marketing and connect with travellers who value meaningful experiences, authenticity and quality over quantity.”",
@@ -3674,146 +3825,6 @@ const snapshot={
         {
           "type": "image",
           "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/studio-hi-ho-pairs-kraft-and-butter-yellow-in-madeleines-packaging/_2000xAUTO_crop_center-center_85_none/14238282/Madeleine-Studio-Hi-Ho-05.webp"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/together-gives-clusia-a-four-petal-mark-showing-ai-and-people-at-work",
-      "titleOriginal": "Together gives Clusia a four-petal mark showing AI and people at work",
-      "textOriginal": "Clusia is a US assurance firm for companies that move money, using AI to complete the audits and independent testing that banks and fintechs are required to perform every year. Clusia’s software drafts each audit from the client’s connected systems, showing the source behind every answer, and an accredited professional then reviews and signs it. London-based design and technology agency Together was commissioned to create the identity, spanning the mark, typography, colour, photography, illustration, outdoor advertising, website and product interface.\n\nWhen the design work began, Clusia was two people, and both worked closely with Together throughout. “We wanted something that felt modern and more in line with the best software brands, while still feeling credible to banks and fintechs,” explains Clusia’s Co-founder Reed Switzer. “We also wanted the brand to champion the people behind the work, both at Clusia and at the companies we work with.” Apart from its name, Clusia had no brand to build on.",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/together-gives-clusia-a-four-petal-mark-showing-ai-and-people-at-work/Clusia-Together-00_2026-10-15-024320_adoz.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/together-gives-clusia-a-four-petal-mark-showing-ai-and-people-at-work/_2000xAUTO_crop_center-center_85_none/14401943/Clusia-Together-00_2026-10-15-024320_adoz.webp"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "Clusia is a US assurance firm for companies that move money, using AI to complete the audits and independent testing that banks and fintechs are required to perform every year. Clusia’s software drafts each audit from the client’s connected systems, showing the source behind every answer, and an accredited professional then reviews and signs it. London-based design and technology agency Together was commissioned to create the identity, spanning the mark, typography, colour, photography, illustration, outdoor advertising, website and product interface."
-        },
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/together-gives-clusia-a-four-petal-mark-showing-ai-and-people-at-work/_2000xAUTO_crop_center-center_85_none/14401947/Clusia-Together-01_2026-10-15-024325_suvq.webp"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "When the design work began, Clusia was two people, and both worked closely with Together throughout. “We wanted something that felt modern and more in line with the best software brands, while still feeling credible to banks and fintechs,” explains Clusia’s Co-founder Reed Switzer. “We also wanted the brand to champion the people behind the work, both at Clusia and at the companies we work with.” Apart from its name, Clusia had no brand to build on."
-        },
-        {
-          "type": "video",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/together-gives-clusia-a-four-petal-mark-showing-ai-and-people-at-work/Clusia-Together-02.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“Clusia is a common privacy hedge, and a lot of the work in compliance and assurance happens behind the scenes – or, in our minds, behind the hedge,” Switzer tells us. “Clusia is a plant, and we liked that,” notes Together’s Creative Director Ben Wynn-Owen, “but we didn’t want to build a brand that was inherently botanical. Leaves and stems would have been the obvious move and completely wrong for a company that audits banks. So the plant is a nod, not the whole idea.” Clusia’s strategy “was about empowering people,” he explains. “Reed put it better than we ever could: AI won’t go to jail if it gets something wrong; people will. So the brand couldn’t look like a machine. It had to look like something that works alongside you.”"
-        },
-        {
-          "type": "video",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/together-gives-clusia-a-four-petal-mark-showing-ai-and-people-at-work/Clusia-Together-11.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Together wanted the mark to make the collaboration between AI and people visible, and settled on four petals meeting in the middle. “Enough parts to read as multiple roles working at once, all inside one Clusia system, but simple enough that it still holds together when it’s tiny,” Wynn-Owen details. Because the mark appears on lanyards, phone cases, the browser tab and app icon, Together tested it at every scale, tweaking joints that did not quite meet, overlaps that were slightly off and a centre that closed up too early. “Small stuff, but that’s exactly the stuff that falls apart at 16 pixels, so we didn’t stop until it was right,” he notes. In marketing, the mark turns and opens, and in the product it animates. “It personifies the AI through its interaction states – idle, analysing, scanning, loading – so you can see it’s present while the legwork happens, and then it hands over to the people who sign.”"
-        },
-        {
-          "type": "video",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/together-gives-clusia-a-four-petal-mark-showing-ai-and-people-at-work/Clusia-Together-12.mov"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Clusia’s pixel-style illustrations form a flower, a butterfly and abstract fields. “Every pixel in those illustrations is a tiny version of the petal from the logo. Each one stands for a person or an AI doing something in Clusia,” Wynn-Owen tells us. “Lots of small contributions adding up to more than the sum of their parts, which is exactly what an audit is when it’s done properly.” The illustrations gave Together “a way to talk about ideas rather than features,” he adds. “The product UI is good at showing you what Clusia does. It’s less good at saying what it means. So the illustrations take that job. The flower speaks about growth. The butterfly about change, and the abstract forms are for when we want the brand present without saying anything specific at all.”"
-        },
-        {
-          "type": "video",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/together-gives-clusia-a-four-petal-mark-showing-ai-and-people-at-work/Clusia-Together-13.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Together started the illustrations as pixel art, drawing on references from old game sprites to cross-stitch, then used generative AI in Figma Weave to test forms quickly before rebuilding them in 3D in Cinema 4D. “That’s where the polish lives. Lighting, depth, the exact spacing between the pixels, the tuning you just can’t get out of a gen AI tool,” Wynn-Owen explains. Built in 3D, the illustrations animate, with particles that grow to form an object, hold, then break apart and reform, so a butterfly becomes a flower and then an abstract field."
-        },
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/together-gives-clusia-a-four-petal-mark-showing-ai-and-people-at-work/_2000xAUTO_crop_center-center_85_none/14062152/Clusia-Together-09.webp"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Klim Type Foundry’s variable sans serif Die Grotesk sets the headlines and the interface, and Studio René Bieder’s Vitruv Text sets the body copy – the reverse of the serif-headline, sans-body pairing that, according to Wynn-Owen, most brands in the category use. One of the outdoor advertising designs pairs ‘Sets up in a day.’ with ‘Evolves for years.’ and another reads ‘Where compliance connects.’ Both ‘Evolves’ and ‘connects’ are set in the italic of Vitruv Text, while the rest of their lines are in Die Grotesk. “A serif word inside a sans headline isn’t decoration; it’s the body face pushing through,” Wynn-Owen notes. “In motion, the sans literally snaps into the serif. One word rather than a whole line is about who’s reading. These are people signing something a regulator might pull apart later, and you can’t shout at them. So we keep the sentence plain and point at the word it hangs on,” he continues, giving ‘Relied on for years’ as an example, with the italic on ‘years.’ “The rule was simple: pick the word that would change if the claim weren’t true, and only one per line.”"
-        },
-        {
-          "type": "video",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/together-gives-clusia-a-four-petal-mark-showing-ai-and-people-at-work/Clusia-Together-14.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The palette is deep green, mint and a dark warm brown, and every colour is named after something found in a forest, such as Earth, Bark, Root, Pollen and Blossom. “Every colour had to feel like it grew rather than got generated, because the whole brand is about software that feels human, not robotic,” Wynn-Owen details. In the product, the palette is mostly neutral, with green kept for status, calls to action and the animating logo. “Pure black next to bright green looks like a terminal. Warm brown looks like something living, and it gave the product a dark mode that feels like Clusia rather than every other dark UI,” he adds. “Brown historically hasn’t been a common brand colour, and the way Together used it created a really distinctive world, especially for the space we’re in,” Switzer tells us."
-        },
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/together-gives-clusia-a-four-petal-mark-showing-ai-and-people-at-work/_2000xAUTO_crop_center-center_85_none/14061927/Clusia-Together-04.webp"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Shot in real offices, the photography features people at work, unposed. “The software takes the grind, so the people get to be the experts,” Wynn-Owen explains. “The green cast is the bit that makes it ours. The idea is that you’re looking at the person through a bit of foliage in the foreground, blurred out so it’s just a soft green texture across the front of the frame.”"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“From the day the site went live, we’ve had investors, founder friends, customers and even random people ask who did the website,” Switzer concludes."
-        }
-      ],
-      "caseStudyText": "Clusia is a US assurance firm for companies that move money, using AI to complete the audits and independent testing that banks and fintechs are required to perform every year. Clusia’s software drafts each audit from the client’s connected systems, showing the source behind every answer, and an accredited professional then reviews and signs it. London-based design and technology agency Together was commissioned to create the identity, spanning the mark, typography, colour, photography, illustration, outdoor advertising, website and product interface.\n\nWhen the design work began, Clusia was two people, and both worked closely with Together throughout. “We wanted something that felt modern and more in line with the best software brands, while still feeling credible to banks and fintechs,” explains Clusia’s Co-founder Reed Switzer. “We also wanted the brand to champion the people behind the work, both at Clusia and at the companies we work with.” Apart from its name, Clusia had no brand to build on.\n\n“Clusia is a common privacy hedge, and a lot of the work in compliance and assurance happens behind the scenes – or, in our minds, behind the hedge,” Switzer tells us. “Clusia is a plant, and we liked that,” notes Together’s Creative Director Ben Wynn-Owen, “but we didn’t want to build a brand that was inherently botanical. Leaves and stems would have been the obvious move and completely wrong for a company that audits banks. So the plant is a nod, not the whole idea.” Clusia’s strategy “was about empowering people,” he explains. “Reed put it better than we ever could: AI won’t go to jail if it gets something wrong; people will. So the brand couldn’t look like a machine. It had to look like something that works alongside you.”\n\nTogether wanted the mark to make the collaboration between AI and people visible, and settled on four petals meeting in the middle. “Enough parts to read as multiple roles working at once, all inside one Clusia system, but simple enough that it still holds together when it’s tiny,” Wynn-Owen details. Because the mark appears on lanyards, phone cases, the browser tab and app icon, Together tested it at every scale, tweaking joints that did not quite meet, overlaps that were slightly off and a centre that closed up too early. “Small stuff, but that’s exactly the stuff that falls apart at 16 pixels, so we didn’t stop until it was right,” he notes. In marketing, the mark turns and opens, and in the product it animates. “It personifies the AI through its interaction states – idle, analysing, scanning, loading – so you can see it’s present while the legwork happens, and then it hands over to the people who sign.”\n\nClusia’s pixel-style illustrations form a flower, a butterfly and abstract fields. “Every pixel in those illustrations is a tiny version of the petal from the logo. Each one stands for a person or an AI doing something in Clusia,” Wynn-Owen tells us. “Lots of small contributions adding up to more than the sum of their parts, which is exactly what an audit is when it’s done properly.” The illustrations gave Together “a way to talk about ideas rather than features,” he adds. “The product UI is good at showing you what Clusia does. It’s less good at saying what it means. So the illustrations take that job. The flower speaks about growth. The butterfly about change, and the abstract forms are for when we want the brand present without saying anything specific at all.”\n\nTogether started the illustrations as pixel art, drawing on references from old game sprites to cross-stitch, then used generative AI in Figma Weave to test forms quickly before rebuilding them in 3D in Cinema 4D. “That’s where the polish lives. Lighting, depth, the exact spacing between the pixels, the tuning you just can’t get out of a gen AI tool,” Wynn-Owen explains. Built in 3D, the illustrations animate, with particles that grow to form an object, hold, then break apart and reform, so a butterfly becomes a flower and then an abstract field.\n\nKlim Type Foundry’s variable sans serif Die Grotesk sets the headlines and the interface, and Studio René Bieder’s Vitruv Text sets the body copy – the reverse of the serif-headline, sans-body pairing that, according to Wynn-Owen, most brands in the category use. One of the outdoor advertising designs pairs ‘Sets up in a day.’ with ‘Evolves for years.’ and another reads ‘Where compliance connects.’ Both ‘Evolves’ and ‘connects’ are set in the italic of Vitruv Text, while the rest of their lines are in Die Grotesk. “A serif word inside a sans headline isn’t decoration; it’s the body face pushing through,” Wynn-Owen notes. “In motion, the sans literally snaps into the serif. One word rather than a whole line is about who’s reading. These are people signing something a regulator might pull apart later, and you can’t shout at them. So we keep the sentence plain and point at the word it hangs on,” he continues, giving ‘Relied on for years’ as an example, with the italic on ‘years.’ “The rule was simple: pick the word that would change if the claim weren’t true, and only one per line.”\n\nThe palette is deep green, mint and a dark warm brown, and every colour is named after something found in a forest, such as Earth, Bark, Root, Pollen and Blossom. “Every colour had to feel like it grew rather than got generated, because the whole brand is about software that feels human, not robotic,” Wynn-Owen details. In the product, the palette is mostly neutral, with green kept for status, calls to action and the animating logo. “Pure black next to bright green looks like a terminal. Warm brown looks like something living, and it gave the product a dark mode that feels like Clusia rather than every other dark UI,” he adds. “Brown historically hasn’t been a common brand colour, and the way Together used it created a really distinctive world, especially for the space we’re in,” Switzer tells us.\n\nShot in real offices, the photography features people at work, unposed. “The software takes the grind, so the people get to be the experts,” Wynn-Owen explains. “The green cast is the bit that makes it ours. The idea is that you’re looking at the person through a bit of foliage in the foreground, blurred out so it’s just a soft green texture across the front of the frame.”\n\n“From the day the site went live, we’ve had investors, founder friends, customers and even random people ask who did the website,” Switzer concludes.",
-      "caseStudyMedia": [
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/together-gives-clusia-a-four-petal-mark-showing-ai-and-people-at-work/_2000xAUTO_crop_center-center_85_none/14401943/Clusia-Together-00_2026-10-15-024320_adoz.webp"
-        },
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/together-gives-clusia-a-four-petal-mark-showing-ai-and-people-at-work/_2000xAUTO_crop_center-center_85_none/14401947/Clusia-Together-01_2026-10-15-024325_suvq.webp"
-        },
-        {
-          "type": "video",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/together-gives-clusia-a-four-petal-mark-showing-ai-and-people-at-work/Clusia-Together-02.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/together-gives-clusia-a-four-petal-mark-showing-ai-and-people-at-work/Clusia-Together-11.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/together-gives-clusia-a-four-petal-mark-showing-ai-and-people-at-work/Clusia-Together-12.mov"
-        },
-        {
-          "type": "video",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/together-gives-clusia-a-four-petal-mark-showing-ai-and-people-at-work/Clusia-Together-13.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/together-gives-clusia-a-four-petal-mark-showing-ai-and-people-at-work/_2000xAUTO_crop_center-center_85_none/14062152/Clusia-Together-09.webp"
-        },
-        {
-          "type": "video",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/together-gives-clusia-a-four-petal-mark-showing-ai-and-people-at-work/Clusia-Together-14.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/together-gives-clusia-a-four-petal-mark-showing-ai-and-people-at-work/_2000xAUTO_crop_center-center_85_none/14061927/Clusia-Together-04.webp"
         }
       ]
     }
