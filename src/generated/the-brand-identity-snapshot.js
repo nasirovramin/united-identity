@@ -7,6 +7,317 @@ const snapshot={
   },
   "items": [
     {
+      "canonicalUrl": "https://the-brandidentity.com/project/fix-studios-identity-asks-how-to-archive-puerto-rican-visual-culture",
+      "titleOriginal": "Fix Studio",
+      "textOriginal": "Instituto de Observación Colectiva (IOC) is an initiative that artist Christopher Gregory-Rivera founded in 2026 to support photography engaging with the histories of Puerto Rico and its diaspora, through fellowships, mentorship, workshops and public programming. Its first grant and mentorship programme is titled Counter Histories: Puerto Rico. Brooklyn-based Fix Studio , which had worked with Gregory-Rivera before, came on board from the start to create IOC’s identity and website. “While I had a strong idea of what the mission was, I did not have a clear idea of what that looked like,” Gregory-Rivera tells us.\n\n“We started with the question of what an archive of Puerto Rican and Caribbean culture looks like,” explains Fix Studio’s Co-founder & Design Director, Alejandro Torres Viera. He points to the austere institutional treatment normally associated with an archive. “We were interested in the tension between that and the vibrancy of Puerto Rico’s visual culture. The archive has never been a neutral space, and a lot of our past work with Chris has been about questioning its claim to absolute truth.”",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/_video-thumbnails/15586836.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/fix-studios-identity-asks-how-to-archive-puerto-rican-visual-culture/IOC-Fix-Studio-01-v3.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "Instituto de Observación Colectiva (IOC) is an initiative that artist Christopher Gregory-Rivera founded in 2026 to support photography engaging with the histories of Puerto Rico and its diaspora, through fellowships, mentorship, workshops and public programming. Its first grant and mentorship programme is titled Counter Histories: Puerto Rico. Brooklyn-based Fix Studio , which had worked with Gregory-Rivera before, came on board from the start to create IOC’s identity and website. “While I had a strong idea of what the mission was, I did not have a clear idea of what that looked like,” Gregory-Rivera tells us."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/fix-studios-identity-asks-how-to-archive-puerto-rican-visual-culture/_2000xAUTO_crop_center-center_85_none/15586840/IOC-Fix-Studio-02.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/fix-studios-identity-asks-how-to-archive-puerto-rican-visual-culture/_2000xAUTO_crop_center-center_85_none/15586839/IOC-Fix-Studio-03.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“We started with the question of what an archive of Puerto Rican and Caribbean culture looks like,” explains Fix Studio’s Co-founder & Design Director, Alejandro Torres Viera. He points to the austere institutional treatment normally associated with an archive. “We were interested in the tension between that and the vibrancy of Puerto Rico’s visual culture. The archive has never been a neutral space, and a lot of our past work with Chris has been about questioning its claim to absolute truth.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/fix-studios-identity-asks-how-to-archive-puerto-rican-visual-culture/_2000xAUTO_crop_center-center_85_none/15586838/IOC-Fix-Studio-04.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Instituto de Observación Colectiva is a long name, so Fix Studio built the mark from the acronym, IOC. In English, the name translates as ‘Collective Observation Institute.’ “We opted for interlocking letters because they read immediately as ‘together’ and represent the interdependence of every participant in this process,” Torres Viera explains. The interlocking ‘O’ and ‘C’ resemble an infinity symbol, which Torres Viera ties to “the never-ending, iterative practice and constant evolution behind IOC’s mission.” A ligature joins the ‘I’ to the other two letters. Fix Studio drew the ligature so that the ‘I’ still looks like an ‘I’ rather than a lowercase ‘r,’ and matched it to FK Roman Standard, the serif typeface that the mark started from."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/fix-studios-identity-asks-how-to-archive-puerto-rican-visual-culture/IOC-Fix-Studio-05.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "FK Roman Standard reimagines Times New Roman as a neutral serif, and was drawn with vertical metrics that match FK Grotesk Neue, a neo-grotesque sans serif, so the two pair naturally. “We wanted the type choices to feel institutional, so from very early on we knew we needed a sans and serif pairing that could stay out of the way and support the photography, or take centre stage when needed,” Torres Viera tells us. “The IOC identity hinges on the tension between neutrality and the idiosyncrasies of visual culture in Puerto Rico and the Caribbean, and these two typefaces hold that tension well.” FK Roman Standard is the base for the mark, body copy and longer texts, and FK Grotesk Neue handles the titles, wayfinding and captions. “It feels ‘neutral’ and ‘Swiss’ at a glance, but on closer inspection it has a particular approach to its forms that gives it real character,” Torres Viera adds of the sans serif."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/fix-studios-identity-asks-how-to-archive-puerto-rican-visual-culture/_2000xAUTO_crop_center-center_85_none/15586837/IOC-Fix-Studio-07.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/fix-studios-identity-asks-how-to-archive-puerto-rican-visual-culture/IOC-Fix-Studio-06-v3.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Fix Studio needed a graphic gesture that confronts the traditional idea of an archive yet “still feels like it belongs in the institutional world,” Torres Viera notes. “Concrete poetry felt like a natural way in. I’ve always been drawn to how expressive it can be in spite of the restrictions of the typewriter. In many ways, it’s like living in the Caribbean: you gotta do a lot with less; you gotta be resourceful.” Fix Studio built playful typographic compositions in which words break out of the grid. On the website, as the reader scrolls through IOC’s mission, the text breaks away and forms the Caribbean archipelago. “We try not to be too prescriptive about when to use the gesture; this felt like the perfect moment,” Torres Viera details, adding of the launch: “With no cohort selected yet, we had very few images to work with, which pushed us to let the typography carry more of the expression.” Most of those images come from Gregory-Rivera’s own body of work, and as IOC completes fellowship cycles and programming, the imagery will become a rotating archive of work IOC has supported and work it is aligned with. “These interventions work as visual gestures reminding us that the visual culture of Puerto Rico and the region can never be fully contained within a grid, an index, or a fixed category,” Torres Viera adds."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/fix-studios-identity-asks-how-to-archive-puerto-rican-visual-culture/IOC-Fix-Studio-08.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Drawing on the way an archive is organised, Fix Studio proposed a navigation for IOC’s website that nests categories inside one another so that the hierarchies and relationships between them are visible. In simplified form, the same nesting can also be applied to poster headers and social posts. Torres Viera sees this nested system as the counterpoint to the concrete poetry compositions."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/fix-studios-identity-asks-how-to-archive-puerto-rican-visual-culture/_2000xAUTO_crop_center-center_85_none/15587558/IOC-Fix-Studio-11.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Fix Studio began with a brighter palette, drawn from the vibrant colours of Caribbean culture and everyday life in Puerto Rico. “We quickly realised it needed to be pared back so it wouldn’t compete with the imagery,” Torres Viera notes. The palette is mainly off-white and off-black, with complementary pastel blue, green, yellow and red used as accents or where there is no photography. On social media, the background colour changes depending on whether a post is in Spanish or English."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/fix-studios-identity-asks-how-to-archive-puerto-rican-visual-culture/IOC-Fix-Studio-11.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/fix-studios-identity-asks-how-to-archive-puerto-rican-visual-culture/IOC-Fix-Studio-10-v2.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“It’s a brand system in motion: a set of ‘rules’ we’ll keep testing and revising as the identity gets used,” Torres Viera concludes. “Our close relationship with Chris gives us room to evolve it in a way that most client work doesn’t allow.”"
+        }
+      ],
+      "caseStudyText": "Instituto de Observación Colectiva (IOC) is an initiative that artist Christopher Gregory-Rivera founded in 2026 to support photography engaging with the histories of Puerto Rico and its diaspora, through fellowships, mentorship, workshops and public programming. Its first grant and mentorship programme is titled Counter Histories: Puerto Rico. Brooklyn-based Fix Studio , which had worked with Gregory-Rivera before, came on board from the start to create IOC’s identity and website. “While I had a strong idea of what the mission was, I did not have a clear idea of what that looked like,” Gregory-Rivera tells us.\n\n“We started with the question of what an archive of Puerto Rican and Caribbean culture looks like,” explains Fix Studio’s Co-founder & Design Director, Alejandro Torres Viera. He points to the austere institutional treatment normally associated with an archive. “We were interested in the tension between that and the vibrancy of Puerto Rico’s visual culture. The archive has never been a neutral space, and a lot of our past work with Chris has been about questioning its claim to absolute truth.”\n\nInstituto de Observación Colectiva is a long name, so Fix Studio built the mark from the acronym, IOC. In English, the name translates as ‘Collective Observation Institute.’ “We opted for interlocking letters because they read immediately as ‘together’ and represent the interdependence of every participant in this process,” Torres Viera explains. The interlocking ‘O’ and ‘C’ resemble an infinity symbol, which Torres Viera ties to “the never-ending, iterative practice and constant evolution behind IOC’s mission.” A ligature joins the ‘I’ to the other two letters. Fix Studio drew the ligature so that the ‘I’ still looks like an ‘I’ rather than a lowercase ‘r,’ and matched it to FK Roman Standard, the serif typeface that the mark started from.\n\nFK Roman Standard reimagines Times New Roman as a neutral serif, and was drawn with vertical metrics that match FK Grotesk Neue, a neo-grotesque sans serif, so the two pair naturally. “We wanted the type choices to feel institutional, so from very early on we knew we needed a sans and serif pairing that could stay out of the way and support the photography, or take centre stage when needed,” Torres Viera tells us. “The IOC identity hinges on the tension between neutrality and the idiosyncrasies of visual culture in Puerto Rico and the Caribbean, and these two typefaces hold that tension well.” FK Roman Standard is the base for the mark, body copy and longer texts, and FK Grotesk Neue handles the titles, wayfinding and captions. “It feels ‘neutral’ and ‘Swiss’ at a glance, but on closer inspection it has a particular approach to its forms that gives it real character,” Torres Viera adds of the sans serif.\n\nFix Studio needed a graphic gesture that confronts the traditional idea of an archive yet “still feels like it belongs in the institutional world,” Torres Viera notes. “Concrete poetry felt like a natural way in. I’ve always been drawn to how expressive it can be in spite of the restrictions of the typewriter. In many ways, it’s like living in the Caribbean: you gotta do a lot with less; you gotta be resourceful.” Fix Studio built playful typographic compositions in which words break out of the grid. On the website, as the reader scrolls through IOC’s mission, the text breaks away and forms the Caribbean archipelago. “We try not to be too prescriptive about when to use the gesture; this felt like the perfect moment,” Torres Viera details, adding of the launch: “With no cohort selected yet, we had very few images to work with, which pushed us to let the typography carry more of the expression.” Most of those images come from Gregory-Rivera’s own body of work, and as IOC completes fellowship cycles and programming, the imagery will become a rotating archive of work IOC has supported and work it is aligned with. “These interventions work as visual gestures reminding us that the visual culture of Puerto Rico and the region can never be fully contained within a grid, an index, or a fixed category,” Torres Viera adds.\n\nDrawing on the way an archive is organised, Fix Studio proposed a navigation for IOC’s website that nests categories inside one another so that the hierarchies and relationships between them are visible. In simplified form, the same nesting can also be applied to poster headers and social posts. Torres Viera sees this nested system as the counterpoint to the concrete poetry compositions.\n\nFix Studio began with a brighter palette, drawn from the vibrant colours of Caribbean culture and everyday life in Puerto Rico. “We quickly realised it needed to be pared back so it wouldn’t compete with the imagery,” Torres Viera notes. The palette is mainly off-white and off-black, with complementary pastel blue, green, yellow and red used as accents or where there is no photography. On social media, the background colour changes depending on whether a post is in Spanish or English.\n\n“It’s a brand system in motion: a set of ‘rules’ we’ll keep testing and revising as the identity gets used,” Torres Viera concludes. “Our close relationship with Chris gives us room to evolve it in a way that most client work doesn’t allow.”",
+      "caseStudyMedia": [
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/fix-studios-identity-asks-how-to-archive-puerto-rican-visual-culture/IOC-Fix-Studio-01-v3.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/fix-studios-identity-asks-how-to-archive-puerto-rican-visual-culture/_2000xAUTO_crop_center-center_85_none/15586840/IOC-Fix-Studio-02.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/fix-studios-identity-asks-how-to-archive-puerto-rican-visual-culture/_2000xAUTO_crop_center-center_85_none/15586839/IOC-Fix-Studio-03.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/fix-studios-identity-asks-how-to-archive-puerto-rican-visual-culture/_2000xAUTO_crop_center-center_85_none/15586838/IOC-Fix-Studio-04.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/fix-studios-identity-asks-how-to-archive-puerto-rican-visual-culture/IOC-Fix-Studio-05.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/fix-studios-identity-asks-how-to-archive-puerto-rican-visual-culture/_2000xAUTO_crop_center-center_85_none/15586837/IOC-Fix-Studio-07.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/fix-studios-identity-asks-how-to-archive-puerto-rican-visual-culture/IOC-Fix-Studio-06-v3.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/fix-studios-identity-asks-how-to-archive-puerto-rican-visual-culture/IOC-Fix-Studio-08.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/fix-studios-identity-asks-how-to-archive-puerto-rican-visual-culture/_2000xAUTO_crop_center-center_85_none/15587558/IOC-Fix-Studio-11.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/fix-studios-identity-asks-how-to-archive-puerto-rican-visual-culture/IOC-Fix-Studio-11.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/fix-studios-identity-asks-how-to-archive-puerto-rican-visual-culture/IOC-Fix-Studio-10-v2.mp4"
+        }
+      ]
+    },
+    {
+      "canonicalUrl": "https://the-brandidentity.com/project/how-the-neuehaus-identity-became-a-platform-for-its-members-work",
+      "titleOriginal": "How the NeueHaus identity became a platform for its members’ work",
+      "textOriginal": "NeueHaus is a membership-based network of creative professionals from the design and technology world, positioned as the “new creative guild.” Informed by the ideas and feedback of its members, the Büro – the studio behind the platform – relaunched NeueHaus ’ identity across the website, app, social media and brand artefacts. The core team bringing it to life included Co-founder Alessandro Amato on design, motion and creative engineering, Co-founder Lena Pia Hammerstingl on creative direction and NeueHaus member Tom Mussak on art direction and design.\n\n“Our identity is meant to enable our members as a platform: it’s opinionated, but only to a point, allowing projects and different aesthetics from our members to shine,” Amato tells us. “The whole identity was deeply inspired by our members’ work and the feedback they shared with us throughout this journey.”",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/_video-thumbnails/15588280.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-the-neuehaus-identity-became-a-platform-for-its-members-work/NeueHaus-NeueHaus-00-v2.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "NeueHaus is a membership-based network of creative professionals from the design and technology world, positioned as the “new creative guild.” Informed by the ideas and feedback of its members, the Büro – the studio behind the platform – relaunched NeueHaus ’ identity across the website, app, social media and brand artefacts. The core team bringing it to life included Co-founder Alessandro Amato on design, motion and creative engineering, Co-founder Lena Pia Hammerstingl on creative direction and NeueHaus member Tom Mussak on art direction and design."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-the-neuehaus-identity-became-a-platform-for-its-members-work/NeueHaus-NeueHaus-24-v2.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“Our identity is meant to enable our members as a platform: it’s opinionated, but only to a point, allowing projects and different aesthetics from our members to shine,” Amato tells us. “The whole identity was deeply inspired by our members’ work and the feedback they shared with us throughout this journey.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-the-neuehaus-identity-became-a-platform-for-its-members-work/_2000xAUTO_crop_center-center_85_none/15586825/NeueHaus-NeueHaus-05.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-the-neuehaus-identity-became-a-platform-for-its-members-work/NeueHaus-NeueHaus-04.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "NeueHaus was built for the people that the team calls ‘The Externals’ – teams or independent freelancers who come in, solve a problem and move on. A case study that the Büro published on the relaunch introduces them through Mr Wolfe, the Pulp Fiction character whom Amato has always seen as “the embodiment of a freelancer.” Looking further into the origins of independent work, Amato and Hammerstingl drew on Italian and German roots, studying how Bauhaus and the guilds of Florence “created platforms for independent talents to thrive.” In the team’s account, the guild of Medici and Speziali, Florence’s physicians and apothecaries, was home to Andrea Verrocchio’s workshop, which paved the way for Sandro Botticelli and Leonardo da Vinci. Among the values that the guilds promoted, and that Walter Gropius later used as the foundation of Bauhaus, was “allowing workshops to pursue their individual brands and products.” Bauhaus’ influence on NeueHaus, Amato writes, “has less to do with design and more with how we think about business, our brand and how we enable our members to build their own identities within NeueHaus, using the network as a platform. That’s what we call a platform identity.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-the-neuehaus-identity-became-a-platform-for-its-members-work/_2000xAUTO_crop_center-center_85_none/15588284/NeueHaus-NeueHaus-25.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-the-neuehaus-identity-became-a-platform-for-its-members-work/_2000xAUTO_crop_center-center_85_none/15587944/NeueHaus-NeueHaus-21.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "NeueHaus’ mark “is not exactly a logo, but more of a code, a symbol that signifies belonging,” Amato explains. Mussak, who designed it, “was obsessing over a ‘logo you can type’ concept for some time,” Amato tells us. “When he drew ‘NH’ in these unusual characters and started stretching and compressing them, we knew that was it.” Members are free to use the mark to “signal they’re part of our network,” Amato says, “as long as they keep the characters. We love seeing how they use it in comments or posts about their work or our events.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-the-neuehaus-identity-became-a-platform-for-its-members-work/_2000xAUTO_crop_center-center_85_none/15587948/NeueHaus-NeueHaus-22.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-the-neuehaus-identity-became-a-platform-for-its-members-work/_2000xAUTO_crop_center-center_85_none/15587389/NeueHaus-NeueHaus-15.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The primary typeface is LL Bradford, a serif designed by Laurenz Brunner for Lineto, chosen for its “inherent authoritativeness.” “Its regular looks institutional like an encyclopedia, but its quirky glyphs and italics give it the crafty appeal that signals independence,” Amato notes. Settling Bradford and the mark “unlocked the rest of the brand.” The team then turned to “making it a dynamic, fluid identity that can work with several different visuals and colours, opinionated enough to be recognisable but not too much to overshadow the diverse creative work happening inside NeueHaus,” he continues."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-the-neuehaus-identity-became-a-platform-for-its-members-work/_2000xAUTO_crop_center-center_85_none/15586819/NeueHaus-NeueHaus-09.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-the-neuehaus-identity-became-a-platform-for-its-members-work/NeueHaus-NeueHaus-10.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The secondary typeface, used mostly in Light for interface elements such as buttons, inputs, member profile snippets and tags, is ABC Favorit, a sans serif from Dinamo whose “geometric yet quirky characters blend perfectly with Bradford’s authority. It’s especially useful for balancing the app UI,” Amato explains. The UI system is built from boxes that resize to fit the text that they hold."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-the-neuehaus-identity-became-a-platform-for-its-members-work/NeueHaus-NeueHaus-02.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-the-neuehaus-identity-became-a-platform-for-its-members-work/NeueHaus-NeueHaus-13.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Spring-based transitions, morphing boxes and subtle fades tie the website and app to NeueHaus’ editorial content. Amato developed the motion principles directly in code, using Anime.js, before they were adopted more widely in the identity. “I prefer using spring physics as they allow you to build more interesting and natural movements than predictable easings. I also see motion more as infrastructure rather than pure embellishment.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-the-neuehaus-identity-became-a-platform-for-its-members-work/_2000xAUTO_crop_center-center_85_none/15588285/NeueHaus-NeueHaus-26.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-the-neuehaus-identity-became-a-platform-for-its-members-work/_2000xAUTO_crop_center-center_85_none/15588286/NeueHaus-NeueHaus-27.webp"
+        }
+      ],
+      "caseStudyText": "NeueHaus is a membership-based network of creative professionals from the design and technology world, positioned as the “new creative guild.” Informed by the ideas and feedback of its members, the Büro – the studio behind the platform – relaunched NeueHaus ’ identity across the website, app, social media and brand artefacts. The core team bringing it to life included Co-founder Alessandro Amato on design, motion and creative engineering, Co-founder Lena Pia Hammerstingl on creative direction and NeueHaus member Tom Mussak on art direction and design.\n\n“Our identity is meant to enable our members as a platform: it’s opinionated, but only to a point, allowing projects and different aesthetics from our members to shine,” Amato tells us. “The whole identity was deeply inspired by our members’ work and the feedback they shared with us throughout this journey.”\n\nNeueHaus was built for the people that the team calls ‘The Externals’ – teams or independent freelancers who come in, solve a problem and move on. A case study that the Büro published on the relaunch introduces them through Mr Wolfe, the Pulp Fiction character whom Amato has always seen as “the embodiment of a freelancer.” Looking further into the origins of independent work, Amato and Hammerstingl drew on Italian and German roots, studying how Bauhaus and the guilds of Florence “created platforms for independent talents to thrive.” In the team’s account, the guild of Medici and Speziali, Florence’s physicians and apothecaries, was home to Andrea Verrocchio’s workshop, which paved the way for Sandro Botticelli and Leonardo da Vinci. Among the values that the guilds promoted, and that Walter Gropius later used as the foundation of Bauhaus, was “allowing workshops to pursue their individual brands and products.” Bauhaus’ influence on NeueHaus, Amato writes, “has less to do with design and more with how we think about business, our brand and how we enable our members to build their own identities within NeueHaus, using the network as a platform. That’s what we call a platform identity.”\n\nNeueHaus’ mark “is not exactly a logo, but more of a code, a symbol that signifies belonging,” Amato explains. Mussak, who designed it, “was obsessing over a ‘logo you can type’ concept for some time,” Amato tells us. “When he drew ‘NH’ in these unusual characters and started stretching and compressing them, we knew that was it.” Members are free to use the mark to “signal they’re part of our network,” Amato says, “as long as they keep the characters. We love seeing how they use it in comments or posts about their work or our events.”\n\nThe primary typeface is LL Bradford, a serif designed by Laurenz Brunner for Lineto, chosen for its “inherent authoritativeness.” “Its regular looks institutional like an encyclopedia, but its quirky glyphs and italics give it the crafty appeal that signals independence,” Amato notes. Settling Bradford and the mark “unlocked the rest of the brand.” The team then turned to “making it a dynamic, fluid identity that can work with several different visuals and colours, opinionated enough to be recognisable but not too much to overshadow the diverse creative work happening inside NeueHaus,” he continues.\n\nThe secondary typeface, used mostly in Light for interface elements such as buttons, inputs, member profile snippets and tags, is ABC Favorit, a sans serif from Dinamo whose “geometric yet quirky characters blend perfectly with Bradford’s authority. It’s especially useful for balancing the app UI,” Amato explains. The UI system is built from boxes that resize to fit the text that they hold.\n\nSpring-based transitions, morphing boxes and subtle fades tie the website and app to NeueHaus’ editorial content. Amato developed the motion principles directly in code, using Anime.js, before they were adopted more widely in the identity. “I prefer using spring physics as they allow you to build more interesting and natural movements than predictable easings. I also see motion more as infrastructure rather than pure embellishment.”",
+      "caseStudyMedia": [
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-the-neuehaus-identity-became-a-platform-for-its-members-work/NeueHaus-NeueHaus-00-v2.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-the-neuehaus-identity-became-a-platform-for-its-members-work/NeueHaus-NeueHaus-24-v2.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-the-neuehaus-identity-became-a-platform-for-its-members-work/_2000xAUTO_crop_center-center_85_none/15586825/NeueHaus-NeueHaus-05.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-the-neuehaus-identity-became-a-platform-for-its-members-work/NeueHaus-NeueHaus-04.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-the-neuehaus-identity-became-a-platform-for-its-members-work/_2000xAUTO_crop_center-center_85_none/15588284/NeueHaus-NeueHaus-25.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-the-neuehaus-identity-became-a-platform-for-its-members-work/_2000xAUTO_crop_center-center_85_none/15587944/NeueHaus-NeueHaus-21.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-the-neuehaus-identity-became-a-platform-for-its-members-work/_2000xAUTO_crop_center-center_85_none/15587948/NeueHaus-NeueHaus-22.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-the-neuehaus-identity-became-a-platform-for-its-members-work/_2000xAUTO_crop_center-center_85_none/15587389/NeueHaus-NeueHaus-15.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-the-neuehaus-identity-became-a-platform-for-its-members-work/_2000xAUTO_crop_center-center_85_none/15586819/NeueHaus-NeueHaus-09.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-the-neuehaus-identity-became-a-platform-for-its-members-work/NeueHaus-NeueHaus-10.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-the-neuehaus-identity-became-a-platform-for-its-members-work/NeueHaus-NeueHaus-02.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-the-neuehaus-identity-became-a-platform-for-its-members-work/NeueHaus-NeueHaus-13.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-the-neuehaus-identity-became-a-platform-for-its-members-work/_2000xAUTO_crop_center-center_85_none/15588285/NeueHaus-NeueHaus-26.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-the-neuehaus-identity-became-a-platform-for-its-members-work/_2000xAUTO_crop_center-center_85_none/15588286/NeueHaus-NeueHaus-27.webp"
+        }
+      ]
+    },
+    {
       "canonicalUrl": "https://the-brandidentity.com/project/how-bontemps-sequenced-sandy-hos-cookbook-like-a-photobook",
       "titleOriginal": "How BonTemps© sequenced Sandy Ho’s cookbook like a photobook",
       "textOriginal": "Cooking Notes Vol. II, a self-published edition of 800 copies, is the second in chef Sandy Ho’s series of cookbooks, bringing together a collection of her recipes and cooking notes. Creative agency BonTemps , which designed Vol. I, and has also worked on Ho’s identity as a chef through her website, logotype and printed materials, led the creative direction and book design, with photography by Drew Escriva.\n\nVol. II draws on Ho’s life, from the beaches of Sydney to years spent sailing and cooking around the world. “My connection to water is the through line to how tasting and ideating recipes bring me home to a sense of self, to my Vietnamese roots and to my Australian upbringing,” Ho tells us. The recipes in Vol. II are more complex than those in Vol. I and call for a more meditative approach to cooking. On the page, Vol. I is densely layered, but Vol. II is more airy and minimal – an approach that came from BonTemps’ experience of designing the earlier book. The amount of text is broadly the same, but there are fewer photographs. “We had documented a lot of the individual steps in the first volume, and looking back, we felt we could let the written instructions do more of the work. That freed the photography to focus on emotion, atmosphere and storytelling,” Co-founder & Strategy Director John Vallance notes.",
@@ -3698,133 +4009,6 @@ const snapshot={
         {
           "type": "video",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/ancient-wisdom-modern-mark-the-identity-for-s%C5%8Dms-daily-elixir-shots/So%CC%84M-.raw-Creative-Hub-09.mp4"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/studio-hi-ho-pairs-kraft-and-butter-yellow-in-madeleines-packaging",
-      "titleOriginal": "Studio Hi Ho pairs kraft and butter yellow in Madeleine’s packaging",
-      "textOriginal": "Madeleine is a Melbourne-based cultured butter maker founded by Jack Gaffney, who returned to Australia after many years living in France with a dream to make butter using traditional methods. The malaxer, a historic butter-making machine that slowly kneads, folds and works the butter, is at the centre of its process. Malaxers were once commonplace in dairies, but they largely disappeared as butter production industrialised. Madeleine’s process is deliberately slower – grass-fed Jersey cow cream from West Gippsland is fermented, batch churned in the Yarra Valley and malaxed. Each portion is paddled and shaped by hand.\n\n“My malaxer is a modern rendition of a very traditional machine – and something I saw as necessary for crafting the finest butter possible,” Gaffney explains. “Madeleine is one of only two producers in the world to use a malaxer.” Melbourne-based Studio Hi Ho designed the identity and packaging, beginning with Gaffney’s first meeting with the studio’s Director, Cam Norris. “I already had certain parts nailed down and had developed a very small presentation – but I had no starting point for design,” he recalls. He took Norris through the initial concepts of the brand, the reasons behind the name, the product and process, and his ambition. Norris then returned with an identity presentation.",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/studio-hi-ho-pairs-kraft-and-butter-yellow-in-madeleines-packaging/Madeleine-Studio-Hi-Ho-01.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/studio-hi-ho-pairs-kraft-and-butter-yellow-in-madeleines-packaging/_2000xAUTO_crop_center-center_85_none/14238206/Madeleine-Studio-Hi-Ho-01.webp"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "Madeleine is a Melbourne-based cultured butter maker founded by Jack Gaffney, who returned to Australia after many years living in France with a dream to make butter using traditional methods. The malaxer, a historic butter-making machine that slowly kneads, folds and works the butter, is at the centre of its process. Malaxers were once commonplace in dairies, but they largely disappeared as butter production industrialised. Madeleine’s process is deliberately slower – grass-fed Jersey cow cream from West Gippsland is fermented, batch churned in the Yarra Valley and malaxed. Each portion is paddled and shaped by hand."
-        },
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/studio-hi-ho-pairs-kraft-and-butter-yellow-in-madeleines-packaging/_2000xAUTO_crop_center-center_85_none/14238329/Madeleine-Studio-Hi-Ho-07_2026-10-12-114832_xdpe.webp"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“My malaxer is a modern rendition of a very traditional machine – and something I saw as necessary for crafting the finest butter possible,” Gaffney explains. “Madeleine is one of only two producers in the world to use a malaxer.” Melbourne-based Studio Hi Ho designed the identity and packaging, beginning with Gaffney’s first meeting with the studio’s Director, Cam Norris. “I already had certain parts nailed down and had developed a very small presentation – but I had no starting point for design,” he recalls. He took Norris through the initial concepts of the brand, the reasons behind the name, the product and process, and his ambition. Norris then returned with an identity presentation."
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The name comes from the madeleine, the small French cake, and the simple pleasure of taking the time to enjoy something properly. The idea of slowing down and savouring the moment became a starting point for the brand. “We agreed fairly early that anything overtly ‘French’ would risk feeling passé and a little inauthentic,” Norris explains. Gaffney “isn’t French, and the butter itself is made here in Victoria. So rather than treating France as an aesthetic theme, we wanted it to sit more quietly within the brand. It appears where it has a genuine connection to the product – the name, Jack’s story, the traditional process and ingredients such as Sel de Guérande,” he continues, naming the hand-harvested grey Celtic salt used in the butter."
-        },
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/studio-hi-ho-pairs-kraft-and-butter-yellow-in-madeleines-packaging/_2000xAUTO_crop_center-center_85_none/14238401/Madeleine-Studio-Hi-Ho-08_2026-10-12-115036_qzqu.webp"
-        },
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/studio-hi-ho-pairs-kraft-and-butter-yellow-in-madeleines-packaging/_2000xAUTO_crop_center-center_85_none/14238450/Madeleine-Studio-Hi-Ho-04.webp"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Studio Hi Ho set the logotype in Highway Gothic, a typeface first released in 1948. “We were drawn to the slightly awkward charm of its letterforms – the proportions and shapes feel a little unusual, which gives the wordmark a memorable quality,” Norris tells us. “We added the decorative underline to give it more of a ‘logo’ quality; to us, it feels a little like a badge you might find on the side of an old French tractor.” The body copy is set in Plantin, legible at small sizes and, in Norris’s words, “a trusty serif workhorse.” “Butter is yellow, so it felt silly not to lean into that as the hero colour of the brand,” he adds."
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Illustrator Pat Rogasch drew the butter-kneading process for the identity. “Our brief was to create something that felt as though it could have been plucked from the past, but would still feel contemporary well into the future,” Norris details. The linework is slightly blown out, giving the image “a nostalgic, reproduced quality, almost as though it has been printed, scanned and reinterpreted over many years.” An ‘M’ on the apron of a figure in the drawing is “a small reference back to the Madeleine logotype.”"
-        },
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/studio-hi-ho-pairs-kraft-and-butter-yellow-in-madeleines-packaging/_2000xAUTO_crop_center-center_85_none/14238452/Madeleine-Studio-Hi-Ho-06.webp"
-        },
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/studio-hi-ho-pairs-kraft-and-butter-yellow-in-madeleines-packaging/_2000xAUTO_crop_center-center_85_none/14238223/Madeleine-Studio-Hi-Ho-03.webp"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Waxed on one side so the butter doesn’t stick to it, the kraft paper wrapper “began as a functional requirement,” Norris notes. “But once we began working with it, the natural brown of the kraft became an important part of the packaging. There’s something extremely satisfying about the combination of brown kraft and butter yellow.” The core butter has a yellow label with black type, while other butters and collaborations use a white label with coloured type, so repeat customers can “recognise their favourite variety quickly within a line-up.” When Gaffney introduced the idea of a Limited Release range, Norris saw it as “an opportunity to stretch that language a little further.” The studio added a hand-drawn typeface alongside the existing typography for the range, and the Outback butter’s label has a second line reading Limited Release."
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The packaging also has room for collaborations with other makers and producers, and Gaffney is often approached with ideas for collaboration butters. Chef Guillaume Brahimi wanted a Piment d’Espelette cultured butter for a special event. “It ended up being so delicious, it’s now part of Madeleine’s core range,” he tells us."
-        },
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/studio-hi-ho-pairs-kraft-and-butter-yellow-in-madeleines-packaging/_2000xAUTO_crop_center-center_85_none/14238221/Madeleine-Studio-Hi-Ho-02.webp"
-        },
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/studio-hi-ho-pairs-kraft-and-butter-yellow-in-madeleines-packaging/_2000xAUTO_crop_center-center_85_none/14238282/Madeleine-Studio-Hi-Ho-05.webp"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Gaffney worked farmers’ markets every weekend for about two years, and comments on the packaging were common. “I’ve heard people say that they thought the packaging was too beautiful to open,” he remembers. The markets also led to introductions with “some of Melbourne’s most revered chefs.” The butter is served at establishments including Yiaga, Attica and Omnia, and sold in retail blocks at grocers including Meatsmith, Morning Market and Toscano’s. “Madeleine can sit comfortably alongside names such as Maker & Monger, Portside or Queen’s Harvest while still remaining immediately recognisable,” Norris observes of the brands it can now be compared to."
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "INTO IT art directed and styled the brand’s shoot with photographer Shelley Horan, setting tightly cropped, tactile details beside more playful, composed images. In one, the butter is shaped into a cube, cone and sphere. “There’s something slightly unexpected about treating butter almost as a sculptural material, while leaving the paddle marks visible keeps the image grounded in the handmade nature of the product,” Norris concludes."
-        }
-      ],
-      "caseStudyText": "Madeleine is a Melbourne-based cultured butter maker founded by Jack Gaffney, who returned to Australia after many years living in France with a dream to make butter using traditional methods. The malaxer, a historic butter-making machine that slowly kneads, folds and works the butter, is at the centre of its process. Malaxers were once commonplace in dairies, but they largely disappeared as butter production industrialised. Madeleine’s process is deliberately slower – grass-fed Jersey cow cream from West Gippsland is fermented, batch churned in the Yarra Valley and malaxed. Each portion is paddled and shaped by hand.\n\n“My malaxer is a modern rendition of a very traditional machine – and something I saw as necessary for crafting the finest butter possible,” Gaffney explains. “Madeleine is one of only two producers in the world to use a malaxer.” Melbourne-based Studio Hi Ho designed the identity and packaging, beginning with Gaffney’s first meeting with the studio’s Director, Cam Norris. “I already had certain parts nailed down and had developed a very small presentation – but I had no starting point for design,” he recalls. He took Norris through the initial concepts of the brand, the reasons behind the name, the product and process, and his ambition. Norris then returned with an identity presentation.\n\nThe name comes from the madeleine, the small French cake, and the simple pleasure of taking the time to enjoy something properly. The idea of slowing down and savouring the moment became a starting point for the brand. “We agreed fairly early that anything overtly ‘French’ would risk feeling passé and a little inauthentic,” Norris explains. Gaffney “isn’t French, and the butter itself is made here in Victoria. So rather than treating France as an aesthetic theme, we wanted it to sit more quietly within the brand. It appears where it has a genuine connection to the product – the name, Jack’s story, the traditional process and ingredients such as Sel de Guérande,” he continues, naming the hand-harvested grey Celtic salt used in the butter.\n\nStudio Hi Ho set the logotype in Highway Gothic, a typeface first released in 1948. “We were drawn to the slightly awkward charm of its letterforms – the proportions and shapes feel a little unusual, which gives the wordmark a memorable quality,” Norris tells us. “We added the decorative underline to give it more of a ‘logo’ quality; to us, it feels a little like a badge you might find on the side of an old French tractor.” The body copy is set in Plantin, legible at small sizes and, in Norris’s words, “a trusty serif workhorse.” “Butter is yellow, so it felt silly not to lean into that as the hero colour of the brand,” he adds.\n\nIllustrator Pat Rogasch drew the butter-kneading process for the identity. “Our brief was to create something that felt as though it could have been plucked from the past, but would still feel contemporary well into the future,” Norris details. The linework is slightly blown out, giving the image “a nostalgic, reproduced quality, almost as though it has been printed, scanned and reinterpreted over many years.” An ‘M’ on the apron of a figure in the drawing is “a small reference back to the Madeleine logotype.”\n\nWaxed on one side so the butter doesn’t stick to it, the kraft paper wrapper “began as a functional requirement,” Norris notes. “But once we began working with it, the natural brown of the kraft became an important part of the packaging. There’s something extremely satisfying about the combination of brown kraft and butter yellow.” The core butter has a yellow label with black type, while other butters and collaborations use a white label with coloured type, so repeat customers can “recognise their favourite variety quickly within a line-up.” When Gaffney introduced the idea of a Limited Release range, Norris saw it as “an opportunity to stretch that language a little further.” The studio added a hand-drawn typeface alongside the existing typography for the range, and the Outback butter’s label has a second line reading Limited Release.\n\nThe packaging also has room for collaborations with other makers and producers, and Gaffney is often approached with ideas for collaboration butters. Chef Guillaume Brahimi wanted a Piment d’Espelette cultured butter for a special event. “It ended up being so delicious, it’s now part of Madeleine’s core range,” he tells us.\n\nGaffney worked farmers’ markets every weekend for about two years, and comments on the packaging were common. “I’ve heard people say that they thought the packaging was too beautiful to open,” he remembers. The markets also led to introductions with “some of Melbourne’s most revered chefs.” The butter is served at establishments including Yiaga, Attica and Omnia, and sold in retail blocks at grocers including Meatsmith, Morning Market and Toscano’s. “Madeleine can sit comfortably alongside names such as Maker & Monger, Portside or Queen’s Harvest while still remaining immediately recognisable,” Norris observes of the brands it can now be compared to.\n\nINTO IT art directed and styled the brand’s shoot with photographer Shelley Horan, setting tightly cropped, tactile details beside more playful, composed images. In one, the butter is shaped into a cube, cone and sphere. “There’s something slightly unexpected about treating butter almost as a sculptural material, while leaving the paddle marks visible keeps the image grounded in the handmade nature of the product,” Norris concludes.",
-      "caseStudyMedia": [
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/studio-hi-ho-pairs-kraft-and-butter-yellow-in-madeleines-packaging/_2000xAUTO_crop_center-center_85_none/14238206/Madeleine-Studio-Hi-Ho-01.webp"
-        },
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/studio-hi-ho-pairs-kraft-and-butter-yellow-in-madeleines-packaging/_2000xAUTO_crop_center-center_85_none/14238329/Madeleine-Studio-Hi-Ho-07_2026-10-12-114832_xdpe.webp"
-        },
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/studio-hi-ho-pairs-kraft-and-butter-yellow-in-madeleines-packaging/_2000xAUTO_crop_center-center_85_none/14238401/Madeleine-Studio-Hi-Ho-08_2026-10-12-115036_qzqu.webp"
-        },
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/studio-hi-ho-pairs-kraft-and-butter-yellow-in-madeleines-packaging/_2000xAUTO_crop_center-center_85_none/14238450/Madeleine-Studio-Hi-Ho-04.webp"
-        },
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/studio-hi-ho-pairs-kraft-and-butter-yellow-in-madeleines-packaging/_2000xAUTO_crop_center-center_85_none/14238452/Madeleine-Studio-Hi-Ho-06.webp"
-        },
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/studio-hi-ho-pairs-kraft-and-butter-yellow-in-madeleines-packaging/_2000xAUTO_crop_center-center_85_none/14238223/Madeleine-Studio-Hi-Ho-03.webp"
-        },
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/studio-hi-ho-pairs-kraft-and-butter-yellow-in-madeleines-packaging/_2000xAUTO_crop_center-center_85_none/14238221/Madeleine-Studio-Hi-Ho-02.webp"
-        },
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/studio-hi-ho-pairs-kraft-and-butter-yellow-in-madeleines-packaging/_2000xAUTO_crop_center-center_85_none/14238282/Madeleine-Studio-Hi-Ho-05.webp"
         }
       ]
     }
