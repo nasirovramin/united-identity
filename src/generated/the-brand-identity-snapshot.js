@@ -3863,6 +3863,183 @@ const snapshot={
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-15.JPG"
         }
       ]
+    },
+    {
+      "canonicalUrl": "https://the-brandidentity.com/project/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme",
+      "titleOriginal": "N2 Albiino’s Vuoden Huiput identity expands on the craftsmanship theme",
+      "textOriginal": "Founded by designers in 1980, Vuoden Huiput is an annual design competition run by Grafia, the Association of Visual Communication Designers in Finland. Every year, Grafia invites one agency to design the competition’s identity around its pyramid emblem. For the 2025 edition, whose winners were celebrated at a gala in spring 2026, the invitation went to Helsinki-based brand and marketing agency N2 Albiino , which treated creativity as a metamorphosis and let the familiar pyramid break apart.\n\n“Each year the agency designing the Vuoden Huiput identity is given a fairly free hand to develop its own interpretation of the competition’s identity,” explains Grafia’s Executive Director Katri Soramäki. “One of the key points, however, is that the identity should include the agency’s own interpretation of the Vuoden Huiput pyramid.” The commission “can offer more room for experimentation than a typical client brief,” she adds. “One of the unique aspects is that the target audience consists of the designers’ own colleagues and peers.”",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/_video-thumbnails/14373716.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-08.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "Founded by designers in 1980, Vuoden Huiput is an annual design competition run by Grafia, the Association of Visual Communication Designers in Finland. Every year, Grafia invites one agency to design the competition’s identity around its pyramid emblem. For the 2025 edition, whose winners were celebrated at a gala in spring 2026, the invitation went to Helsinki-based brand and marketing agency N2 Albiino , which treated creativity as a metamorphosis and let the familiar pyramid break apart."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/_2000xAUTO_crop_center-center_85_none/14373831/Vuoden-Huiput-2025-N2-Albiino-05.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“Each year the agency designing the Vuoden Huiput identity is given a fairly free hand to develop its own interpretation of the competition’s identity,” explains Grafia’s Executive Director Katri Soramäki. “One of the key points, however, is that the identity should include the agency’s own interpretation of the Vuoden Huiput pyramid.” The commission “can offer more room for experimentation than a typical client brief,” she adds. “One of the unique aspects is that the target audience consists of the designers’ own colleagues and peers.”"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-13.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“Our idea was to cause a small disruption. We wanted to shake things up rather than doing what people would normally expect from a Vuoden Huiput identity,” N2 Albiino’s Designer Ville Sainio tells us. “This was the 46th year of the competition, hence the pyramid and recurring elements had already become familiar within the industry. Because of that, we dared to do something that felt a bit unconventional.” N2 Albiino also took inspiration from the theme of the Wild Card, one of the competition’s categories. The head of juries chooses that theme each year, and for 2025, that was Lotta Nieminen, who chose craftsmanship – a theme about handwork, technical skill and a high level of finish. “It was a subject that was personally important to her and is also reflected in her own work,” notes Grafia’s Producer Julia Valanne."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/_2000xAUTO_crop_center-center_85_none/14373324/Vuoden-Huiput-2025-N2-Albiino-01.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The pyramid is made up of separate pieces. In most of the images, they are joined together in a pyramid-like shape, but they also appear on their own, as though the pyramid has broken up. The pyramid was modelled in 3D in Cinema 4D, along with every image and graphic around it, and rendered with Octane to look like modelling clay. N2 Albiino combined textures from Greyscalegorilla’s asset library on each piece, shifting their position and rotation. “The goal was to make every piece unique rather than repeating the same texture over and over,” Sainio details. “I wanted an organic look, so the pieces would feel like modelling clay that had been moulded one by one.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/_2000xAUTO_crop_center-center_85_none/14373515/Vuoden-Huiput-2025-N2-Albiino-07.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/_2000xAUTO_crop_center-center_85_none/14373501/Vuoden-Huiput-2025-N2-Albiino-06.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Some of the pieces have a metal finish. “The metallic shapes were carved and engraved with the pyramid logo, which was also my take on this year’s craftsmanship theme,” he continues. “Funnily enough, many people have thought the pyramid is real and asked whether it was actually made from modelling clay and if we have one sitting on a cabinet shelf somewhere.” At Grafia, Soramäki recalls that “N2 Albiino initially developed a broad visual concept, which we then refined together as the work progressed into a clearer and more cohesive system. During the process, the modelling-clay pyramid really stood out as the strongest conceptually.”"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-11_2026-10-19-042435_yeun.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The colours started with sketches by Creative Director Mikko Männistö. Sainio then rendered a white version of the pyramid and coloured it section by section in Photoshop to see which colours worked where, before combining colours and textures in Cinema 4D. The pieces are mainly in primary colours, such as shades of blue, yellow, green and red, with pink and some purple here and there. Black and white are also used, “since we wanted to avoid looking too playful,” Sainio reveals. “A brighter colour palette seemed fitting in contrast to the previous year’s identity, which was darker in tone.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/_2000xAUTO_crop_center-center_85_none/14373440/Vuoden-Huiput-2025-N2-Albiino-03.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The typography is set almost exclusively in one cut of Pangram Pangram’s PP Neue Montreal, with other cuts in the yearbook, which collects the winning work. Once the main visual was finished, the first piece to follow was a social media post and ad announcing the identity and the competition dates. “At first, it was hard to find a way to combine text and visuals as there was already so much going on,” Sainio recalls. “I had to find a way for the chosen typography to not pull away too much attention from the key visual.” Placing the text along the bottom edge “didn’t look particularly interesting,” so he repeated it three times over the image, “and something clicked.” Set at the top, middle and bottom, the text sits in a frame that the team called the “matrix,” which works on top of any visual. Sainio describes the repetition as “the connecting thread between all images,” one that gives the identity “a serial quality.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/_2000xAUTO_crop_center-center_85_none/14374389/Vuoden-Huiput-2025-N2-Albiino-09.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Showing the pieces on their own came later. “The concept started with the main pyramid, used in social media and print ads, so by the time we began breaking it apart and showing different sides of it, the identity was already established and recognised by the audience,” Sainio tells us. “The consistent use of the text matrix also helped tie everything together nicely.”"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-12_2026-10-19-042415_xogd.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "In motion, the camera moves around the pyramid. “It makes it feel more real, like an actual object that has been carefully crafted from every angle,” Sainio notes. “It’s almost as if the viewer is turning it around, looking at it, playing with it.” On the gala’s screens and in the social posts, the text rises from the bottom of the screen, repeating to cover most of it before settling into the position used in the still versions. It always moves upward as it enters or leaves, “which gives a feeling of momentum and positivity,” Sainio explains. Every name and award category on the event screen repeats three times “to preserve the visual language present throughout the whole identity.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/_2000xAUTO_crop_center-center_85_none/14373363/Vuoden-Huiput-2025-N2-Albiino-02.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“The yearbook tradition follows Grafia’s own system of only awarding Gold and Silver, so silver and gold pieces were all that was needed to express that,” Männistö details. “The jury itself is pictured as though they too were up for evaluation, sitting in a row with the camera turned back on them.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/_2000xAUTO_crop_center-center_85_none/14639641/Vuoden-Huiput-2025-N2-Albiino-14.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/_2000xAUTO_crop_center-center_85_none/14639636/Vuoden-Huiput-2025-N2-Albiino-15.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The concept “worked especially well at the awards gala, where the same idea could be brought into a live event – from the floral arrangements to the presentation of the dessert,” Valanne tells us. N2 Albiino designed printed, personalised and hand-stitched menu booklets for the gala, and “many guests took theirs home as a keepsake,” she concludes."
+        }
+      ],
+      "caseStudyText": "Founded by designers in 1980, Vuoden Huiput is an annual design competition run by Grafia, the Association of Visual Communication Designers in Finland. Every year, Grafia invites one agency to design the competition’s identity around its pyramid emblem. For the 2025 edition, whose winners were celebrated at a gala in spring 2026, the invitation went to Helsinki-based brand and marketing agency N2 Albiino , which treated creativity as a metamorphosis and let the familiar pyramid break apart.\n\n“Each year the agency designing the Vuoden Huiput identity is given a fairly free hand to develop its own interpretation of the competition’s identity,” explains Grafia’s Executive Director Katri Soramäki. “One of the key points, however, is that the identity should include the agency’s own interpretation of the Vuoden Huiput pyramid.” The commission “can offer more room for experimentation than a typical client brief,” she adds. “One of the unique aspects is that the target audience consists of the designers’ own colleagues and peers.”\n\n“Our idea was to cause a small disruption. We wanted to shake things up rather than doing what people would normally expect from a Vuoden Huiput identity,” N2 Albiino’s Designer Ville Sainio tells us. “This was the 46th year of the competition, hence the pyramid and recurring elements had already become familiar within the industry. Because of that, we dared to do something that felt a bit unconventional.” N2 Albiino also took inspiration from the theme of the Wild Card, one of the competition’s categories. The head of juries chooses that theme each year, and for 2025, that was Lotta Nieminen, who chose craftsmanship – a theme about handwork, technical skill and a high level of finish. “It was a subject that was personally important to her and is also reflected in her own work,” notes Grafia’s Producer Julia Valanne.\n\nThe pyramid is made up of separate pieces. In most of the images, they are joined together in a pyramid-like shape, but they also appear on their own, as though the pyramid has broken up. The pyramid was modelled in 3D in Cinema 4D, along with every image and graphic around it, and rendered with Octane to look like modelling clay. N2 Albiino combined textures from Greyscalegorilla’s asset library on each piece, shifting their position and rotation. “The goal was to make every piece unique rather than repeating the same texture over and over,” Sainio details. “I wanted an organic look, so the pieces would feel like modelling clay that had been moulded one by one.”\n\nSome of the pieces have a metal finish. “The metallic shapes were carved and engraved with the pyramid logo, which was also my take on this year’s craftsmanship theme,” he continues. “Funnily enough, many people have thought the pyramid is real and asked whether it was actually made from modelling clay and if we have one sitting on a cabinet shelf somewhere.” At Grafia, Soramäki recalls that “N2 Albiino initially developed a broad visual concept, which we then refined together as the work progressed into a clearer and more cohesive system. During the process, the modelling-clay pyramid really stood out as the strongest conceptually.”\n\nThe colours started with sketches by Creative Director Mikko Männistö. Sainio then rendered a white version of the pyramid and coloured it section by section in Photoshop to see which colours worked where, before combining colours and textures in Cinema 4D. The pieces are mainly in primary colours, such as shades of blue, yellow, green and red, with pink and some purple here and there. Black and white are also used, “since we wanted to avoid looking too playful,” Sainio reveals. “A brighter colour palette seemed fitting in contrast to the previous year’s identity, which was darker in tone.”\n\nThe typography is set almost exclusively in one cut of Pangram Pangram’s PP Neue Montreal, with other cuts in the yearbook, which collects the winning work. Once the main visual was finished, the first piece to follow was a social media post and ad announcing the identity and the competition dates. “At first, it was hard to find a way to combine text and visuals as there was already so much going on,” Sainio recalls. “I had to find a way for the chosen typography to not pull away too much attention from the key visual.” Placing the text along the bottom edge “didn’t look particularly interesting,” so he repeated it three times over the image, “and something clicked.” Set at the top, middle and bottom, the text sits in a frame that the team called the “matrix,” which works on top of any visual. Sainio describes the repetition as “the connecting thread between all images,” one that gives the identity “a serial quality.”\n\nShowing the pieces on their own came later. “The concept started with the main pyramid, used in social media and print ads, so by the time we began breaking it apart and showing different sides of it, the identity was already established and recognised by the audience,” Sainio tells us. “The consistent use of the text matrix also helped tie everything together nicely.”\n\nIn motion, the camera moves around the pyramid. “It makes it feel more real, like an actual object that has been carefully crafted from every angle,” Sainio notes. “It’s almost as if the viewer is turning it around, looking at it, playing with it.” On the gala’s screens and in the social posts, the text rises from the bottom of the screen, repeating to cover most of it before settling into the position used in the still versions. It always moves upward as it enters or leaves, “which gives a feeling of momentum and positivity,” Sainio explains. Every name and award category on the event screen repeats three times “to preserve the visual language present throughout the whole identity.”\n\n“The yearbook tradition follows Grafia’s own system of only awarding Gold and Silver, so silver and gold pieces were all that was needed to express that,” Männistö details. “The jury itself is pictured as though they too were up for evaluation, sitting in a row with the camera turned back on them.”\n\nThe concept “worked especially well at the awards gala, where the same idea could be brought into a live event – from the floral arrangements to the presentation of the dessert,” Valanne tells us. N2 Albiino designed printed, personalised and hand-stitched menu booklets for the gala, and “many guests took theirs home as a keepsake,” she concludes.",
+      "caseStudyMedia": [
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-08.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/_2000xAUTO_crop_center-center_85_none/14373831/Vuoden-Huiput-2025-N2-Albiino-05.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-13.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/_2000xAUTO_crop_center-center_85_none/14373324/Vuoden-Huiput-2025-N2-Albiino-01.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/_2000xAUTO_crop_center-center_85_none/14373515/Vuoden-Huiput-2025-N2-Albiino-07.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/_2000xAUTO_crop_center-center_85_none/14373501/Vuoden-Huiput-2025-N2-Albiino-06.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-11_2026-10-19-042435_yeun.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/_2000xAUTO_crop_center-center_85_none/14373440/Vuoden-Huiput-2025-N2-Albiino-03.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/_2000xAUTO_crop_center-center_85_none/14374389/Vuoden-Huiput-2025-N2-Albiino-09.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-12_2026-10-19-042415_xogd.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/_2000xAUTO_crop_center-center_85_none/14373363/Vuoden-Huiput-2025-N2-Albiino-02.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/_2000xAUTO_crop_center-center_85_none/14639641/Vuoden-Huiput-2025-N2-Albiino-14.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/_2000xAUTO_crop_center-center_85_none/14639636/Vuoden-Huiput-2025-N2-Albiino-15.webp"
+        }
+      ]
     }
   ]
 };
