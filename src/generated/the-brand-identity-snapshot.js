@@ -7,6 +7,152 @@ const snapshot={
   },
   "items": [
     {
+      "canonicalUrl": "https://the-brandidentity.com/project/how-raw-reworked-stows-identity-to-make-its-coffee-roasting-visible",
+      "titleOriginal": "How .raw reworked STOW’s identity to make its coffee roasting visible",
+      "textOriginal": "Founded in 2015, STOW is a Slovenian speciality coffee company, with its roastery in Kamnik and cafés in Ljubljana. It brought in branding and marketing studio .raw to rework its existing look into an identity that would translate STOW’s scientific approach into visual form. “We reached a point where the work happening behind the scenes – the sourcing decisions, the roasting parameters, the testing – wasn’t visible in how the brand presented itself,” explains Peter Ševič from STOW. “We knew what we stood for, but the identity wasn’t carrying that across.”\n\nFor many of the team at .raw, STOW was their introduction to speciality coffee. “The guys at .raw are our friends, customers and share our love for coffee so we know that they would treat the redesign with the same rigour we bring to coffee,” Ševič notes. “At .raw, we see STOW as Slovenia’s best coffee roaster and among the best in the world,” Senior Designer Rob Svenšek tells us.",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-raw-reworked-stows-identity-to-make-its-coffee-roasting-visible/STOW-raw-15.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-raw-reworked-stows-identity-to-make-its-coffee-roasting-visible/_2000xAUTO_crop_center-center_85_none/15588006/STOW-raw-15.webp"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "Founded in 2015, STOW is a Slovenian speciality coffee company, with its roastery in Kamnik and cafés in Ljubljana. It brought in branding and marketing studio .raw to rework its existing look into an identity that would translate STOW’s scientific approach into visual form. “We reached a point where the work happening behind the scenes – the sourcing decisions, the roasting parameters, the testing – wasn’t visible in how the brand presented itself,” explains Peter Ševič from STOW. “We knew what we stood for, but the identity wasn’t carrying that across.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-raw-reworked-stows-identity-to-make-its-coffee-roasting-visible/_2000xAUTO_crop_center-center_85_none/15587457/STOW-raw-02.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "For many of the team at .raw, STOW was their introduction to speciality coffee. “The guys at .raw are our friends, customers and share our love for coffee so we know that they would treat the redesign with the same rigour we bring to coffee,” Ševič notes. “At .raw, we see STOW as Slovenia’s best coffee roaster and among the best in the world,” Senior Designer Rob Svenšek tells us."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-raw-reworked-stows-identity-to-make-its-coffee-roasting-visible/_2000xAUTO_crop_center-center_85_none/15587454/STOW-raw-05.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“We wanted to make STOW’s perfectionist mindset and scientific approach to coffee visible,” he explains. “Behind each cup are parameters, graphs, extraction data and repeated tests, but much of that work is usually hidden from the customer.” Yet, “STOW’s work ultimately leads to a sensory experience, so we also had to make room for flavour. The challenge was to express STOW’s depth of knowledge in a way that felt approachable, whether someone encountered the brand on a café menu, a bag or a catalogue.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-raw-reworked-stows-identity-to-make-its-coffee-roasting-visible/_2000xAUTO_crop_center-center_85_none/15587998/STOW-raw-11.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-raw-reworked-stows-identity-to-make-its-coffee-roasting-visible/_2000xAUTO_crop_center-center_85_none/15588004/STOW-raw-13-v2.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": ".raw kept STOW’s symbol, a stylised outline of the historic STOL factory and its chimney in Kamnik, where the brand was founded. The mark has been with STOW since the beginning. “We weren’t interested in erasing that history,” Ševič details. “The redesign gave it a stronger context: better typography, a more consistent system, a clearer logic. The mark stayed, but everything around it was built to make it work harder.” .raw also created a new wordmark built on clean geometry, an evolution of the bold uppercase sans serif STOW used before."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-raw-reworked-stows-identity-to-make-its-coffee-roasting-visible/_2000xAUTO_crop_center-center_85_none/15587453/STOW-raw-07.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-raw-reworked-stows-identity-to-make-its-coffee-roasting-visible/_2000xAUTO_crop_center-center_85_none/15587452/STOW-raw-08.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Around the mark, the system draws on coffee roasting documentation, with its graphs, parameters and structured layouts. “That reference shaped both the character of the identity and how it works,” Svenšek explains. “The typography gives it a precise, technical voice, while the layouts create a consistent way to organise coffee information across packaging, menus and other applications.” The primary typeface is CoType Foundry’s monospaced Aeonik Mono, set in Light for headlines and long-form text, with Medium reserved for emphasis and hierarchy. Square brackets, a device borrowed from scientific notation and data formatting, recur throughout."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-raw-reworked-stows-identity-to-make-its-coffee-roasting-visible/_2000xAUTO_crop_center-center_85_none/15587455/STOW-raw-03-v2.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-raw-reworked-stows-identity-to-make-its-coffee-roasting-visible/_2000xAUTO_crop_center-center_85_none/15587456/STOW-raw-04-v2.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The palette is white, grey and black, and the standard bags come in white or black. Colour appears only in a set of five accents, each representing a flavour profile. “The idea was to emphasise each coffee’s character and make those differences accessible, even to someone new to speciality coffee,” Svenšek tells us. “We wanted colour to encourage people to think about taste and, over time, help them recognise the profiles they enjoy. We placed the colour at the top of the bags so that, when they’re displayed on a counter, you can distinguish the flavour profiles at a glance without having to read the tasting notes.”"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-raw-reworked-stows-identity-to-make-its-coffee-roasting-visible/STOW-raw-09-v2.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“We wanted to balance the scientific precision of the visuals with playful copywriting, giving STOW more character and making the brand feel approachable,” Svenšek notes. “The lines are short and confident, with dry humour that never stops to explain itself.” Lines such as ‘Caffeine delivery system’ and ‘Batch-tested. 100% effective’ “borrow the authority of technical language,” he explains, while ‘Unregulated sensory experience’ and ‘250g of pure bliss’ “bring in the pleasure underneath.” The same voice appears on the merch, with t-shirts reading ‘EXPERIMENT NO. 100G.’ “Together, the lines treat coffee as an experiment in emotion and perception, giving STOW a voice that can move between precise product information and more provocative brand statements.”"
+        },
+        {
+          "type": "iframe",
+          "url": "https://player.vimeo.com/video/1245869601?autoplay=0&loop=1&autopause=1&dnt=1"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "STOW Rare, a small selection of premium coffees, comes in metallic, embossed packaging that references laboratory materials, using the same typography and structured layouts as the mainline range. “The materials ask you to slow down before you even open the bag,” Ševič concludes."
+        }
+      ],
+      "caseStudyText": "Founded in 2015, STOW is a Slovenian speciality coffee company, with its roastery in Kamnik and cafés in Ljubljana. It brought in branding and marketing studio .raw to rework its existing look into an identity that would translate STOW’s scientific approach into visual form. “We reached a point where the work happening behind the scenes – the sourcing decisions, the roasting parameters, the testing – wasn’t visible in how the brand presented itself,” explains Peter Ševič from STOW. “We knew what we stood for, but the identity wasn’t carrying that across.”\n\nFor many of the team at .raw, STOW was their introduction to speciality coffee. “The guys at .raw are our friends, customers and share our love for coffee so we know that they would treat the redesign with the same rigour we bring to coffee,” Ševič notes. “At .raw, we see STOW as Slovenia’s best coffee roaster and among the best in the world,” Senior Designer Rob Svenšek tells us.\n\n“We wanted to make STOW’s perfectionist mindset and scientific approach to coffee visible,” he explains. “Behind each cup are parameters, graphs, extraction data and repeated tests, but much of that work is usually hidden from the customer.” Yet, “STOW’s work ultimately leads to a sensory experience, so we also had to make room for flavour. The challenge was to express STOW’s depth of knowledge in a way that felt approachable, whether someone encountered the brand on a café menu, a bag or a catalogue.”\n\n.raw kept STOW’s symbol, a stylised outline of the historic STOL factory and its chimney in Kamnik, where the brand was founded. The mark has been with STOW since the beginning. “We weren’t interested in erasing that history,” Ševič details. “The redesign gave it a stronger context: better typography, a more consistent system, a clearer logic. The mark stayed, but everything around it was built to make it work harder.” .raw also created a new wordmark built on clean geometry, an evolution of the bold uppercase sans serif STOW used before.\n\nAround the mark, the system draws on coffee roasting documentation, with its graphs, parameters and structured layouts. “That reference shaped both the character of the identity and how it works,” Svenšek explains. “The typography gives it a precise, technical voice, while the layouts create a consistent way to organise coffee information across packaging, menus and other applications.” The primary typeface is CoType Foundry’s monospaced Aeonik Mono, set in Light for headlines and long-form text, with Medium reserved for emphasis and hierarchy. Square brackets, a device borrowed from scientific notation and data formatting, recur throughout.\n\nThe palette is white, grey and black, and the standard bags come in white or black. Colour appears only in a set of five accents, each representing a flavour profile. “The idea was to emphasise each coffee’s character and make those differences accessible, even to someone new to speciality coffee,” Svenšek tells us. “We wanted colour to encourage people to think about taste and, over time, help them recognise the profiles they enjoy. We placed the colour at the top of the bags so that, when they’re displayed on a counter, you can distinguish the flavour profiles at a glance without having to read the tasting notes.”\n\n“We wanted to balance the scientific precision of the visuals with playful copywriting, giving STOW more character and making the brand feel approachable,” Svenšek notes. “The lines are short and confident, with dry humour that never stops to explain itself.” Lines such as ‘Caffeine delivery system’ and ‘Batch-tested. 100% effective’ “borrow the authority of technical language,” he explains, while ‘Unregulated sensory experience’ and ‘250g of pure bliss’ “bring in the pleasure underneath.” The same voice appears on the merch, with t-shirts reading ‘EXPERIMENT NO. 100G.’ “Together, the lines treat coffee as an experiment in emotion and perception, giving STOW a voice that can move between precise product information and more provocative brand statements.”\n\nSTOW Rare, a small selection of premium coffees, comes in metallic, embossed packaging that references laboratory materials, using the same typography and structured layouts as the mainline range. “The materials ask you to slow down before you even open the bag,” Ševič concludes.",
+      "caseStudyMedia": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-raw-reworked-stows-identity-to-make-its-coffee-roasting-visible/_2000xAUTO_crop_center-center_85_none/15588006/STOW-raw-15.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-raw-reworked-stows-identity-to-make-its-coffee-roasting-visible/_2000xAUTO_crop_center-center_85_none/15587457/STOW-raw-02.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-raw-reworked-stows-identity-to-make-its-coffee-roasting-visible/_2000xAUTO_crop_center-center_85_none/15587454/STOW-raw-05.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-raw-reworked-stows-identity-to-make-its-coffee-roasting-visible/_2000xAUTO_crop_center-center_85_none/15587998/STOW-raw-11.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-raw-reworked-stows-identity-to-make-its-coffee-roasting-visible/_2000xAUTO_crop_center-center_85_none/15588004/STOW-raw-13-v2.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-raw-reworked-stows-identity-to-make-its-coffee-roasting-visible/_2000xAUTO_crop_center-center_85_none/15587453/STOW-raw-07.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-raw-reworked-stows-identity-to-make-its-coffee-roasting-visible/_2000xAUTO_crop_center-center_85_none/15587452/STOW-raw-08.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-raw-reworked-stows-identity-to-make-its-coffee-roasting-visible/_2000xAUTO_crop_center-center_85_none/15587455/STOW-raw-03-v2.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-raw-reworked-stows-identity-to-make-its-coffee-roasting-visible/_2000xAUTO_crop_center-center_85_none/15587456/STOW-raw-04-v2.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-raw-reworked-stows-identity-to-make-its-coffee-roasting-visible/STOW-raw-09-v2.mp4"
+        },
+        {
+          "type": "iframe",
+          "url": "https://player.vimeo.com/video/1245869601?autoplay=0&loop=1&autopause=1&dnt=1"
+        }
+      ]
+    },
+    {
       "canonicalUrl": "https://the-brandidentity.com/project/fix-studios-identity-asks-how-to-archive-puerto-rican-visual-culture",
       "titleOriginal": "Fix Studio",
       "textOriginal": "Instituto de Observación Colectiva (IOC) is an initiative that artist Christopher Gregory-Rivera founded in 2026 to support photography engaging with the histories of Puerto Rico and its diaspora, through fellowships, mentorship, workshops and public programming. Its first grant and mentorship programme is titled Counter Histories: Puerto Rico. Brooklyn-based Fix Studio , which had worked with Gregory-Rivera before, came on board from the start to create IOC’s identity and website. “While I had a strong idea of what the mission was, I did not have a clear idea of what that looked like,” Gregory-Rivera tells us.\n\n“We started with the question of what an archive of Puerto Rican and Caribbean culture looks like,” explains Fix Studio’s Co-founder & Design Director, Alejandro Torres Viera. He points to the austere institutional treatment normally associated with an archive. “We were interested in the tension between that and the vibrancy of Puerto Rico’s visual culture. The archive has never been a neutral space, and a lot of our past work with Chris has been about questioning its claim to absolute truth.”",
@@ -3715,300 +3861,6 @@ const snapshot={
         {
           "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-15.JPG"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme",
-      "titleOriginal": "N2 Albiino’s Vuoden Huiput identity expands on the craftsmanship theme",
-      "textOriginal": "Founded by designers in 1980, Vuoden Huiput is an annual design competition run by Grafia, the Association of Visual Communication Designers in Finland. Every year, Grafia invites one agency to design the competition’s identity around its pyramid emblem. For the 2025 edition, whose winners were celebrated at a gala in spring 2026, the invitation went to Helsinki-based brand and marketing agency N2 Albiino , which treated creativity as a metamorphosis and let the familiar pyramid break apart.\n\n“Each year the agency designing the Vuoden Huiput identity is given a fairly free hand to develop its own interpretation of the competition’s identity,” explains Grafia’s Executive Director Katri Soramäki. “One of the key points, however, is that the identity should include the agency’s own interpretation of the Vuoden Huiput pyramid.” The commission “can offer more room for experimentation than a typical client brief,” she adds. “One of the unique aspects is that the target audience consists of the designers’ own colleagues and peers.”",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/14373716.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-08.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "Founded by designers in 1980, Vuoden Huiput is an annual design competition run by Grafia, the Association of Visual Communication Designers in Finland. Every year, Grafia invites one agency to design the competition’s identity around its pyramid emblem. For the 2025 edition, whose winners were celebrated at a gala in spring 2026, the invitation went to Helsinki-based brand and marketing agency N2 Albiino , which treated creativity as a metamorphosis and let the familiar pyramid break apart."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-05.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“Each year the agency designing the Vuoden Huiput identity is given a fairly free hand to develop its own interpretation of the competition’s identity,” explains Grafia’s Executive Director Katri Soramäki. “One of the key points, however, is that the identity should include the agency’s own interpretation of the Vuoden Huiput pyramid.” The commission “can offer more room for experimentation than a typical client brief,” she adds. “One of the unique aspects is that the target audience consists of the designers’ own colleagues and peers.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-13.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“Our idea was to cause a small disruption. We wanted to shake things up rather than doing what people would normally expect from a Vuoden Huiput identity,” N2 Albiino’s Designer Ville Sainio tells us. “This was the 46th year of the competition, hence the pyramid and recurring elements had already become familiar within the industry. Because of that, we dared to do something that felt a bit unconventional.” N2 Albiino also took inspiration from the theme of the Wild Card, one of the competition’s categories. The head of juries chooses that theme each year, and for 2025, that was Lotta Nieminen, who chose craftsmanship – a theme about handwork, technical skill and a high level of finish. “It was a subject that was personally important to her and is also reflected in her own work,” notes Grafia’s Producer Julia Valanne."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-01.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The pyramid is made up of separate pieces. In most of the images, they are joined together in a pyramid-like shape, but they also appear on their own, as though the pyramid has broken up. The pyramid was modelled in 3D in Cinema 4D, along with every image and graphic around it, and rendered with Octane to look like modelling clay. N2 Albiino combined textures from Greyscalegorilla’s asset library on each piece, shifting their position and rotation. “The goal was to make every piece unique rather than repeating the same texture over and over,” Sainio details. “I wanted an organic look, so the pieces would feel like modelling clay that had been moulded one by one.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-07.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-06.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Some of the pieces have a metal finish. “The metallic shapes were carved and engraved with the pyramid logo, which was also my take on this year’s craftsmanship theme,” he continues. “Funnily enough, many people have thought the pyramid is real and asked whether it was actually made from modelling clay and if we have one sitting on a cabinet shelf somewhere.” At Grafia, Soramäki recalls that “N2 Albiino initially developed a broad visual concept, which we then refined together as the work progressed into a clearer and more cohesive system. During the process, the modelling-clay pyramid really stood out as the strongest conceptually.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-11_2026-10-19-042435_yeun.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The colours started with sketches by Creative Director Mikko Männistö. Sainio then rendered a white version of the pyramid and coloured it section by section in Photoshop to see which colours worked where, before combining colours and textures in Cinema 4D. The pieces are mainly in primary colours, such as shades of blue, yellow, green and red, with pink and some purple here and there. Black and white are also used, “since we wanted to avoid looking too playful,” Sainio reveals. “A brighter colour palette seemed fitting in contrast to the previous year’s identity, which was darker in tone.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-03.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The typography is set almost exclusively in one cut of Pangram Pangram’s PP Neue Montreal, with other cuts in the yearbook, which collects the winning work. Once the main visual was finished, the first piece to follow was a social media post and ad announcing the identity and the competition dates. “At first, it was hard to find a way to combine text and visuals as there was already so much going on,” Sainio recalls. “I had to find a way for the chosen typography to not pull away too much attention from the key visual.” Placing the text along the bottom edge “didn’t look particularly interesting,” so he repeated it three times over the image, “and something clicked.” Set at the top, middle and bottom, the text sits in a frame that the team called the “matrix,” which works on top of any visual. Sainio describes the repetition as “the connecting thread between all images,” one that gives the identity “a serial quality.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-09.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Showing the pieces on their own came later. “The concept started with the main pyramid, used in social media and print ads, so by the time we began breaking it apart and showing different sides of it, the identity was already established and recognised by the audience,” Sainio tells us. “The consistent use of the text matrix also helped tie everything together nicely.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-12_2026-10-19-042415_xogd.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "In motion, the camera moves around the pyramid. “It makes it feel more real, like an actual object that has been carefully crafted from every angle,” Sainio notes. “It’s almost as if the viewer is turning it around, looking at it, playing with it.” On the gala’s screens and in the social posts, the text rises from the bottom of the screen, repeating to cover most of it before settling into the position used in the still versions. It always moves upward as it enters or leaves, “which gives a feeling of momentum and positivity,” Sainio explains. Every name and award category on the event screen repeats three times “to preserve the visual language present throughout the whole identity.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-02.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“The yearbook tradition follows Grafia’s own system of only awarding Gold and Silver, so silver and gold pieces were all that was needed to express that,” Männistö details. “The jury itself is pictured as though they too were up for evaluation, sitting in a row with the camera turned back on them.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-14.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-15.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The concept “worked especially well at the awards gala, where the same idea could be brought into a live event – from the floral arrangements to the presentation of the dessert,” Valanne tells us. N2 Albiino designed printed, personalised and hand-stitched menu booklets for the gala, and “many guests took theirs home as a keepsake,” she concludes."
-        }
-      ],
-      "caseStudyText": "Founded by designers in 1980, Vuoden Huiput is an annual design competition run by Grafia, the Association of Visual Communication Designers in Finland. Every year, Grafia invites one agency to design the competition’s identity around its pyramid emblem. For the 2025 edition, whose winners were celebrated at a gala in spring 2026, the invitation went to Helsinki-based brand and marketing agency N2 Albiino , which treated creativity as a metamorphosis and let the familiar pyramid break apart.\n\n“Each year the agency designing the Vuoden Huiput identity is given a fairly free hand to develop its own interpretation of the competition’s identity,” explains Grafia’s Executive Director Katri Soramäki. “One of the key points, however, is that the identity should include the agency’s own interpretation of the Vuoden Huiput pyramid.” The commission “can offer more room for experimentation than a typical client brief,” she adds. “One of the unique aspects is that the target audience consists of the designers’ own colleagues and peers.”\n\n“Our idea was to cause a small disruption. We wanted to shake things up rather than doing what people would normally expect from a Vuoden Huiput identity,” N2 Albiino’s Designer Ville Sainio tells us. “This was the 46th year of the competition, hence the pyramid and recurring elements had already become familiar within the industry. Because of that, we dared to do something that felt a bit unconventional.” N2 Albiino also took inspiration from the theme of the Wild Card, one of the competition’s categories. The head of juries chooses that theme each year, and for 2025, that was Lotta Nieminen, who chose craftsmanship – a theme about handwork, technical skill and a high level of finish. “It was a subject that was personally important to her and is also reflected in her own work,” notes Grafia’s Producer Julia Valanne.\n\nThe pyramid is made up of separate pieces. In most of the images, they are joined together in a pyramid-like shape, but they also appear on their own, as though the pyramid has broken up. The pyramid was modelled in 3D in Cinema 4D, along with every image and graphic around it, and rendered with Octane to look like modelling clay. N2 Albiino combined textures from Greyscalegorilla’s asset library on each piece, shifting their position and rotation. “The goal was to make every piece unique rather than repeating the same texture over and over,” Sainio details. “I wanted an organic look, so the pieces would feel like modelling clay that had been moulded one by one.”\n\nSome of the pieces have a metal finish. “The metallic shapes were carved and engraved with the pyramid logo, which was also my take on this year’s craftsmanship theme,” he continues. “Funnily enough, many people have thought the pyramid is real and asked whether it was actually made from modelling clay and if we have one sitting on a cabinet shelf somewhere.” At Grafia, Soramäki recalls that “N2 Albiino initially developed a broad visual concept, which we then refined together as the work progressed into a clearer and more cohesive system. During the process, the modelling-clay pyramid really stood out as the strongest conceptually.”\n\nThe colours started with sketches by Creative Director Mikko Männistö. Sainio then rendered a white version of the pyramid and coloured it section by section in Photoshop to see which colours worked where, before combining colours and textures in Cinema 4D. The pieces are mainly in primary colours, such as shades of blue, yellow, green and red, with pink and some purple here and there. Black and white are also used, “since we wanted to avoid looking too playful,” Sainio reveals. “A brighter colour palette seemed fitting in contrast to the previous year’s identity, which was darker in tone.”\n\nThe typography is set almost exclusively in one cut of Pangram Pangram’s PP Neue Montreal, with other cuts in the yearbook, which collects the winning work. Once the main visual was finished, the first piece to follow was a social media post and ad announcing the identity and the competition dates. “At first, it was hard to find a way to combine text and visuals as there was already so much going on,” Sainio recalls. “I had to find a way for the chosen typography to not pull away too much attention from the key visual.” Placing the text along the bottom edge “didn’t look particularly interesting,” so he repeated it three times over the image, “and something clicked.” Set at the top, middle and bottom, the text sits in a frame that the team called the “matrix,” which works on top of any visual. Sainio describes the repetition as “the connecting thread between all images,” one that gives the identity “a serial quality.”\n\nShowing the pieces on their own came later. “The concept started with the main pyramid, used in social media and print ads, so by the time we began breaking it apart and showing different sides of it, the identity was already established and recognised by the audience,” Sainio tells us. “The consistent use of the text matrix also helped tie everything together nicely.”\n\nIn motion, the camera moves around the pyramid. “It makes it feel more real, like an actual object that has been carefully crafted from every angle,” Sainio notes. “It’s almost as if the viewer is turning it around, looking at it, playing with it.” On the gala’s screens and in the social posts, the text rises from the bottom of the screen, repeating to cover most of it before settling into the position used in the still versions. It always moves upward as it enters or leaves, “which gives a feeling of momentum and positivity,” Sainio explains. Every name and award category on the event screen repeats three times “to preserve the visual language present throughout the whole identity.”\n\n“The yearbook tradition follows Grafia’s own system of only awarding Gold and Silver, so silver and gold pieces were all that was needed to express that,” Männistö details. “The jury itself is pictured as though they too were up for evaluation, sitting in a row with the camera turned back on them.”\n\nThe concept “worked especially well at the awards gala, where the same idea could be brought into a live event – from the floral arrangements to the presentation of the dessert,” Valanne tells us. N2 Albiino designed printed, personalised and hand-stitched menu booklets for the gala, and “many guests took theirs home as a keepsake,” she concludes.",
-      "caseStudyMedia": [
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-08.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-05.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-13.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-01.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-07.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-06.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-11_2026-10-19-042435_yeun.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-03.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-09.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-12_2026-10-19-042415_xogd.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-02.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-14.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-15.jpg"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/ancient-wisdom-modern-mark-the-identity-for-s%C5%8Dms-daily-elixir-shots",
-      "titleOriginal": "Ancient wisdom, modern mark: the identity for SŌM’s daily elixir shots",
-      "textOriginal": "SŌM is a Belgian brand of functional elixirs, and its flagship – the SŌM Power Elixir – is a daily shot for steady energy and mental clarity. It blends traditional ingredients from Colombia, including chontaduro and pitaya, with modern formulation. “The Colombian origin isn’t something we layered on at the end; it’s why the product exists,” explains Founder Laurenzo Van Mello.\n\nSŌM’s founders spent two years getting the formula right before bringing in Ljubljana-based creative collective .raw to create the identity. For the brand, mental performance is the foundation rather than physical output, moving it away from the sports drink category. “We needed an identity that was honest about what we’d built rather than borrowing the visual language of a category we don’t belong to,” Van Mello tells us. “SŌM comes from SOMA, the ancient sacred ritual drink, and also stands for State of Mind,” he adds.",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-raw-gave-s%C5%8Dms-daily-elixir-shots-a-mystical-yet-immediate-look/So%CC%84M-.raw-Creative-Hub-01.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-raw-gave-s%C5%8Dms-daily-elixir-shots-a-mystical-yet-immediate-look/So%CC%84M-.raw-Creative-Hub-01.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "SŌM is a Belgian brand of functional elixirs, and its flagship – the SŌM Power Elixir – is a daily shot for steady energy and mental clarity. It blends traditional ingredients from Colombia, including chontaduro and pitaya, with modern formulation. “The Colombian origin isn’t something we layered on at the end; it’s why the product exists,” explains Founder Laurenzo Van Mello."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/ancient-wisdom-modern-mark-the-identity-for-s%C5%8Dms-daily-elixir-shots/So%CC%84M-.raw-Creative-Hub-02.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "SŌM’s founders spent two years getting the formula right before bringing in Ljubljana-based creative collective .raw to create the identity. For the brand, mental performance is the foundation rather than physical output, moving it away from the sports drink category. “We needed an identity that was honest about what we’d built rather than borrowing the visual language of a category we don’t belong to,” Van Mello tells us. “SŌM comes from SOMA, the ancient sacred ritual drink, and also stands for State of Mind,” he adds."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/ancient-wisdom-modern-mark-the-identity-for-s%C5%8Dms-daily-elixir-shots/So%CC%84M-.raw-Creative-Hub-03-online-video-cutter.com-1.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/ancient-wisdom-modern-mark-the-identity-for-s%C5%8Dms-daily-elixir-shots/So%CC%84M-.raw-Creative-Hub-07.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The visual anchor for the identity is a concept called Focused Stillness, which .raw’s Founder & CEO Tamir Morris Grays describes as a brand direction that “sits at the intersection of natural vitality and contemporary mysticism.”"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“We pulled from references that know how to communicate an internal feeling: modern apothecary, fragrance, premium skincare. Those categories don’t show effort – they suggest a state. That’s the right territory for SŌM,” Grays explains. “‘Modern elixir from ancient wisdom’ is a real line from the brand – and it only works if the identity actually looks like it means it.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/ancient-wisdom-modern-mark-the-identity-for-s%C5%8Dms-daily-elixir-shots/So%CC%84M-.raw-Creative-Hub-08.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The photography ranges from macro details to fog, woods and blurred motion, pairing human intimacy with natural atmospheres under a modern, dream-like light. The tone is “minimal and precise, but not cold,” he notes. “There’s genuine warmth in the cultural origins.” When it came to picturing that origin, “the temptation is always a map, a plant, a landscape,” he continues. “We kept the Colombian origin in the product story and let the visual language carry the atmosphere – the texture and ritual of that culture, rather than depicting it.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/ancient-wisdom-modern-mark-the-identity-for-s%C5%8Dms-daily-elixir-shots/So%CC%84M-.raw-Creative-Hub-04-online-video-cutter.com.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/ancient-wisdom-modern-mark-the-identity-for-s%C5%8Dms-daily-elixir-shots/So%CC%84M-.raw-Creative-Hub-06.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The primary mark is made up of a geometric symbol, wordmark and the ‘State of Mind’ tagline, with a modular approach that allows the latter two components to drop out when needed. The typography combines Commercial Type’s Druk Heavy with Dinamo’s sans serif ABC Diatype, which is used for longer reading. The biggest challenge, Grays tells us, was “making sure ‘mystical’ didn’t tip into precious or inaccessible. Ritual can tip into something you admire from a distance rather than use every day; that’s the wrong outcome for a daily product. Druk Heavy on product names pulled it back. It’s a heavy, intense typeface. It grounds everything and makes the brand feel immediate rather than untouchable.” He adds that “each product also has its own colour, so the system stays unified while the range feels distinct across Power, Balance, Beauty, Vitality and Core.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/ancient-wisdom-modern-mark-the-identity-for-s%C5%8Dms-daily-elixir-shots/So%CC%84M-.raw-Creative-Hub-09.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The SŌM Power Elixer comes in single-dose ampoules. “The ampoule format creates a natural pause. You have to hold it, break it open deliberately. That’s already a ritual and our job was to make the object worthy of that moment,” Grays explains. Beyond the main brand symbol, .raw designed a geometric icon for each elixir. “They’re minimal, slightly mystical in character and built on a construction grid that keeps them precise and consistent at every scale. They give the object something to say before anyone reads a word,” he concludes."
-        }
-      ],
-      "caseStudyText": "SŌM is a Belgian brand of functional elixirs, and its flagship – the SŌM Power Elixir – is a daily shot for steady energy and mental clarity. It blends traditional ingredients from Colombia, including chontaduro and pitaya, with modern formulation. “The Colombian origin isn’t something we layered on at the end; it’s why the product exists,” explains Founder Laurenzo Van Mello.\n\nSŌM’s founders spent two years getting the formula right before bringing in Ljubljana-based creative collective .raw to create the identity. For the brand, mental performance is the foundation rather than physical output, moving it away from the sports drink category. “We needed an identity that was honest about what we’d built rather than borrowing the visual language of a category we don’t belong to,” Van Mello tells us. “SŌM comes from SOMA, the ancient sacred ritual drink, and also stands for State of Mind,” he adds.\n\nThe visual anchor for the identity is a concept called Focused Stillness, which .raw’s Founder & CEO Tamir Morris Grays describes as a brand direction that “sits at the intersection of natural vitality and contemporary mysticism.”\n\n“We pulled from references that know how to communicate an internal feeling: modern apothecary, fragrance, premium skincare. Those categories don’t show effort – they suggest a state. That’s the right territory for SŌM,” Grays explains. “‘Modern elixir from ancient wisdom’ is a real line from the brand – and it only works if the identity actually looks like it means it.”\n\nThe photography ranges from macro details to fog, woods and blurred motion, pairing human intimacy with natural atmospheres under a modern, dream-like light. The tone is “minimal and precise, but not cold,” he notes. “There’s genuine warmth in the cultural origins.” When it came to picturing that origin, “the temptation is always a map, a plant, a landscape,” he continues. “We kept the Colombian origin in the product story and let the visual language carry the atmosphere – the texture and ritual of that culture, rather than depicting it.”\n\nThe primary mark is made up of a geometric symbol, wordmark and the ‘State of Mind’ tagline, with a modular approach that allows the latter two components to drop out when needed. The typography combines Commercial Type’s Druk Heavy with Dinamo’s sans serif ABC Diatype, which is used for longer reading. The biggest challenge, Grays tells us, was “making sure ‘mystical’ didn’t tip into precious or inaccessible. Ritual can tip into something you admire from a distance rather than use every day; that’s the wrong outcome for a daily product. Druk Heavy on product names pulled it back. It’s a heavy, intense typeface. It grounds everything and makes the brand feel immediate rather than untouchable.” He adds that “each product also has its own colour, so the system stays unified while the range feels distinct across Power, Balance, Beauty, Vitality and Core.”\n\nThe SŌM Power Elixer comes in single-dose ampoules. “The ampoule format creates a natural pause. You have to hold it, break it open deliberately. That’s already a ritual and our job was to make the object worthy of that moment,” Grays explains. Beyond the main brand symbol, .raw designed a geometric icon for each elixir. “They’re minimal, slightly mystical in character and built on a construction grid that keeps them precise and consistent at every scale. They give the object something to say before anyone reads a word,” he concludes.",
-      "caseStudyMedia": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/how-raw-gave-s%C5%8Dms-daily-elixir-shots-a-mystical-yet-immediate-look/So%CC%84M-.raw-Creative-Hub-01.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/ancient-wisdom-modern-mark-the-identity-for-s%C5%8Dms-daily-elixir-shots/So%CC%84M-.raw-Creative-Hub-02.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/ancient-wisdom-modern-mark-the-identity-for-s%C5%8Dms-daily-elixir-shots/So%CC%84M-.raw-Creative-Hub-03-online-video-cutter.com-1.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/ancient-wisdom-modern-mark-the-identity-for-s%C5%8Dms-daily-elixir-shots/So%CC%84M-.raw-Creative-Hub-07.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/ancient-wisdom-modern-mark-the-identity-for-s%C5%8Dms-daily-elixir-shots/So%CC%84M-.raw-Creative-Hub-08.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/ancient-wisdom-modern-mark-the-identity-for-s%C5%8Dms-daily-elixir-shots/So%CC%84M-.raw-Creative-Hub-04-online-video-cutter.com.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/ancient-wisdom-modern-mark-the-identity-for-s%C5%8Dms-daily-elixir-shots/So%CC%84M-.raw-Creative-Hub-06.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/ancient-wisdom-modern-mark-the-identity-for-s%C5%8Dms-daily-elixir-shots/So%CC%84M-.raw-Creative-Hub-09.mp4"
         }
       ]
     }
