@@ -7,6 +7,313 @@ const snapshot={
   },
   "items": [
     {
+      "canonicalUrl": "https://the-brandidentity.com/project/how-molto-bureau-designed-the-identity-of-a-saudi-perfume-house",
+      "titleOriginal": "How Molto Bureau designed the identity of a Saudi perfume house",
+      "textOriginal": "Perfume Palace is a perfume house founded in Saudi Arabia that offers a twist on the region’s perfumery traditions by pairing classic Arabian notes with contemporary compositions. It approached Kyiv-based branding studio Molto Bureau to refresh its identity and packaging, spanning the logotype, label, brand materials and guidelines. The brand needed a cohesive rethinking of its visual language, with the update coming alongside a new batch of bottles. Over the years, the fragrances had built a loyal following, yet the identity no longer matched its quality, so the aim was to move Perfume Palace into a more premium register and give it a presence that would be recognisable, even on a crowded shelf.\n\nMolto Bureau started the wordmark from Albertus Nova, a contemporary version of Berthold Wolpe’s classic Albertus, which was inspired by letters cut in bronze. “We felt its restrained, monumental character suited a brand called Palace,” explains Founder & Design Director Andriy Muzychka. Albertus follows classical Roman proportions, with wide letters such as ‘C’ and ‘M’ and narrow ones such as ‘E,’ ‘F’ and ‘R.’ “In running text, this feels lively, but in the PERFUME PALACE wordmark, wide and narrow letters side by side created an uneven rhythm and inconsistent spacing. So we brought all the letters closer to a medium width, giving the wordmark a calm, balanced rhythm,” he recalls.",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-molto-bureau-designed-the-identity-of-a-saudi-perfume-house/Perfume-Palace-Molto-Bureau-02.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-molto-bureau-designed-the-identity-of-a-saudi-perfume-house/_2000xAUTO_crop_center-center_85_none/15587846/Perfume-Palace-Molto-Bureau-02.webp"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "Perfume Palace is a perfume house founded in Saudi Arabia that offers a twist on the region’s perfumery traditions by pairing classic Arabian notes with contemporary compositions. It approached Kyiv-based branding studio Molto Bureau to refresh its identity and packaging, spanning the logotype, label, brand materials and guidelines. The brand needed a cohesive rethinking of its visual language, with the update coming alongside a new batch of bottles. Over the years, the fragrances had built a loyal following, yet the identity no longer matched its quality, so the aim was to move Perfume Palace into a more premium register and give it a presence that would be recognisable, even on a crowded shelf."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-molto-bureau-designed-the-identity-of-a-saudi-perfume-house/_2000xAUTO_crop_center-center_85_none/15587845/Perfume-Palace-Molto-Bureau-01.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Molto Bureau started the wordmark from Albertus Nova, a contemporary version of Berthold Wolpe’s classic Albertus, which was inspired by letters cut in bronze. “We felt its restrained, monumental character suited a brand called Palace,” explains Founder & Design Director Andriy Muzychka. Albertus follows classical Roman proportions, with wide letters such as ‘C’ and ‘M’ and narrow ones such as ‘E,’ ‘F’ and ‘R.’ “In running text, this feels lively, but in the PERFUME PALACE wordmark, wide and narrow letters side by side created an uneven rhythm and inconsistent spacing. So we brought all the letters closer to a medium width, giving the wordmark a calm, balanced rhythm,” he recalls."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-molto-bureau-designed-the-identity-of-a-saudi-perfume-house/_2000xAUTO_crop_center-center_85_none/15587848/Perfume-Palace-Molto-Bureau-04.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The rework kept the stroke contrast and the distinctive flared terminals – strokes that widen at their ends – which give the typeface its almost calligraphic fluidity. The ‘U,’ ‘M,’ ‘A’ and ‘C’ were each redrawn slightly narrower, bringing their proportions closer to the rest of the wordmark, and the ‘U’ lost the characteristic spur on its right so it sits better next to the ‘M.’ Narrowing the ‘A’ meant lowering its crossbar slightly to let more air into the letter, and the studio reworked its apex as well. “In the end, it gained a small serif, which adds a little weight at the top and helps the letter sit harmoniously within the line,” Muzychka details."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-molto-bureau-designed-the-identity-of-a-saudi-perfume-house/_2000xAUTO_crop_center-center_85_none/15587849/Perfume-Palace-Molto-Bureau-05.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The fragrance names and headings are also set in Albertus Nova, while Atlas Grotesk, a sans serif that isn’t too wide, is used for the descriptions, ingredients, volumes and contact details – small text, where the sans serif has to read well and use space economically. “The serif carries the brand’s personality, while the sans serif creates a quiet contrast beside it and lets the serif lead,” Muzychka adds."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-molto-bureau-designed-the-identity-of-a-saudi-perfume-house/_2000xAUTO_crop_center-center_85_none/15588054/Perfume-Palace-Molto-Bureau-08.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The fragrance names and numbers already existed, such as Tobacco Leaf No.9 and Chemistry No.77, with customers recognising them by their scents. “We wanted the line to read as one whole and the brand to be recognisable at once, so we consciously avoided assigning colours to individual fragrances: every box is white and shares the same layout,” Muzychka tells us. The name and number sit at the top of the front panel and on one side of the box, with the wordmark at the bottom and on the opposite side. “On a shelf, the box sides read like book spines in a library.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-molto-bureau-designed-the-identity-of-a-saudi-perfume-house/_2000xAUTO_crop_center-center_85_none/15587850/Perfume-Palace-Molto-Bureau-06.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Beyond the packaging, the brand materials use photography of skin. “Perfume lives on skin. That’s where it unfolds and becomes part of a person, so skin became the brand’s primary medium,” Muzychka explains. The photographs show the places where fragrance is usually applied – the neck, collarbones, shoulders and nape. “We carefully selected images in which the skin stays real, with its pores, droplets and creases, and converted them to black and white to bring out the texture and relief of the body,” he continues. “We wanted a more expressive composition in the materials, so we placed the typography on the edge between the white page and the photograph: the name of each fragrance rests partly on paper and partly on skin.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-molto-bureau-designed-the-identity-of-a-saudi-perfume-house/_2000xAUTO_crop_center-center_85_none/15587851/Perfume-Palace-Molto-Bureau-07.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "For the business and fragrance cards, Molto Bureau chose a textured, uncoated paper that is soft to the touch and holds embossing well. “We loved how bronze and gold foil look against black-and-white photography: on monochrome, the metal glows warmly and draws the eye at once,” Muzychka reveals. Sometimes, the fragrance itself suggests the tone – the colour of dried tobacco leaves for Tobacco Leaf No.9 and a warm bronze close to amber for Amber Leather No.4. “Packaging is the first touch, the moment when someone holds the box, reads the name and feels the paper and the foil under their fingers, so it sets the tone and the expectation,” he reflects. “But a perfume’s true identity appears later, on someone’s skin, and so we designed an identity that knows its role, confident enough to be noticed on the shelf and quiet enough to step aside when the fragrance begins, because everything we created leads there.”"
+        }
+      ],
+      "caseStudyText": "Perfume Palace is a perfume house founded in Saudi Arabia that offers a twist on the region’s perfumery traditions by pairing classic Arabian notes with contemporary compositions. It approached Kyiv-based branding studio Molto Bureau to refresh its identity and packaging, spanning the logotype, label, brand materials and guidelines. The brand needed a cohesive rethinking of its visual language, with the update coming alongside a new batch of bottles. Over the years, the fragrances had built a loyal following, yet the identity no longer matched its quality, so the aim was to move Perfume Palace into a more premium register and give it a presence that would be recognisable, even on a crowded shelf.\n\nMolto Bureau started the wordmark from Albertus Nova, a contemporary version of Berthold Wolpe’s classic Albertus, which was inspired by letters cut in bronze. “We felt its restrained, monumental character suited a brand called Palace,” explains Founder & Design Director Andriy Muzychka. Albertus follows classical Roman proportions, with wide letters such as ‘C’ and ‘M’ and narrow ones such as ‘E,’ ‘F’ and ‘R.’ “In running text, this feels lively, but in the PERFUME PALACE wordmark, wide and narrow letters side by side created an uneven rhythm and inconsistent spacing. So we brought all the letters closer to a medium width, giving the wordmark a calm, balanced rhythm,” he recalls.\n\nThe rework kept the stroke contrast and the distinctive flared terminals – strokes that widen at their ends – which give the typeface its almost calligraphic fluidity. The ‘U,’ ‘M,’ ‘A’ and ‘C’ were each redrawn slightly narrower, bringing their proportions closer to the rest of the wordmark, and the ‘U’ lost the characteristic spur on its right so it sits better next to the ‘M.’ Narrowing the ‘A’ meant lowering its crossbar slightly to let more air into the letter, and the studio reworked its apex as well. “In the end, it gained a small serif, which adds a little weight at the top and helps the letter sit harmoniously within the line,” Muzychka details.\n\nThe fragrance names and headings are also set in Albertus Nova, while Atlas Grotesk, a sans serif that isn’t too wide, is used for the descriptions, ingredients, volumes and contact details – small text, where the sans serif has to read well and use space economically. “The serif carries the brand’s personality, while the sans serif creates a quiet contrast beside it and lets the serif lead,” Muzychka adds.\n\nThe fragrance names and numbers already existed, such as Tobacco Leaf No.9 and Chemistry No.77, with customers recognising them by their scents. “We wanted the line to read as one whole and the brand to be recognisable at once, so we consciously avoided assigning colours to individual fragrances: every box is white and shares the same layout,” Muzychka tells us. The name and number sit at the top of the front panel and on one side of the box, with the wordmark at the bottom and on the opposite side. “On a shelf, the box sides read like book spines in a library.”\n\nBeyond the packaging, the brand materials use photography of skin. “Perfume lives on skin. That’s where it unfolds and becomes part of a person, so skin became the brand’s primary medium,” Muzychka explains. The photographs show the places where fragrance is usually applied – the neck, collarbones, shoulders and nape. “We carefully selected images in which the skin stays real, with its pores, droplets and creases, and converted them to black and white to bring out the texture and relief of the body,” he continues. “We wanted a more expressive composition in the materials, so we placed the typography on the edge between the white page and the photograph: the name of each fragrance rests partly on paper and partly on skin.”\n\nFor the business and fragrance cards, Molto Bureau chose a textured, uncoated paper that is soft to the touch and holds embossing well. “We loved how bronze and gold foil look against black-and-white photography: on monochrome, the metal glows warmly and draws the eye at once,” Muzychka reveals. Sometimes, the fragrance itself suggests the tone – the colour of dried tobacco leaves for Tobacco Leaf No.9 and a warm bronze close to amber for Amber Leather No.4. “Packaging is the first touch, the moment when someone holds the box, reads the name and feels the paper and the foil under their fingers, so it sets the tone and the expectation,” he reflects. “But a perfume’s true identity appears later, on someone’s skin, and so we designed an identity that knows its role, confident enough to be noticed on the shelf and quiet enough to step aside when the fragrance begins, because everything we created leads there.”",
+      "caseStudyMedia": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-molto-bureau-designed-the-identity-of-a-saudi-perfume-house/_2000xAUTO_crop_center-center_85_none/15587846/Perfume-Palace-Molto-Bureau-02.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-molto-bureau-designed-the-identity-of-a-saudi-perfume-house/_2000xAUTO_crop_center-center_85_none/15587845/Perfume-Palace-Molto-Bureau-01.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-molto-bureau-designed-the-identity-of-a-saudi-perfume-house/_2000xAUTO_crop_center-center_85_none/15587848/Perfume-Palace-Molto-Bureau-04.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-molto-bureau-designed-the-identity-of-a-saudi-perfume-house/_2000xAUTO_crop_center-center_85_none/15587849/Perfume-Palace-Molto-Bureau-05.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-molto-bureau-designed-the-identity-of-a-saudi-perfume-house/_2000xAUTO_crop_center-center_85_none/15588054/Perfume-Palace-Molto-Bureau-08.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-molto-bureau-designed-the-identity-of-a-saudi-perfume-house/_2000xAUTO_crop_center-center_85_none/15587850/Perfume-Palace-Molto-Bureau-06.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-molto-bureau-designed-the-identity-of-a-saudi-perfume-house/_2000xAUTO_crop_center-center_85_none/15587851/Perfume-Palace-Molto-Bureau-07.webp"
+        }
+      ]
+    },
+    {
+      "canonicalUrl": "https://the-brandidentity.com/project/omois-identity-for-eclipse-space-looks-back-to-the-apollo-programme",
+      "titleOriginal": "Omoi’s identity for Eclipse Space looks back to the Apollo programme",
+      "textOriginal": "Eclipse Space designs and builds satellite constellations – groups of satellites working together in orbit – that nations, telcos and operators own outright. The people behind the company had designed, scaled and deployed ‘megaconstellations,’ the largest of these networks, before founding it. Stockholm-based creative studio Omoi was commissioned to create the company’s brand strategy, identity, website, 3D visuals, pitch deck and explainer film.\n\nWhen Omoi met Eclipse Space, its business, product, customers, manufacturing and engineering were all in place, but it had no brand. The company was still in stealth, building without any public announcement, and the identity had to be ready in time for a fundraising round and hiring push. Ready didn’t mean loud. “This is a team that has done it before, and they didn’t want a brand that shouts,” says Co-founder and Creative Director Monica Kelly. “So we said very little and put the effort into details you only notice up close: the weight of a button, the scratches on a satellite.”",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/_video-thumbnails/15587476.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/omois-identity-for-eclipse-space-looks-back-to-the-apollo-programme/Eclipse-Space-Omoi-12.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "Eclipse Space designs and builds satellite constellations – groups of satellites working together in orbit – that nations, telcos and operators own outright. The people behind the company had designed, scaled and deployed ‘megaconstellations,’ the largest of these networks, before founding it. Stockholm-based creative studio Omoi was commissioned to create the company’s brand strategy, identity, website, 3D visuals, pitch deck and explainer film."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/omois-identity-for-eclipse-space-looks-back-to-the-apollo-programme/_2000xAUTO_crop_center-center_85_none/15587463/Eclipse-Space-Omoi-01.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "When Omoi met Eclipse Space, its business, product, customers, manufacturing and engineering were all in place, but it had no brand. The company was still in stealth, building without any public announcement, and the identity had to be ready in time for a fundraising round and hiring push. Ready didn’t mean loud. “This is a team that has done it before, and they didn’t want a brand that shouts,” says Co-founder and Creative Director Monica Kelly. “So we said very little and put the effort into details you only notice up close: the weight of a button, the scratches on a satellite.”"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/omois-identity-for-eclipse-space-looks-back-to-the-apollo-programme/Eclipse-Space-Omoi-02.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "According to Eclipse Space’s Head of Business Operations Celena Byers, few in satellite communications own their infrastructure – governments, telcos and businesses rent capacity from a handful of large networks with commercial priorities of their own. Eclipse Space called its answer ‘sovereignty,’ an idea kept by Omoi. “The word itself is so ubiquitous right now that it’s impossible to, well, own,” explains Copywriter Thomas Dawson. “Its reading age is higher than we’d typically aim for when optimising for readability, and it feels clunky to say.” The replacement, ‘Own,’ emerged partly as a joke, when Dawson mocked up a cover of Virginia Woolf’s A Room of One’s Own with ‘Satellite Megaconstellation’ in place of ‘Room’ and shared it with the team on Slack. “It didn’t get the appreciation it probably deserved at the time,” he admits, “but it planted the seed of ‘Own’ as a more flexible alternative to ‘Sovereignty.’”"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/omois-identity-for-eclipse-space-looks-back-to-the-apollo-programme/Eclipse-Space-Omoi-03.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Omoi ran intake interviews across Eclipse Space’s teams and was sending back snippets of the main message before the sessions had finished. “‘Own your own future’ wasn’t a line we handed them,” Byers notes of the studio. “They found it in what we were saying and gave it back as a sharper version.” Omoi lists it in the identity as the brand’s conviction, with the positioning, ‘Independent space infrastructure,’ and the narrative built beneath it. The line ‘Designed by us. Owned by you.’ uses ‘Own’ as a descriptor, where the conviction uses it as a command. Across the identity, ‘Own’ is always the hero word, and ‘sovereignty’ is kept for strategic material where business language or clarity comes first. For governments, Byers details, owning means infrastructure built and operated in-country, with no dependence on a foreign network’s commercial priorities, while for commercial customers it extends to becoming operators themselves."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/omois-identity-for-eclipse-space-looks-back-to-the-apollo-programme/_2000xAUTO_crop_center-center_85_none/15587467/Eclipse-Space-Omoi-04.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "For the look of the identity, Omoi went back to the Apollo programme, a reference that the studio returns to often for its parallels with what its clients do – in Omoi’s account, much of what Apollo needed did not exist, so it had to be invented. “Most space branding borrows from science fiction, and science fiction is almost always dystopian,” says Co-founder and Creative Director Carl Versfeld. “Star Wars is a terrible place to live. We wanted the opposite: a company using space to build a better future for everyone, with a visual language that’s genuinely excited about getting there.” The studio started with the Apollo Guidance Computer, which helped guide and navigate the spacecraft, and the keys on its keypad, each one milled, chamfered and weighted to be pressed correctly by someone wearing gloves. Omoi designed Eclipse Space’s website, and development partner GRAND st. built it. “In the browser, we made each button feel like a real key. When pressed, it sinks and tilts towards the point of contact, and its shadow tightens as it moves closer to the page,” explains Graphic Designer Hélder Pina. The computer’s keys were labelled in Gorton, an engraving typeface used on control panels of that era, while Marcin Wichary’s Gorton Perfected, a modern version of it, appears for labels, UI and a set of micrographics."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/omois-identity-for-eclipse-space-looks-back-to-the-apollo-programme/Eclipse-Space-Omoi-07.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/omois-identity-for-eclipse-space-looks-back-to-the-apollo-programme/Eclipse-Space-Omoi-06.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Grilli Type’s GT Mechanik Poly is used for headlines and body copy, keeping long technical text readable. Eclipse Space Display, a bold display typeface that Blaze Type customised for the company, is reserved for the top of the hierarchy, above the GT Mechanik Poly headlines. Its condensed letters sit against geometric round forms, a contrast taken from Futura, which was used across many of the interfaces onboard Apollo. The typeface has custom extended ‘C’s, ‘G’s, ‘O’s and ‘Q’s, which began as an early idea from Omoi before Blaze Type came back with a suggestion that the studio preferred. Headlines sit asymmetrically in the frame, with negative space around them. The palette pairs a burnt Space Orange and a bright Space Yellow, for mid-century optimism, with Space Blue for low Earth orbit, alongside a quieter set of mint, moss, plum, dusk and stone, and eight gradients built from the same colours."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/omois-identity-for-eclipse-space-looks-back-to-the-apollo-programme/Eclipse-Space-Omoi-08.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/omois-identity-for-eclipse-space-looks-back-to-the-apollo-programme/Eclipse-Space-Omoi-09.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The mark is a corona, the part of the sun that is only visible to the naked eye during a full eclipse. Omoi built a tool to make it instead of drawing one. The first version was built in After Effects from a set of circles, with layered effects creating a halftone – a pattern of printed dots – and code expressions randomising how the circles move. The team then fed many of those expressions to Claude Code, which, after a few iterations, rebuilt the behaviour as a generator that makes as many unique coronas as needed, all following one set of rules. Eclipse Space can now make a new one for every application. “The trickiest part was ensuring every generation was both unique and on-brand. Beyond the halftone effect, we made sure every random version included a few circles pushing far outward, some in between and some only slightly, all distributed randomly. That balance keeps every version recognisably Eclipse Space,” Pina details."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/omois-identity-for-eclipse-space-looks-back-to-the-apollo-programme/Eclipse-Space-Omoi-18.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The imagery is built around a series of renders – slightly surreal remote landscapes showing the places where a satellite network is “the difference between connected and not.” Each scene is lit with strong sunlight and atmospheric fill. “We coloured both the sun and the fill heavily in the brand palette, then pushed every slider to 120% – just enough to feel a little uncomfortable,” Creative Technologist William Norberg and 3D Artist Hannah Westander tell us. On the website, every page starts in low Earth orbit, where the satellites are, and the visitor scrolls down to the ground, with each footer ending on one of the landscapes."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/omois-identity-for-eclipse-space-looks-back-to-the-apollo-programme/_2000xAUTO_crop_center-center_85_none/15588020/Eclipse-Space-Omoi-19.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The satellites themselves are rendered true to life because, in Omoi’s view, hyperrealism is how a company promising the future makes people feel it. The renders start from accurate reference models under physically correct lighting. “In space, the sun is basically a deadly laser: with no atmosphere to soften it, expose for direct sunlight and the stars disappear, while shadows become razor-sharp and deep,” Norberg notes. Omoi built dust, fingerprints and fine scratches from assembly and handling into every surface."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/omois-identity-for-eclipse-space-looks-back-to-the-apollo-programme/Eclipse-Space-Omoi-21.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The explainer film started with a detailed PDF from Eclipse Space on its process. Omoi broke it down into its key steps and used tempo changes to keep viewers engaged. “We added animated micrographics to explain what was happening on screen, give viewers context and connect the film to the wider identity,” explains Producer Naima Lorentzon. Bold on-screen titles are set in Eclipse Space Display. The film is mainly used to take investors and other key stakeholders through the company’s process, and is planned for the website and media channels later."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/omois-identity-for-eclipse-space-looks-back-to-the-apollo-programme/_2000xAUTO_crop_center-center_85_none/15587471/Eclipse-Space-Omoi-05.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“We’ve led with the brand when approaching Tier 1 telco operators, who don’t take meetings with unfamiliar suppliers lightly. A company our age has to look established before the technical case gets a hearing, and Omoi’s work does that,” Byers continues, adding that with investors the website front-loads what they look for in due diligence, so the first conversation starts further along. For hiring, candidates used to meet Eclipse Space through a listing on Indeed, and can now form a view of the company on a careers page of its own before applying directly. The same system is used on its LinkedIn. Next, the identity is moving from screens into rooms, with Eclipse Space set to host local networking events and sponsor the opening social at one of the industry’s main gatherings."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/omois-identity-for-eclipse-space-looks-back-to-the-apollo-programme/_2000xAUTO_crop_center-center_85_none/15588021/Eclipse-Space-Omoi-20.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/omois-identity-for-eclipse-space-looks-back-to-the-apollo-programme/_2000xAUTO_crop_center-center_85_none/15587469/Eclipse-Space-Omoi-17.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Inside the company, parts of the identity are being used without prompting, starting with the corona generator. “New employees make their own during onboarding. A mark that arrives as a locked asset doesn’t get adopted that way,” Byers observes."
+        }
+      ],
+      "caseStudyText": "Eclipse Space designs and builds satellite constellations – groups of satellites working together in orbit – that nations, telcos and operators own outright. The people behind the company had designed, scaled and deployed ‘megaconstellations,’ the largest of these networks, before founding it. Stockholm-based creative studio Omoi was commissioned to create the company’s brand strategy, identity, website, 3D visuals, pitch deck and explainer film.\n\nWhen Omoi met Eclipse Space, its business, product, customers, manufacturing and engineering were all in place, but it had no brand. The company was still in stealth, building without any public announcement, and the identity had to be ready in time for a fundraising round and hiring push. Ready didn’t mean loud. “This is a team that has done it before, and they didn’t want a brand that shouts,” says Co-founder and Creative Director Monica Kelly. “So we said very little and put the effort into details you only notice up close: the weight of a button, the scratches on a satellite.”\n\nAccording to Eclipse Space’s Head of Business Operations Celena Byers, few in satellite communications own their infrastructure – governments, telcos and businesses rent capacity from a handful of large networks with commercial priorities of their own. Eclipse Space called its answer ‘sovereignty,’ an idea kept by Omoi. “The word itself is so ubiquitous right now that it’s impossible to, well, own,” explains Copywriter Thomas Dawson. “Its reading age is higher than we’d typically aim for when optimising for readability, and it feels clunky to say.” The replacement, ‘Own,’ emerged partly as a joke, when Dawson mocked up a cover of Virginia Woolf’s A Room of One’s Own with ‘Satellite Megaconstellation’ in place of ‘Room’ and shared it with the team on Slack. “It didn’t get the appreciation it probably deserved at the time,” he admits, “but it planted the seed of ‘Own’ as a more flexible alternative to ‘Sovereignty.’”\n\nOmoi ran intake interviews across Eclipse Space’s teams and was sending back snippets of the main message before the sessions had finished. “‘Own your own future’ wasn’t a line we handed them,” Byers notes of the studio. “They found it in what we were saying and gave it back as a sharper version.” Omoi lists it in the identity as the brand’s conviction, with the positioning, ‘Independent space infrastructure,’ and the narrative built beneath it. The line ‘Designed by us. Owned by you.’ uses ‘Own’ as a descriptor, where the conviction uses it as a command. Across the identity, ‘Own’ is always the hero word, and ‘sovereignty’ is kept for strategic material where business language or clarity comes first. For governments, Byers details, owning means infrastructure built and operated in-country, with no dependence on a foreign network’s commercial priorities, while for commercial customers it extends to becoming operators themselves.\n\nFor the look of the identity, Omoi went back to the Apollo programme, a reference that the studio returns to often for its parallels with what its clients do – in Omoi’s account, much of what Apollo needed did not exist, so it had to be invented. “Most space branding borrows from science fiction, and science fiction is almost always dystopian,” says Co-founder and Creative Director Carl Versfeld. “Star Wars is a terrible place to live. We wanted the opposite: a company using space to build a better future for everyone, with a visual language that’s genuinely excited about getting there.” The studio started with the Apollo Guidance Computer, which helped guide and navigate the spacecraft, and the keys on its keypad, each one milled, chamfered and weighted to be pressed correctly by someone wearing gloves. Omoi designed Eclipse Space’s website, and development partner GRAND st. built it. “In the browser, we made each button feel like a real key. When pressed, it sinks and tilts towards the point of contact, and its shadow tightens as it moves closer to the page,” explains Graphic Designer Hélder Pina. The computer’s keys were labelled in Gorton, an engraving typeface used on control panels of that era, while Marcin Wichary’s Gorton Perfected, a modern version of it, appears for labels, UI and a set of micrographics.\n\nGrilli Type’s GT Mechanik Poly is used for headlines and body copy, keeping long technical text readable. Eclipse Space Display, a bold display typeface that Blaze Type customised for the company, is reserved for the top of the hierarchy, above the GT Mechanik Poly headlines. Its condensed letters sit against geometric round forms, a contrast taken from Futura, which was used across many of the interfaces onboard Apollo. The typeface has custom extended ‘C’s, ‘G’s, ‘O’s and ‘Q’s, which began as an early idea from Omoi before Blaze Type came back with a suggestion that the studio preferred. Headlines sit asymmetrically in the frame, with negative space around them. The palette pairs a burnt Space Orange and a bright Space Yellow, for mid-century optimism, with Space Blue for low Earth orbit, alongside a quieter set of mint, moss, plum, dusk and stone, and eight gradients built from the same colours.\n\nThe mark is a corona, the part of the sun that is only visible to the naked eye during a full eclipse. Omoi built a tool to make it instead of drawing one. The first version was built in After Effects from a set of circles, with layered effects creating a halftone – a pattern of printed dots – and code expressions randomising how the circles move. The team then fed many of those expressions to Claude Code, which, after a few iterations, rebuilt the behaviour as a generator that makes as many unique coronas as needed, all following one set of rules. Eclipse Space can now make a new one for every application. “The trickiest part was ensuring every generation was both unique and on-brand. Beyond the halftone effect, we made sure every random version included a few circles pushing far outward, some in between and some only slightly, all distributed randomly. That balance keeps every version recognisably Eclipse Space,” Pina details.\n\nThe imagery is built around a series of renders – slightly surreal remote landscapes showing the places where a satellite network is “the difference between connected and not.” Each scene is lit with strong sunlight and atmospheric fill. “We coloured both the sun and the fill heavily in the brand palette, then pushed every slider to 120% – just enough to feel a little uncomfortable,” Creative Technologist William Norberg and 3D Artist Hannah Westander tell us. On the website, every page starts in low Earth orbit, where the satellites are, and the visitor scrolls down to the ground, with each footer ending on one of the landscapes.\n\nThe satellites themselves are rendered true to life because, in Omoi’s view, hyperrealism is how a company promising the future makes people feel it. The renders start from accurate reference models under physically correct lighting. “In space, the sun is basically a deadly laser: with no atmosphere to soften it, expose for direct sunlight and the stars disappear, while shadows become razor-sharp and deep,” Norberg notes. Omoi built dust, fingerprints and fine scratches from assembly and handling into every surface.\n\nThe explainer film started with a detailed PDF from Eclipse Space on its process. Omoi broke it down into its key steps and used tempo changes to keep viewers engaged. “We added animated micrographics to explain what was happening on screen, give viewers context and connect the film to the wider identity,” explains Producer Naima Lorentzon. Bold on-screen titles are set in Eclipse Space Display. The film is mainly used to take investors and other key stakeholders through the company’s process, and is planned for the website and media channels later.\n\n“We’ve led with the brand when approaching Tier 1 telco operators, who don’t take meetings with unfamiliar suppliers lightly. A company our age has to look established before the technical case gets a hearing, and Omoi’s work does that,” Byers continues, adding that with investors the website front-loads what they look for in due diligence, so the first conversation starts further along. For hiring, candidates used to meet Eclipse Space through a listing on Indeed, and can now form a view of the company on a careers page of its own before applying directly. The same system is used on its LinkedIn. Next, the identity is moving from screens into rooms, with Eclipse Space set to host local networking events and sponsor the opening social at one of the industry’s main gatherings.\n\nInside the company, parts of the identity are being used without prompting, starting with the corona generator. “New employees make their own during onboarding. A mark that arrives as a locked asset doesn’t get adopted that way,” Byers observes.",
+      "caseStudyMedia": [
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/omois-identity-for-eclipse-space-looks-back-to-the-apollo-programme/Eclipse-Space-Omoi-12.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/omois-identity-for-eclipse-space-looks-back-to-the-apollo-programme/_2000xAUTO_crop_center-center_85_none/15587463/Eclipse-Space-Omoi-01.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/omois-identity-for-eclipse-space-looks-back-to-the-apollo-programme/Eclipse-Space-Omoi-02.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/omois-identity-for-eclipse-space-looks-back-to-the-apollo-programme/Eclipse-Space-Omoi-03.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/omois-identity-for-eclipse-space-looks-back-to-the-apollo-programme/_2000xAUTO_crop_center-center_85_none/15587467/Eclipse-Space-Omoi-04.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/omois-identity-for-eclipse-space-looks-back-to-the-apollo-programme/Eclipse-Space-Omoi-07.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/omois-identity-for-eclipse-space-looks-back-to-the-apollo-programme/Eclipse-Space-Omoi-06.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/omois-identity-for-eclipse-space-looks-back-to-the-apollo-programme/Eclipse-Space-Omoi-08.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/omois-identity-for-eclipse-space-looks-back-to-the-apollo-programme/Eclipse-Space-Omoi-09.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/omois-identity-for-eclipse-space-looks-back-to-the-apollo-programme/Eclipse-Space-Omoi-18.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/omois-identity-for-eclipse-space-looks-back-to-the-apollo-programme/_2000xAUTO_crop_center-center_85_none/15588020/Eclipse-Space-Omoi-19.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/omois-identity-for-eclipse-space-looks-back-to-the-apollo-programme/Eclipse-Space-Omoi-21.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/omois-identity-for-eclipse-space-looks-back-to-the-apollo-programme/_2000xAUTO_crop_center-center_85_none/15587471/Eclipse-Space-Omoi-05.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/omois-identity-for-eclipse-space-looks-back-to-the-apollo-programme/_2000xAUTO_crop_center-center_85_none/15588021/Eclipse-Space-Omoi-20.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/omois-identity-for-eclipse-space-looks-back-to-the-apollo-programme/_2000xAUTO_crop_center-center_85_none/15587469/Eclipse-Space-Omoi-17.webp"
+        }
+      ]
+    },
+    {
       "canonicalUrl": "https://the-brandidentity.com/project/how-raw-reworked-stows-identity-to-make-its-coffee-roasting-visible",
       "titleOriginal": "How .raw reworked STOW’s identity to make its coffee roasting visible",
       "textOriginal": "Founded in 2015, STOW is a Slovenian speciality coffee company, with its roastery in Kamnik and cafés in Ljubljana. It brought in branding and marketing studio .raw to rework its existing look into an identity that would translate STOW’s scientific approach into visual form. “We reached a point where the work happening behind the scenes – the sourcing decisions, the roasting parameters, the testing – wasn’t visible in how the brand presented itself,” explains Peter Ševič from STOW. “We knew what we stood for, but the identity wasn’t carrying that across.”\n\nFor many of the team at .raw, STOW was their introduction to speciality coffee. “The guys at .raw are our friends, customers and share our love for coffee so we know that they would treat the redesign with the same rigour we bring to coffee,” Ševič notes. “At .raw, we see STOW as Slovenia’s best coffee roaster and among the best in the world,” Senior Designer Rob Svenšek tells us.",
@@ -3861,183 +4168,6 @@ const snapshot={
         {
           "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-15.JPG"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme",
-      "titleOriginal": "N2 Albiino’s Vuoden Huiput identity expands on the craftsmanship theme",
-      "textOriginal": "Founded by designers in 1980, Vuoden Huiput is an annual design competition run by Grafia, the Association of Visual Communication Designers in Finland. Every year, Grafia invites one agency to design the competition’s identity around its pyramid emblem. For the 2025 edition, whose winners were celebrated at a gala in spring 2026, the invitation went to Helsinki-based brand and marketing agency N2 Albiino , which treated creativity as a metamorphosis and let the familiar pyramid break apart.\n\n“Each year the agency designing the Vuoden Huiput identity is given a fairly free hand to develop its own interpretation of the competition’s identity,” explains Grafia’s Executive Director Katri Soramäki. “One of the key points, however, is that the identity should include the agency’s own interpretation of the Vuoden Huiput pyramid.” The commission “can offer more room for experimentation than a typical client brief,” she adds. “One of the unique aspects is that the target audience consists of the designers’ own colleagues and peers.”",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/_video-thumbnails/14373716.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "video",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-08.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "Founded by designers in 1980, Vuoden Huiput is an annual design competition run by Grafia, the Association of Visual Communication Designers in Finland. Every year, Grafia invites one agency to design the competition’s identity around its pyramid emblem. For the 2025 edition, whose winners were celebrated at a gala in spring 2026, the invitation went to Helsinki-based brand and marketing agency N2 Albiino , which treated creativity as a metamorphosis and let the familiar pyramid break apart."
-        },
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/_2000xAUTO_crop_center-center_85_none/14373831/Vuoden-Huiput-2025-N2-Albiino-05.webp"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“Each year the agency designing the Vuoden Huiput identity is given a fairly free hand to develop its own interpretation of the competition’s identity,” explains Grafia’s Executive Director Katri Soramäki. “One of the key points, however, is that the identity should include the agency’s own interpretation of the Vuoden Huiput pyramid.” The commission “can offer more room for experimentation than a typical client brief,” she adds. “One of the unique aspects is that the target audience consists of the designers’ own colleagues and peers.”"
-        },
-        {
-          "type": "video",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-13.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“Our idea was to cause a small disruption. We wanted to shake things up rather than doing what people would normally expect from a Vuoden Huiput identity,” N2 Albiino’s Designer Ville Sainio tells us. “This was the 46th year of the competition, hence the pyramid and recurring elements had already become familiar within the industry. Because of that, we dared to do something that felt a bit unconventional.” N2 Albiino also took inspiration from the theme of the Wild Card, one of the competition’s categories. The head of juries chooses that theme each year, and for 2025, that was Lotta Nieminen, who chose craftsmanship – a theme about handwork, technical skill and a high level of finish. “It was a subject that was personally important to her and is also reflected in her own work,” notes Grafia’s Producer Julia Valanne."
-        },
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/_2000xAUTO_crop_center-center_85_none/14373324/Vuoden-Huiput-2025-N2-Albiino-01.webp"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The pyramid is made up of separate pieces. In most of the images, they are joined together in a pyramid-like shape, but they also appear on their own, as though the pyramid has broken up. The pyramid was modelled in 3D in Cinema 4D, along with every image and graphic around it, and rendered with Octane to look like modelling clay. N2 Albiino combined textures from Greyscalegorilla’s asset library on each piece, shifting their position and rotation. “The goal was to make every piece unique rather than repeating the same texture over and over,” Sainio details. “I wanted an organic look, so the pieces would feel like modelling clay that had been moulded one by one.”"
-        },
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/_2000xAUTO_crop_center-center_85_none/14373515/Vuoden-Huiput-2025-N2-Albiino-07.webp"
-        },
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/_2000xAUTO_crop_center-center_85_none/14373501/Vuoden-Huiput-2025-N2-Albiino-06.webp"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Some of the pieces have a metal finish. “The metallic shapes were carved and engraved with the pyramid logo, which was also my take on this year’s craftsmanship theme,” he continues. “Funnily enough, many people have thought the pyramid is real and asked whether it was actually made from modelling clay and if we have one sitting on a cabinet shelf somewhere.” At Grafia, Soramäki recalls that “N2 Albiino initially developed a broad visual concept, which we then refined together as the work progressed into a clearer and more cohesive system. During the process, the modelling-clay pyramid really stood out as the strongest conceptually.”"
-        },
-        {
-          "type": "video",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-11_2026-10-19-042435_yeun.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The colours started with sketches by Creative Director Mikko Männistö. Sainio then rendered a white version of the pyramid and coloured it section by section in Photoshop to see which colours worked where, before combining colours and textures in Cinema 4D. The pieces are mainly in primary colours, such as shades of blue, yellow, green and red, with pink and some purple here and there. Black and white are also used, “since we wanted to avoid looking too playful,” Sainio reveals. “A brighter colour palette seemed fitting in contrast to the previous year’s identity, which was darker in tone.”"
-        },
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/_2000xAUTO_crop_center-center_85_none/14373440/Vuoden-Huiput-2025-N2-Albiino-03.webp"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The typography is set almost exclusively in one cut of Pangram Pangram’s PP Neue Montreal, with other cuts in the yearbook, which collects the winning work. Once the main visual was finished, the first piece to follow was a social media post and ad announcing the identity and the competition dates. “At first, it was hard to find a way to combine text and visuals as there was already so much going on,” Sainio recalls. “I had to find a way for the chosen typography to not pull away too much attention from the key visual.” Placing the text along the bottom edge “didn’t look particularly interesting,” so he repeated it three times over the image, “and something clicked.” Set at the top, middle and bottom, the text sits in a frame that the team called the “matrix,” which works on top of any visual. Sainio describes the repetition as “the connecting thread between all images,” one that gives the identity “a serial quality.”"
-        },
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/_2000xAUTO_crop_center-center_85_none/14374389/Vuoden-Huiput-2025-N2-Albiino-09.webp"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Showing the pieces on their own came later. “The concept started with the main pyramid, used in social media and print ads, so by the time we began breaking it apart and showing different sides of it, the identity was already established and recognised by the audience,” Sainio tells us. “The consistent use of the text matrix also helped tie everything together nicely.”"
-        },
-        {
-          "type": "video",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-12_2026-10-19-042415_xogd.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "In motion, the camera moves around the pyramid. “It makes it feel more real, like an actual object that has been carefully crafted from every angle,” Sainio notes. “It’s almost as if the viewer is turning it around, looking at it, playing with it.” On the gala’s screens and in the social posts, the text rises from the bottom of the screen, repeating to cover most of it before settling into the position used in the still versions. It always moves upward as it enters or leaves, “which gives a feeling of momentum and positivity,” Sainio explains. Every name and award category on the event screen repeats three times “to preserve the visual language present throughout the whole identity.”"
-        },
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/_2000xAUTO_crop_center-center_85_none/14373363/Vuoden-Huiput-2025-N2-Albiino-02.webp"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“The yearbook tradition follows Grafia’s own system of only awarding Gold and Silver, so silver and gold pieces were all that was needed to express that,” Männistö details. “The jury itself is pictured as though they too were up for evaluation, sitting in a row with the camera turned back on them.”"
-        },
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/_2000xAUTO_crop_center-center_85_none/14639641/Vuoden-Huiput-2025-N2-Albiino-14.webp"
-        },
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/_2000xAUTO_crop_center-center_85_none/14639636/Vuoden-Huiput-2025-N2-Albiino-15.webp"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The concept “worked especially well at the awards gala, where the same idea could be brought into a live event – from the floral arrangements to the presentation of the dessert,” Valanne tells us. N2 Albiino designed printed, personalised and hand-stitched menu booklets for the gala, and “many guests took theirs home as a keepsake,” she concludes."
-        }
-      ],
-      "caseStudyText": "Founded by designers in 1980, Vuoden Huiput is an annual design competition run by Grafia, the Association of Visual Communication Designers in Finland. Every year, Grafia invites one agency to design the competition’s identity around its pyramid emblem. For the 2025 edition, whose winners were celebrated at a gala in spring 2026, the invitation went to Helsinki-based brand and marketing agency N2 Albiino , which treated creativity as a metamorphosis and let the familiar pyramid break apart.\n\n“Each year the agency designing the Vuoden Huiput identity is given a fairly free hand to develop its own interpretation of the competition’s identity,” explains Grafia’s Executive Director Katri Soramäki. “One of the key points, however, is that the identity should include the agency’s own interpretation of the Vuoden Huiput pyramid.” The commission “can offer more room for experimentation than a typical client brief,” she adds. “One of the unique aspects is that the target audience consists of the designers’ own colleagues and peers.”\n\n“Our idea was to cause a small disruption. We wanted to shake things up rather than doing what people would normally expect from a Vuoden Huiput identity,” N2 Albiino’s Designer Ville Sainio tells us. “This was the 46th year of the competition, hence the pyramid and recurring elements had already become familiar within the industry. Because of that, we dared to do something that felt a bit unconventional.” N2 Albiino also took inspiration from the theme of the Wild Card, one of the competition’s categories. The head of juries chooses that theme each year, and for 2025, that was Lotta Nieminen, who chose craftsmanship – a theme about handwork, technical skill and a high level of finish. “It was a subject that was personally important to her and is also reflected in her own work,” notes Grafia’s Producer Julia Valanne.\n\nThe pyramid is made up of separate pieces. In most of the images, they are joined together in a pyramid-like shape, but they also appear on their own, as though the pyramid has broken up. The pyramid was modelled in 3D in Cinema 4D, along with every image and graphic around it, and rendered with Octane to look like modelling clay. N2 Albiino combined textures from Greyscalegorilla’s asset library on each piece, shifting their position and rotation. “The goal was to make every piece unique rather than repeating the same texture over and over,” Sainio details. “I wanted an organic look, so the pieces would feel like modelling clay that had been moulded one by one.”\n\nSome of the pieces have a metal finish. “The metallic shapes were carved and engraved with the pyramid logo, which was also my take on this year’s craftsmanship theme,” he continues. “Funnily enough, many people have thought the pyramid is real and asked whether it was actually made from modelling clay and if we have one sitting on a cabinet shelf somewhere.” At Grafia, Soramäki recalls that “N2 Albiino initially developed a broad visual concept, which we then refined together as the work progressed into a clearer and more cohesive system. During the process, the modelling-clay pyramid really stood out as the strongest conceptually.”\n\nThe colours started with sketches by Creative Director Mikko Männistö. Sainio then rendered a white version of the pyramid and coloured it section by section in Photoshop to see which colours worked where, before combining colours and textures in Cinema 4D. The pieces are mainly in primary colours, such as shades of blue, yellow, green and red, with pink and some purple here and there. Black and white are also used, “since we wanted to avoid looking too playful,” Sainio reveals. “A brighter colour palette seemed fitting in contrast to the previous year’s identity, which was darker in tone.”\n\nThe typography is set almost exclusively in one cut of Pangram Pangram’s PP Neue Montreal, with other cuts in the yearbook, which collects the winning work. Once the main visual was finished, the first piece to follow was a social media post and ad announcing the identity and the competition dates. “At first, it was hard to find a way to combine text and visuals as there was already so much going on,” Sainio recalls. “I had to find a way for the chosen typography to not pull away too much attention from the key visual.” Placing the text along the bottom edge “didn’t look particularly interesting,” so he repeated it three times over the image, “and something clicked.” Set at the top, middle and bottom, the text sits in a frame that the team called the “matrix,” which works on top of any visual. Sainio describes the repetition as “the connecting thread between all images,” one that gives the identity “a serial quality.”\n\nShowing the pieces on their own came later. “The concept started with the main pyramid, used in social media and print ads, so by the time we began breaking it apart and showing different sides of it, the identity was already established and recognised by the audience,” Sainio tells us. “The consistent use of the text matrix also helped tie everything together nicely.”\n\nIn motion, the camera moves around the pyramid. “It makes it feel more real, like an actual object that has been carefully crafted from every angle,” Sainio notes. “It’s almost as if the viewer is turning it around, looking at it, playing with it.” On the gala’s screens and in the social posts, the text rises from the bottom of the screen, repeating to cover most of it before settling into the position used in the still versions. It always moves upward as it enters or leaves, “which gives a feeling of momentum and positivity,” Sainio explains. Every name and award category on the event screen repeats three times “to preserve the visual language present throughout the whole identity.”\n\n“The yearbook tradition follows Grafia’s own system of only awarding Gold and Silver, so silver and gold pieces were all that was needed to express that,” Männistö details. “The jury itself is pictured as though they too were up for evaluation, sitting in a row with the camera turned back on them.”\n\nThe concept “worked especially well at the awards gala, where the same idea could be brought into a live event – from the floral arrangements to the presentation of the dessert,” Valanne tells us. N2 Albiino designed printed, personalised and hand-stitched menu booklets for the gala, and “many guests took theirs home as a keepsake,” she concludes.",
-      "caseStudyMedia": [
-        {
-          "type": "video",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-08.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/_2000xAUTO_crop_center-center_85_none/14373831/Vuoden-Huiput-2025-N2-Albiino-05.webp"
-        },
-        {
-          "type": "video",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-13.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/_2000xAUTO_crop_center-center_85_none/14373324/Vuoden-Huiput-2025-N2-Albiino-01.webp"
-        },
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/_2000xAUTO_crop_center-center_85_none/14373515/Vuoden-Huiput-2025-N2-Albiino-07.webp"
-        },
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/_2000xAUTO_crop_center-center_85_none/14373501/Vuoden-Huiput-2025-N2-Albiino-06.webp"
-        },
-        {
-          "type": "video",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-11_2026-10-19-042435_yeun.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/_2000xAUTO_crop_center-center_85_none/14373440/Vuoden-Huiput-2025-N2-Albiino-03.webp"
-        },
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/_2000xAUTO_crop_center-center_85_none/14374389/Vuoden-Huiput-2025-N2-Albiino-09.webp"
-        },
-        {
-          "type": "video",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/Vuoden-Huiput-2025-N2-Albiino-12_2026-10-19-042415_xogd.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/_2000xAUTO_crop_center-center_85_none/14373363/Vuoden-Huiput-2025-N2-Albiino-02.webp"
-        },
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/_2000xAUTO_crop_center-center_85_none/14639641/Vuoden-Huiput-2025-N2-Albiino-14.webp"
-        },
-        {
-          "type": "image",
-          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/10/n2-albiinos-vuoden-huiput-identity-expands-on-the-craftsmanship-theme/_2000xAUTO_crop_center-center_85_none/14639636/Vuoden-Huiput-2025-N2-Albiino-15.webp"
         }
       ]
     }
