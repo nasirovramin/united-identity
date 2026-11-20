@@ -7,6 +7,126 @@ const snapshot={
   },
   "items": [
     {
+      "canonicalUrl": "https://the-brandidentity.com/project/hochburg-brings-together-pizza-and-hip-hop-in-lartistas-identity",
+      "titleOriginal": "Hochburg brings together pizza and hip-hop in L’Artista’s identity",
+      "textOriginal": "L’Artista is a Neapolitan pizza brand in Stuttgart, Germany, shaped by the personality and social media presence of its Founder & Owner, Nico Zingariello. In 2022, while he was still running L’Artista inside his family’s restaurant, he asked Stuttgart-based design agency Hochburg to create its identity. In 2025, the agency brought that identity into the restaurant he opened in the city centre.\n\n“The name was there. The pizza was there. I’d even made a logo myself. But I knew this thing could go much further,” Zingariello tells us. “We built the wordmark and visual language with the future of L’Artista in mind, including more than one location,” explains Hochburg’s Co-founder & Creative Director Florian Boyd.",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/_video-thumbnails/15587855.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/hochburg-brings-together-pizza-and-hip-hop-in-lartistas-identity/LArtista-Hochburg-01-v2.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "L’Artista is a Neapolitan pizza brand in Stuttgart, Germany, shaped by the personality and social media presence of its Founder & Owner, Nico Zingariello. In 2022, while he was still running L’Artista inside his family’s restaurant, he asked Stuttgart-based design agency Hochburg to create its identity. In 2025, the agency brought that identity into the restaurant he opened in the city centre."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/hochburg-brings-together-pizza-and-hip-hop-in-lartistas-identity/_2000xAUTO_crop_center-center_85_none/15588194/LArtista-Hochburg-14.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“The name was there. The pizza was there. I’d even made a logo myself. But I knew this thing could go much further,” Zingariello tells us. “We built the wordmark and visual language with the future of L’Artista in mind, including more than one location,” explains Hochburg’s Co-founder & Creative Director Florian Boyd."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/hochburg-brings-together-pizza-and-hip-hop-in-lartistas-identity/LArtista-Hochburg-13-v2.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/hochburg-brings-together-pizza-and-hip-hop-in-lartistas-identity/LArtista-Hochburg-05.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“We quickly discovered a shared love for hip-hop, old MTV graphics and the raw visual culture of New York streets. We liked the contrast between that energy and traditional Neapolitan pizza-making.” Instead of familiar Italian restaurant cues, the agency used expressive lettering, wide type and bold, direct compositions across the identity. “We weren’t trying to recreate a New York pizza shop in Stuttgart. We wanted something that felt like Nico,” Boyd adds."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/hochburg-brings-together-pizza-and-hip-hop-in-lartistas-identity/LArtista-Hochburg-04-v2.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The bold, deliberately scrawled wordmark was custom-drawn in Adobe Illustrator in several versions that subtly shift in proportion and shape. “Much like the pizzas themselves, no two versions are exactly alike,” the agency notes. The wordmark has no fixed crop, so any version can be scaled, pushed beyond an edge or reduced to fragments to suit the format. Motion was part of the idea from the start, and Boyd’s first test was a rough stop-motion GIF that flicked through the different hand-drawn versions. “It showed that the lettering could keep changing shape and still be recognisable,” Boyd details. Motion designer Nadine Klumpp took that sketch further, making the animation more precise for use in video and on social media."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/hochburg-brings-together-pizza-and-hip-hop-in-lartistas-identity/LArtista-Hochburg-10-v2.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/hochburg-brings-together-pizza-and-hip-hop-in-lartistas-identity/_2000xAUTO_crop_center-center_85_none/15587856/LArtista-Hochburg-02.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Multype Studio’s wide and bold Rekind Expanded has been part of the identity from the beginning, used for headlines and short, direct statements in contrast to the hand-drawn wordmark. For the move into the city centre, Hochburg added Letters from Sweden’s Ivar Mono to the typography, replacing the secondary typeface that had been in place since 2022. “Its more restrained character balances the louder elements without changing the identity’s overall feel,” Boyd explains. On the pizza box, the wordmark runs off the edges, and the line ‘Came for the vibe, stayed for the pizza’ sits on the lid. “Designed for the new restaurant, its oversized lettering turns the box into something people carry through the city almost like a fashion-store bag,” he tells us."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/hochburg-brings-together-pizza-and-hip-hop-in-lartistas-identity/LArtista-Hochburg-06-v2.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/hochburg-brings-together-pizza-and-hip-hop-in-lartistas-identity/_2000xAUTO_crop_center-center_85_none/15587863/LArtista-Hochburg-09.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The imagery and video by photographer Felix Schlenker were shot mostly on the streets around the city-centre restaurant, with Zingariello in front of the camera. “The restaurant is the statement. The boxes, the big menus on the walls, the shirts, the merch. Sometimes it feels more like a little hip-hop label than a pizzeria,” he concludes."
+        }
+      ],
+      "caseStudyText": "L’Artista is a Neapolitan pizza brand in Stuttgart, Germany, shaped by the personality and social media presence of its Founder & Owner, Nico Zingariello. In 2022, while he was still running L’Artista inside his family’s restaurant, he asked Stuttgart-based design agency Hochburg to create its identity. In 2025, the agency brought that identity into the restaurant he opened in the city centre.\n\n“The name was there. The pizza was there. I’d even made a logo myself. But I knew this thing could go much further,” Zingariello tells us. “We built the wordmark and visual language with the future of L’Artista in mind, including more than one location,” explains Hochburg’s Co-founder & Creative Director Florian Boyd.\n\n“We quickly discovered a shared love for hip-hop, old MTV graphics and the raw visual culture of New York streets. We liked the contrast between that energy and traditional Neapolitan pizza-making.” Instead of familiar Italian restaurant cues, the agency used expressive lettering, wide type and bold, direct compositions across the identity. “We weren’t trying to recreate a New York pizza shop in Stuttgart. We wanted something that felt like Nico,” Boyd adds.\n\nThe bold, deliberately scrawled wordmark was custom-drawn in Adobe Illustrator in several versions that subtly shift in proportion and shape. “Much like the pizzas themselves, no two versions are exactly alike,” the agency notes. The wordmark has no fixed crop, so any version can be scaled, pushed beyond an edge or reduced to fragments to suit the format. Motion was part of the idea from the start, and Boyd’s first test was a rough stop-motion GIF that flicked through the different hand-drawn versions. “It showed that the lettering could keep changing shape and still be recognisable,” Boyd details. Motion designer Nadine Klumpp took that sketch further, making the animation more precise for use in video and on social media.\n\nMultype Studio’s wide and bold Rekind Expanded has been part of the identity from the beginning, used for headlines and short, direct statements in contrast to the hand-drawn wordmark. For the move into the city centre, Hochburg added Letters from Sweden’s Ivar Mono to the typography, replacing the secondary typeface that had been in place since 2022. “Its more restrained character balances the louder elements without changing the identity’s overall feel,” Boyd explains. On the pizza box, the wordmark runs off the edges, and the line ‘Came for the vibe, stayed for the pizza’ sits on the lid. “Designed for the new restaurant, its oversized lettering turns the box into something people carry through the city almost like a fashion-store bag,” he tells us.\n\nThe imagery and video by photographer Felix Schlenker were shot mostly on the streets around the city-centre restaurant, with Zingariello in front of the camera. “The restaurant is the statement. The boxes, the big menus on the walls, the shirts, the merch. Sometimes it feels more like a little hip-hop label than a pizzeria,” he concludes.",
+      "caseStudyMedia": [
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/hochburg-brings-together-pizza-and-hip-hop-in-lartistas-identity/LArtista-Hochburg-01-v2.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/hochburg-brings-together-pizza-and-hip-hop-in-lartistas-identity/_2000xAUTO_crop_center-center_85_none/15588194/LArtista-Hochburg-14.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/hochburg-brings-together-pizza-and-hip-hop-in-lartistas-identity/LArtista-Hochburg-13-v2.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/hochburg-brings-together-pizza-and-hip-hop-in-lartistas-identity/LArtista-Hochburg-05.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/hochburg-brings-together-pizza-and-hip-hop-in-lartistas-identity/LArtista-Hochburg-04-v2.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/hochburg-brings-together-pizza-and-hip-hop-in-lartistas-identity/LArtista-Hochburg-10-v2.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/hochburg-brings-together-pizza-and-hip-hop-in-lartistas-identity/_2000xAUTO_crop_center-center_85_none/15587856/LArtista-Hochburg-02.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/hochburg-brings-together-pizza-and-hip-hop-in-lartistas-identity/LArtista-Hochburg-06-v2.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/hochburg-brings-together-pizza-and-hip-hop-in-lartistas-identity/_2000xAUTO_crop_center-center_85_none/15587863/LArtista-Hochburg-09.webp"
+        }
+      ]
+    },
+    {
       "canonicalUrl": "https://the-brandidentity.com/project/how-molto-bureau-designed-the-identity-of-a-saudi-perfume-house",
       "titleOriginal": "How Molto Bureau designed the identity of a Saudi perfume house",
       "textOriginal": "Perfume Palace is a perfume house founded in Saudi Arabia that offers a twist on the region’s perfumery traditions by pairing classic Arabian notes with contemporary compositions. It approached Kyiv-based branding studio Molto Bureau to refresh its identity and packaging, spanning the logotype, label, brand materials and guidelines. The brand needed a cohesive rethinking of its visual language, with the update coming alongside a new batch of bottles. Over the years, the fragrances had built a loyal following, yet the identity no longer matched its quality, so the aim was to move Perfume Palace into a more premium register and give it a presence that would be recognisable, even on a crowded shelf.\n\nMolto Bureau started the wordmark from Albertus Nova, a contemporary version of Berthold Wolpe’s classic Albertus, which was inspired by letters cut in bronze. “We felt its restrained, monumental character suited a brand called Palace,” explains Founder & Design Director Andriy Muzychka. Albertus follows classical Roman proportions, with wide letters such as ‘C’ and ‘M’ and narrow ones such as ‘E,’ ‘F’ and ‘R.’ “In running text, this feels lively, but in the PERFUME PALACE wordmark, wide and narrow letters side by side created an uneven rhythm and inconsistent spacing. So we brought all the letters closer to a medium width, giving the wordmark a calm, balanced rhythm,” he recalls.",
