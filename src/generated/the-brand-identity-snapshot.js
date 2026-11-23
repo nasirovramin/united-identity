@@ -7,6 +7,147 @@ const snapshot={
   },
   "items": [
     {
+      "canonicalUrl": "https://the-brandidentity.com/project/how-kateryna-valterson-designed-y%C5%ABra-a-self-initiated-matcha-brand",
+      "titleOriginal": "How Kateryna Valterson designed YŪRA, a self-initiated matcha brand",
+      "textOriginal": "YŪRA is a self-initiated brand of ceremonial matcha, created by Germany-based brand and graphic designer Kateryna Valterson , who designed its identity, handwritten logotype, packaging, typography and layout.\n\n“It began as a response to the idea of matcha being seen as something purely traditional,” she explains. “Matcha has long travelled far beyond Japan and become part of everyday life around the world, and I wanted to capture exactly that feeling: a contemporary, modern kind of luxury that still respects the ceremony behind the tea. I’m always drawn to exploring unexpected, non-obvious combinations, and this project grew out of my own curiosity about how tradition and modernity can live inside one brand.”",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-kateryna-valterson-designed-y%C5%ABra-a-self-initiated-matcha-brand/YURA-Kateryna-Valterson-01.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-kateryna-valterson-designed-y%C5%ABra-a-self-initiated-matcha-brand/_2000xAUTO_crop_center-center_85_none/15588305/YURA-Kateryna-Valterson-01.webp"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "YŪRA is a self-initiated brand of ceremonial matcha, created by Germany-based brand and graphic designer Kateryna Valterson , who designed its identity, handwritten logotype, packaging, typography and layout."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-kateryna-valterson-designed-y%C5%ABra-a-self-initiated-matcha-brand/_2000xAUTO_crop_center-center_85_none/15588306/YURA-Kateryna-Valterson-02.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“It began as a response to the idea of matcha being seen as something purely traditional,” she explains. “Matcha has long travelled far beyond Japan and become part of everyday life around the world, and I wanted to capture exactly that feeling: a contemporary, modern kind of luxury that still respects the ceremony behind the tea. I’m always drawn to exploring unexpected, non-obvious combinations, and this project grew out of my own curiosity about how tradition and modernity can live inside one brand.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-kateryna-valterson-designed-y%C5%ABra-a-self-initiated-matcha-brand/_2000xAUTO_crop_center-center_85_none/15588307/YURA-Kateryna-Valterson-03.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-kateryna-valterson-designed-y%C5%ABra-a-self-initiated-matcha-brand/_2000xAUTO_crop_center-center_85_none/15588308/YURA-Kateryna-Valterson-04.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The name had to be “short and easy to remember for non-Japanese speakers, while still having roots in Japanese culture,” she adds. YŪRA has no single widely accepted meaning in Japanese, since that depends on the characters used to write it. Written with certain characters, it can suggest calm and balance."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-kateryna-valterson-designed-y%C5%ABra-a-self-initiated-matcha-brand/_2000xAUTO_crop_center-center_85_none/15588309/YURA-Kateryna-Valterson-05.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-kateryna-valterson-designed-y%C5%ABra-a-self-initiated-matcha-brand/_2000xAUTO_crop_center-center_85_none/15588310/YURA-Kateryna-Valterson-06.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Valterson drew around 10 versions of the logotype by hand, then explored similar typefaces in Illustrator, and built the final logotype from a customised version of Adobe Handwriting. “I wanted the logotype to be delicate and understated, almost quiet, so that it communicates craftsmanship, individuality and tradition without shouting,” she tells us. “It also needed contrast: the soft, human line of the logotype is meant to sit against the cool, precise surface of the packaging.” Valterson chose stainless-steel tins, which “carry the modern side of the brand.” The labels are designed to be printed on matte paper, which “brings a feeling of natural materials and authenticity,” she adds. “That combination of warm paper and cool metal became the core idea of the packaging.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-kateryna-valterson-designed-y%C5%ABra-a-self-initiated-matcha-brand/_2000xAUTO_crop_center-center_85_none/15588311/YURA-Kateryna-Valterson-07.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-kateryna-valterson-designed-y%C5%ABra-a-self-initiated-matcha-brand/_2000xAUTO_crop_center-center_85_none/15588312/YURA-Kateryna-Valterson-08.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The labels distinguish three blends: Nishio, Yame and Uji. “The palette was restrained from the very beginning, so the work was really about shades rather than bold colour changes,” Valterson details. Nishio came first as “the base of a balanced, everyday matcha” and has a calm grey label. Yame, with a silkier, more umami flavour, has a soft blue label, and the first-harvest Uji has a soft green one. “Each colour is quiet on its own, but together they form a family that is easy to tell apart without breaking the minimalist feel,” she notes."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-kateryna-valterson-designed-y%C5%ABra-a-self-initiated-matcha-brand/_2000xAUTO_crop_center-center_85_none/15588313/YURA-Kateryna-Valterson-09.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The typography on the labels is minimal, with a line in Japanese at the bottom of each tin that translates as “Japanese tradition – a daily ritual.” “Although I wanted to bring a more modern atmosphere to matcha, it was important to me that consumers don’t forget where it comes from. The Japanese text adds authenticity and character to the packaging, and it quietly connects the contemporary design to the cultural roots of matcha.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-kateryna-valterson-designed-y%C5%ABra-a-self-initiated-matcha-brand/_2000xAUTO_crop_center-center_85_none/15588314/YURA-Kateryna-Valterson-10.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-kateryna-valterson-designed-y%C5%ABra-a-self-initiated-matcha-brand/_2000xAUTO_crop_center-center_85_none/15588315/YURA-Kateryna-Valterson-11.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "For Valterson, “the identity of a quality packaging brand should live far beyond the packaging itself.” A poster in a similar minimalist style gives the brand “a presence of its own.” A keyring with a matcha whisk “expands the identity into something people can carry with them, and it presents matcha as a daily attribute for the younger generation rather than something reserved for special occasions,” she concludes."
+        }
+      ],
+      "caseStudyText": "YŪRA is a self-initiated brand of ceremonial matcha, created by Germany-based brand and graphic designer Kateryna Valterson , who designed its identity, handwritten logotype, packaging, typography and layout.\n\n“It began as a response to the idea of matcha being seen as something purely traditional,” she explains. “Matcha has long travelled far beyond Japan and become part of everyday life around the world, and I wanted to capture exactly that feeling: a contemporary, modern kind of luxury that still respects the ceremony behind the tea. I’m always drawn to exploring unexpected, non-obvious combinations, and this project grew out of my own curiosity about how tradition and modernity can live inside one brand.”\n\nThe name had to be “short and easy to remember for non-Japanese speakers, while still having roots in Japanese culture,” she adds. YŪRA has no single widely accepted meaning in Japanese, since that depends on the characters used to write it. Written with certain characters, it can suggest calm and balance.\n\nValterson drew around 10 versions of the logotype by hand, then explored similar typefaces in Illustrator, and built the final logotype from a customised version of Adobe Handwriting. “I wanted the logotype to be delicate and understated, almost quiet, so that it communicates craftsmanship, individuality and tradition without shouting,” she tells us. “It also needed contrast: the soft, human line of the logotype is meant to sit against the cool, precise surface of the packaging.” Valterson chose stainless-steel tins, which “carry the modern side of the brand.” The labels are designed to be printed on matte paper, which “brings a feeling of natural materials and authenticity,” she adds. “That combination of warm paper and cool metal became the core idea of the packaging.”\n\nThe labels distinguish three blends: Nishio, Yame and Uji. “The palette was restrained from the very beginning, so the work was really about shades rather than bold colour changes,” Valterson details. Nishio came first as “the base of a balanced, everyday matcha” and has a calm grey label. Yame, with a silkier, more umami flavour, has a soft blue label, and the first-harvest Uji has a soft green one. “Each colour is quiet on its own, but together they form a family that is easy to tell apart without breaking the minimalist feel,” she notes.\n\nThe typography on the labels is minimal, with a line in Japanese at the bottom of each tin that translates as “Japanese tradition – a daily ritual.” “Although I wanted to bring a more modern atmosphere to matcha, it was important to me that consumers don’t forget where it comes from. The Japanese text adds authenticity and character to the packaging, and it quietly connects the contemporary design to the cultural roots of matcha.”\n\nFor Valterson, “the identity of a quality packaging brand should live far beyond the packaging itself.” A poster in a similar minimalist style gives the brand “a presence of its own.” A keyring with a matcha whisk “expands the identity into something people can carry with them, and it presents matcha as a daily attribute for the younger generation rather than something reserved for special occasions,” she concludes.",
+      "caseStudyMedia": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-kateryna-valterson-designed-y%C5%ABra-a-self-initiated-matcha-brand/_2000xAUTO_crop_center-center_85_none/15588305/YURA-Kateryna-Valterson-01.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-kateryna-valterson-designed-y%C5%ABra-a-self-initiated-matcha-brand/_2000xAUTO_crop_center-center_85_none/15588306/YURA-Kateryna-Valterson-02.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-kateryna-valterson-designed-y%C5%ABra-a-self-initiated-matcha-brand/_2000xAUTO_crop_center-center_85_none/15588307/YURA-Kateryna-Valterson-03.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-kateryna-valterson-designed-y%C5%ABra-a-self-initiated-matcha-brand/_2000xAUTO_crop_center-center_85_none/15588308/YURA-Kateryna-Valterson-04.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-kateryna-valterson-designed-y%C5%ABra-a-self-initiated-matcha-brand/_2000xAUTO_crop_center-center_85_none/15588309/YURA-Kateryna-Valterson-05.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-kateryna-valterson-designed-y%C5%ABra-a-self-initiated-matcha-brand/_2000xAUTO_crop_center-center_85_none/15588310/YURA-Kateryna-Valterson-06.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-kateryna-valterson-designed-y%C5%ABra-a-self-initiated-matcha-brand/_2000xAUTO_crop_center-center_85_none/15588311/YURA-Kateryna-Valterson-07.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-kateryna-valterson-designed-y%C5%ABra-a-self-initiated-matcha-brand/_2000xAUTO_crop_center-center_85_none/15588312/YURA-Kateryna-Valterson-08.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-kateryna-valterson-designed-y%C5%ABra-a-self-initiated-matcha-brand/_2000xAUTO_crop_center-center_85_none/15588313/YURA-Kateryna-Valterson-09.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-kateryna-valterson-designed-y%C5%ABra-a-self-initiated-matcha-brand/_2000xAUTO_crop_center-center_85_none/15588314/YURA-Kateryna-Valterson-10.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-kateryna-valterson-designed-y%C5%ABra-a-self-initiated-matcha-brand/_2000xAUTO_crop_center-center_85_none/15588315/YURA-Kateryna-Valterson-11.webp"
+        }
+      ]
+    },
+    {
       "canonicalUrl": "https://the-brandidentity.com/project/hochburg-brings-together-pizza-and-hip-hop-in-lartistas-identity",
       "titleOriginal": "Hochburg brings together pizza and hip-hop in L’Artista’s identity",
       "textOriginal": "L’Artista is a Neapolitan pizza brand in Stuttgart, Germany, shaped by the personality and social media presence of its Founder & Owner, Nico Zingariello. In 2022, while he was still running L’Artista inside his family’s restaurant, he asked Stuttgart-based design agency Hochburg to create its identity. In 2025, the agency brought that identity into the restaurant he opened in the city centre.\n\n“The name was there. The pizza was there. I’d even made a logo myself. But I knew this thing could go much further,” Zingariello tells us. “We built the wordmark and visual language with the future of L’Artista in mind, including more than one location,” explains Hochburg’s Co-founder & Creative Director Florian Boyd.",
@@ -4071,223 +4212,6 @@ const snapshot={
         {
           "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/eder-anaya-makes-inheriteds-ep-cover-a-microsite-you-can-investigate/Me-Myself-Sam-EP-Release-Eder-Anaya-07.jpg"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity",
-      "titleOriginal": "Why Maniac Studio put a cat at the centre of The Pagoda’s identity",
-      "textOriginal": "The Pagoda is a riverside café in Chiang Mai, Thailand, across from a historic pagoda. Mexican design agency Maniac Studio was commissioned to redesign its identity, in part in response to a concern founder Pimpawan Laprabang shared with the studio. “Many tourists visited the café alone and often experienced a sense of melancholy, or saw being alone as something negative,”\n\nThere was a practical reason, too – the old logo’s thin line made it hard to recognise and use on cups, merchandise and signage. Laprabang asked the studio for “a modern, minimal identity that would feel calm, soulful and creative, and that didn’t rely too heavily on the physical pagoda, so it could grow with us.” The café had been open for about two years when the work began, and it was growing into an art space and a home for lifestyle products. It now runs self-guided painting sessions and sells its own roasted beans, drip coffee bags and canned coffee, and it has since partnered with an airline to serve its coffee on board.",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-01.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-01.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "The Pagoda is a riverside café in Chiang Mai, Thailand, across from a historic pagoda. Mexican design agency Maniac Studio was commissioned to redesign its identity, in part in response to a concern founder Pimpawan Laprabang shared with the studio. “Many tourists visited the café alone and often experienced a sense of melancholy, or saw being alone as something negative,”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-02.JPG"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-03.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "There was a practical reason, too – the old logo’s thin line made it hard to recognise and use on cups, merchandise and signage. Laprabang asked the studio for “a modern, minimal identity that would feel calm, soulful and creative, and that didn’t rely too heavily on the physical pagoda, so it could grow with us.” The café had been open for about two years when the work began, and it was growing into an art space and a home for lifestyle products. It now runs self-guided painting sessions and sells its own roasted beans, drip coffee bags and canned coffee, and it has since partnered with an airline to serve its coffee on board."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-17.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-07.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The studio worked with Laprabang from its base in Mérida, Mexico, building its understanding of the café from her brief, photographs and conversations. “We didn’t need to force a cultural connection between Chiang Mai and Mérida,” Domínguez notes. “She was, quite possibly, one of the best clients we have worked with.”"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The name had originally been a reference to the café’s proximity to the pagoda, but Maniac Studio chose to treat it as a symbol instead. Beyond religion, the studio sees a pagoda as standing for elevation, stillness and spiritual grounding – a structure that connects earth and sky, rooted yet reaching upward. This thinking gave the brand its central concept, The Pursuit of Balance. At its heart is learning to enjoy one’s own presence."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-04.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-18.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Maniac Studio put a cat at the centre of the identity as a kind of teacher for The Pursuit of Balance. “Cats embody a sense of independence, self-assurance and calm. They can enjoy their own company, interact with others on their own terms and find comfort in simply being themselves,” Flores explains. “We saw an opportunity to use these qualities to reframe solitude as something positive.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-16.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Maniac Studio drew the cat with smooth, delicate lines, and its poses grew out of characteristic feline behaviours, such as resting, being curious, adapting to different spaces and social situations, and occasionally doing things on its own terms. “We approached the process playfully, experimenting with different poses until the character began to take shape,” Domínguez notes."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-19.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-05.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "To put The Pursuit of Balance into words, the studio wrote five ‘Cat Lessons’ – simple principles for living, inspired by the way cats behave. The first, ‘Enjoy Yourself,’ sees true richness in taking a moment to enjoy your own company. ‘Look with Curiosity’ and ‘Break the Rules’ ask people to notice what usually goes unseen and to defy the rules that limit who they are. ‘Be Coffee, My Friend’ is about adapting to every situation while staying authentic, summed up as ‘Fit the cup, keep the flavour.’ The last, ‘Rest Like It’s Your Job,’ treats time to pause and recharge as a way to build the strength to tackle challenges. The lessons are spread across the identity, with the studio sometimes choosing intuitively which one went where. “This approach helped us avoid monotony and gave the identity more room to breathe,” Flores explains. “The idea was to make discovering these messages feel like a small, unexpected part of the experience.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-11.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-08.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "In the old logo, the letter ‘A’ echoed both the shape of a pagoda and a traditional Thai greeting. “We decided to preserve that underlying form and reinterpret it as a pointed arch, allowing us to carry an element of the original concept into the new identity,” Domínguez details. The café’s slogan, ‘Nature’s Perfect Blend,’ was already part of the brand, and Laprabang wanted to keep it. The new logo is an emblem that sets the name and slogan inside that pointed arch. For Laprabang, the reshaped ‘A’ “feels fresh and modern but still keeps the touch of the original.” To give the slogan a stronger presence, Maniac Studio created an illustration of stacked cups that features it, with the cups sitting on the cat’s head in one of its many poses."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-12.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-13.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "For the typography, the studio paired Displaay’s geometric sans serif Avantt with Lineto’s serif LL Bradford, which “feels neutral at first glance, yet has plenty of personality.” Together, the two typefaces “create a balance between maturity and playfulness.” The palette of grey, white and black is kept from the café’s existing identity – a restrained palette the studio sees as suiting the “spirituality, serenity and neutrality” of The Pagoda’s name ."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-10.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-06.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The identity is now used across the café’s cups, menus, window, packaging, merchandise and signage. Laprabang tells us that many of the café’s guests “notice the small details and take photos in front of our window, which has become the café’s favourite photo spot.” Guests often describe the brand as “calm and thoughtful, just like the space itself.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-14.JPG"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-15.JPG"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“At Maniac, we believe a brand needs a solid concept, and that the visual elements should make sense within that framework. But we don’t believe every single decision needs to be justified down to the smallest detail. Sometimes, something simply looks good, works well graphically or brings a sense of fun and memorability to the identity,” the studio concludes."
-        }
-      ],
-      "caseStudyText": "The Pagoda is a riverside café in Chiang Mai, Thailand, across from a historic pagoda. Mexican design agency Maniac Studio was commissioned to redesign its identity, in part in response to a concern founder Pimpawan Laprabang shared with the studio. “Many tourists visited the café alone and often experienced a sense of melancholy, or saw being alone as something negative,”\n\nThere was a practical reason, too – the old logo’s thin line made it hard to recognise and use on cups, merchandise and signage. Laprabang asked the studio for “a modern, minimal identity that would feel calm, soulful and creative, and that didn’t rely too heavily on the physical pagoda, so it could grow with us.” The café had been open for about two years when the work began, and it was growing into an art space and a home for lifestyle products. It now runs self-guided painting sessions and sells its own roasted beans, drip coffee bags and canned coffee, and it has since partnered with an airline to serve its coffee on board.\n\nThe studio worked with Laprabang from its base in Mérida, Mexico, building its understanding of the café from her brief, photographs and conversations. “We didn’t need to force a cultural connection between Chiang Mai and Mérida,” Domínguez notes. “She was, quite possibly, one of the best clients we have worked with.”\n\nThe name had originally been a reference to the café’s proximity to the pagoda, but Maniac Studio chose to treat it as a symbol instead. Beyond religion, the studio sees a pagoda as standing for elevation, stillness and spiritual grounding – a structure that connects earth and sky, rooted yet reaching upward. This thinking gave the brand its central concept, The Pursuit of Balance. At its heart is learning to enjoy one’s own presence.\n\nManiac Studio put a cat at the centre of the identity as a kind of teacher for The Pursuit of Balance. “Cats embody a sense of independence, self-assurance and calm. They can enjoy their own company, interact with others on their own terms and find comfort in simply being themselves,” Flores explains. “We saw an opportunity to use these qualities to reframe solitude as something positive.”\n\nManiac Studio drew the cat with smooth, delicate lines, and its poses grew out of characteristic feline behaviours, such as resting, being curious, adapting to different spaces and social situations, and occasionally doing things on its own terms. “We approached the process playfully, experimenting with different poses until the character began to take shape,” Domínguez notes.\n\nTo put The Pursuit of Balance into words, the studio wrote five ‘Cat Lessons’ – simple principles for living, inspired by the way cats behave. The first, ‘Enjoy Yourself,’ sees true richness in taking a moment to enjoy your own company. ‘Look with Curiosity’ and ‘Break the Rules’ ask people to notice what usually goes unseen and to defy the rules that limit who they are. ‘Be Coffee, My Friend’ is about adapting to every situation while staying authentic, summed up as ‘Fit the cup, keep the flavour.’ The last, ‘Rest Like It’s Your Job,’ treats time to pause and recharge as a way to build the strength to tackle challenges. The lessons are spread across the identity, with the studio sometimes choosing intuitively which one went where. “This approach helped us avoid monotony and gave the identity more room to breathe,” Flores explains. “The idea was to make discovering these messages feel like a small, unexpected part of the experience.”\n\nIn the old logo, the letter ‘A’ echoed both the shape of a pagoda and a traditional Thai greeting. “We decided to preserve that underlying form and reinterpret it as a pointed arch, allowing us to carry an element of the original concept into the new identity,” Domínguez details. The café’s slogan, ‘Nature’s Perfect Blend,’ was already part of the brand, and Laprabang wanted to keep it. The new logo is an emblem that sets the name and slogan inside that pointed arch. For Laprabang, the reshaped ‘A’ “feels fresh and modern but still keeps the touch of the original.” To give the slogan a stronger presence, Maniac Studio created an illustration of stacked cups that features it, with the cups sitting on the cat’s head in one of its many poses.\n\nFor the typography, the studio paired Displaay’s geometric sans serif Avantt with Lineto’s serif LL Bradford, which “feels neutral at first glance, yet has plenty of personality.” Together, the two typefaces “create a balance between maturity and playfulness.” The palette of grey, white and black is kept from the café’s existing identity – a restrained palette the studio sees as suiting the “spirituality, serenity and neutrality” of The Pagoda’s name .\n\nThe identity is now used across the café’s cups, menus, window, packaging, merchandise and signage. Laprabang tells us that many of the café’s guests “notice the small details and take photos in front of our window, which has become the café’s favourite photo spot.” Guests often describe the brand as “calm and thoughtful, just like the space itself.”\n\n“At Maniac, we believe a brand needs a solid concept, and that the visual elements should make sense within that framework. But we don’t believe every single decision needs to be justified down to the smallest detail. Sometimes, something simply looks good, works well graphically or brings a sense of fun and memorability to the identity,” the studio concludes.",
-      "caseStudyMedia": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-01.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-02.JPG"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-03.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-17.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-07.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-04.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-18.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-16.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-19.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-05.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-11.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-08.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-12.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-13.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-10.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-06.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-14.JPG"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/why-maniac-studio-put-a-cat-at-the-centre-of-the-pagodas-identity/The-Pagoda-Maniac-Studio-15.JPG"
         }
       ]
     }
