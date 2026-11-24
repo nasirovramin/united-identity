@@ -7,6 +7,317 @@ const snapshot={
   },
   "items": [
     {
+      "canonicalUrl": "https://the-brandidentity.com/project/how-never-thought-studio-rebranded-an-online-coffee-brand-for-retail",
+      "titleOriginal": "How Never Thought Studio rebranded an online coffee brand for retail",
+      "textOriginal": "De Koffiejongens first sold its organic coffee online, by subscription, delivering compostable capsules to doormats across the Netherlands. Light pastel colours and kraft paper packaging made the brand recognisable, but when it moved into retail in 2025, the packaging did not change with it. On the shelf, the packs lacked readability, and their soft pastels faded against the dark packaging that dominated the coffee category.\n\nAmsterdam-based Never Thought Studio was commissioned to rebrand De Koffiejongens around a packaging system that would work in retail and reach a wider audience. The brief came with a condition – the brand could not lose its existing customers. The packaging launched in mid-September 2026 in more than 900 stores of Albert Heijn, the Dutch supermarket chain.",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-never-thought-studio-rebranded-an-online-coffee-brand-for-retail/De-Koffiejongens-Never-Thought-Studio-09.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-never-thought-studio-rebranded-an-online-coffee-brand-for-retail/_2000xAUTO_crop_center-center_85_none/15589864/De-Koffiejongens-Never-Thought-Studio-09.webp"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "De Koffiejongens first sold its organic coffee online, by subscription, delivering compostable capsules to doormats across the Netherlands. Light pastel colours and kraft paper packaging made the brand recognisable, but when it moved into retail in 2025, the packaging did not change with it. On the shelf, the packs lacked readability, and their soft pastels faded against the dark packaging that dominated the coffee category."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-never-thought-studio-rebranded-an-online-coffee-brand-for-retail/_2000xAUTO_crop_center-center_85_none/15589883/De-Koffiejongens-Never-Thought-Studio-28.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Amsterdam-based Never Thought Studio was commissioned to rebrand De Koffiejongens around a packaging system that would work in retail and reach a wider audience. The brief came with a condition – the brand could not lose its existing customers. The packaging launched in mid-September 2026 in more than 900 stores of Albert Heijn, the Dutch supermarket chain."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-never-thought-studio-rebranded-an-online-coffee-brand-for-retail/De-Koffiejongens-Never-Thought-Studio-01.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The brief came out of De Koffiejongens’ research, which showed that most of its customers liked the kraft paper that the brand had built its recognition on. Its customers are loyal and mostly in their fifties, with many of them finding the brand through targeted newspaper ads. The studio therefore treated the work as an evolution of the existing brand. “As De Koffiejongens grew up as an online subscription brand, we wanted to bring some of that feeling into the packaging,” Never Thought Studio’s Co-founders Noa and Timo Kramp tell us. “Kraft paper was a non-negotiable in the brief, but the brand also needed more colour, and ideally more of its pink, which was dominant on the website and social media but not visible on the packaging.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-never-thought-studio-rebranded-an-online-coffee-brand-for-retail/_2000xAUTO_crop_center-center_85_none/15589875/De-Koffiejongens-Never-Thought-Studio-11.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-never-thought-studio-rebranded-an-online-coffee-brand-for-retail/_2000xAUTO_crop_center-center_85_none/15589877/De-Koffiejongens-Never-Thought-Studio-13.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Never Thought Studio started with the logo, which it found dated and poorly aligned. The redrawn logo follows the layout of the old one, with the alignment corrected and the lettering modernised in Futura. Because it was already the identity’s typeface, the result didn’t feel like a different brand to De Koffiejongens’ founders. The brand had also launched in Germany, so the studio recreated the logo for its German name, following the same guidelines. Futura remains the headline typeface, now set in bold and uppercase only. “Changing it felt like too big a risk, as we didn’t want to lose recognition with their existing customers,” the co-founders explain. The studio introduced Agrandir Narrow alongside Futura to balance the typography. “It’s not the typical choice for body copy, but bringing the two together gave the brand communication much more character and made it a bit more playful, which worked well with the jester-like direction we were following,” the duo add, the jester being the archetype that the studio wanted for the brand’s personality."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-never-thought-studio-rebranded-an-online-coffee-brand-for-retail/De-Koffiejongens-Never-Thought-Studio-02.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The brand already gave each flavour its own colour. The studio kept that system but made the colours more vibrant, and adjusted the pink at the centre of the brand slightly so that it sits with the rest of the palette. Black type is replaced with a roasted coffee bean brown."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-never-thought-studio-rebranded-an-online-coffee-brand-for-retail/De-Koffiejongens-Never-Thought-Studio-07.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-never-thought-studio-rebranded-an-online-coffee-brand-for-retail/De-Koffiejongens-Never-Thought-Studio-08.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“We found the solution by accident, while experimenting with colour on the kraft paper,” the co-founders note. “We got inspired by the bento box grid that’s common in digital design. By building the front of the pack out of bento-style blocks, we could add more colour, including the pink, and create more visibility against the kraft base.” The front of each pack is split into two of those blocks using Fibonacci ratios, a set of mathematical proportions, with a larger block on top for the brand and a smaller one underneath for the flavour. “It fascinated me that there was real maths behind the composition of art,” Timo Kramp tells us. “It’s an invisible tool that makes the composition make sense.” Because the split is built on ratios rather than fixed sizes, it works across both the capsule boxes and the whole-bean bags. The top block is pink and stays the same across the range – the logo, speciality coffee label, European organic certification and product description."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-never-thought-studio-rebranded-an-online-coffee-brand-for-retail/De-Koffiejongens-Never-Thought-Studio-10.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-never-thought-studio-rebranded-an-online-coffee-brand-for-retail/De-Koffiejongens-Never-Thought-Studio-14.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "In the studio’s view, flavour is the first thing customers look for, so it sits at the top of the lower block. On the old packs, the intensity scale ran from one to 12 in small coffee beans, which took up space and became too small to read; it is now six circles, with half circles keeping the 12 steps. Each flavour block ends in a band of the roasted coffee bean brown, which represents the soil that the coffee is grown in, organically, on farms where the brand knows the farmers personally. Instead of a written number of cups, the band has a capsule silhouette with the number of cups inside it, which saves space for the flavour notes beside the silhouette. “Because the capsule sits in the soil-coloured block, it became a small easter egg: the biodegradable capsule going back into the ground,” the duo explain."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-never-thought-studio-rebranded-an-online-coffee-brand-for-retail/_2000xAUTO_crop_center-center_85_none/15589880/De-Koffiejongens-Never-Thought-Studio-16.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-never-thought-studio-rebranded-an-online-coffee-brand-for-retail/_2000xAUTO_crop_center-center_85_none/15589881/De-Koffiejongens-Never-Thought-Studio-17.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Hand-drawn illustrations on the packaging show the coffee’s journey, and they also appear on social media, on the website and in social ads. “Because most of our layout and typography solutions were modern and clean, we developed a hand-drawn illustration library that contrasts nicely with the overall clean look and connects more with the jester archetype,” the co-founders detail. “The brand has a playful and somewhat rebellious way of communicating on social media, in ads and in out-of-home campaigns, and we wanted illustrations that reflect that side of their identity.” Never Thought Studio also worked with CGI artist Jasper van Doorn on 3D renders of the packaging. “We wanted to build a bridge between the world the coffee comes from and the place where it ends up,” the duo add."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-never-thought-studio-rebranded-an-online-coffee-brand-for-retail/De-Koffiejongens-Never-Thought-Studio-22.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-never-thought-studio-rebranded-an-online-coffee-brand-for-retail/De-Koffiejongens-Never-Thought-Studio-27.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Across digital ads, social media and out-of-home campaigns, the identity uses labels, such as the Eerlijke Handel badge – Dutch for ‘honest trade’ – that work like stickers, with no strict rules for placement. That badge is set in a light green with the same contrast as the main pink. “Pink is the main brand colour, and we didn’t want a palette that would downplay it,” the co-founders conclude. “So instead of adding colours across the board, we chose one colour for one category: sustainability and honesty.”"
+        }
+      ],
+      "caseStudyText": "De Koffiejongens first sold its organic coffee online, by subscription, delivering compostable capsules to doormats across the Netherlands. Light pastel colours and kraft paper packaging made the brand recognisable, but when it moved into retail in 2025, the packaging did not change with it. On the shelf, the packs lacked readability, and their soft pastels faded against the dark packaging that dominated the coffee category.\n\nAmsterdam-based Never Thought Studio was commissioned to rebrand De Koffiejongens around a packaging system that would work in retail and reach a wider audience. The brief came with a condition – the brand could not lose its existing customers. The packaging launched in mid-September 2026 in more than 900 stores of Albert Heijn, the Dutch supermarket chain.\n\nThe brief came out of De Koffiejongens’ research, which showed that most of its customers liked the kraft paper that the brand had built its recognition on. Its customers are loyal and mostly in their fifties, with many of them finding the brand through targeted newspaper ads. The studio therefore treated the work as an evolution of the existing brand. “As De Koffiejongens grew up as an online subscription brand, we wanted to bring some of that feeling into the packaging,” Never Thought Studio’s Co-founders Noa and Timo Kramp tell us. “Kraft paper was a non-negotiable in the brief, but the brand also needed more colour, and ideally more of its pink, which was dominant on the website and social media but not visible on the packaging.”\n\nNever Thought Studio started with the logo, which it found dated and poorly aligned. The redrawn logo follows the layout of the old one, with the alignment corrected and the lettering modernised in Futura. Because it was already the identity’s typeface, the result didn’t feel like a different brand to De Koffiejongens’ founders. The brand had also launched in Germany, so the studio recreated the logo for its German name, following the same guidelines. Futura remains the headline typeface, now set in bold and uppercase only. “Changing it felt like too big a risk, as we didn’t want to lose recognition with their existing customers,” the co-founders explain. The studio introduced Agrandir Narrow alongside Futura to balance the typography. “It’s not the typical choice for body copy, but bringing the two together gave the brand communication much more character and made it a bit more playful, which worked well with the jester-like direction we were following,” the duo add, the jester being the archetype that the studio wanted for the brand’s personality.\n\nThe brand already gave each flavour its own colour. The studio kept that system but made the colours more vibrant, and adjusted the pink at the centre of the brand slightly so that it sits with the rest of the palette. Black type is replaced with a roasted coffee bean brown.\n\n“We found the solution by accident, while experimenting with colour on the kraft paper,” the co-founders note. “We got inspired by the bento box grid that’s common in digital design. By building the front of the pack out of bento-style blocks, we could add more colour, including the pink, and create more visibility against the kraft base.” The front of each pack is split into two of those blocks using Fibonacci ratios, a set of mathematical proportions, with a larger block on top for the brand and a smaller one underneath for the flavour. “It fascinated me that there was real maths behind the composition of art,” Timo Kramp tells us. “It’s an invisible tool that makes the composition make sense.” Because the split is built on ratios rather than fixed sizes, it works across both the capsule boxes and the whole-bean bags. The top block is pink and stays the same across the range – the logo, speciality coffee label, European organic certification and product description.\n\nIn the studio’s view, flavour is the first thing customers look for, so it sits at the top of the lower block. On the old packs, the intensity scale ran from one to 12 in small coffee beans, which took up space and became too small to read; it is now six circles, with half circles keeping the 12 steps. Each flavour block ends in a band of the roasted coffee bean brown, which represents the soil that the coffee is grown in, organically, on farms where the brand knows the farmers personally. Instead of a written number of cups, the band has a capsule silhouette with the number of cups inside it, which saves space for the flavour notes beside the silhouette. “Because the capsule sits in the soil-coloured block, it became a small easter egg: the biodegradable capsule going back into the ground,” the duo explain.\n\nHand-drawn illustrations on the packaging show the coffee’s journey, and they also appear on social media, on the website and in social ads. “Because most of our layout and typography solutions were modern and clean, we developed a hand-drawn illustration library that contrasts nicely with the overall clean look and connects more with the jester archetype,” the co-founders detail. “The brand has a playful and somewhat rebellious way of communicating on social media, in ads and in out-of-home campaigns, and we wanted illustrations that reflect that side of their identity.” Never Thought Studio also worked with CGI artist Jasper van Doorn on 3D renders of the packaging. “We wanted to build a bridge between the world the coffee comes from and the place where it ends up,” the duo add.\n\nAcross digital ads, social media and out-of-home campaigns, the identity uses labels, such as the Eerlijke Handel badge – Dutch for ‘honest trade’ – that work like stickers, with no strict rules for placement. That badge is set in a light green with the same contrast as the main pink. “Pink is the main brand colour, and we didn’t want a palette that would downplay it,” the co-founders conclude. “So instead of adding colours across the board, we chose one colour for one category: sustainability and honesty.”",
+      "caseStudyMedia": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-never-thought-studio-rebranded-an-online-coffee-brand-for-retail/_2000xAUTO_crop_center-center_85_none/15589864/De-Koffiejongens-Never-Thought-Studio-09.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-never-thought-studio-rebranded-an-online-coffee-brand-for-retail/_2000xAUTO_crop_center-center_85_none/15589883/De-Koffiejongens-Never-Thought-Studio-28.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-never-thought-studio-rebranded-an-online-coffee-brand-for-retail/De-Koffiejongens-Never-Thought-Studio-01.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-never-thought-studio-rebranded-an-online-coffee-brand-for-retail/_2000xAUTO_crop_center-center_85_none/15589875/De-Koffiejongens-Never-Thought-Studio-11.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-never-thought-studio-rebranded-an-online-coffee-brand-for-retail/_2000xAUTO_crop_center-center_85_none/15589877/De-Koffiejongens-Never-Thought-Studio-13.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-never-thought-studio-rebranded-an-online-coffee-brand-for-retail/De-Koffiejongens-Never-Thought-Studio-02.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-never-thought-studio-rebranded-an-online-coffee-brand-for-retail/De-Koffiejongens-Never-Thought-Studio-07.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-never-thought-studio-rebranded-an-online-coffee-brand-for-retail/De-Koffiejongens-Never-Thought-Studio-08.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-never-thought-studio-rebranded-an-online-coffee-brand-for-retail/De-Koffiejongens-Never-Thought-Studio-10.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-never-thought-studio-rebranded-an-online-coffee-brand-for-retail/De-Koffiejongens-Never-Thought-Studio-14.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-never-thought-studio-rebranded-an-online-coffee-brand-for-retail/_2000xAUTO_crop_center-center_85_none/15589880/De-Koffiejongens-Never-Thought-Studio-16.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-never-thought-studio-rebranded-an-online-coffee-brand-for-retail/_2000xAUTO_crop_center-center_85_none/15589881/De-Koffiejongens-Never-Thought-Studio-17.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-never-thought-studio-rebranded-an-online-coffee-brand-for-retail/De-Koffiejongens-Never-Thought-Studio-22.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-never-thought-studio-rebranded-an-online-coffee-brand-for-retail/De-Koffiejongens-Never-Thought-Studio-27.mp4"
+        }
+      ]
+    },
+    {
+      "canonicalUrl": "https://the-brandidentity.com/project/teamtailor-lets-teamwork-shape-its-identity-from-wordmark-to-symbol",
+      "titleOriginal": "Teamtailor lets teamwork shape its identity, from wordmark to symbol",
+      "textOriginal": "Since 2013, Teamtailor has created technology for the people responsible for hiring, from recruiters and hiring managers to the teams that they represent. To match its growth from a Swedish start-up into a global business, its in-house team redesigned the identity system – covering the wordmark, typography, colour, imagery and graphic elements, with Ermir Peci as Creative Director. “From the beginning, we saw this as an evolution rather than a reinvention,” he tells us. “Playfulness, warmth and personality were never things we wanted to grow out of, even as the company itself was growing up.”\n\nThe identity is rooted in Teamtailor’s brand idea, ‘For hiring people,’ which has a deliberate double meaning. Read one way, it names the people that the company builds its technology for. “For us, technology has never been about replacing the human element, but about creating more room for it,” explains Co-founder & CEO Erik Andersson. Read the other way, the phrase expresses a belief in people and the opportunities that come from bringing the right individuals together. “The idea also influenced how the identity works. Rather than creating a rigid system that depends on a small group of designers to maintain it, we’ve focused on building something that people across the organisation can understand, use and contribute to,” Peci notes.",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/_video-thumbnails/15588337.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/teamtailor-lets-teamwork-shape-its-identity-from-wordmark-to-symbol/Teamtailor-Teamtailor-01.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "Since 2013, Teamtailor has created technology for the people responsible for hiring, from recruiters and hiring managers to the teams that they represent. To match its growth from a Swedish start-up into a global business, its in-house team redesigned the identity system – covering the wordmark, typography, colour, imagery and graphic elements, with Ermir Peci as Creative Director. “From the beginning, we saw this as an evolution rather than a reinvention,” he tells us. “Playfulness, warmth and personality were never things we wanted to grow out of, even as the company itself was growing up.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/teamtailor-lets-teamwork-shape-its-identity-from-wordmark-to-symbol/_2000xAUTO_crop_center-center_85_none/15589100/Teamtailor-Teamtailor-10.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/teamtailor-lets-teamwork-shape-its-identity-from-wordmark-to-symbol/_2000xAUTO_crop_center-center_85_none/15589099/Teamtailor-Teamtailor-09.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The identity is rooted in Teamtailor’s brand idea, ‘For hiring people,’ which has a deliberate double meaning. Read one way, it names the people that the company builds its technology for. “For us, technology has never been about replacing the human element, but about creating more room for it,” explains Co-founder & CEO Erik Andersson. Read the other way, the phrase expresses a belief in people and the opportunities that come from bringing the right individuals together. “The idea also influenced how the identity works. Rather than creating a rigid system that depends on a small group of designers to maintain it, we’ve focused on building something that people across the organisation can understand, use and contribute to,” Peci notes."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/teamtailor-lets-teamwork-shape-its-identity-from-wordmark-to-symbol/_2000xAUTO_crop_center-center_85_none/15589101/Teamtailor-Teamtailor-11.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/teamtailor-lets-teamwork-shape-its-identity-from-wordmark-to-symbol/_2000xAUTO_crop_center-center_85_none/15588336/Teamtailor-Teamtailor-02.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The wordmark mixes upper and lowercase forms. “We found inspiration in two seemingly distant worlds: the historical character of handwritten lettering and the optimistic, almost romantic vision of the future expressed through technology and design during the Y2K era,” Peci details. The lowercase ‘m’ took the most exploration, going through more than 100 variations, but the wordmark’s character comes from the relationship between its letters – their proportions, spacing and rhythm, and the balance between ‘Team’ and ‘tailor.’ “There’s a natural connection to our belief in teamwork: no single letter defines the wordmark, just as no single individual defines a great team,” he adds. Teamtailor’s symbol pairs two mirrored ‘T’s, one for each half of the name, with neither taking precedence over the other. For Peci, the mirroring adds the idea that “what you put in is what you get back.” The symbol stands in for the wordmark where space is limited, such as the app icon, and appears on merchandise and simpler touchpoints."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/teamtailor-lets-teamwork-shape-its-identity-from-wordmark-to-symbol/Teamtailor-Teamtailor-12.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/teamtailor-lets-teamwork-shape-its-identity-from-wordmark-to-symbol/_2000xAUTO_crop_center-center_85_none/15588338/Teamtailor-Teamtailor-03.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Pink has been part of Teamtailor’s identity since the beginning. Over the years, the company has become known, in Peci’s words, as “the pink recruitment tech company,” so the colour stayed. “Letting go of it would have meant leaving behind something that genuinely sets us apart in our category,” he explains. The palette balances two sides of Teamtailor – the clarity, reliability and confidence of a technology company, and the warmth of a company built around people. Pink represents that warmth. Yellow brings optimism and energy, and an earthy brown adds depth, grounding the brighter colours. “How colours interact, create hierarchy and perform in different contexts became just as important as the colours themselves,” Peci observes."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/teamtailor-lets-teamwork-shape-its-identity-from-wordmark-to-symbol/_2000xAUTO_crop_center-center_85_none/15589103/Teamtailor-Teamtailor-13.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/teamtailor-lets-teamwork-shape-its-identity-from-wordmark-to-symbol/Teamtailor-Teamtailor-06.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "For the typography, the in-house team looked for a typeface that could be used across the brand and product and throughout the organisation. Peci points to “a sophistication to its construction” in Archivo, an open-source grotesque by Héctor Gatti at Omnibus-Type. It’s available through Google Fonts and in Google Workspace, so everyone at Teamtailor can set presentations, documents and everyday communication in the same typeface without specialised design tools. “We saw an opportunity to create something distinctive through how we use the typeface, rather than relying on the typeface itself to do all the work. For us, that meant leaning heavily into its lighter weights,” he explains."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/teamtailor-lets-teamwork-shape-its-identity-from-wordmark-to-symbol/_2000xAUTO_crop_center-center_85_none/15589104/Teamtailor-Teamtailor-14.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/teamtailor-lets-teamwork-shape-its-identity-from-wordmark-to-symbol/_2000xAUTO_crop_center-center_85_none/15589105/Teamtailor-Teamtailor-15.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The double meaning of ‘For hiring people’ also shows up in the imagery, which reflects both sides of hiring – the recruiters and the candidates. “We wanted the identity to feel human without becoming overly sentimental or illustrative,” Peci concludes."
+        }
+      ],
+      "caseStudyText": "Since 2013, Teamtailor has created technology for the people responsible for hiring, from recruiters and hiring managers to the teams that they represent. To match its growth from a Swedish start-up into a global business, its in-house team redesigned the identity system – covering the wordmark, typography, colour, imagery and graphic elements, with Ermir Peci as Creative Director. “From the beginning, we saw this as an evolution rather than a reinvention,” he tells us. “Playfulness, warmth and personality were never things we wanted to grow out of, even as the company itself was growing up.”\n\nThe identity is rooted in Teamtailor’s brand idea, ‘For hiring people,’ which has a deliberate double meaning. Read one way, it names the people that the company builds its technology for. “For us, technology has never been about replacing the human element, but about creating more room for it,” explains Co-founder & CEO Erik Andersson. Read the other way, the phrase expresses a belief in people and the opportunities that come from bringing the right individuals together. “The idea also influenced how the identity works. Rather than creating a rigid system that depends on a small group of designers to maintain it, we’ve focused on building something that people across the organisation can understand, use and contribute to,” Peci notes.\n\nThe wordmark mixes upper and lowercase forms. “We found inspiration in two seemingly distant worlds: the historical character of handwritten lettering and the optimistic, almost romantic vision of the future expressed through technology and design during the Y2K era,” Peci details. The lowercase ‘m’ took the most exploration, going through more than 100 variations, but the wordmark’s character comes from the relationship between its letters – their proportions, spacing and rhythm, and the balance between ‘Team’ and ‘tailor.’ “There’s a natural connection to our belief in teamwork: no single letter defines the wordmark, just as no single individual defines a great team,” he adds. Teamtailor’s symbol pairs two mirrored ‘T’s, one for each half of the name, with neither taking precedence over the other. For Peci, the mirroring adds the idea that “what you put in is what you get back.” The symbol stands in for the wordmark where space is limited, such as the app icon, and appears on merchandise and simpler touchpoints.\n\nPink has been part of Teamtailor’s identity since the beginning. Over the years, the company has become known, in Peci’s words, as “the pink recruitment tech company,” so the colour stayed. “Letting go of it would have meant leaving behind something that genuinely sets us apart in our category,” he explains. The palette balances two sides of Teamtailor – the clarity, reliability and confidence of a technology company, and the warmth of a company built around people. Pink represents that warmth. Yellow brings optimism and energy, and an earthy brown adds depth, grounding the brighter colours. “How colours interact, create hierarchy and perform in different contexts became just as important as the colours themselves,” Peci observes.\n\nFor the typography, the in-house team looked for a typeface that could be used across the brand and product and throughout the organisation. Peci points to “a sophistication to its construction” in Archivo, an open-source grotesque by Héctor Gatti at Omnibus-Type. It’s available through Google Fonts and in Google Workspace, so everyone at Teamtailor can set presentations, documents and everyday communication in the same typeface without specialised design tools. “We saw an opportunity to create something distinctive through how we use the typeface, rather than relying on the typeface itself to do all the work. For us, that meant leaning heavily into its lighter weights,” he explains.\n\nThe double meaning of ‘For hiring people’ also shows up in the imagery, which reflects both sides of hiring – the recruiters and the candidates. “We wanted the identity to feel human without becoming overly sentimental or illustrative,” Peci concludes.",
+      "caseStudyMedia": [
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/teamtailor-lets-teamwork-shape-its-identity-from-wordmark-to-symbol/Teamtailor-Teamtailor-01.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/teamtailor-lets-teamwork-shape-its-identity-from-wordmark-to-symbol/_2000xAUTO_crop_center-center_85_none/15589100/Teamtailor-Teamtailor-10.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/teamtailor-lets-teamwork-shape-its-identity-from-wordmark-to-symbol/_2000xAUTO_crop_center-center_85_none/15589099/Teamtailor-Teamtailor-09.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/teamtailor-lets-teamwork-shape-its-identity-from-wordmark-to-symbol/_2000xAUTO_crop_center-center_85_none/15589101/Teamtailor-Teamtailor-11.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/teamtailor-lets-teamwork-shape-its-identity-from-wordmark-to-symbol/_2000xAUTO_crop_center-center_85_none/15588336/Teamtailor-Teamtailor-02.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/teamtailor-lets-teamwork-shape-its-identity-from-wordmark-to-symbol/Teamtailor-Teamtailor-12.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/teamtailor-lets-teamwork-shape-its-identity-from-wordmark-to-symbol/_2000xAUTO_crop_center-center_85_none/15588338/Teamtailor-Teamtailor-03.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/teamtailor-lets-teamwork-shape-its-identity-from-wordmark-to-symbol/_2000xAUTO_crop_center-center_85_none/15589103/Teamtailor-Teamtailor-13.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/teamtailor-lets-teamwork-shape-its-identity-from-wordmark-to-symbol/Teamtailor-Teamtailor-06.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/teamtailor-lets-teamwork-shape-its-identity-from-wordmark-to-symbol/_2000xAUTO_crop_center-center_85_none/15589104/Teamtailor-Teamtailor-14.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/teamtailor-lets-teamwork-shape-its-identity-from-wordmark-to-symbol/_2000xAUTO_crop_center-center_85_none/15589105/Teamtailor-Teamtailor-15.webp"
+        }
+      ]
+    },
+    {
       "canonicalUrl": "https://the-brandidentity.com/project/how-kateryna-valterson-designed-y%C5%ABra-a-self-initiated-matcha-brand",
       "titleOriginal": "How Kateryna Valterson designed YŪRA, a self-initiated matcha brand",
       "textOriginal": "YŪRA is a self-initiated brand of ceremonial matcha, created by Germany-based brand and graphic designer Kateryna Valterson , who designed its identity, handwritten logotype, packaging, typography and layout.\n\n“It began as a response to the idea of matcha being seen as something purely traditional,” she explains. “Matcha has long travelled far beyond Japan and become part of everyday life around the world, and I wanted to capture exactly that feeling: a contemporary, modern kind of luxury that still respects the ceremony behind the tea. I’m always drawn to exploring unexpected, non-obvious combinations, and this project grew out of my own curiosity about how tradition and modernity can live inside one brand.”",
@@ -3991,227 +4302,6 @@ const snapshot={
         {
           "type": "video",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Copilot-Microsoft-Design-13-updated.mp4"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/saint-urbains-masani-pizza-identity-celebrates-the-family-that-owns-it",
-      "titleOriginal": "Saint-Urbain’s Masani Pizza identity celebrates the family that owns it",
-      "textOriginal": "Lillian Pizzeria had been an institution in Forest Hills, Queens, since 1972, and Mike Chau grew up going there with his family for Friday night dinner. He later moved back to Forest Hills and kept going to Lillian with his own children. A New York food personality, Chau has spent more than a decade documenting the city’s restaurants and runs two Instagram accounts: his personal @mikejchau and @foodbabyny, which is about New York City and his children. In 2026, he and his wife, Alexandra, bought the restaurant and renamed it as Masani Pizza , combining the names of their three children, Matty, Sammy and Nicky.\n\nTo design the identity, Chau turned to creative agency Saint-Urbain and its Founder & Creative Director, Alex Ostroff, who met the couple soon after moving to New York in 2014 and has known their children almost since they were born. The brief asked for a classic New York neighbourhood slice shop that respected Lillian Pizzeria while improving the perception of the pizza, ingredients and experience. Saint-Urbain’s remit covered strategy, positioning, copywriting, custom lettering, illustration, packaging, merchandise and signage. “For me, this whole project was a gift to my friend and his family. I wanted to create something they could have forever,” Ostroff tells us.",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/saint-urbains-masani-pizza-identity-celebrates-the-family-that-owns-it/Masani-Pizza-Saint-Urbain-01.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/saint-urbains-masani-pizza-identity-celebrates-the-family-that-owns-it/Masani-Pizza-Saint-Urbain-01.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "Lillian Pizzeria had been an institution in Forest Hills, Queens, since 1972, and Mike Chau grew up going there with his family for Friday night dinner. He later moved back to Forest Hills and kept going to Lillian with his own children. A New York food personality, Chau has spent more than a decade documenting the city’s restaurants and runs two Instagram accounts: his personal @mikejchau and @foodbabyny, which is about New York City and his children. In 2026, he and his wife, Alexandra, bought the restaurant and renamed it as Masani Pizza , combining the names of their three children, Matty, Sammy and Nicky."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/saint-urbains-masani-pizza-identity-celebrates-the-family-that-owns-it/Masani-Pizza-Saint-Urbain-13.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "To design the identity, Chau turned to creative agency Saint-Urbain and its Founder & Creative Director, Alex Ostroff, who met the couple soon after moving to New York in 2014 and has known their children almost since they were born. The brief asked for a classic New York neighbourhood slice shop that respected Lillian Pizzeria while improving the perception of the pizza, ingredients and experience. Saint-Urbain’s remit covered strategy, positioning, copywriting, custom lettering, illustration, packaging, merchandise and signage. “For me, this whole project was a gift to my friend and his family. I wanted to create something they could have forever,” Ostroff tells us."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/saint-urbains-masani-pizza-identity-celebrates-the-family-that-owns-it/Masani-Pizza-Saint-Urbain-14.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Mike loves 90s hip-hop, sneakers, streetwear and New York street culture, and he wanted that side of him in the identity. Although he had named the restaurant after his children, he was a little hesitant to lean too heavily on the family, not wanting the identity to feel like an extension of Food Baby or too cute or corny. “I think we challenged him on that a little, because to us, that was the most special thing about the restaurant,” Ostroff explains. The three children are part of the restaurant – Nicky helps fold pizza boxes, Sammy draws on the chalkboard and Matty comes round with his friends. From that, Saint-Urbain wrote the tagline ‘Masani Pizza. A Family Business.’ “It’s not the most novel tagline in the world, but it’s good because it’s true,” he adds. “We weren’t trying to manufacture a brand story. The story was already there.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/saint-urbains-masani-pizza-identity-celebrates-the-family-that-owns-it/Masani-Pizza-Saint-Urbain-15b.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/saint-urbains-masani-pizza-identity-celebrates-the-family-that-owns-it/Masani-Pizza-Saint-Urbain-16.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "For the visual direction, Saint-Urbain looked at historical pizza and fast-food identities, including the original Jack in the Box logo from the 70s, the old McPizza logo, Burger Chef and Pizza Hut, as well as posters from Forest Hills Stadium and old New York restaurant signage and commercial lettering. “We hate when brands just redo something from a long time ago,” Ostroff notes. “I think the way we avoided making it feel cliché was by making sure it felt as much like the family as possible.” Saint-Urbain’s type designer drew the Masani lettering from scratch, starting on paper, with flared, organic serif details that, in Ostroff’s words, “make the wordmark feel like a living thing, like a friendly restaurant.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/saint-urbains-masani-pizza-identity-celebrates-the-family-that-owns-it/Masani-Pizza-Saint-Urbain-Wordmark-Motion.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The agency paired the custom lettering with Pangram Pangram’s sans serif PP Neue York Normal, Typejockeys’ whimsical serif Firelli Bold and Heavyweight’s industrial-feeling HW Animo R350. “The main Masani wordmark is soft, warm and handmade, and these supporting fonts bring in that more contemporary, bold New York feeling,” Ostroff details. The colour came from Alexandra, who loved the idea of a dark red. “I think part of it was a reaction to the original restaurant, which she kept describing as very white, almost like a hospital,” he suggests. The palette uses a deeper burgundy rather than typical, bright pizzeria red."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/saint-urbains-masani-pizza-identity-celebrates-the-family-that-owns-it/Masani-Pizza-Saint-Urbain-18.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Matty, Sammy and Nicky appear on the side of the restaurant’s building, a block from where they live, in portraits that Saint-Urbain’s illustrator drew by hand from photographs on Ostroff’s phone and from the Food Baby Instagram account. Saint-Urbain updated some of the haircuts, which Alexandra noticed were wrong. “We wanted them to love the illustrations, recognise themselves and be excited when they point at the sign and show their friends,” he explains. On the shopfront, Saint-Urbain identified the typeface behind the old sign’s lettering, which read Lillian Pizza, and adapted that lettering to spell Masani Pizza, adding the letters it needed and adjusting the kerning. “I love that you can walk past this place and recognise something from the old restaurant, even though it’s a new business.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/saint-urbains-masani-pizza-identity-celebrates-the-family-that-owns-it/Masani-Pizza-Saint-Urbain-Signs-Motion.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The identity extends across three pizza box designs, individual pie packaging inspired by the little dessert pie boxes that McDonald’s used to sell, and an MP monogram that the family uses everywhere. Of the three creative directions that Saint-Urbain explored, the first – the warmest and most family-oriented – became the identity. The second direction was bolder, drawing on streetwear, sneakers and hip-hop, and Ostroff calls it “probably the most Mike of them all.” Its logo, inspired by the old McPizza lettering, appears on a frozen pizza box planned for a 2027 launch. The third, more experimental direction has graphic details that include a pizza lizard, and its logo is on a bomber jacket. “I think that’s one of the things that’s really fun about having an independent family-owned restaurant,” he tells us. “You can keep a strong core identity while having the freedom to experiment with other creative elements.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/saint-urbains-masani-pizza-identity-celebrates-the-family-that-owns-it/Masani-Pizza-Saint-Urbain-22b.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“There’s this expression in the restaurant industry – ‘friends and family.’ Restaurants have friends-and-family nights where they invite the people they care about most,” Ostroff concludes. “And that’s really what this project was. It was a friends-and-family project.”"
-        }
-      ],
-      "caseStudyText": "Lillian Pizzeria had been an institution in Forest Hills, Queens, since 1972, and Mike Chau grew up going there with his family for Friday night dinner. He later moved back to Forest Hills and kept going to Lillian with his own children. A New York food personality, Chau has spent more than a decade documenting the city’s restaurants and runs two Instagram accounts: his personal @mikejchau and @foodbabyny, which is about New York City and his children. In 2026, he and his wife, Alexandra, bought the restaurant and renamed it as Masani Pizza , combining the names of their three children, Matty, Sammy and Nicky.\n\nTo design the identity, Chau turned to creative agency Saint-Urbain and its Founder & Creative Director, Alex Ostroff, who met the couple soon after moving to New York in 2014 and has known their children almost since they were born. The brief asked for a classic New York neighbourhood slice shop that respected Lillian Pizzeria while improving the perception of the pizza, ingredients and experience. Saint-Urbain’s remit covered strategy, positioning, copywriting, custom lettering, illustration, packaging, merchandise and signage. “For me, this whole project was a gift to my friend and his family. I wanted to create something they could have forever,” Ostroff tells us.\n\nMike loves 90s hip-hop, sneakers, streetwear and New York street culture, and he wanted that side of him in the identity. Although he had named the restaurant after his children, he was a little hesitant to lean too heavily on the family, not wanting the identity to feel like an extension of Food Baby or too cute or corny. “I think we challenged him on that a little, because to us, that was the most special thing about the restaurant,” Ostroff explains. The three children are part of the restaurant – Nicky helps fold pizza boxes, Sammy draws on the chalkboard and Matty comes round with his friends. From that, Saint-Urbain wrote the tagline ‘Masani Pizza. A Family Business.’ “It’s not the most novel tagline in the world, but it’s good because it’s true,” he adds. “We weren’t trying to manufacture a brand story. The story was already there.”\n\nFor the visual direction, Saint-Urbain looked at historical pizza and fast-food identities, including the original Jack in the Box logo from the 70s, the old McPizza logo, Burger Chef and Pizza Hut, as well as posters from Forest Hills Stadium and old New York restaurant signage and commercial lettering. “We hate when brands just redo something from a long time ago,” Ostroff notes. “I think the way we avoided making it feel cliché was by making sure it felt as much like the family as possible.” Saint-Urbain’s type designer drew the Masani lettering from scratch, starting on paper, with flared, organic serif details that, in Ostroff’s words, “make the wordmark feel like a living thing, like a friendly restaurant.”\n\nThe agency paired the custom lettering with Pangram Pangram’s sans serif PP Neue York Normal, Typejockeys’ whimsical serif Firelli Bold and Heavyweight’s industrial-feeling HW Animo R350. “The main Masani wordmark is soft, warm and handmade, and these supporting fonts bring in that more contemporary, bold New York feeling,” Ostroff details. The colour came from Alexandra, who loved the idea of a dark red. “I think part of it was a reaction to the original restaurant, which she kept describing as very white, almost like a hospital,” he suggests. The palette uses a deeper burgundy rather than typical, bright pizzeria red.\n\nMatty, Sammy and Nicky appear on the side of the restaurant’s building, a block from where they live, in portraits that Saint-Urbain’s illustrator drew by hand from photographs on Ostroff’s phone and from the Food Baby Instagram account. Saint-Urbain updated some of the haircuts, which Alexandra noticed were wrong. “We wanted them to love the illustrations, recognise themselves and be excited when they point at the sign and show their friends,” he explains. On the shopfront, Saint-Urbain identified the typeface behind the old sign’s lettering, which read Lillian Pizza, and adapted that lettering to spell Masani Pizza, adding the letters it needed and adjusting the kerning. “I love that you can walk past this place and recognise something from the old restaurant, even though it’s a new business.”\n\nThe identity extends across three pizza box designs, individual pie packaging inspired by the little dessert pie boxes that McDonald’s used to sell, and an MP monogram that the family uses everywhere. Of the three creative directions that Saint-Urbain explored, the first – the warmest and most family-oriented – became the identity. The second direction was bolder, drawing on streetwear, sneakers and hip-hop, and Ostroff calls it “probably the most Mike of them all.” Its logo, inspired by the old McPizza lettering, appears on a frozen pizza box planned for a 2027 launch. The third, more experimental direction has graphic details that include a pizza lizard, and its logo is on a bomber jacket. “I think that’s one of the things that’s really fun about having an independent family-owned restaurant,” he tells us. “You can keep a strong core identity while having the freedom to experiment with other creative elements.”\n\n“There’s this expression in the restaurant industry – ‘friends and family.’ Restaurants have friends-and-family nights where they invite the people they care about most,” Ostroff concludes. “And that’s really what this project was. It was a friends-and-family project.”",
-      "caseStudyMedia": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/saint-urbains-masani-pizza-identity-celebrates-the-family-that-owns-it/Masani-Pizza-Saint-Urbain-01.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/saint-urbains-masani-pizza-identity-celebrates-the-family-that-owns-it/Masani-Pizza-Saint-Urbain-13.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/saint-urbains-masani-pizza-identity-celebrates-the-family-that-owns-it/Masani-Pizza-Saint-Urbain-14.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/saint-urbains-masani-pizza-identity-celebrates-the-family-that-owns-it/Masani-Pizza-Saint-Urbain-15b.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/saint-urbains-masani-pizza-identity-celebrates-the-family-that-owns-it/Masani-Pizza-Saint-Urbain-16.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/saint-urbains-masani-pizza-identity-celebrates-the-family-that-owns-it/Masani-Pizza-Saint-Urbain-Wordmark-Motion.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/saint-urbains-masani-pizza-identity-celebrates-the-family-that-owns-it/Masani-Pizza-Saint-Urbain-18.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/saint-urbains-masani-pizza-identity-celebrates-the-family-that-owns-it/Masani-Pizza-Saint-Urbain-Signs-Motion.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/saint-urbains-masani-pizza-identity-celebrates-the-family-that-owns-it/Masani-Pizza-Saint-Urbain-22b.jpg"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/eder-anaya-makes-inheriteds-ep-cover-a-microsite-you-can-investigate",
-      "titleOriginal": "Eder Anaya makes Inherited’s EP cover a microsite you can investigate",
-      "textOriginal": "Inherited is a deathcore band, whose debut EP – Me, Myself & Sam – features three songs that each refer to a different known serial killer. Eder Anaya – vocalist and creative art director – conceived its release as an investigation in which the audience works out the character behind each song. The clues are spread across social media and a promotional film, and lead to an interactive microsite that is also the album cover.\n\n“What if an album release behaved like a case file?” The Mexico City-based designer asks. The release borrows from the language of police investigations and contemporary true-crime documentaries – evidence, reconstruction, identification, discovery and the gradual understanding of a character. Anaya stresses that the subject matter is not intended to glorify the killers. He also wanted to challenge the visual language that usually comes with deathcore, which he describes as aggression, darkness, distortion, gore, chaos and extreme imagery. “The heaviness can come from the entire experience,” he tells us, pointing to the pacing, sound, typography, editing, interface and evidence, and to the tension created by not knowing the answer.",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/eder-anaya-makes-inheriteds-ep-cover-a-microsite-you-can-investigate/Me-Myself-Sam-EP-Release-Eder-Anaya-01.mp4.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/eder-anaya-makes-inheriteds-ep-cover-a-microsite-you-can-investigate/Me-Myself-Sam-EP-Release-Eder-Anaya-01.mp4.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "Inherited is a deathcore band, whose debut EP – Me, Myself & Sam – features three songs that each refer to a different known serial killer. Eder Anaya – vocalist and creative art director – conceived its release as an investigation in which the audience works out the character behind each song. The clues are spread across social media and a promotional film, and lead to an interactive microsite that is also the album cover."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/eder-anaya-makes-inheriteds-ep-cover-a-microsite-you-can-investigate/Me-Myself-Sam-EP-Release-Eder-Anaya-02.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“What if an album release behaved like a case file?” The Mexico City-based designer asks. The release borrows from the language of police investigations and contemporary true-crime documentaries – evidence, reconstruction, identification, discovery and the gradual understanding of a character. Anaya stresses that the subject matter is not intended to glorify the killers. He also wanted to challenge the visual language that usually comes with deathcore, which he describes as aggression, darkness, distortion, gore, chaos and extreme imagery. “The heaviness can come from the entire experience,” he tells us, pointing to the pacing, sound, typography, editing, interface and evidence, and to the tension created by not knowing the answer."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/eder-anaya-makes-inheriteds-ep-cover-a-microsite-you-can-investigate/Me-Myself-Sam-EP-Release-Eder-Anaya-03.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The identities behind the three songs are held back, so the audience meets them in fragments, such as a photograph on social media, a document or a detail in the film. The promotional film takes its cue from the opening of a true-crime documentary or television series, introducing evidence progressively so the audience can start making connections before everything is explicitly revealed. Anaya animated its material to keep the documentary atmosphere of the project, then built the final piece through editing, compositing, texture work and VFX. The faces, photographs and names that appeared across the pre-launch communication reappear in the film and lead back to the cover. “The film doesn’t explain the website,” he notes. “It gives you a reason to look for it.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/eder-anaya-makes-inheriteds-ep-cover-a-microsite-you-can-investigate/Me-Myself-Sam-EP-Release-Eder-Anaya-04.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The microsite is a police investigation board, and the board is the album cover. “I didn’t want the cover to simply represent the record visually. I wanted the cover itself to become something you could enter and explore,” Anaya explains. The photographs, names, documents, objects and drawn elements on the board were created for the project to build a fictional investigation around the three characters, and the relationships between the objects form the clues that lead to them. “The board needed to feel discovered rather than perfectly composed,” he details. The portraits were drawn “to feel like forensic evidence.” The photographs and documents were scanned, distressed, cropped, annotated and layered into the board. Paper texture, handwriting and photocopy artefacts make it feel collected and handled. The material was made with pencils and paper alongside Procreate, Photoshop, Cinema 4D and After Effects. The labels, case numbers and names on the board are set in Klim Type Foundry’s sans serif Founders Grotesk in a restrained hierarchy. Anaya chose it for the campaign’s first phase because it evokes vintage police evidence, and it remains the primary typeface for this release, appearing in the film as titles and identifiers."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/eder-anaya-makes-inheriteds-ep-cover-a-microsite-you-can-investigate/Me-Myself-Sam-EP-Release-Eder-Anaya-06.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/eder-anaya-makes-inheriteds-ep-cover-a-microsite-you-can-investigate/Me-Myself-Sam-EP-Release-Eder-Anaya-07.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "A memorama, a matching game in which pieces of evidence have to be connected, sits at the centre of the board. “We took the cover and broke the characters into fragments, turning something that would normally be static into something the audience has to actively put back together,” Anaya tells us. The board itself is the interface, and its pieces behave like evidence that can be dragged, tapped and matched on desktop and mobile. The microsite was made with the web tools three.js, SvelteKit and GSAP, alongside the 3D software Blender. Visitors are asked to turn their audio on before entering the case, and clicks, movement, atmosphere and musical fragments then build the tension and rhythm of the investigation. Matching the pieces gradually reveals the face hidden underneath. Once it is reconstructed, the character can be identified and their file opens, leading on to their song. Each song is written from its character’s first-person perspective. “You don’t simply discover the character; you eventually hear them through the song,” he concludes."
-        }
-      ],
-      "caseStudyText": "Inherited is a deathcore band, whose debut EP – Me, Myself & Sam – features three songs that each refer to a different known serial killer. Eder Anaya – vocalist and creative art director – conceived its release as an investigation in which the audience works out the character behind each song. The clues are spread across social media and a promotional film, and lead to an interactive microsite that is also the album cover.\n\n“What if an album release behaved like a case file?” The Mexico City-based designer asks. The release borrows from the language of police investigations and contemporary true-crime documentaries – evidence, reconstruction, identification, discovery and the gradual understanding of a character. Anaya stresses that the subject matter is not intended to glorify the killers. He also wanted to challenge the visual language that usually comes with deathcore, which he describes as aggression, darkness, distortion, gore, chaos and extreme imagery. “The heaviness can come from the entire experience,” he tells us, pointing to the pacing, sound, typography, editing, interface and evidence, and to the tension created by not knowing the answer.\n\nThe identities behind the three songs are held back, so the audience meets them in fragments, such as a photograph on social media, a document or a detail in the film. The promotional film takes its cue from the opening of a true-crime documentary or television series, introducing evidence progressively so the audience can start making connections before everything is explicitly revealed. Anaya animated its material to keep the documentary atmosphere of the project, then built the final piece through editing, compositing, texture work and VFX. The faces, photographs and names that appeared across the pre-launch communication reappear in the film and lead back to the cover. “The film doesn’t explain the website,” he notes. “It gives you a reason to look for it.”\n\nThe microsite is a police investigation board, and the board is the album cover. “I didn’t want the cover to simply represent the record visually. I wanted the cover itself to become something you could enter and explore,” Anaya explains. The photographs, names, documents, objects and drawn elements on the board were created for the project to build a fictional investigation around the three characters, and the relationships between the objects form the clues that lead to them. “The board needed to feel discovered rather than perfectly composed,” he details. The portraits were drawn “to feel like forensic evidence.” The photographs and documents were scanned, distressed, cropped, annotated and layered into the board. Paper texture, handwriting and photocopy artefacts make it feel collected and handled. The material was made with pencils and paper alongside Procreate, Photoshop, Cinema 4D and After Effects. The labels, case numbers and names on the board are set in Klim Type Foundry’s sans serif Founders Grotesk in a restrained hierarchy. Anaya chose it for the campaign’s first phase because it evokes vintage police evidence, and it remains the primary typeface for this release, appearing in the film as titles and identifiers.\n\nA memorama, a matching game in which pieces of evidence have to be connected, sits at the centre of the board. “We took the cover and broke the characters into fragments, turning something that would normally be static into something the audience has to actively put back together,” Anaya tells us. The board itself is the interface, and its pieces behave like evidence that can be dragged, tapped and matched on desktop and mobile. The microsite was made with the web tools three.js, SvelteKit and GSAP, alongside the 3D software Blender. Visitors are asked to turn their audio on before entering the case, and clicks, movement, atmosphere and musical fragments then build the tension and rhythm of the investigation. Matching the pieces gradually reveals the face hidden underneath. Once it is reconstructed, the character can be identified and their file opens, leading on to their song. Each song is written from its character’s first-person perspective. “You don’t simply discover the character; you eventually hear them through the song,” he concludes.",
-      "caseStudyMedia": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/eder-anaya-makes-inheriteds-ep-cover-a-microsite-you-can-investigate/Me-Myself-Sam-EP-Release-Eder-Anaya-01.mp4.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/eder-anaya-makes-inheriteds-ep-cover-a-microsite-you-can-investigate/Me-Myself-Sam-EP-Release-Eder-Anaya-02.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/eder-anaya-makes-inheriteds-ep-cover-a-microsite-you-can-investigate/Me-Myself-Sam-EP-Release-Eder-Anaya-03.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/eder-anaya-makes-inheriteds-ep-cover-a-microsite-you-can-investigate/Me-Myself-Sam-EP-Release-Eder-Anaya-04.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/eder-anaya-makes-inheriteds-ep-cover-a-microsite-you-can-investigate/Me-Myself-Sam-EP-Release-Eder-Anaya-06.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/eder-anaya-makes-inheriteds-ep-cover-a-microsite-you-can-investigate/Me-Myself-Sam-EP-Release-Eder-Anaya-07.jpg"
         }
       ]
     }
