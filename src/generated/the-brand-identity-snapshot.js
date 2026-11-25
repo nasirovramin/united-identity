@@ -7,6 +7,154 @@ const snapshot={
   },
   "items": [
     {
+      "canonicalUrl": "https://the-brandidentity.com/project/saint-urbains-identity-for-casa-macha-began-as-chilli-oil-on-a-desk",
+      "titleOriginal": "Saint-Urbain’s identity for Casa Macha began as chilli oil on a desk",
+      "textOriginal": "Casa Macha is a brand of salsa macha—a Mexican condiment made from oil, nuts and chillies—that grew from chef and co-founder Alejandro Silva’s interest in a miso peanut recipe. The salsa was bottled in a collaboration with LA clothing brand Brain Dead, and demand continued after his pop-up, Metztli Taqueria, closed. “Our Miso Peanut salsa macha had been developed, tested and built a cult following,” says co-founder Melissa Cohn. Silva was introduced to Saint-Urbain through an existing client; he had been the chef at one of that client’s restaurants. The global creative agency was commissioned to create the identity, packaging system, collateral, merchandise, illustrations and digital assets.\n\nInspired by the way Italian and Mediterranean cuisines riff on a traditional base of oil, herbs and garlic for salsas such as salsa verde and pistou, Silva applied the same method to salsa macha, experimenting with unexpected pairings on its traditional base. “He pulls on memory when creating new flavour combinations. Childhood memories for the tradition, but then new memories from his wide variety of chef roles, tasting ingredients at farmers’ markets and travels to new countries. Ultimately, it’s a little bit of an art and a little bit of a science, and a lot of instinct,” Cohn details. The first two flavours are Miso Peanut and Onion Jam, another original, which was a key ingredient in Silva’s signature dish at the pop-up.",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/saint-urbains-identity-for-casa-macha-began-as-chilli-oil-on-a-desk/Casa-Macha-Saint-Urbain-01.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/saint-urbains-identity-for-casa-macha-began-as-chilli-oil-on-a-desk/_2000xAUTO_crop_center-center_85_none/15590962/Casa-Macha-Saint-Urbain-01.webp"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "Casa Macha is a brand of salsa macha—a Mexican condiment made from oil, nuts and chillies—that grew from chef and co-founder Alejandro Silva’s interest in a miso peanut recipe. The salsa was bottled in a collaboration with LA clothing brand Brain Dead, and demand continued after his pop-up, Metztli Taqueria, closed. “Our Miso Peanut salsa macha had been developed, tested and built a cult following,” says co-founder Melissa Cohn. Silva was introduced to Saint-Urbain through an existing client; he had been the chef at one of that client’s restaurants. The global creative agency was commissioned to create the identity, packaging system, collateral, merchandise, illustrations and digital assets."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/saint-urbains-identity-for-casa-macha-began-as-chilli-oil-on-a-desk/_2000xAUTO_crop_center-center_85_none/15590970/Casa-Macha-Saint-Urbain-08.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Inspired by the way Italian and Mediterranean cuisines riff on a traditional base of oil, herbs and garlic for salsas such as salsa verde and pistou, Silva applied the same method to salsa macha, experimenting with unexpected pairings on its traditional base. “He pulls on memory when creating new flavour combinations. Childhood memories for the tradition, but then new memories from his wide variety of chef roles, tasting ingredients at farmers’ markets and travels to new countries. Ultimately, it’s a little bit of an art and a little bit of a science, and a lot of instinct,” Cohn details. The first two flavours are Miso Peanut and Onion Jam, another original, which was a key ingredient in Silva’s signature dish at the pop-up."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/saint-urbains-identity-for-casa-macha-began-as-chilli-oil-on-a-desk/_2000xAUTO_crop_center-center_85_none/15590967/Casa-Macha-Saint-Urbain-05.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Planned as a core range of sauces alongside unusual flavours, limited releases and chef collaborations, Casa Macha asked Saint-Urbain for “an identity for a jarred salsa macha that felt like a modern expression of tradition,” Cohn tells us. The brief also asked for shelf presence that could compete with much bigger condiment brands, and for people to see that salsa macha isn’t only for Mexican food. “We wanted to avoid leaning too heavily on familiar Mexican iconography since the name Casa Macha was already doing some of that heavy lifting,” she adds. “We were interested in the same thing that made the product exciting: it was rooted in a traditional Mexican condiment, but Alejandro wasn’t treating that tradition as a limitation,” explains Saint-Urbain’s Founder & Creative Director Alex Ostroff. “The product had so much texture and personality already,” he notes. “The most interesting direction was to let those qualities inform the graphics: something immediate, a little unruly and unmistakably its own thing.”"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/saint-urbains-identity-for-casa-macha-began-as-chilli-oil-on-a-desk/Casa-Macha-Saint-Urbain-00.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“The idea of an oily, flowing logo came to us pretty much right away,” Ostroff recalls. “We knew we wanted the lettering to feel like the sauce, with irregular forms and a sense of movement. What we didn’t anticipate was that we’d literally end up pouring chilli oil onto a desk and making the wordmark with it.” The poured letters were a starting point rather than a finished logo, so the agency refined and redrew them to reproduce reliably, keeping the drips, pooled edges and strange irregularities. The challenge, he tells us, was making the wordmark functional “without cleaning away the thing that made it interesting.”"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/saint-urbains-identity-for-casa-macha-began-as-chilli-oil-on-a-desk/Casa-Macha-Saint-Urbain-06.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“The wordmark already does a lot of the expressive work, so the rest of the typography needed to provide some structure,” Ostroff explains. Displaay’s narrow sans serif Perfektta sets the compact type for “the product names, ingredients, batch details and other information that has to work at a much smaller scale on a jar,” while Dinamo’s ABC Stefan, based on artist Stefan Marx’s handwriting, sets hand-drawn lines of text and the seal around the jar’s neck. “What I like about that contrast is that the identity doesn’t rely on every single element being loud. There’s room for straightforward, functional information alongside the much more irregular wordmark, and the two bring out the best in each other,” he adds."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/saint-urbains-identity-for-casa-macha-began-as-chilli-oil-on-a-desk/_2000xAUTO_crop_center-center_85_none/15590969/Casa-Macha-Saint-Urbain-07.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Casa Macha’s founders looked “to the colourful architecture of Luis Barragán for inspiration, exploring bold colour pairings that could distinguish each unique salsa flavour while still feeling part of the same brand family,” Cohn notes. On the jar, an intense yellow sits against the dark lettering for the shelf presence the brief asked for, with the deep reds and browns of the sauce showing through the glass. A wider palette of oranges, reds, purples, greens and warmer neutrals gives the different flavours and collaborations colours of their own."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/saint-urbains-identity-for-casa-macha-began-as-chilli-oil-on-a-desk/Casa-Macha-Saint-Urbain-09.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The main jar labels come in two arrangements. “The logo has a lot of presence, but the product name, ingredients and practical details still need to be easy to find. There’s a nice push and pull between those two needs,” Ostroff details. The graphics also appear on tall wraparound labels, neck seals and circular lid labels, and the main label has room for a collaborator’s name. “The important part was creating a recognisable system, not designing one beautiful jar that couldn’t accommodate another product.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/saint-urbains-identity-for-casa-macha-began-as-chilli-oil-on-a-desk/_2000xAUTO_crop_center-center_85_none/15590963/Casa-Macha-Saint-Urbain-02.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/saint-urbains-identity-for-casa-macha-began-as-chilli-oil-on-a-desk/_2000xAUTO_crop_center-center_85_none/15590965/Casa-Macha-Saint-Urbain-03.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The brand’s character is a chupacabra. Ostroff and Design Director Genaro Garmilla share a long-running inside joke about the creatures, and when Garmilla is sick, Ostroff will “sometimes tell clients he’s been bitten by a chupacabra.” “During the project, we pretty randomly decided to make one into the mascot,” he continues. “I love that it’s this slightly forgotten piece of folklore, almost like an urban legend that 90s kids grew up hearing about.” The client found it hilarious. Ostroff describes the illustration as “strange but oddly charming, especially with the little spoon.” The character works at a tiny scale on the jar and on its own on a hat or t-shirt."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/saint-urbains-identity-for-casa-macha-began-as-chilli-oil-on-a-desk/_2000xAUTO_crop_center-center_85_none/15590964/Casa-Macha-Saint-Urbain-11.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Beyond the jar, the identity covers posters, social content and close-up photography showing the sauce on all kinds of food. “The big wordmark works almost like an image on its own,” Ostroff observes."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“Honestly, this was one of those unusually easy, trusting projects. The client loved our work and wanted us to go with our instincts. They weren’t asking us to sand off the weird edges or justify every decision,” Ostroff tells us. “When we presented the identity, they were sold. Zero notes. We got there in the first round,” he adds. “We took the product seriously, but we weren’t afraid to have fun making the brand.”"
+        }
+      ],
+      "caseStudyText": "Casa Macha is a brand of salsa macha—a Mexican condiment made from oil, nuts and chillies—that grew from chef and co-founder Alejandro Silva’s interest in a miso peanut recipe. The salsa was bottled in a collaboration with LA clothing brand Brain Dead, and demand continued after his pop-up, Metztli Taqueria, closed. “Our Miso Peanut salsa macha had been developed, tested and built a cult following,” says co-founder Melissa Cohn. Silva was introduced to Saint-Urbain through an existing client; he had been the chef at one of that client’s restaurants. The global creative agency was commissioned to create the identity, packaging system, collateral, merchandise, illustrations and digital assets.\n\nInspired by the way Italian and Mediterranean cuisines riff on a traditional base of oil, herbs and garlic for salsas such as salsa verde and pistou, Silva applied the same method to salsa macha, experimenting with unexpected pairings on its traditional base. “He pulls on memory when creating new flavour combinations. Childhood memories for the tradition, but then new memories from his wide variety of chef roles, tasting ingredients at farmers’ markets and travels to new countries. Ultimately, it’s a little bit of an art and a little bit of a science, and a lot of instinct,” Cohn details. The first two flavours are Miso Peanut and Onion Jam, another original, which was a key ingredient in Silva’s signature dish at the pop-up.\n\nPlanned as a core range of sauces alongside unusual flavours, limited releases and chef collaborations, Casa Macha asked Saint-Urbain for “an identity for a jarred salsa macha that felt like a modern expression of tradition,” Cohn tells us. The brief also asked for shelf presence that could compete with much bigger condiment brands, and for people to see that salsa macha isn’t only for Mexican food. “We wanted to avoid leaning too heavily on familiar Mexican iconography since the name Casa Macha was already doing some of that heavy lifting,” she adds. “We were interested in the same thing that made the product exciting: it was rooted in a traditional Mexican condiment, but Alejandro wasn’t treating that tradition as a limitation,” explains Saint-Urbain’s Founder & Creative Director Alex Ostroff. “The product had so much texture and personality already,” he notes. “The most interesting direction was to let those qualities inform the graphics: something immediate, a little unruly and unmistakably its own thing.”\n\n“The idea of an oily, flowing logo came to us pretty much right away,” Ostroff recalls. “We knew we wanted the lettering to feel like the sauce, with irregular forms and a sense of movement. What we didn’t anticipate was that we’d literally end up pouring chilli oil onto a desk and making the wordmark with it.” The poured letters were a starting point rather than a finished logo, so the agency refined and redrew them to reproduce reliably, keeping the drips, pooled edges and strange irregularities. The challenge, he tells us, was making the wordmark functional “without cleaning away the thing that made it interesting.”\n\n“The wordmark already does a lot of the expressive work, so the rest of the typography needed to provide some structure,” Ostroff explains. Displaay’s narrow sans serif Perfektta sets the compact type for “the product names, ingredients, batch details and other information that has to work at a much smaller scale on a jar,” while Dinamo’s ABC Stefan, based on artist Stefan Marx’s handwriting, sets hand-drawn lines of text and the seal around the jar’s neck. “What I like about that contrast is that the identity doesn’t rely on every single element being loud. There’s room for straightforward, functional information alongside the much more irregular wordmark, and the two bring out the best in each other,” he adds.\n\nCasa Macha’s founders looked “to the colourful architecture of Luis Barragán for inspiration, exploring bold colour pairings that could distinguish each unique salsa flavour while still feeling part of the same brand family,” Cohn notes. On the jar, an intense yellow sits against the dark lettering for the shelf presence the brief asked for, with the deep reds and browns of the sauce showing through the glass. A wider palette of oranges, reds, purples, greens and warmer neutrals gives the different flavours and collaborations colours of their own.\n\nThe main jar labels come in two arrangements. “The logo has a lot of presence, but the product name, ingredients and practical details still need to be easy to find. There’s a nice push and pull between those two needs,” Ostroff details. The graphics also appear on tall wraparound labels, neck seals and circular lid labels, and the main label has room for a collaborator’s name. “The important part was creating a recognisable system, not designing one beautiful jar that couldn’t accommodate another product.”\n\nThe brand’s character is a chupacabra. Ostroff and Design Director Genaro Garmilla share a long-running inside joke about the creatures, and when Garmilla is sick, Ostroff will “sometimes tell clients he’s been bitten by a chupacabra.” “During the project, we pretty randomly decided to make one into the mascot,” he continues. “I love that it’s this slightly forgotten piece of folklore, almost like an urban legend that 90s kids grew up hearing about.” The client found it hilarious. Ostroff describes the illustration as “strange but oddly charming, especially with the little spoon.” The character works at a tiny scale on the jar and on its own on a hat or t-shirt.\n\nBeyond the jar, the identity covers posters, social content and close-up photography showing the sauce on all kinds of food. “The big wordmark works almost like an image on its own,” Ostroff observes.\n\n“Honestly, this was one of those unusually easy, trusting projects. The client loved our work and wanted us to go with our instincts. They weren’t asking us to sand off the weird edges or justify every decision,” Ostroff tells us. “When we presented the identity, they were sold. Zero notes. We got there in the first round,” he adds. “We took the product seriously, but we weren’t afraid to have fun making the brand.”",
+      "caseStudyMedia": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/saint-urbains-identity-for-casa-macha-began-as-chilli-oil-on-a-desk/_2000xAUTO_crop_center-center_85_none/15590962/Casa-Macha-Saint-Urbain-01.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/saint-urbains-identity-for-casa-macha-began-as-chilli-oil-on-a-desk/_2000xAUTO_crop_center-center_85_none/15590970/Casa-Macha-Saint-Urbain-08.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/saint-urbains-identity-for-casa-macha-began-as-chilli-oil-on-a-desk/_2000xAUTO_crop_center-center_85_none/15590967/Casa-Macha-Saint-Urbain-05.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/saint-urbains-identity-for-casa-macha-began-as-chilli-oil-on-a-desk/Casa-Macha-Saint-Urbain-00.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/saint-urbains-identity-for-casa-macha-began-as-chilli-oil-on-a-desk/Casa-Macha-Saint-Urbain-06.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/saint-urbains-identity-for-casa-macha-began-as-chilli-oil-on-a-desk/_2000xAUTO_crop_center-center_85_none/15590969/Casa-Macha-Saint-Urbain-07.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/saint-urbains-identity-for-casa-macha-began-as-chilli-oil-on-a-desk/Casa-Macha-Saint-Urbain-09.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/saint-urbains-identity-for-casa-macha-began-as-chilli-oil-on-a-desk/_2000xAUTO_crop_center-center_85_none/15590963/Casa-Macha-Saint-Urbain-02.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/saint-urbains-identity-for-casa-macha-began-as-chilli-oil-on-a-desk/_2000xAUTO_crop_center-center_85_none/15590965/Casa-Macha-Saint-Urbain-03.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/saint-urbains-identity-for-casa-macha-began-as-chilli-oil-on-a-desk/_2000xAUTO_crop_center-center_85_none/15590964/Casa-Macha-Saint-Urbain-11.webp"
+        }
+      ]
+    },
+    {
       "canonicalUrl": "https://the-brandidentity.com/project/how-never-thought-studio-rebranded-an-online-coffee-brand-for-retail",
       "titleOriginal": "How Never Thought Studio rebranded an online coffee brand for retail",
       "textOriginal": "De Koffiejongens first sold its organic coffee online, by subscription, delivering compostable capsules to doormats across the Netherlands. Light pastel colours and kraft paper packaging made the brand recognisable, but when it moved into retail in 2025, the packaging did not change with it. On the shelf, the packs lacked readability, and their soft pastels faded against the dark packaging that dominated the coffee category.\n\nAmsterdam-based Never Thought Studio was commissioned to rebrand De Koffiejongens around a packaging system that would work in retail and reach a wider audience. The brief came with a condition – the brand could not lose its existing customers. The packaging launched in mid-September 2026 in more than 900 stores of Albert Heijn, the Dutch supermarket chain.",
@@ -4112,196 +4260,6 @@ const snapshot={
         {
           "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/The-New-York-Times-175-The-New-York-Times-16.jpg"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work",
-      "titleOriginal": "Microsoft’s identity for Copilot positions it as a tool for work",
-      "textOriginal": "Microsoft has spent 50 years building the tools people use to work. So, when redesigning Copilot’s identity, the team began by asking what distinctly Microsoft point of view on work it should express. Microsoft’s in-house teams led the redesign – bringing in COLLINS to explore the mark and Koto to help expand it into the wider identity – from imagery and colour to composition and product representations.\n\nEveryone’s work spans apps, documents, websites and conversations, which at times, can be exhilarating and deeply satisfying; at others, intense, frustrating and exhausting. Often in a single day. Guided by Microsoft’s principles, which put people before technology, the new identity presents Copilot as a partner in that reality, helping people feel smarter and more capable at work.",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-01.png"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-01.png"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "Microsoft has spent 50 years building the tools people use to work. So, when redesigning Copilot’s identity, the team began by asking what distinctly Microsoft point of view on work it should express. Microsoft’s in-house teams led the redesign – bringing in COLLINS to explore the mark and Koto to help expand it into the wider identity – from imagery and colour to composition and product representations."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-02.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Everyone’s work spans apps, documents, websites and conversations, which at times, can be exhilarating and deeply satisfying; at others, intense, frustrating and exhausting. Often in a single day. Guided by Microsoft’s principles, which put people before technology, the new identity presents Copilot as a partner in that reality, helping people feel smarter and more capable at work."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-03.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The identity’s foundational idea is ‘the power of things coming together,’ and three principles put it to work, guiding the team wherever the brand guidelines give no literal answer. The first, ‘click into place,’ expresses the idea most directly, using collage, overlap and composition to bring documents, context and work together. ‘Intelligence with ease’ brings simplicity and calm to the complexity of work through sophisticated palettes and considered compositions, and ‘lightness with wit’ introduces moments of humour, surprise and delight. The brand also works as one system across product and marketing, so the same gestures, colours, patterns and behaviours appear across type, illustration, UI, notifications, motion, photography and advertising. “This identity is pure, simple and true, and that’s its strength. The product doesn’t need marketing to invent a world around it, and marketing doesn’t need to exaggerate what the product is,” notes Microsoft’s GM, Global Brand & Creative, Sven Seger."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-04.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The previous icon was a recognisable part of Copilot, but it stayed still while Copilot worked through a request, even though much of the experience happens between a question and its response. “What if the icon could join the conversation?” asks Microsoft’s VP of Product Design & Creative Lucas Fitzpatrick. If the mark was going to move, it had to stay unmistakably Copilot in every frame, so the designers returned to the fundamental geometry of Microsoft’s visual language, exploring what could happen when simple forms came together and moved in relation to one another."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-05.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Working with COLLINS, the team tested many proportions, angles and spacings before settling on two distinct forms that create a single silhouette and can separate, shift and reconnect without losing their relationship. The forms lean at 14°, with corners rounded at radii of 55px and 75px. The studio, which developed the mark and its foundational motion behaviour, describes the two shapes as a nod to the geometry of the main Microsoft logo, which it worked on years ago, and to the two kinds of intelligence that Copilot brings together – human and technological. Microsoft’s in-house teams then worked closely with COLLINS to refine the mark to its final state. Like the mark’s two forms, the typography pairs Segoe Sans, Microsoft’s familiar humanist typeface, with Segoe Serif – the sans brings openness and clarity, and the serif adds character and expression."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-06.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "To show what Copilot is doing, the team built a shared motion language for the mark around three thinking states – the moments when Copilot is busy thinking through a request, planning the next steps or retrieving context from people’s files and work. Each state is a simple gesture in which the two forms move in relation to each other and come back as one. The gestures follow Copilot across Microsoft’s ecosystem, so one that appears in Windows looks familiar again in Word or PowerPoint. Deciding how the seconds that Copilot spends on a request should look and feel took “a room of brand, product and motion designers months,” Fitzpatrick writes."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-07.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-08.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "What began in the mark became a behaviour for the entire identity – things move, find each other and connect. From there, the team developed two modes of motion – float and snap. Float is softer, slower and more immersive, as imagery and elements drift and rotate subtly through space, accelerating only as they approach their point of connection. Snap is quick, precise and a little witty. It appears in UI-scale moments as text arrives, a slide clicks into position, an image finds its place or elements reconfigure around the work, often with a brief hold followed by a fast transition. “Float creates possibility; snap creates resolution. They reflect the states of mind we naturally move through as we work: exploring what could be, then finding clarity and moving forward,” Microsoft’s Senior Creative Director Aleksey Fedorov tells us."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-09.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Working with Koto, the teams grounded Copilot in the work experiences that people already know. They took the wider identity’s ingredients from Office apps such as Word, Excel, PowerPoint and Outlook, reinterpreting their menus, buttons, cells, slides, documents, shapes and grids, so that UI, patterns, imagery and textures overlap, intersect and snap into new compositions. The identity also brings in the tactility of physical offices, with their notes, printouts and paper, so familiar Office patterns appear as part-digital, part-physical objects treated with a little wit. That wit extends into the illustration, which uses simple line gestures and dimensionality. If Office grounds the identity in the reality of work, the team sees Copilot as adding intelligence, possibility and levity. “Your feet are on the ground, but your head is in the sky,” Fedorov explains."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-10.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-11.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The palette has the same tension between grounding and possibility. The sky appears as gradients of luminous blue, from almost white to deeper, more immersive tones, evoking openness, possibility and blue-sky thinking, while fresh, grassy greens bring the system back down to earth. Together, they subtly echo the green-field-and-blue-sky imagery long associated with Microsoft and Windows. The team spent a long time finding a green that didn’t simply look like Excel green but felt distinctly Copilot – brighter and fresher. The blues and greens sit on a neutral base, while Word blue, Excel green, PowerPoint orange, Teams purple and Outlook blue appear as accents, tying Copilot to the tools of everyday work."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-12.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Colour becomes most expressive at the points where things meet, such as where UI meets photography or pattern meets texture. In product, the palette can be quieter and more functional, and in marketing and print it can become richer, more tactile and more expressive. “It’s not one exact colour value that makes something feel like Copilot. It’s how the colours come together, and the relationships between them, that create the identity,” Seger details."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-15.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Microsoft’s point of view on work is most visible in the photography, which shows work as people experience it – real, recognisable and often imperfect – in moments that feel observed, such as someone leaning over a desk to look at something, a notification arriving during a commute, a work call taken on holiday or the slightly competitive moment when someone realises a colleague has built a better Excel spreadsheet. “People are always the heroes, not the AI,” Fedorov notes of film and storytelling. “Everything comes together around the person and the work they’re trying to do. Copilot doesn’t take over the work or define the destination.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Copilot-Microsoft-Design-13-updated.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "For Copilot’s global advertising campaign, Microsoft worked with its partners at Droga5 , spending a lot of time on what the world of work should look and feel like. In film, Copilot appears through minimal gestures, such as a prompt being typed, the mark moving through a thinking state or a quick snap as something resolves. On screen, it often sits towards the lower right of the frame, echoing its place in Office. “I think of the system almost as having different volumes,” Seger concludes. “In an immersive digital expression, we can turn the volume up: more UI, more intersection, more motion, more clicking together. In a global campaign, we turn some of those elements down so people, emotion and storytelling can come forward.”"
-        }
-      ],
-      "caseStudyText": "Microsoft has spent 50 years building the tools people use to work. So, when redesigning Copilot’s identity, the team began by asking what distinctly Microsoft point of view on work it should express. Microsoft’s in-house teams led the redesign – bringing in COLLINS to explore the mark and Koto to help expand it into the wider identity – from imagery and colour to composition and product representations.\n\nEveryone’s work spans apps, documents, websites and conversations, which at times, can be exhilarating and deeply satisfying; at others, intense, frustrating and exhausting. Often in a single day. Guided by Microsoft’s principles, which put people before technology, the new identity presents Copilot as a partner in that reality, helping people feel smarter and more capable at work.\n\nThe identity’s foundational idea is ‘the power of things coming together,’ and three principles put it to work, guiding the team wherever the brand guidelines give no literal answer. The first, ‘click into place,’ expresses the idea most directly, using collage, overlap and composition to bring documents, context and work together. ‘Intelligence with ease’ brings simplicity and calm to the complexity of work through sophisticated palettes and considered compositions, and ‘lightness with wit’ introduces moments of humour, surprise and delight. The brand also works as one system across product and marketing, so the same gestures, colours, patterns and behaviours appear across type, illustration, UI, notifications, motion, photography and advertising. “This identity is pure, simple and true, and that’s its strength. The product doesn’t need marketing to invent a world around it, and marketing doesn’t need to exaggerate what the product is,” notes Microsoft’s GM, Global Brand & Creative, Sven Seger.\n\nThe previous icon was a recognisable part of Copilot, but it stayed still while Copilot worked through a request, even though much of the experience happens between a question and its response. “What if the icon could join the conversation?” asks Microsoft’s VP of Product Design & Creative Lucas Fitzpatrick. If the mark was going to move, it had to stay unmistakably Copilot in every frame, so the designers returned to the fundamental geometry of Microsoft’s visual language, exploring what could happen when simple forms came together and moved in relation to one another.\n\nWorking with COLLINS, the team tested many proportions, angles and spacings before settling on two distinct forms that create a single silhouette and can separate, shift and reconnect without losing their relationship. The forms lean at 14°, with corners rounded at radii of 55px and 75px. The studio, which developed the mark and its foundational motion behaviour, describes the two shapes as a nod to the geometry of the main Microsoft logo, which it worked on years ago, and to the two kinds of intelligence that Copilot brings together – human and technological. Microsoft’s in-house teams then worked closely with COLLINS to refine the mark to its final state. Like the mark’s two forms, the typography pairs Segoe Sans, Microsoft’s familiar humanist typeface, with Segoe Serif – the sans brings openness and clarity, and the serif adds character and expression.\n\nTo show what Copilot is doing, the team built a shared motion language for the mark around three thinking states – the moments when Copilot is busy thinking through a request, planning the next steps or retrieving context from people’s files and work. Each state is a simple gesture in which the two forms move in relation to each other and come back as one. The gestures follow Copilot across Microsoft’s ecosystem, so one that appears in Windows looks familiar again in Word or PowerPoint. Deciding how the seconds that Copilot spends on a request should look and feel took “a room of brand, product and motion designers months,” Fitzpatrick writes.\n\nWhat began in the mark became a behaviour for the entire identity – things move, find each other and connect. From there, the team developed two modes of motion – float and snap. Float is softer, slower and more immersive, as imagery and elements drift and rotate subtly through space, accelerating only as they approach their point of connection. Snap is quick, precise and a little witty. It appears in UI-scale moments as text arrives, a slide clicks into position, an image finds its place or elements reconfigure around the work, often with a brief hold followed by a fast transition. “Float creates possibility; snap creates resolution. They reflect the states of mind we naturally move through as we work: exploring what could be, then finding clarity and moving forward,” Microsoft’s Senior Creative Director Aleksey Fedorov tells us.\n\nWorking with Koto, the teams grounded Copilot in the work experiences that people already know. They took the wider identity’s ingredients from Office apps such as Word, Excel, PowerPoint and Outlook, reinterpreting their menus, buttons, cells, slides, documents, shapes and grids, so that UI, patterns, imagery and textures overlap, intersect and snap into new compositions. The identity also brings in the tactility of physical offices, with their notes, printouts and paper, so familiar Office patterns appear as part-digital, part-physical objects treated with a little wit. That wit extends into the illustration, which uses simple line gestures and dimensionality. If Office grounds the identity in the reality of work, the team sees Copilot as adding intelligence, possibility and levity. “Your feet are on the ground, but your head is in the sky,” Fedorov explains.\n\nThe palette has the same tension between grounding and possibility. The sky appears as gradients of luminous blue, from almost white to deeper, more immersive tones, evoking openness, possibility and blue-sky thinking, while fresh, grassy greens bring the system back down to earth. Together, they subtly echo the green-field-and-blue-sky imagery long associated with Microsoft and Windows. The team spent a long time finding a green that didn’t simply look like Excel green but felt distinctly Copilot – brighter and fresher. The blues and greens sit on a neutral base, while Word blue, Excel green, PowerPoint orange, Teams purple and Outlook blue appear as accents, tying Copilot to the tools of everyday work.\n\nColour becomes most expressive at the points where things meet, such as where UI meets photography or pattern meets texture. In product, the palette can be quieter and more functional, and in marketing and print it can become richer, more tactile and more expressive. “It’s not one exact colour value that makes something feel like Copilot. It’s how the colours come together, and the relationships between them, that create the identity,” Seger details.\n\nMicrosoft’s point of view on work is most visible in the photography, which shows work as people experience it – real, recognisable and often imperfect – in moments that feel observed, such as someone leaning over a desk to look at something, a notification arriving during a commute, a work call taken on holiday or the slightly competitive moment when someone realises a colleague has built a better Excel spreadsheet. “People are always the heroes, not the AI,” Fedorov notes of film and storytelling. “Everything comes together around the person and the work they’re trying to do. Copilot doesn’t take over the work or define the destination.”\n\nFor Copilot’s global advertising campaign, Microsoft worked with its partners at Droga5 , spending a lot of time on what the world of work should look and feel like. In film, Copilot appears through minimal gestures, such as a prompt being typed, the mark moving through a thinking state or a quick snap as something resolves. On screen, it often sits towards the lower right of the frame, echoing its place in Office. “I think of the system almost as having different volumes,” Seger concludes. “In an immersive digital expression, we can turn the volume up: more UI, more intersection, more motion, more clicking together. In a global campaign, we turn some of those elements down so people, emotion and storytelling can come forward.”",
-      "caseStudyMedia": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-01.png"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-02.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-03.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-04.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-05.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-06.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-07.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-08.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-09.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-10.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-11.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-12.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Microsoft-Copilot-Microsoft-Design-15.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work/Copilot-Microsoft-Design-13-updated.mp4"
         }
       ]
     }
