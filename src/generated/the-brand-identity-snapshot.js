@@ -7,6 +7,141 @@ const snapshot={
   },
   "items": [
     {
+      "canonicalUrl": "https://the-brandidentity.com/project/together-centres-spheres-identity-on-the-idea-of-decoding-tax-law",
+      "titleOriginal": "Together centres Sphere’s identity on the idea of decoding tax law",
+      "textOriginal": "Sphere is an AI-native tax engine that handles indirect tax compliance for global businesses across 190 countries and more than 60 tax regimes. The company first asked London-based design firm Together to redesign its website as part of a wider rebrand initiative. The project soon expanded into a broader identity collaboration. “The work they did ended up having a lot of influence,” explains CEO & CFO Nick Rudder. “It became more holistic and influenced positioning, narrative and product design.”\n\n“Sphere didn’t add AI to its product. It was founded on it,” details Together’s Creative Director Ben Wynn-Owen. “Competitors bolt AI onto engines built for manual research, so that one fact is Sphere’s biggest separator. The AI had to sit front and centre in the brand. It also had to feel original, and true to how Sphere’s AI actually works.” The AI reads and reasons on tax law, and Sphere’s experts sign off on every tax determination that the AI makes. “Those rules are complicated, and they keep changing,” he explains. “So AI-native couldn’t mean the complexity disappears. It had to mean the complexity makes sense.”",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/_video-thumbnails/15590948.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/together-centres-spheres-identity-on-the-idea-of-decoding-tax-law/Sphere-Together-02.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "Sphere is an AI-native tax engine that handles indirect tax compliance for global businesses across 190 countries and more than 60 tax regimes. The company first asked London-based design firm Together to redesign its website as part of a wider rebrand initiative. The project soon expanded into a broader identity collaboration. “The work they did ended up having a lot of influence,” explains CEO & CFO Nick Rudder. “It became more holistic and influenced positioning, narrative and product design.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/together-centres-spheres-identity-on-the-idea-of-decoding-tax-law/_2000xAUTO_crop_center-center_85_none/15591318/Sphere-Together-10.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“Sphere didn’t add AI to its product. It was founded on it,” details Together’s Creative Director Ben Wynn-Owen. “Competitors bolt AI onto engines built for manual research, so that one fact is Sphere’s biggest separator. The AI had to sit front and centre in the brand. It also had to feel original, and true to how Sphere’s AI actually works.” The AI reads and reasons on tax law, and Sphere’s experts sign off on every tax determination that the AI makes. “Those rules are complicated, and they keep changing,” he explains. “So AI-native couldn’t mean the complexity disappears. It had to mean the complexity makes sense.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/together-centres-spheres-identity-on-the-idea-of-decoding-tax-law/_2000xAUTO_crop_center-center_85_none/15591585/Sphere-Together-04-new.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“The strategy led us to a single idea: Sphere makes the world one market by decoding complex global tax law,” Wynn-Owen notes. “Their existing logo already felt like a moment of decoding, so the answer was already in front of us.” Together fixed that logo’s balance, scaling and alignment, and evolved it to 24 segments, which sit in a ring radiating from the centre. “That number gave us the right balance of detail and clarity, so the logo holds together as a tiny favicon and on a billboard,” he tells us. From the refined mark, Together built the decoding device – a graphic that lays the logo’s segments out as bars and works at any scale. For Wynn-Owen, it is the AI made visible. “It turns tangled law into something clear and usable, across headlines, product and data. We didn’t need glowing orbs or neural networks.”"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/together-centres-spheres-identity-on-the-idea-of-decoding-tax-law/Sphere-Together-03.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The primary typeface is General Type Studio’s contemporary flared serif Cambon. “We wanted type that carries authority without adding noise,” Wynn-Owen explains. Cambon “gives Sphere the weight of the institutions it works alongside, the authorities and legislators who write the rules.” It also “makes a young company feel like it’s been around for years.” Contrast Foundry’s sans serif CoFo Gothic, used in four weights, is the secondary typeface – used for interface copy, data and body text, “where legibility matters more than character.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/together-centres-spheres-identity-on-the-idea-of-decoding-tax-law/_2000xAUTO_crop_center-center_85_none/15591323/Sphere-Together-12.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“Nobody gets excited about paying tax,” Wynn-Owen notes. “Our job was to make tax feel clear.” Sphere’s voice rests on four ideas: it is global by default, unafraid of hard truths, quietly confident and grounded in specifics such as real codes, countries and numbers. “There’s a little wit, too,” Wynn-Owen adds, “used sparingly: ‘It shouldn’t be your job to understand 190 tax systems. That’s ours.’ It’s a moment of relief in a serious subject.”"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/together-centres-spheres-identity-on-the-idea-of-decoding-tax-law/Sphere-Together-11-v2.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“Photography is where Sphere shows it’s truly global,” Wynn-Owen tells us. Together photographed cities at eye level, from inside them, “so it feels like you’re standing there.” In each image, the city sits in the bottom third and the sky fills the rest, “so each place feels open and part of one connected world,” Wynn-Owen continues. “The decoding device sits quietly on top, a reminder that Sphere is always working in the background.” On the website, the device “moves, turning one city into another, just like selling from one market into the next.” In print, it is picked out in foil or embossing."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/together-centres-spheres-identity-on-the-idea-of-decoding-tax-law/_2000xAUTO_crop_center-center_85_none/15591338/Sphere-Together-13.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Sphere offers several products, and the website sets out the range. “The design/narrative around our multi-product play was the thing that stood out to me the most,” Rudder tells us. “This is one of the key things that differentiates us from the competition, and when customers come to our website, it’s immediately clear with the new design. It’s obviously a hard thing to get right, though, as, if done the wrong way, it can feel overly complex.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/together-centres-spheres-identity-on-the-idea-of-decoding-tax-law/_2000xAUTO_crop_center-center_85_none/15590955/Sphere-Together-09.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Together designed the interface of Sphere’s platform, too. “The product is where finance teams actually do the work they’d rather not think about. So that’s where clarity matters most,” Wynn-Owen explains. “In the interface, the brand steps back and lets people get on with the job.” The platform has plenty of space, a clean layout and colour only where it helps people act. The decoding device appears in tags, loading states and data highlights, and the icons are drawn from the same shapes as the logo. Together started the interface with three moments: seeing tax exposure around the world at a glance, registering and filing directly with tax authorities, and understanding the reasoning behind every determination that Sphere’s AI makes."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/together-centres-spheres-identity-on-the-idea-of-decoding-tax-law/Sphere-Together-01-v2.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "To top it off, Together also put a message on the Las Vegas Sphere. “It started almost as a joke in an early workshop with Nick. A company called Sphere, on the most famous sphere on the planet? It was too good not to try,” Wynn-Owen reveals. “The identity was ready for it. The decoding device is made of segments that can wrap around a globe and come together into a message, so the Vegas Sphere was practically built for it.”"
+        }
+      ],
+      "caseStudyText": "Sphere is an AI-native tax engine that handles indirect tax compliance for global businesses across 190 countries and more than 60 tax regimes. The company first asked London-based design firm Together to redesign its website as part of a wider rebrand initiative. The project soon expanded into a broader identity collaboration. “The work they did ended up having a lot of influence,” explains CEO & CFO Nick Rudder. “It became more holistic and influenced positioning, narrative and product design.”\n\n“Sphere didn’t add AI to its product. It was founded on it,” details Together’s Creative Director Ben Wynn-Owen. “Competitors bolt AI onto engines built for manual research, so that one fact is Sphere’s biggest separator. The AI had to sit front and centre in the brand. It also had to feel original, and true to how Sphere’s AI actually works.” The AI reads and reasons on tax law, and Sphere’s experts sign off on every tax determination that the AI makes. “Those rules are complicated, and they keep changing,” he explains. “So AI-native couldn’t mean the complexity disappears. It had to mean the complexity makes sense.”\n\n“The strategy led us to a single idea: Sphere makes the world one market by decoding complex global tax law,” Wynn-Owen notes. “Their existing logo already felt like a moment of decoding, so the answer was already in front of us.” Together fixed that logo’s balance, scaling and alignment, and evolved it to 24 segments, which sit in a ring radiating from the centre. “That number gave us the right balance of detail and clarity, so the logo holds together as a tiny favicon and on a billboard,” he tells us. From the refined mark, Together built the decoding device – a graphic that lays the logo’s segments out as bars and works at any scale. For Wynn-Owen, it is the AI made visible. “It turns tangled law into something clear and usable, across headlines, product and data. We didn’t need glowing orbs or neural networks.”\n\nThe primary typeface is General Type Studio’s contemporary flared serif Cambon. “We wanted type that carries authority without adding noise,” Wynn-Owen explains. Cambon “gives Sphere the weight of the institutions it works alongside, the authorities and legislators who write the rules.” It also “makes a young company feel like it’s been around for years.” Contrast Foundry’s sans serif CoFo Gothic, used in four weights, is the secondary typeface – used for interface copy, data and body text, “where legibility matters more than character.”\n\n“Nobody gets excited about paying tax,” Wynn-Owen notes. “Our job was to make tax feel clear.” Sphere’s voice rests on four ideas: it is global by default, unafraid of hard truths, quietly confident and grounded in specifics such as real codes, countries and numbers. “There’s a little wit, too,” Wynn-Owen adds, “used sparingly: ‘It shouldn’t be your job to understand 190 tax systems. That’s ours.’ It’s a moment of relief in a serious subject.”\n\n“Photography is where Sphere shows it’s truly global,” Wynn-Owen tells us. Together photographed cities at eye level, from inside them, “so it feels like you’re standing there.” In each image, the city sits in the bottom third and the sky fills the rest, “so each place feels open and part of one connected world,” Wynn-Owen continues. “The decoding device sits quietly on top, a reminder that Sphere is always working in the background.” On the website, the device “moves, turning one city into another, just like selling from one market into the next.” In print, it is picked out in foil or embossing.\n\nSphere offers several products, and the website sets out the range. “The design/narrative around our multi-product play was the thing that stood out to me the most,” Rudder tells us. “This is one of the key things that differentiates us from the competition, and when customers come to our website, it’s immediately clear with the new design. It’s obviously a hard thing to get right, though, as, if done the wrong way, it can feel overly complex.”\n\nTogether designed the interface of Sphere’s platform, too. “The product is where finance teams actually do the work they’d rather not think about. So that’s where clarity matters most,” Wynn-Owen explains. “In the interface, the brand steps back and lets people get on with the job.” The platform has plenty of space, a clean layout and colour only where it helps people act. The decoding device appears in tags, loading states and data highlights, and the icons are drawn from the same shapes as the logo. Together started the interface with three moments: seeing tax exposure around the world at a glance, registering and filing directly with tax authorities, and understanding the reasoning behind every determination that Sphere’s AI makes.\n\nTo top it off, Together also put a message on the Las Vegas Sphere. “It started almost as a joke in an early workshop with Nick. A company called Sphere, on the most famous sphere on the planet? It was too good not to try,” Wynn-Owen reveals. “The identity was ready for it. The decoding device is made of segments that can wrap around a globe and come together into a message, so the Vegas Sphere was practically built for it.”",
+      "caseStudyMedia": [
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/together-centres-spheres-identity-on-the-idea-of-decoding-tax-law/Sphere-Together-02.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/together-centres-spheres-identity-on-the-idea-of-decoding-tax-law/_2000xAUTO_crop_center-center_85_none/15591318/Sphere-Together-10.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/together-centres-spheres-identity-on-the-idea-of-decoding-tax-law/_2000xAUTO_crop_center-center_85_none/15591585/Sphere-Together-04-new.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/together-centres-spheres-identity-on-the-idea-of-decoding-tax-law/Sphere-Together-03.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/together-centres-spheres-identity-on-the-idea-of-decoding-tax-law/_2000xAUTO_crop_center-center_85_none/15591323/Sphere-Together-12.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/together-centres-spheres-identity-on-the-idea-of-decoding-tax-law/Sphere-Together-11-v2.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/together-centres-spheres-identity-on-the-idea-of-decoding-tax-law/_2000xAUTO_crop_center-center_85_none/15591338/Sphere-Together-13.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/together-centres-spheres-identity-on-the-idea-of-decoding-tax-law/_2000xAUTO_crop_center-center_85_none/15590955/Sphere-Together-09.webp"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/together-centres-spheres-identity-on-the-idea-of-decoding-tax-law/Sphere-Together-01-v2.mp4"
+        }
+      ]
+    },
+    {
       "canonicalUrl": "https://the-brandidentity.com/project/saint-urbains-identity-for-casa-macha-began-as-chilli-oil-on-a-desk",
       "titleOriginal": "Saint-Urbain’s identity for Casa Macha began as chilli oil on a desk",
       "textOriginal": "Casa Macha is a brand of salsa macha—a Mexican condiment made from oil, nuts and chillies—that grew from chef and co-founder Alejandro Silva’s interest in a miso peanut recipe. The salsa was bottled in a collaboration with LA clothing brand Brain Dead, and demand continued after his pop-up, Metztli Taqueria, closed. “Our Miso Peanut salsa macha had been developed, tested and built a cult following,” says co-founder Melissa Cohn. Silva was introduced to Saint-Urbain through an existing client; he had been the chef at one of that client’s restaurants. The global creative agency was commissioned to create the identity, packaging system, collateral, merchandise, illustrations and digital assets.\n\nInspired by the way Italian and Mediterranean cuisines riff on a traditional base of oil, herbs and garlic for salsas such as salsa verde and pistou, Silva applied the same method to salsa macha, experimenting with unexpected pairings on its traditional base. “He pulls on memory when creating new flavour combinations. Childhood memories for the tradition, but then new memories from his wide variety of chef roles, tasting ingredients at farmers’ markets and travels to new countries. Ultimately, it’s a little bit of an art and a little bit of a science, and a lot of instinct,” Cohn details. The first two flavours are Miso Peanut and Onion Jam, another original, which was a key ingredient in Silva’s signature dish at the pop-up.",
@@ -4096,170 +4231,6 @@ const snapshot={
         {
           "type": "video",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-16.mp4"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign",
-      "titleOriginal": "The New York Times turns 175 with an identity, events and a campaign",
-      "textOriginal": "For its 175th anniversary, The New York Times created a custom 175 mark and identity system to use across editorial, opinion, advertising, events and marketing. The anniversary programme also included a celebration and exhibition at Spring Studios, plus a social campaign, film series, photojournalism tour of university campuses and an identity for The Times’s NYC Marathon team. Creative Director Jessi Brattengeier led the work alongside The Times’s in-house Culture and Comms Design team and a roster of select partners.\n\n“An anniversary is an easy invitation to look backwards,” Brattengeier explains. The team wanted the 175th celebration to do “something more useful: remind people what original reporting actually takes, and why it’s worth protecting,” with every piece of the work holding “two ideas together – 175 years of history and the urgency of the journalism happening right now.”",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/The-New-York-Times-175-The-New-York-Times-02.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/The-New-York-Times-175-The-New-York-Times-02.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "For its 175th anniversary, The New York Times created a custom 175 mark and identity system to use across editorial, opinion, advertising, events and marketing. The anniversary programme also included a celebration and exhibition at Spring Studios, plus a social campaign, film series, photojournalism tour of university campuses and an identity for The Times’s NYC Marathon team. Creative Director Jessi Brattengeier led the work alongside The Times’s in-house Culture and Comms Design team and a roster of select partners."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/NYT-TBI-Horizontal-Hero-2.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“An anniversary is an easy invitation to look backwards,” Brattengeier explains. The team wanted the 175th celebration to do “something more useful: remind people what original reporting actually takes, and why it’s worth protecting,” with every piece of the work holding “two ideas together – 175 years of history and the urgency of the journalism happening right now.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/The-New-York-Times-175-The-New-York-Times-04.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Custom marks are rare at The Times, whose own type families handle nearly all of its needs. Typed out in NYT Fraktur, The Times’s blackletter typeface drawn by type designer Ed Benguiat, the numerals felt a bit flat and, next to the wordmark, lacked the dynamism that the celebration needed. So The Times commissioned XYZ Type to draw a custom mark, exploring numerals that ranged from regimented blackletter forms to ornate options with frills and swashes. Co-founder Jesse Ragan found that “the quiet confidence in a plain-spoken blackletter carried The Times’s identity better than fussy details.” Each numeral nods to details of the wordmark without matching them precisely: the ‘1’ echoes the serifs of the ‘h,’ the ‘7’ ends in a calligraphic flick that follows the leg of the ‘k’ and the ‘5’ closes on a tapered arc that refers to the ‘s.’ The aim, Brattengeier notes, was for the mark and the wordmark to feel like “a family resemblance, not a logo placed next to a logo.”"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/TBI-NYT-Instagram-MenonMoonReplace.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/The-New-York-Times-175-The-New-York-Times-13.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The 175 identity first launched in motion, at the end of The Times’s New Year’s Eve video about the shared history of Times Square and The New York Times. The Times gave XYZ Type and Kiffer Keegan, who worked on the motion, the same brief and had them work together as a team, so the mark and its motion were made at the same time. Once the mark was set, The Times built out lockups that pair it with the wordmark or the standalone ‘T’ – quiet and formal on a printed section, large and graphic on a wall at an event. The identity uses two of The Times’s proprietary typefaces: Franklin for body copy, subheads and information, and Cheltenham Light as the defining typeface of the anniversary. “The lighter weight kept it feeling joyous rather than stoic,” Brattengeier tells us."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/TBI-NYT-Vertical-Editorial-Replace-1026.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/The-New-York-Times-175-The-New-York-Times-14.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The in-house team gave outside partners high-level guidelines with a light touch on the rules, leaving each to decide how much of the identity to use in their own piece. In editorial, the 175 mark’s use “had to be more restrained,” Deputy Editor for Digital News Design Gabriel Gianordoli explains. The mark had to work across different publishing pipelines and formats, and “the elements of The Times identity – colour, type and sometimes even The Times wordmark – are already present in the articles.” So the anniversary’s editorial expression expands on the identity through art direction, in the Eyewitness series of 15 pieces that The Times is publishing during the anniversary rollout. Illustrator and designer Matt Dorfman made collages that reimagine the archive for the series, each pairing at least one photo of the event it portrays with a newspaper tear sheet of the published story."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/The-New-York-Times-175-The-New-York-Times-07-update.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "For the anniversary celebration at Spring Studios, The Times designed the interiors, programming, content and an original exhibition together, working with architectural designer Ingrid Schmaedecke and event production agency Empire Entertainment. A glowing globe light, modelled on the lamps that once hung on the facade of the former New York Times Annex, was set into the venue’s exterior. Inside, the exhibition was the entry point to the night, curated so that history and the present sat side by side. Its objects included a press patch from The Times’s Iraq bureau and a Pulitzer Prize medal for public service. The cases and walls were set out in a staggered arrangement, opening up views through the space. “I was interested in immersion as a collective experience: across the room, you could see other people absorbed in the exhibition while experiencing it yourself,” Schmaedecke reflects. Since the celebration, the exhibition has moved to the lobby of The Times’s headquarters, on view until the end of 2026."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/The-New-York-Times-175-The-New-York-Times-09-update.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/The-New-York-Times-175-The-New-York-Times-15.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "In the main event room at Spring Studios, hanging vertical screens played artists’ interpretations of the ‘T,’ commissioned for T Magazine more than 20 years ago, in place of a static logo. Times journalist Michael Barbaro hosted the evening, with surprise vignettes from actors Jeremy Strong, Julia Louis-Dreyfus and Regina King among others, and a performance from singer Janelle Monáe. The soundtrack for the night and the anniversary’s brand videos started from a question that in-house composer Dan Powell asked: “What do we physically have here in the building that we could record?” With fellow composer Pat McCusker, Powell recorded Royal and Remington typewriters, IBM Wheelwriters and falling linotype sourced from the archive and turned them into the score, including for the film that The Times made with Keegan tracing how its brand has evolved."
-        },
-        {
-          "type": "iframe",
-          "url": "https://player.vimeo.com/video/1236374652?autoplay=0&loop=1&autopause=1"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "With Studio Dumbar, The Times made ‘Reporters Follow the Facts,’ a social campaign built on the idea that original reporting is essential and getting rarer. It honours every journalist doing original reporting, at The Times and elsewhere. Its centrepiece film moves through The Times’s reporting from the Pentagon Papers to Covid to #MeToo and draws on never-before-seen images from the archive, among them on-the-ground contact sheets from 9/11. At Metrograph, ‘Stop the Presses,’ a film series designed with Pentagram partner and former NYT Art Director Matt Willey, pairs five classic films about journalism with conversations featuring Times journalists. The New York Stock Exchange’s screens showed archival photos of The Times’s Wall Street coverage paired with the 175 identity. Internally, Brattengeier’s team worked with The Times’s Print Desk, led by Andrew Sondern and Keith Webb, on a special print section set with the name of every employee at the time of printing. At the NYC Marathon, Times Runners will wear 175 Marathon identity gear designed in-house as they raise money through Run for Reporting for the free-tuition campaign at CUNY’s Craig Newmark Graduate School of Journalism."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/The-New-York-Times-175-The-New-York-Times-16.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "‘Bearing Witness,’ the photojournalism tour that travels to university campuses, was curated by The Times’s Director of Photography, Meaghan Looram, and designed with Other Means around a custom delivery truck, which serves as a backdrop and title wall and turns into a screening room for behind-the-scenes footage. “It was important to acknowledge that even though most readers get their paper on a screen, for most of The Times’s 175-year history, delivering the news meant fleets of trucks dropping stacks of newspapers at newsstands around the world,” adds Other Means’ Co-founder Gary Fogelson."
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“What held all of the work together was less a rulebook than a shared way of using our history: as evidence of character, not as a style,” Brattengeier concludes. “Across 175 years, the one constant has been innovation, anchored by values that haven’t changed.”"
-        }
-      ],
-      "caseStudyText": "For its 175th anniversary, The New York Times created a custom 175 mark and identity system to use across editorial, opinion, advertising, events and marketing. The anniversary programme also included a celebration and exhibition at Spring Studios, plus a social campaign, film series, photojournalism tour of university campuses and an identity for The Times’s NYC Marathon team. Creative Director Jessi Brattengeier led the work alongside The Times’s in-house Culture and Comms Design team and a roster of select partners.\n\n“An anniversary is an easy invitation to look backwards,” Brattengeier explains. The team wanted the 175th celebration to do “something more useful: remind people what original reporting actually takes, and why it’s worth protecting,” with every piece of the work holding “two ideas together – 175 years of history and the urgency of the journalism happening right now.”\n\nCustom marks are rare at The Times, whose own type families handle nearly all of its needs. Typed out in NYT Fraktur, The Times’s blackletter typeface drawn by type designer Ed Benguiat, the numerals felt a bit flat and, next to the wordmark, lacked the dynamism that the celebration needed. So The Times commissioned XYZ Type to draw a custom mark, exploring numerals that ranged from regimented blackletter forms to ornate options with frills and swashes. Co-founder Jesse Ragan found that “the quiet confidence in a plain-spoken blackletter carried The Times’s identity better than fussy details.” Each numeral nods to details of the wordmark without matching them precisely: the ‘1’ echoes the serifs of the ‘h,’ the ‘7’ ends in a calligraphic flick that follows the leg of the ‘k’ and the ‘5’ closes on a tapered arc that refers to the ‘s.’ The aim, Brattengeier notes, was for the mark and the wordmark to feel like “a family resemblance, not a logo placed next to a logo.”\n\nThe 175 identity first launched in motion, at the end of The Times’s New Year’s Eve video about the shared history of Times Square and The New York Times. The Times gave XYZ Type and Kiffer Keegan, who worked on the motion, the same brief and had them work together as a team, so the mark and its motion were made at the same time. Once the mark was set, The Times built out lockups that pair it with the wordmark or the standalone ‘T’ – quiet and formal on a printed section, large and graphic on a wall at an event. The identity uses two of The Times’s proprietary typefaces: Franklin for body copy, subheads and information, and Cheltenham Light as the defining typeface of the anniversary. “The lighter weight kept it feeling joyous rather than stoic,” Brattengeier tells us.\n\nThe in-house team gave outside partners high-level guidelines with a light touch on the rules, leaving each to decide how much of the identity to use in their own piece. In editorial, the 175 mark’s use “had to be more restrained,” Deputy Editor for Digital News Design Gabriel Gianordoli explains. The mark had to work across different publishing pipelines and formats, and “the elements of The Times identity – colour, type and sometimes even The Times wordmark – are already present in the articles.” So the anniversary’s editorial expression expands on the identity through art direction, in the Eyewitness series of 15 pieces that The Times is publishing during the anniversary rollout. Illustrator and designer Matt Dorfman made collages that reimagine the archive for the series, each pairing at least one photo of the event it portrays with a newspaper tear sheet of the published story.\n\nFor the anniversary celebration at Spring Studios, The Times designed the interiors, programming, content and an original exhibition together, working with architectural designer Ingrid Schmaedecke and event production agency Empire Entertainment. A glowing globe light, modelled on the lamps that once hung on the facade of the former New York Times Annex, was set into the venue’s exterior. Inside, the exhibition was the entry point to the night, curated so that history and the present sat side by side. Its objects included a press patch from The Times’s Iraq bureau and a Pulitzer Prize medal for public service. The cases and walls were set out in a staggered arrangement, opening up views through the space. “I was interested in immersion as a collective experience: across the room, you could see other people absorbed in the exhibition while experiencing it yourself,” Schmaedecke reflects. Since the celebration, the exhibition has moved to the lobby of The Times’s headquarters, on view until the end of 2026.\n\nIn the main event room at Spring Studios, hanging vertical screens played artists’ interpretations of the ‘T,’ commissioned for T Magazine more than 20 years ago, in place of a static logo. Times journalist Michael Barbaro hosted the evening, with surprise vignettes from actors Jeremy Strong, Julia Louis-Dreyfus and Regina King among others, and a performance from singer Janelle Monáe. The soundtrack for the night and the anniversary’s brand videos started from a question that in-house composer Dan Powell asked: “What do we physically have here in the building that we could record?” With fellow composer Pat McCusker, Powell recorded Royal and Remington typewriters, IBM Wheelwriters and falling linotype sourced from the archive and turned them into the score, including for the film that The Times made with Keegan tracing how its brand has evolved.\n\nWith Studio Dumbar, The Times made ‘Reporters Follow the Facts,’ a social campaign built on the idea that original reporting is essential and getting rarer. It honours every journalist doing original reporting, at The Times and elsewhere. Its centrepiece film moves through The Times’s reporting from the Pentagon Papers to Covid to #MeToo and draws on never-before-seen images from the archive, among them on-the-ground contact sheets from 9/11. At Metrograph, ‘Stop the Presses,’ a film series designed with Pentagram partner and former NYT Art Director Matt Willey, pairs five classic films about journalism with conversations featuring Times journalists. The New York Stock Exchange’s screens showed archival photos of The Times’s Wall Street coverage paired with the 175 identity. Internally, Brattengeier’s team worked with The Times’s Print Desk, led by Andrew Sondern and Keith Webb, on a special print section set with the name of every employee at the time of printing. At the NYC Marathon, Times Runners will wear 175 Marathon identity gear designed in-house as they raise money through Run for Reporting for the free-tuition campaign at CUNY’s Craig Newmark Graduate School of Journalism.\n\n‘Bearing Witness,’ the photojournalism tour that travels to university campuses, was curated by The Times’s Director of Photography, Meaghan Looram, and designed with Other Means around a custom delivery truck, which serves as a backdrop and title wall and turns into a screening room for behind-the-scenes footage. “It was important to acknowledge that even though most readers get their paper on a screen, for most of The Times’s 175-year history, delivering the news meant fleets of trucks dropping stacks of newspapers at newsstands around the world,” adds Other Means’ Co-founder Gary Fogelson.\n\n“What held all of the work together was less a rulebook than a shared way of using our history: as evidence of character, not as a style,” Brattengeier concludes. “Across 175 years, the one constant has been innovation, anchored by values that haven’t changed.”",
-      "caseStudyMedia": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/The-New-York-Times-175-The-New-York-Times-02.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/NYT-TBI-Horizontal-Hero-2.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/The-New-York-Times-175-The-New-York-Times-04.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/TBI-NYT-Instagram-MenonMoonReplace.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/The-New-York-Times-175-The-New-York-Times-13.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/TBI-NYT-Vertical-Editorial-Replace-1026.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/The-New-York-Times-175-The-New-York-Times-14.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/The-New-York-Times-175-The-New-York-Times-07-update.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/The-New-York-Times-175-The-New-York-Times-09-update.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/The-New-York-Times-175-The-New-York-Times-15.jpg"
-        },
-        {
-          "type": "iframe",
-          "url": "https://player.vimeo.com/video/1236374652?autoplay=0&loop=1&autopause=1"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign/The-New-York-Times-175-The-New-York-Times-16.jpg"
         }
       ]
     }
