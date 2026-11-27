@@ -7,6 +7,332 @@ const snapshot={
   },
   "items": [
     {
+      "canonicalUrl": "https://the-brandidentity.com/project/why-violaine-j%C3%A9r%C3%A9my-gave-leather-goods-house-pol%C3%A8ne-a-serif-wordmark",
+      "titleOriginal": "Why Violaine & Jérémy gave leather goods house Polène a serif wordmark",
+      "textOriginal": "Polène is a French leather goods house founded in 2016 by three siblings from a family of textile artisans in Normandy. Its bags are designed in Paris and made by the craftsmen of Ubrique, a Spanish town specialising in luxury leather goods, from leather sourced at Spanish and Italian tanneries. By 2023, its reputation had grown well beyond France. Ahead of the launch of its first jewellery and accessories range, planned for June that year, Paris-based creative duo Violaine & Jérémy took on the full redesign of its identity, covering the logo, monogram, pattern, typefaces and colour palette, with applications across packaging, canvas and leather goods. In 2024, after the redesign, L Catterton, the investment fund backed by LVMH, took a minority stake in the house.\n\n“Polène came to our studio, and that first choice says something about the aesthetic direction its team had in mind. Our work is known for being decorative, warm and poetic,” Co-founders Violaine Orsoni and Jérémy Schneider tell us. The duo gave the redesign one guiding intention: “maturity, assurance, elegance.”",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/why-violaine-j%C3%A9r%C3%A9my-gave-leather-goods-house-pol%C3%A8ne-a-serif-wordmark/Pole%CC%80ne-Violaine-Je%CC%81re%CC%81my-01.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/why-violaine-j%C3%A9r%C3%A9my-gave-leather-goods-house-pol%C3%A8ne-a-serif-wordmark/_2000xAUTO_crop_center-center_85_none/15592245/Pole%CC%80ne-Violaine-Je%CC%81re%CC%81my-01.webp"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "Polène is a French leather goods house founded in 2016 by three siblings from a family of textile artisans in Normandy. Its bags are designed in Paris and made by the craftsmen of Ubrique, a Spanish town specialising in luxury leather goods, from leather sourced at Spanish and Italian tanneries. By 2023, its reputation had grown well beyond France. Ahead of the launch of its first jewellery and accessories range, planned for June that year, Paris-based creative duo Violaine & Jérémy took on the full redesign of its identity, covering the logo, monogram, pattern, typefaces and colour palette, with applications across packaging, canvas and leather goods. In 2024, after the redesign, L Catterton, the investment fund backed by LVMH, took a minority stake in the house."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/why-violaine-j%C3%A9r%C3%A9my-gave-leather-goods-house-pol%C3%A8ne-a-serif-wordmark/_2000xAUTO_crop_center-center_85_none/15592288/Pole%CC%80ne-Violaine-Je%CC%81re%CC%81my-12.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/why-violaine-j%C3%A9r%C3%A9my-gave-leather-goods-house-pol%C3%A8ne-a-serif-wordmark/_2000xAUTO_crop_center-center_85_none/15592248/Pole%CC%80ne-Violaine-Je%CC%81re%CC%81my-04.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“Polène came to our studio, and that first choice says something about the aesthetic direction its team had in mind. Our work is known for being decorative, warm and poetic,” Co-founders Violaine Orsoni and Jérémy Schneider tell us. The duo gave the redesign one guiding intention: “maturity, assurance, elegance.”"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Violaine & Jérémy drew the wordmark as custom uppercase serif lettering. “Many luxury houses have converged on the same sans serif capitals,” Orsoni explains, “when luxury is about rarity and preciousness. A distinctive serif drawing is a way back to that.” “The brief was also about coming of age and gaining maturity,” Schneider notes. “All caps give the name stature and scale, and the serif signals refinement and attention to detail.” “We are always looking for forms with a good chance of lasting: forms that continue a tradition while renewing it enough to feel of today,” Orsoni details. “In Polène’s lettering, that contemporary feel comes from the proportions of the letters, while the curves draw more on classical models.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/why-violaine-j%C3%A9r%C3%A9my-gave-leather-goods-house-pol%C3%A8ne-a-serif-wordmark/_2000xAUTO_crop_center-center_85_none/15592252/Pole%CC%80ne-Violaine-Je%CC%81re%CC%81my-08.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/why-violaine-j%C3%A9r%C3%A9my-gave-leather-goods-house-pol%C3%A8ne-a-serif-wordmark/_2000xAUTO_crop_center-center_85_none/15592251/Pole%CC%80ne-Violaine-Je%CC%81re%CC%81my-07.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The studio went through dozens of drawn versions of the lettering before settling on one, testing each at the size it would live at – engraved into metal hardware and embossed into leather, at a few millimetres. “At production scale, embossing tools are less precise than print or on-screen rendering,” Schneider tells us. “So we adjust the proportions, open up the white spaces and thicken the thin strokes, and we print a great many versions at micro scale to get as close as possible to the best result: one that stays faithful to the original drawing and remains legible.”"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/why-violaine-j%C3%A9r%C3%A9my-gave-leather-goods-house-pol%C3%A8ne-a-serif-wordmark/_2000xAUTO_crop_center-center_85_none/15592257/Pole%CC%80ne-Violaine-Je%CC%81re%CC%81my-10.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/why-violaine-j%C3%A9r%C3%A9my-gave-leather-goods-house-pol%C3%A8ne-a-serif-wordmark/_2000xAUTO_crop_center-center_85_none/15592258/Pole%CC%80ne-Violaine-Je%CC%81re%CC%81my-11.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "From the lettering, Violaine & Jérémy built a monogram and the brand’s pattern. The monogram is a script ‘P,’ which Polène and the duo chose together. “The logo is very statuesque and formal, so it was interesting to bring some softness into the monogram, to enrich the brand’s universe and keep it from being monolithic,” Orsoni reveals. The script ‘P’ has a serif like those of the wordmark, which, for Schneider, ties the monogram and lettering together."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/why-violaine-j%C3%A9r%C3%A9my-gave-leather-goods-house-pol%C3%A8ne-a-serif-wordmark/_2000xAUTO_crop_center-center_85_none/15592253/Pole%CC%80ne-Violaine-Je%CC%81re%CC%81my-05.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/why-violaine-j%C3%A9r%C3%A9my-gave-leather-goods-house-pol%C3%A8ne-a-serif-wordmark/_2000xAUTO_crop_center-center_85_none/15592290/Pole%CC%80ne-Violaine-Je%CC%81re%CC%81my-06_2026-11-25-154020_nctk.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The brand guidelines pair the lettering with three typefaces: Commercial Type’s Canela in Light and Thin, Cormorant Garamond Light from Google Fonts and Monotype’s Sackers Gothic Medium. None of them comes from VJ Type, the duo’s own type foundry, which they felt was not right for this project. “For Polène, we needed a feminine universe without being girly. We chose the secondary typefaces to form an interesting ensemble, and finesse and delicacy guided most of what we proposed to the client,” Orsoni details. Polène uses colour sparingly, and its palette starts from the shades of the leathers and the dominant tones in its photographic art direction: a range of browns, completed by the sky, grass and terracotta. “The colours play a supporting role: they guide the choice of colour when there is an opportunity or a need for an accent,” Schneider notes."
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/why-violaine-j%C3%A9r%C3%A9my-gave-leather-goods-house-pol%C3%A8ne-a-serif-wordmark/_2000xAUTO_crop_center-center_85_none/15592297/Pole%CC%80ne-Violaine-Je%CC%81re%CC%81my-13.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/why-violaine-j%C3%A9r%C3%A9my-gave-leather-goods-house-pol%C3%A8ne-a-serif-wordmark/_2000xAUTO_crop_center-center_85_none/15592247/Pole%CC%80ne-Violaine-Je%CC%81re%CC%81my-03.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Violaine & Jérémy did not design Polène’s shopfronts, which are not standardised, but Orsoni points out that the lettering does stay fixed across all of them. Polène has stores in New York and Paris, where the shop on the corner of rue Rameau and rue de Richelieu sits in a building whose stone arch still bears an earlier tenant’s name, PRUDHOMME FRERES. “I find it intelligent of the brand to adapt to its environment rather than force the environment to conform to the brand. It directly echoes the artisanal approach that Polène likes to emphasise in its brand discourse,” she tells us. “We find it more interesting to tell many versions of oneself rather than always the same one,” the duo conclude."
+        }
+      ],
+      "caseStudyText": "Polène is a French leather goods house founded in 2016 by three siblings from a family of textile artisans in Normandy. Its bags are designed in Paris and made by the craftsmen of Ubrique, a Spanish town specialising in luxury leather goods, from leather sourced at Spanish and Italian tanneries. By 2023, its reputation had grown well beyond France. Ahead of the launch of its first jewellery and accessories range, planned for June that year, Paris-based creative duo Violaine & Jérémy took on the full redesign of its identity, covering the logo, monogram, pattern, typefaces and colour palette, with applications across packaging, canvas and leather goods. In 2024, after the redesign, L Catterton, the investment fund backed by LVMH, took a minority stake in the house.\n\n“Polène came to our studio, and that first choice says something about the aesthetic direction its team had in mind. Our work is known for being decorative, warm and poetic,” Co-founders Violaine Orsoni and Jérémy Schneider tell us. The duo gave the redesign one guiding intention: “maturity, assurance, elegance.”\n\nViolaine & Jérémy drew the wordmark as custom uppercase serif lettering. “Many luxury houses have converged on the same sans serif capitals,” Orsoni explains, “when luxury is about rarity and preciousness. A distinctive serif drawing is a way back to that.” “The brief was also about coming of age and gaining maturity,” Schneider notes. “All caps give the name stature and scale, and the serif signals refinement and attention to detail.” “We are always looking for forms with a good chance of lasting: forms that continue a tradition while renewing it enough to feel of today,” Orsoni details. “In Polène’s lettering, that contemporary feel comes from the proportions of the letters, while the curves draw more on classical models.”\n\nThe studio went through dozens of drawn versions of the lettering before settling on one, testing each at the size it would live at – engraved into metal hardware and embossed into leather, at a few millimetres. “At production scale, embossing tools are less precise than print or on-screen rendering,” Schneider tells us. “So we adjust the proportions, open up the white spaces and thicken the thin strokes, and we print a great many versions at micro scale to get as close as possible to the best result: one that stays faithful to the original drawing and remains legible.”\n\nFrom the lettering, Violaine & Jérémy built a monogram and the brand’s pattern. The monogram is a script ‘P,’ which Polène and the duo chose together. “The logo is very statuesque and formal, so it was interesting to bring some softness into the monogram, to enrich the brand’s universe and keep it from being monolithic,” Orsoni reveals. The script ‘P’ has a serif like those of the wordmark, which, for Schneider, ties the monogram and lettering together.\n\nThe brand guidelines pair the lettering with three typefaces: Commercial Type’s Canela in Light and Thin, Cormorant Garamond Light from Google Fonts and Monotype’s Sackers Gothic Medium. None of them comes from VJ Type, the duo’s own type foundry, which they felt was not right for this project. “For Polène, we needed a feminine universe without being girly. We chose the secondary typefaces to form an interesting ensemble, and finesse and delicacy guided most of what we proposed to the client,” Orsoni details. Polène uses colour sparingly, and its palette starts from the shades of the leathers and the dominant tones in its photographic art direction: a range of browns, completed by the sky, grass and terracotta. “The colours play a supporting role: they guide the choice of colour when there is an opportunity or a need for an accent,” Schneider notes.\n\nViolaine & Jérémy did not design Polène’s shopfronts, which are not standardised, but Orsoni points out that the lettering does stay fixed across all of them. Polène has stores in New York and Paris, where the shop on the corner of rue Rameau and rue de Richelieu sits in a building whose stone arch still bears an earlier tenant’s name, PRUDHOMME FRERES. “I find it intelligent of the brand to adapt to its environment rather than force the environment to conform to the brand. It directly echoes the artisanal approach that Polène likes to emphasise in its brand discourse,” she tells us. “We find it more interesting to tell many versions of oneself rather than always the same one,” the duo conclude.",
+      "caseStudyMedia": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/why-violaine-j%C3%A9r%C3%A9my-gave-leather-goods-house-pol%C3%A8ne-a-serif-wordmark/_2000xAUTO_crop_center-center_85_none/15592245/Pole%CC%80ne-Violaine-Je%CC%81re%CC%81my-01.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/why-violaine-j%C3%A9r%C3%A9my-gave-leather-goods-house-pol%C3%A8ne-a-serif-wordmark/_2000xAUTO_crop_center-center_85_none/15592288/Pole%CC%80ne-Violaine-Je%CC%81re%CC%81my-12.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/why-violaine-j%C3%A9r%C3%A9my-gave-leather-goods-house-pol%C3%A8ne-a-serif-wordmark/_2000xAUTO_crop_center-center_85_none/15592248/Pole%CC%80ne-Violaine-Je%CC%81re%CC%81my-04.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/why-violaine-j%C3%A9r%C3%A9my-gave-leather-goods-house-pol%C3%A8ne-a-serif-wordmark/_2000xAUTO_crop_center-center_85_none/15592252/Pole%CC%80ne-Violaine-Je%CC%81re%CC%81my-08.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/why-violaine-j%C3%A9r%C3%A9my-gave-leather-goods-house-pol%C3%A8ne-a-serif-wordmark/_2000xAUTO_crop_center-center_85_none/15592251/Pole%CC%80ne-Violaine-Je%CC%81re%CC%81my-07.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/why-violaine-j%C3%A9r%C3%A9my-gave-leather-goods-house-pol%C3%A8ne-a-serif-wordmark/_2000xAUTO_crop_center-center_85_none/15592257/Pole%CC%80ne-Violaine-Je%CC%81re%CC%81my-10.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/why-violaine-j%C3%A9r%C3%A9my-gave-leather-goods-house-pol%C3%A8ne-a-serif-wordmark/_2000xAUTO_crop_center-center_85_none/15592258/Pole%CC%80ne-Violaine-Je%CC%81re%CC%81my-11.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/why-violaine-j%C3%A9r%C3%A9my-gave-leather-goods-house-pol%C3%A8ne-a-serif-wordmark/_2000xAUTO_crop_center-center_85_none/15592253/Pole%CC%80ne-Violaine-Je%CC%81re%CC%81my-05.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/why-violaine-j%C3%A9r%C3%A9my-gave-leather-goods-house-pol%C3%A8ne-a-serif-wordmark/_2000xAUTO_crop_center-center_85_none/15592290/Pole%CC%80ne-Violaine-Je%CC%81re%CC%81my-06_2026-11-25-154020_nctk.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/why-violaine-j%C3%A9r%C3%A9my-gave-leather-goods-house-pol%C3%A8ne-a-serif-wordmark/_2000xAUTO_crop_center-center_85_none/15592297/Pole%CC%80ne-Violaine-Je%CC%81re%CC%81my-13.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/why-violaine-j%C3%A9r%C3%A9my-gave-leather-goods-house-pol%C3%A8ne-a-serif-wordmark/_2000xAUTO_crop_center-center_85_none/15592247/Pole%CC%80ne-Violaine-Je%CC%81re%CC%81my-03.webp"
+        }
+      ]
+    },
+    {
+      "canonicalUrl": "https://the-brandidentity.com/project/how-roleplay-moved-shuffles-identity-from-fintech-to-hospitality",
+      "titleOriginal": "How Roleplay moved Shuffle’s identity from fintech to hospitality",
+      "textOriginal": "Shuffle is an app in the UK whose members pay £2.99 a month to find the best independent restaurants, bars and cafés in their city, then get between 5% and 100% of their bill back at random. On the other side of the business, its Flywheel Funding Model gives independent venues growth capital that is repaid through customer spend. Founded in 2023, Shuffle runs the two as Shuffle Rewards for diners and Shuffle Finance for venues, and has backed more than 250 venues. It is live in Manchester, Liverpool, Glasgow and Edinburgh, and in London by invitation. London-based branding agency Roleplay has rebranded Shuffle as ‘the unbelievable rewards app’, giving it a new look more akin to hospitality than fintech.\n\nShuffle built its original identity in-house. “It was very product-led and functional,” Co-founder & COO Enzo Ottens tells us. “It looked a bit too loud and yellow, lacking distinctiveness in the market.” The tone of voice was often inconsistent, too, which made it hard to build a brand world. “ We wanted to make sure we didn’t look purely functional. Our restaurants and members don’t want us to look that way,” he adds, setting out one of the three goals Shuffle took to Roleplay. The other two were an identity that works for both sides of the business and can flex for each audience, and a brand that builds trust by explaining clearly how the app works.",
+      "agency": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/_video-thumbnails/15591104.jpg"
+        }
+      ],
+      "hasCaseStudy": true,
+      "caseStudyBlocks": [
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-roleplay-moved-shuffles-identity-from-fintech-to-hospitality/Shuffle-Roleplay-09.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "h2",
+          "text": "Shuffle is an app in the UK whose members pay £2.99 a month to find the best independent restaurants, bars and cafés in their city, then get between 5% and 100% of their bill back at random. On the other side of the business, its Flywheel Funding Model gives independent venues growth capital that is repaid through customer spend. Founded in 2023, Shuffle runs the two as Shuffle Rewards for diners and Shuffle Finance for venues, and has backed more than 250 venues. It is live in Manchester, Liverpool, Glasgow and Edinburgh, and in London by invitation. London-based branding agency Roleplay has rebranded Shuffle as ‘the unbelievable rewards app’, giving it a new look more akin to hospitality than fintech."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-roleplay-moved-shuffles-identity-from-fintech-to-hospitality/Shuffle-Roleplay-13.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Shuffle built its original identity in-house. “It was very product-led and functional,” Co-founder & COO Enzo Ottens tells us. “It looked a bit too loud and yellow, lacking distinctiveness in the market.” The tone of voice was often inconsistent, too, which made it hard to build a brand world. “ We wanted to make sure we didn’t look purely functional. Our restaurants and members don’t want us to look that way,” he adds, setting out one of the three goals Shuffle took to Roleplay. The other two were an identity that works for both sides of the business and can flex for each audience, and a brand that builds trust by explaining clearly how the app works."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-roleplay-moved-shuffles-identity-from-fintech-to-hospitality/Shuffle-Roleplay-04.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-roleplay-moved-shuffles-identity-from-fintech-to-hospitality/Shuffle-Roleplay-05.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“It was born from an insight that kept surfacing in customer interviews,” Roleplay’s Strategy Director & Co-founder Ed Little tells us about the positioning as ‘the unbelievable rewards app.’ “‘Shuffle sounds too good to be true, but isn’t.’ Diners are surprised to get random discounts at the best restaurants and go looking for the catch. But there isn’t one.” Every visit also helps the independent venues on the app access growth funding, which Little calls a win-win. “We wanted to capture that sense of awe and surprise,” he continues, “and translate it into a brand positioning.” Roleplay gave Shuffle a restaurant-led tone of voice, so that it “reads less like a payments app and more like an insider who knows all the best spots.” Visually, the identity is designed around a dream night out, drawing on the city after dark: wayfinding signs, the little traffic light man and the glow of the evening skyline."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-roleplay-moved-shuffles-identity-from-fintech-to-hospitality/Shuffle-Roleplay-03.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-roleplay-moved-shuffles-identity-from-fintech-to-hospitality/Shuffle-Roleplay-02.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“In this age of AI, we really wanted to push ourselves to be as human as possible,” Little explains of the tone of voice, which is built on details like a crumpled napkin, the scrawl of a specials board and the last roast potato. “The language also shifts depending on who we are talking to and where,” he continues. “For instance, if we’re talking about the city’s best hidden haunts, we are a bit more unexpected and adventurous. However, if we’re talking about funding your next big thing, we’re a bit more direct, but still human and relatable.” Copy Lead Harriet Stallibrass adds that they “wanted Shuffle to talk about money the way chefs talk about food. Confidently, generously and with zero small-print energy.”"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-roleplay-moved-shuffles-identity-from-fintech-to-hospitality/Shuffle-Roleplay-11-v2.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-roleplay-moved-shuffles-identity-from-fintech-to-hospitality/Shuffle-Roleplay-15.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The little traffic light man became the logo mark. “The new mission for Shuffle is all about ‘keeping our neighbourhoods electric,’ with Shuffle helping you navigate the city to find the best spots,” explains Roleplay’s Creative Director & Co-founder, Hugo Ross. “What better way to embody that than by the Ampelmännchen (traffic light man), remixed to dance through the city with you.” Redrawn mid-stride with a shuffle in his step, the figure is brought to life in motion and paired with a bold wordmark, which type designer Kasper Pyndt helped Roleplay to refine. Motion runs through the wider identity in eased swipes and slightly tilted, overlapping images, where cards start stacked, then fan out across the screen like a fresh deck – a nod, Roleplay notes, to the name and the randomness of the rewards."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-roleplay-moved-shuffles-identity-from-fintech-to-hospitality/Shuffle-Roleplay-10.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-roleplay-moved-shuffles-identity-from-fintech-to-hospitality/Shuffle-Roleplay-08-v2.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Roleplay’s Senior Designer & Illustrator Cristina Buonanno developed an icon set in-house, covering everything from tacos and ramen to wine glasses and cocktail coupes, alongside location pins for each Shuffle city. In the app, the icons point members to their next table; out of home, an icon shows passers-by what’s on offer without them reading a word. “These little signs are flat and graphic, similar to the styling on street signs, but have a characterful flair that gives certain messages a bit of energy and playfulness,” Ross notes."
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-roleplay-moved-shuffles-identity-from-fintech-to-hospitality/Shuffle-Roleplay-12-v2.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“The palette was inspired by dusk, the moment just before a night out,” Ross tells us. “It’s a radical departure from the yellow they previously had, and feels much more foodie and hospitality-led. Shuffle Purple and Shuffle Red are the sky at that hour: rich, warm and full of anticipation, so they lead wherever we want energy and recognition. Pink is the softer edge of that light, bringing warmth and playfulness to highlights and smaller moments, while sand gives everything a calm, grounding base.”"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Fatype’s Baton Nouveau Condensed Black leads the typography in uppercase, while Baton Turbo and Inter do the supporting work across the app and B2B communications. “We chose Baton Condensed for the headline typeface to help guide the Shuffle audience through their dream night out,” Ross details. “It has a straightforward styling that is designed to be simple yet elegant. Inspired by French sign typography, it reflects the concept well and has a culinary feeling, at home on a restaurant sign and menu headline.”"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-roleplay-moved-shuffles-identity-from-fintech-to-hospitality/Shuffle-Roleplay-06.mp4"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "Roleplay art directed the photography with photographer Caitlin Isola, in an observational style that follows food from the kitchen pass to the table – chefs in action, plates being finished and served, and dishes enjoyed in situ. “The aim was to celebrate the people, process and atmosphere of independent hospitality rather than polished food styling – making you feel in on the action,” Ottens explains."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "“It’s a brand that has to work as hard for a chef weighing up a second site as it does for someone deciding where to go on a Tuesday,” explains Shuffle’s Co-founder & CEO, Ollie Purdue. “The system flexes between the two: it gets bold and playful on a bus shelter, and calm and credible when someone’s reading their repayment summary. We needed a brand that’s distinctive but still sits comfortably alongside the huge range of hospitality brands we work with, from Michelin-starred restaurants to your favourite local pub. It had to feel elevated but really accessible. The bold colours give it confidence, and the iconography softens it.”"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-roleplay-moved-shuffles-identity-from-fintech-to-hospitality/Shuffle-Roleplay-07.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-roleplay-moved-shuffles-identity-from-fintech-to-hospitality/_2000xAUTO_crop_center-center_85_none/15591757/Shuffle-Roleplay-14_2026-11-24-153020_rmdh.webp"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "text": "The identity was unveiled in October 2026, alongside Shuffle’s soft launch in London, and has since been featured in The Times and in Glasgow indie magazine Sandweegies, and appeared in a direct mail campaign to 30,000 London households and at in-person activations. “We made sure the whole team had a brand-new set of merch on day one. Everyone keeps wearing it, which we’re taking as a good sign,” Shuffle’s Marketing Director Claudia Gwinnutt tells us, adding that Shuffle has had “not a single complaint or query” about the identity. “Brand work can often feel really complicated, which makes it hard for a team to actually put it into practice. We worked really closely with Roleplay to make sure that wasn’t the case, and that’s why we’ve been able to roll it out fairly seamlessly across all of our touchpoints,” Purdue concludes."
+        }
+      ],
+      "caseStudyText": "Shuffle is an app in the UK whose members pay £2.99 a month to find the best independent restaurants, bars and cafés in their city, then get between 5% and 100% of their bill back at random. On the other side of the business, its Flywheel Funding Model gives independent venues growth capital that is repaid through customer spend. Founded in 2023, Shuffle runs the two as Shuffle Rewards for diners and Shuffle Finance for venues, and has backed more than 250 venues. It is live in Manchester, Liverpool, Glasgow and Edinburgh, and in London by invitation. London-based branding agency Roleplay has rebranded Shuffle as ‘the unbelievable rewards app’, giving it a new look more akin to hospitality than fintech.\n\nShuffle built its original identity in-house. “It was very product-led and functional,” Co-founder & COO Enzo Ottens tells us. “It looked a bit too loud and yellow, lacking distinctiveness in the market.” The tone of voice was often inconsistent, too, which made it hard to build a brand world. “ We wanted to make sure we didn’t look purely functional. Our restaurants and members don’t want us to look that way,” he adds, setting out one of the three goals Shuffle took to Roleplay. The other two were an identity that works for both sides of the business and can flex for each audience, and a brand that builds trust by explaining clearly how the app works.\n\n“It was born from an insight that kept surfacing in customer interviews,” Roleplay’s Strategy Director & Co-founder Ed Little tells us about the positioning as ‘the unbelievable rewards app.’ “‘Shuffle sounds too good to be true, but isn’t.’ Diners are surprised to get random discounts at the best restaurants and go looking for the catch. But there isn’t one.” Every visit also helps the independent venues on the app access growth funding, which Little calls a win-win. “We wanted to capture that sense of awe and surprise,” he continues, “and translate it into a brand positioning.” Roleplay gave Shuffle a restaurant-led tone of voice, so that it “reads less like a payments app and more like an insider who knows all the best spots.” Visually, the identity is designed around a dream night out, drawing on the city after dark: wayfinding signs, the little traffic light man and the glow of the evening skyline.\n\n“In this age of AI, we really wanted to push ourselves to be as human as possible,” Little explains of the tone of voice, which is built on details like a crumpled napkin, the scrawl of a specials board and the last roast potato. “The language also shifts depending on who we are talking to and where,” he continues. “For instance, if we’re talking about the city’s best hidden haunts, we are a bit more unexpected and adventurous. However, if we’re talking about funding your next big thing, we’re a bit more direct, but still human and relatable.” Copy Lead Harriet Stallibrass adds that they “wanted Shuffle to talk about money the way chefs talk about food. Confidently, generously and with zero small-print energy.”\n\nThe little traffic light man became the logo mark. “The new mission for Shuffle is all about ‘keeping our neighbourhoods electric,’ with Shuffle helping you navigate the city to find the best spots,” explains Roleplay’s Creative Director & Co-founder, Hugo Ross. “What better way to embody that than by the Ampelmännchen (traffic light man), remixed to dance through the city with you.” Redrawn mid-stride with a shuffle in his step, the figure is brought to life in motion and paired with a bold wordmark, which type designer Kasper Pyndt helped Roleplay to refine. Motion runs through the wider identity in eased swipes and slightly tilted, overlapping images, where cards start stacked, then fan out across the screen like a fresh deck – a nod, Roleplay notes, to the name and the randomness of the rewards.\n\nRoleplay’s Senior Designer & Illustrator Cristina Buonanno developed an icon set in-house, covering everything from tacos and ramen to wine glasses and cocktail coupes, alongside location pins for each Shuffle city. In the app, the icons point members to their next table; out of home, an icon shows passers-by what’s on offer without them reading a word. “These little signs are flat and graphic, similar to the styling on street signs, but have a characterful flair that gives certain messages a bit of energy and playfulness,” Ross notes.\n\n“The palette was inspired by dusk, the moment just before a night out,” Ross tells us. “It’s a radical departure from the yellow they previously had, and feels much more foodie and hospitality-led. Shuffle Purple and Shuffle Red are the sky at that hour: rich, warm and full of anticipation, so they lead wherever we want energy and recognition. Pink is the softer edge of that light, bringing warmth and playfulness to highlights and smaller moments, while sand gives everything a calm, grounding base.”\n\nFatype’s Baton Nouveau Condensed Black leads the typography in uppercase, while Baton Turbo and Inter do the supporting work across the app and B2B communications. “We chose Baton Condensed for the headline typeface to help guide the Shuffle audience through their dream night out,” Ross details. “It has a straightforward styling that is designed to be simple yet elegant. Inspired by French sign typography, it reflects the concept well and has a culinary feeling, at home on a restaurant sign and menu headline.”\n\nRoleplay art directed the photography with photographer Caitlin Isola, in an observational style that follows food from the kitchen pass to the table – chefs in action, plates being finished and served, and dishes enjoyed in situ. “The aim was to celebrate the people, process and atmosphere of independent hospitality rather than polished food styling – making you feel in on the action,” Ottens explains.\n\n“It’s a brand that has to work as hard for a chef weighing up a second site as it does for someone deciding where to go on a Tuesday,” explains Shuffle’s Co-founder & CEO, Ollie Purdue. “The system flexes between the two: it gets bold and playful on a bus shelter, and calm and credible when someone’s reading their repayment summary. We needed a brand that’s distinctive but still sits comfortably alongside the huge range of hospitality brands we work with, from Michelin-starred restaurants to your favourite local pub. It had to feel elevated but really accessible. The bold colours give it confidence, and the iconography softens it.”\n\nThe identity was unveiled in October 2026, alongside Shuffle’s soft launch in London, and has since been featured in The Times and in Glasgow indie magazine Sandweegies, and appeared in a direct mail campaign to 30,000 London households and at in-person activations. “We made sure the whole team had a brand-new set of merch on day one. Everyone keeps wearing it, which we’re taking as a good sign,” Shuffle’s Marketing Director Claudia Gwinnutt tells us, adding that Shuffle has had “not a single complaint or query” about the identity. “Brand work can often feel really complicated, which makes it hard for a team to actually put it into practice. We worked really closely with Roleplay to make sure that wasn’t the case, and that’s why we’ve been able to roll it out fairly seamlessly across all of our touchpoints,” Purdue concludes.",
+      "caseStudyMedia": [
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-roleplay-moved-shuffles-identity-from-fintech-to-hospitality/Shuffle-Roleplay-09.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-roleplay-moved-shuffles-identity-from-fintech-to-hospitality/Shuffle-Roleplay-13.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-roleplay-moved-shuffles-identity-from-fintech-to-hospitality/Shuffle-Roleplay-04.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-roleplay-moved-shuffles-identity-from-fintech-to-hospitality/Shuffle-Roleplay-05.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-roleplay-moved-shuffles-identity-from-fintech-to-hospitality/Shuffle-Roleplay-03.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-roleplay-moved-shuffles-identity-from-fintech-to-hospitality/Shuffle-Roleplay-02.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-roleplay-moved-shuffles-identity-from-fintech-to-hospitality/Shuffle-Roleplay-11-v2.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-roleplay-moved-shuffles-identity-from-fintech-to-hospitality/Shuffle-Roleplay-15.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-roleplay-moved-shuffles-identity-from-fintech-to-hospitality/Shuffle-Roleplay-10.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-roleplay-moved-shuffles-identity-from-fintech-to-hospitality/Shuffle-Roleplay-08-v2.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-roleplay-moved-shuffles-identity-from-fintech-to-hospitality/Shuffle-Roleplay-12-v2.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-roleplay-moved-shuffles-identity-from-fintech-to-hospitality/Shuffle-Roleplay-06.mp4"
+        },
+        {
+          "type": "video",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-roleplay-moved-shuffles-identity-from-fintech-to-hospitality/Shuffle-Roleplay-07.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://fls-a308a4a0-40a0-4df8-8dbb-117b4b947e86.laravel.cloud/articles/2026/11/how-roleplay-moved-shuffles-identity-from-fintech-to-hospitality/_2000xAUTO_crop_center-center_85_none/15591757/Shuffle-Roleplay-14_2026-11-24-153020_rmdh.webp"
+        }
+      ]
+    },
+    {
       "canonicalUrl": "https://the-brandidentity.com/project/together-centres-spheres-identity-on-the-idea-of-decoding-tax-law",
       "titleOriginal": "Together centres Sphere’s identity on the idea of decoding tax law",
       "textOriginal": "Sphere is an AI-native tax engine that handles indirect tax compliance for global businesses across 190 countries and more than 60 tax regimes. The company first asked London-based design firm Together to redesign its website as part of a wider rebrand initiative. The project soon expanded into a broader identity collaboration. “The work they did ended up having a lot of influence,” explains CEO & CFO Nick Rudder. “It became more holistic and influenced positioning, narrative and product design.”\n\n“Sphere didn’t add AI to its product. It was founded on it,” details Together’s Creative Director Ben Wynn-Owen. “Competitors bolt AI onto engines built for manual research, so that one fact is Sphere’s biggest separator. The AI had to sit front and centre in the brand. It also had to feel original, and true to how Sphere’s AI actually works.” The AI reads and reasons on tax law, and Sphere’s experts sign off on every tax determination that the AI makes. “Those rules are complicated, and they keep changing,” he explains. “So AI-native couldn’t mean the complexity disappears. It had to mean the complexity makes sense.”",
@@ -3905,332 +4231,6 @@ const snapshot={
         {
           "type": "image",
           "url": "https://the-brandidentity.com/uploads/articles/2026/10/kontrapunkts-packaging-and-copus-site-take-juno-the-bakery-worldwide/JUNO-the-bakery-Kontrapunkt-10.jpg"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo",
-      "titleOriginal": "Estúdio 017’s identity for Garde refuses to tie itself to one logo",
-      "textOriginal": "Garde is a non-profit foundation for contemporary art, fashion and cinema, based in Berlin and started by a collective of anonymous independent artists. Brazilian and Portuguese studio Estúdio 017 created its brand strategy, verbal identity, visual identity and editorial system ahead of its launch.\n\nThe founders wanted Garde to arrive with the presence of an established museum of art and fashion from the start, instead of opening as a small space and growing. Estúdio 017 was asked to give an institution with no public history an identity ready for exhibitions, curatorial programmes, publications, research and the preservation and documentation of visual culture from its first day. With the founders anonymous and no names to put forward, the brand alone has to stand for Garde’s authority and its voice.",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/15160118.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo/Garde-Estu%CC%81dio-017-01.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "Garde is a non-profit foundation for contemporary art, fashion and cinema, based in Berlin and started by a collective of anonymous independent artists. Brazilian and Portuguese studio Estúdio 017 created its brand strategy, verbal identity, visual identity and editorial system ahead of its launch."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo/Garde-Estu%CC%81dio-017-02.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The founders wanted Garde to arrive with the presence of an established museum of art and fashion from the start, instead of opening as a small space and growing. Estúdio 017 was asked to give an institution with no public history an identity ready for exhibitions, curatorial programmes, publications, research and the preservation and documentation of visual culture from its first day. With the founders anonymous and no names to put forward, the brand alone has to stand for Garde’s authority and its voice."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo/Garde-Estu%CC%81dio-017-03.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The strategy, developed by Estúdio 017’s brand strategist Rafaela Barrense, starts from the idea that culture is always changing, and sets Garde up to connect disciplines, perspectives and periods through observation, research and open access to knowledge. The studio’s aim was an editorial, flexible and long-lasting visual language to support the strategy. “The founders are anonymous by choice. They belong to a generation of artists from the 2000s, when the internet was taking off, and many artists became known for their work while staying discreet,” Founder & Creative Director Wesley Freitas explains. “That anonymity creates a sense of mystery, and the verbal identity follows the same logic. Garde speaks discreetly and gives more attention to the art than to the brand itself. When the brand does need to appear, it appears with strength, and that is where the crimson red comes in.”"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo/Garde-Estu%CC%81dio-017-04.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo/Garde-Estu%CC%81dio-017-05.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "A deep crimson is the main colour, set against black-and-white photography and portraits. “The cursive logotype came from a sense of rebellion,” Freitas tells us. “From the start, we saw Garde as a countercultural brand that would never tie itself to a single logo.” The hand-drawn lowercase logotype is one of several forms of the name, alongside a ‘G’ on its own and a version written in a sans serif, so every scale has an option – from the full logotype in large headlines to the ‘G’ in the smallest details. Monotype’s Helvetica Now Display is the main typeface, giving Garde a clear and neutral base across exhibitions, publications and research, and Mea Culpa is an ornamental typeface for more decorative moments. “Because Garde is a countercultural brand, the system also leaves room to play with other typefaces when the context calls for it,” he adds."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo/Garde-Estu%CC%81dio-017-06.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo/Garde-Estu%CC%81dio-017-09.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Starting from seals and ornaments found in public-domain books on the Internet Archive, Estúdio 017 redrew a family of seals and marks for Garde, including laurel-wreath seals, an ornamental ‘G’ monogram and illuminated ‘G’ seals, where the letter is decorated like the opening initial of an old manuscript. The identity also includes invented cataloguing details, such as the line ‘Accession No. 1990.042’ embroidered on a T-shirt. “They borrow the language of museum collections to give Garde the feel of an institution with its own archive,” Freitas notes. The 1990 in the accession number is the birth year of one of the founders, who wanted the identity to include a reference to that year."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo/Garde-Estu%CC%81dio-017-08_2026-10-27-120420_jzkc.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo/Garde-Estu%CC%81dio-017-11.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The illustrated dog that appears beside the logotype and on garments belongs to one of the founders, artists who often draw on personal references in their work, many of which go back to childhood. “Since the founders remain anonymous, the dog is one of the few personal traces of the people behind Garde that appears in the brand, and it is used with that weight in mind,” Freitas details."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo/Garde-Estu%CC%81dio-017-10.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo/Garde-Estu%CC%81dio-017-07_2026-10-27-120401_pads.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The identity is applied to editorial spreads, printed cards, business cards, a tote bag and a key medallion, and to motion pieces that motion designer Pedro Henrique developed from Freitas’ design, with Pietro Rezende adding the motion effects. “The intention was for Garde to feel new while also carrying elements of older things,” Freitas concludes. “Motion was a way to bring those two sides together.”"
-        }
-      ],
-      "caseStudyText": "Garde is a non-profit foundation for contemporary art, fashion and cinema, based in Berlin and started by a collective of anonymous independent artists. Brazilian and Portuguese studio Estúdio 017 created its brand strategy, verbal identity, visual identity and editorial system ahead of its launch.\n\nThe founders wanted Garde to arrive with the presence of an established museum of art and fashion from the start, instead of opening as a small space and growing. Estúdio 017 was asked to give an institution with no public history an identity ready for exhibitions, curatorial programmes, publications, research and the preservation and documentation of visual culture from its first day. With the founders anonymous and no names to put forward, the brand alone has to stand for Garde’s authority and its voice.\n\nThe strategy, developed by Estúdio 017’s brand strategist Rafaela Barrense, starts from the idea that culture is always changing, and sets Garde up to connect disciplines, perspectives and periods through observation, research and open access to knowledge. The studio’s aim was an editorial, flexible and long-lasting visual language to support the strategy. “The founders are anonymous by choice. They belong to a generation of artists from the 2000s, when the internet was taking off, and many artists became known for their work while staying discreet,” Founder & Creative Director Wesley Freitas explains. “That anonymity creates a sense of mystery, and the verbal identity follows the same logic. Garde speaks discreetly and gives more attention to the art than to the brand itself. When the brand does need to appear, it appears with strength, and that is where the crimson red comes in.”\n\nA deep crimson is the main colour, set against black-and-white photography and portraits. “The cursive logotype came from a sense of rebellion,” Freitas tells us. “From the start, we saw Garde as a countercultural brand that would never tie itself to a single logo.” The hand-drawn lowercase logotype is one of several forms of the name, alongside a ‘G’ on its own and a version written in a sans serif, so every scale has an option – from the full logotype in large headlines to the ‘G’ in the smallest details. Monotype’s Helvetica Now Display is the main typeface, giving Garde a clear and neutral base across exhibitions, publications and research, and Mea Culpa is an ornamental typeface for more decorative moments. “Because Garde is a countercultural brand, the system also leaves room to play with other typefaces when the context calls for it,” he adds.\n\nStarting from seals and ornaments found in public-domain books on the Internet Archive, Estúdio 017 redrew a family of seals and marks for Garde, including laurel-wreath seals, an ornamental ‘G’ monogram and illuminated ‘G’ seals, where the letter is decorated like the opening initial of an old manuscript. The identity also includes invented cataloguing details, such as the line ‘Accession No. 1990.042’ embroidered on a T-shirt. “They borrow the language of museum collections to give Garde the feel of an institution with its own archive,” Freitas notes. The 1990 in the accession number is the birth year of one of the founders, who wanted the identity to include a reference to that year.\n\nThe illustrated dog that appears beside the logotype and on garments belongs to one of the founders, artists who often draw on personal references in their work, many of which go back to childhood. “Since the founders remain anonymous, the dog is one of the few personal traces of the people behind Garde that appears in the brand, and it is used with that weight in mind,” Freitas details.\n\nThe identity is applied to editorial spreads, printed cards, business cards, a tote bag and a key medallion, and to motion pieces that motion designer Pedro Henrique developed from Freitas’ design, with Pietro Rezende adding the motion effects. “The intention was for Garde to feel new while also carrying elements of older things,” Freitas concludes. “Motion was a way to bring those two sides together.”",
-      "caseStudyMedia": [
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo/Garde-Estu%CC%81dio-017-01.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo/Garde-Estu%CC%81dio-017-02.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo/Garde-Estu%CC%81dio-017-03.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo/Garde-Estu%CC%81dio-017-04.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo/Garde-Estu%CC%81dio-017-05.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo/Garde-Estu%CC%81dio-017-06.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo/Garde-Estu%CC%81dio-017-09.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo/Garde-Estu%CC%81dio-017-08_2026-10-27-120420_jzkc.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo/Garde-Estu%CC%81dio-017-11.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo/Garde-Estu%CC%81dio-017-10.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/est%C3%BAdio-017s-identity-for-garde-refuses-to-tie-itself-to-one-logo/Garde-Estu%CC%81dio-017-07_2026-10-27-120401_pads.jpg"
-        }
-      ]
-    },
-    {
-      "canonicalUrl": "https://the-brandidentity.com/project/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit",
-      "titleOriginal": "Local feel, one look: The Collected Works rebrands shuttle firm Circuit",
-      "textOriginal": "Circuit is an on-demand electric shuttle service that works with cities to help people get around, often for free, mostly connecting them with local businesses, transit hubs and other nearby destinations. Founded by Alexander Esposito and James Mirras, it started in the Hamptons in 2011 and now runs in more than 50 US cities, where it has given more than 10 million rides – more than 16,000 a month in San Diego alone. New York City and New Orleans-based design studio The Collected Works was commissioned to rebrand Circuit, working across the identity, out-of-home, web, vehicle wraps, 3D, motion and copywriting.\n\n“Before the rebrand, every Circuit market had its own spin on the brand. We liked that some local voice was coming through, but it meant the locations felt like separate local initiatives rather than one trusted company,” explains Partner & Creative Director Justin Colt. TCW’s goal was to create a unified identity that could feel distinctly local in every city Circuit serves. For that local feel, TCW kept hyper-local messaging at the core of the system. The copy uses real neighbourhood names, streets, landmarks and references that people in each city recognise, like the Brooklyn-specific line ‘From Union Pool to Your Friend’s Roof.’",
-      "agency": "",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/videos/14878001.jpg"
-        }
-      ],
-      "hasCaseStudy": true,
-      "caseStudyBlocks": [
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-03.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "h2",
-          "text": "Circuit is an on-demand electric shuttle service that works with cities to help people get around, often for free, mostly connecting them with local businesses, transit hubs and other nearby destinations. Founded by Alexander Esposito and James Mirras, it started in the Hamptons in 2011 and now runs in more than 50 US cities, where it has given more than 10 million rides – more than 16,000 a month in San Diego alone. New York City and New Orleans-based design studio The Collected Works was commissioned to rebrand Circuit, working across the identity, out-of-home, web, vehicle wraps, 3D, motion and copywriting."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-17.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“Before the rebrand, every Circuit market had its own spin on the brand. We liked that some local voice was coming through, but it meant the locations felt like separate local initiatives rather than one trusted company,” explains Partner & Creative Director Justin Colt. TCW’s goal was to create a unified identity that could feel distinctly local in every city Circuit serves. For that local feel, TCW kept hyper-local messaging at the core of the system. The copy uses real neighbourhood names, streets, landmarks and references that people in each city recognise, like the Brooklyn-specific line ‘From Union Pool to Your Friend’s Roof.’"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-12.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-04.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "During the strategy phase, TCW made an important discovery about who the identity needed to speak to. While riders were the most obvious audience, the primary decision-makers were actually local government officials, transportation departments and city leaders responsible for bringing Circuit into their communities. The studio began thinking about Circuit not simply as a transportation service, but as a visible sign of a city’s investment in its people and infrastructure."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-15.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "That thinking also shifted how TCW approached the brand itself. Rather than presenting Circuit as another disruptive start-up, the studio wanted it to feel like trusted public infrastructure. “We started thinking about things like plumbing, electricity, or gas lines. These are systems that people depend on every day. You expect them to be there and you expect them to work,” Colt explains."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-10.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The identity needed to feel like trusted urban infrastructure, rather than another start-up trying to shake up the transportation industry. The core elements remain consistent across markets, from the wordmark and icon to the typography and colour palette, while the wider system allows for flexibility and local expression. A lockup system sets each area’s name beside the wordmark, the same way in every city. Rather than replacing every element of the existing identity, TCW retained and refined Circuit’s original icon, recognising that its combination of a letter ‘C,’ a street grid and a directional path already communicated much of what the brand needed."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-02.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "“The Circuit identity leans pretty heavily on typography. This wasn’t just because we love typographic identity systems over here, which we do, but because it also made the system much easier to execute,” Colt explains. Circuit’s in-house design team needed to create assets for dozens of markets, so the identity is built around a practical toolkit of typography, colour, image masks and a handful of recognisable graphic elements."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-01.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Headlines are set in Public Type’s Stadt, a bold display sans serif with dramatic contrast between thick and thin strokes, alongside Displaay’s sans serif Haffer. The type needed “to feel like trusted urban infrastructure, closer to the New York City subway style guide than to a start-up,” he adds. TCW also defined a system of typographic animations, allowing headlines to shift, move and snap into place, layering into photography and video."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-06-online-video-cutter.com.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-05.jpg"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "In the copy, glyphs sit between the words, as in ‘say bye ↰ to ↳ circling ↰ the block.’ “We had a great sans serif typeface with a lot of glyphs that could be used to break up content, bring in some personality and motion, and still feel utilitarian,” Colt explains. The arrows and directional symbols draw on the familiar visual language of maps, signage and transportation, introducing movement and personality directly into the typography. Together, these elements create a sense of movement throughout the identity, even in static applications."
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-11.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-07-online-video-cutter.com_smaller.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Rather than inventing an entirely new graphic language, TCW looked to the visual elements people already associate with transportation. “One of my favourite things about the final system is how much it borrows from things people already associate with transportation: road signs, directional shapes, maps, lines, grids, and movement,” Colt explains. “Referencing that existing visual language connected back to this idea of Circuit feeling trusted and utilitarian, rather than like a startup that could be here today and gone tomorrow.” This thinking led to a masking system based on the silhouettes of common road signs, which could be used to crop photography and video."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-13.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "The identity also uses a continuous line, the Circuit line, that moves, turns and loops, referencing local road systems, the paths people take through a city and the idea of a circuit itself. Wanting behaviour that felt like “an actual route: always moving, never quite the same twice,” TCW built a generative tool to make the line’s patterns, which appear everywhere from the website to billboards. With the tool, the Circuit team can make new compositions independently, without needing to return to TCW each time."
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-16.mp4"
-        },
-        {
-          "type": "text",
-          "tag": "p",
-          "text": "Circuit’s cars are what Colt calls “the brand’s most important piece of media,” driving around the cities it serves all day. Rolling out a new vehicle wrap design across the entire fleet takes time, so TCW’s high-fidelity renders of the cars gave Circuit something to use straight away in presentations to the local governments and communities where it wanted to launch. “Sometimes you’ll see one parked three feet away; other times it’ll pass you at 30 miles an hour,” Colt explains. “And people might see the same vehicles every day for years. So the wraps needed to be recognisable without being exhausting to look at.” The wraps balance visibility with restraint: a large wordmark makes the vehicles immediately recognisable, while the relatively subtle green and minimal graphics keep them from feeling visually overwhelming. TCW chose not to “cover every inch in graphics.” Up close, the rest of the system appears at a smaller scale, giving anyone standing next to one something more to notice."
-        }
-      ],
-      "caseStudyText": "Circuit is an on-demand electric shuttle service that works with cities to help people get around, often for free, mostly connecting them with local businesses, transit hubs and other nearby destinations. Founded by Alexander Esposito and James Mirras, it started in the Hamptons in 2011 and now runs in more than 50 US cities, where it has given more than 10 million rides – more than 16,000 a month in San Diego alone. New York City and New Orleans-based design studio The Collected Works was commissioned to rebrand Circuit, working across the identity, out-of-home, web, vehicle wraps, 3D, motion and copywriting.\n\n“Before the rebrand, every Circuit market had its own spin on the brand. We liked that some local voice was coming through, but it meant the locations felt like separate local initiatives rather than one trusted company,” explains Partner & Creative Director Justin Colt. TCW’s goal was to create a unified identity that could feel distinctly local in every city Circuit serves. For that local feel, TCW kept hyper-local messaging at the core of the system. The copy uses real neighbourhood names, streets, landmarks and references that people in each city recognise, like the Brooklyn-specific line ‘From Union Pool to Your Friend’s Roof.’\n\nDuring the strategy phase, TCW made an important discovery about who the identity needed to speak to. While riders were the most obvious audience, the primary decision-makers were actually local government officials, transportation departments and city leaders responsible for bringing Circuit into their communities. The studio began thinking about Circuit not simply as a transportation service, but as a visible sign of a city’s investment in its people and infrastructure.\n\nThat thinking also shifted how TCW approached the brand itself. Rather than presenting Circuit as another disruptive start-up, the studio wanted it to feel like trusted public infrastructure. “We started thinking about things like plumbing, electricity, or gas lines. These are systems that people depend on every day. You expect them to be there and you expect them to work,” Colt explains.\n\nThe identity needed to feel like trusted urban infrastructure, rather than another start-up trying to shake up the transportation industry. The core elements remain consistent across markets, from the wordmark and icon to the typography and colour palette, while the wider system allows for flexibility and local expression. A lockup system sets each area’s name beside the wordmark, the same way in every city. Rather than replacing every element of the existing identity, TCW retained and refined Circuit’s original icon, recognising that its combination of a letter ‘C,’ a street grid and a directional path already communicated much of what the brand needed.\n\n“The Circuit identity leans pretty heavily on typography. This wasn’t just because we love typographic identity systems over here, which we do, but because it also made the system much easier to execute,” Colt explains. Circuit’s in-house design team needed to create assets for dozens of markets, so the identity is built around a practical toolkit of typography, colour, image masks and a handful of recognisable graphic elements.\n\nHeadlines are set in Public Type’s Stadt, a bold display sans serif with dramatic contrast between thick and thin strokes, alongside Displaay’s sans serif Haffer. The type needed “to feel like trusted urban infrastructure, closer to the New York City subway style guide than to a start-up,” he adds. TCW also defined a system of typographic animations, allowing headlines to shift, move and snap into place, layering into photography and video.\n\nIn the copy, glyphs sit between the words, as in ‘say bye ↰ to ↳ circling ↰ the block.’ “We had a great sans serif typeface with a lot of glyphs that could be used to break up content, bring in some personality and motion, and still feel utilitarian,” Colt explains. The arrows and directional symbols draw on the familiar visual language of maps, signage and transportation, introducing movement and personality directly into the typography. Together, these elements create a sense of movement throughout the identity, even in static applications.\n\nRather than inventing an entirely new graphic language, TCW looked to the visual elements people already associate with transportation. “One of my favourite things about the final system is how much it borrows from things people already associate with transportation: road signs, directional shapes, maps, lines, grids, and movement,” Colt explains. “Referencing that existing visual language connected back to this idea of Circuit feeling trusted and utilitarian, rather than like a startup that could be here today and gone tomorrow.” This thinking led to a masking system based on the silhouettes of common road signs, which could be used to crop photography and video.\n\nThe identity also uses a continuous line, the Circuit line, that moves, turns and loops, referencing local road systems, the paths people take through a city and the idea of a circuit itself. Wanting behaviour that felt like “an actual route: always moving, never quite the same twice,” TCW built a generative tool to make the line’s patterns, which appear everywhere from the website to billboards. With the tool, the Circuit team can make new compositions independently, without needing to return to TCW each time.\n\nCircuit’s cars are what Colt calls “the brand’s most important piece of media,” driving around the cities it serves all day. Rolling out a new vehicle wrap design across the entire fleet takes time, so TCW’s high-fidelity renders of the cars gave Circuit something to use straight away in presentations to the local governments and communities where it wanted to launch. “Sometimes you’ll see one parked three feet away; other times it’ll pass you at 30 miles an hour,” Colt explains. “And people might see the same vehicles every day for years. So the wraps needed to be recognisable without being exhausting to look at.” The wraps balance visibility with restraint: a large wordmark makes the vehicles immediately recognisable, while the relatively subtle green and minimal graphics keep them from feeling visually overwhelming. TCW chose not to “cover every inch in graphics.” Up close, the rest of the system appears at a smaller scale, giving anyone standing next to one something more to notice.",
-      "caseStudyMedia": [
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-03.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-17.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-12.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-04.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-15.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-10.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-02.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-01.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-06-online-video-cutter.com.mp4"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-05.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-11.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-07-online-video-cutter.com_smaller.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-13.mp4"
-        },
-        {
-          "type": "video",
-          "url": "https://the-brandidentity.com/uploads/articles/2026/10/local-feel-one-look-the-collected-works-rebrands-shuttle-firm-circuit/Circuit-The-Collected-Works-16.mp4"
         }
       ]
     }
